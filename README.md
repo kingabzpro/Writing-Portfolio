@@ -2,7 +2,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 > I have published over 320+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
 
- 
+
 
 ## Python
 
@@ -14,7 +14,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [OpenAI Function Calling Tutorial: Generate Structured Output](https://www.datacamp.com/tutorial/open-ai-function-calling-tutorial)
 
- 
+
 
 ## SQL
 
@@ -24,7 +24,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [SQL NOT IN Operator: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/sql-not-in-operator)
 
- 
+
 
 ## Programming
 
@@ -38,7 +38,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [Rust Burn Library for Deep Learning](https://www.kdnuggets.com/rust-burn-library-for-deep-learning)
 
-
+ 
 
 ## Data Analytics
 
@@ -72,19 +72,19 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [What is Similarity Learning? Definition, Use Cases & Methods](https://www.datacamp.com/blog/what-is-similarity-learning)
 
-- [What are Neural Networks? | DataCamp](https://www.datacamp.com/blog/what-are-neural-networks)
+- [What are Neural Networks?](https://www.datacamp.com/blog/what-are-neural-networks)
 
-- [What is Overfitting? | DataCamp](https://www.datacamp.com/blog/what-is-overfitting)
+- [What is Overfitting?](https://www.datacamp.com/blog/what-is-overfitting)
 
-- [What is a Generative Model? | DataCamp](https://www.datacamp.com/blog/what-is-a-generative-model)
+- [What is a Generative Model?](https://www.datacamp.com/blog/what-is-a-generative-model)
 
-- [What is Online Machine Learning? | DataCamp](https://www.datacamp.com/blog/what-is-online-machine-learning)
+- [What is Online Machine Learning?](https://www.datacamp.com/blog/what-is-online-machine-learning)
 
-- [What is Feature Learning? | DataCamp](https://www.datacamp.com/blog/what-is-feature-learning)
+- [What is Feature Learning?](https://www.datacamp.com/blog/what-is-feature-learning)
 
 - [Time Series Analysis: ARIMA Models in Python](https://www.kdnuggets.com/2023/08/times-series-analysis-arima-models-python.html)
 
-- [What is Sample Complexity? | DataCamp](https://www.datacamp.com/blog/what-is-sample-complexity)
+- [What is Sample Complexity?](https://www.datacamp.com/blog/what-is-sample-complexity)
 
  
 
@@ -96,7 +96,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Deploying Your First Machine Learning Model](https://www.kdnuggets.com/deploying-your-first-machine-learning-model)
 - [Hands-On with Unsupervised Learning: K-Means Clustering](https://www.kdnuggets.com/handson-with-unsupervised-learning-kmeans-clustering)
 - [Using SHAP Values for Model Interpretability in Machine Learning](https://www.kdnuggets.com/2023/08/shap-values-model-interpretability-machine-learning.html)
-- [What is Competitive Learning? | DataCamp](https://www.datacamp.com/blog/what-is-competitive-learning)
+- [What is Competitive Learning?](https://www.datacamp.com/blog/what-is-competitive-learning)
 
  
 
@@ -128,9 +128,9 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [Fine-Tuning LLaMA 2: A Step-by-Step Guide to Customizing the Large Language Model](https://www.datacamp.com/tutorial/fine-tuning-llama-2)
 
-- [What is LaMDA? | DataCamp](https://www.datacamp.com/blog/what-is-lamda)
+- [What is LaMDA?](https://www.datacamp.com/blog/what-is-lamda)
 
-
+ 
 
 ## Computer Vision
 
@@ -140,7 +140,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [Fine-tuning Stable Diffusion XL with DreamBooth and LoRA](https://www.datacamp.com/tutorial/fine-tuning-stable-diffusion-xl-with-dreambooth-and-lora)
 
-- [What is DALL-E? | DataCamp](https://www.datacamp.com/blog/what-is-dall-e)
+- [What is DALL-E?](https://www.datacamp.com/blog/what-is-dall-e)
 
  
 
