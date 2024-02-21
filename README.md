@@ -91,11 +91,17 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 ## Machine Learning Operations (MLOps)
 
 - [A Beginner's Guide to CI/CD for Machine Learning](https://www.datacamp.com/tutorial/ci-cd-for-machine-learning)
+
 - [The Only Free Course You Need To Become a MLOps Engineer](https://www.kdnuggets.com/the-only-free-course-you-need-to-become-a-mlops-engineer)
+
 - [Overview of PEFT: State-of-the-art Parameter-Efficient Fine-Tuning](https://www.kdnuggets.com/overview-of-peft-stateoftheart-parameterefficient-finetuning)
+
 - [Deploying Your First Machine Learning Model](https://www.kdnuggets.com/deploying-your-first-machine-learning-model)
+
 - [Hands-On with Unsupervised Learning: K-Means Clustering](https://www.kdnuggets.com/handson-with-unsupervised-learning-kmeans-clustering)
+
 - [Using SHAP Values for Model Interpretability in Machine Learning](https://www.kdnuggets.com/2023/08/shap-values-model-interpretability-machine-learning.html)
+
 - [What is Competitive Learning?](https://www.datacamp.com/blog/what-is-competitive-learning)
 
  
@@ -183,6 +189,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 ## Data Engineering
 
 - [The Only Free Course You Need To Become a Professional Data Engineer](https://www.kdnuggets.com/the-only-free-course-you-need-to-become-a-professional-data-engineer)
+
 - [The Top 5 Data Management Tools For Your Projects](https://www.kdnuggets.com/top-5-data-management-tools-for-your-projects)
 
  
@@ -213,7 +220,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [How to Choose The Best Data Science Bootcamp in 2023](https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp)
 
- 
 
 ## Books
 
@@ -266,4 +272,5 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 ## Miscellaneous
 
 - [The Complete Collection of Data Science Cheat Sheets - Ebook](https://www.kdnuggets.com/news/subscribe.html)
+
 - [5 Super Cheat Sheets to Master Data Science](https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science)
