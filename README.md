@@ -2,8 +2,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 > I have published over 320+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
 
-
-
 ## Python
 
 - [Emulating a Do-While Loop in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/do-while-loop-python)
@@ -14,8 +12,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [OpenAI Function Calling Tutorial: Generate Structured Output](https://www.datacamp.com/tutorial/open-ai-function-calling-tutorial)
 
-
-
 ## SQL
 
 - [SQL CONTAINS: A Comprehensive Tutorial](https://www.datacamp.com/tutorial/sql-contains)
@@ -23,8 +19,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Mastering SQL NOT EQUAL Operator: A Beginner's Guide](https://www.datacamp.com/tutorial/sql-not-equal)
 
 - [SQL NOT IN Operator: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/sql-not-in-operator)
-
-
 
 ## Programming
 
@@ -37,8 +31,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Enhance Your Python Coding Style with Ruff](https://www.kdnuggets.com/enhance-your-python-coding-style-with-ruff)
 
 - [Rust Burn Library for Deep Learning](https://www.kdnuggets.com/rust-burn-library-for-deep-learning)
-
- 
 
 ## Data Analytics
 
@@ -57,8 +49,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [The Evolution of Tabular Data: From Analysis to AI](https://pub.towardsai.net/the-evolution-of-tabular-data-from-analysis-to-ai-8f016f448acc)
 
 - [Top 10 ChatGPT Plugins for Data Science](https://www.datacamp.com/blog/the-10-best-chat-gpt-plugins-for-data-science)
-
- 
 
 ## Machine Learning (ML)
 
@@ -86,8 +76,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [What is Sample Complexity?](https://www.datacamp.com/blog/what-is-sample-complexity)
 
- 
-
 ## Machine Learning Operations (MLOps)
 
 - [A Beginner's Guide to CI/CD for Machine Learning](https://www.datacamp.com/tutorial/ci-cd-for-machine-learning)
@@ -98,15 +86,11 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Using SHAP Values for Model Interpretability in Machine Learning](https://www.kdnuggets.com/2023/08/shap-values-model-interpretability-machine-learning.html)
 - [What is Competitive Learning?](https://www.datacamp.com/blog/what-is-competitive-learning)
 
- 
-
 ## Natural Language Processing (NLP)
 
 - [What is Tokenization? Types, Use Cases, Implementation](https://www.datacamp.com/blog/what-is-tokenization)
 
 - [What is Named Entity Recognition (NER)? Methods, Use Cases, and Challenges](https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
-
- 
 
 ## Large Language Models (LLMs)
 
@@ -130,8 +114,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [What is LaMDA?](https://www.datacamp.com/blog/what-is-lamda)
 
- 
-
 ## Computer Vision
 
 - [StableDiffusion Web UI: A Comprehensive User Guide for Beginners](https://www.datacamp.com/tutorial/stable-diffusion-web-ui-a-comprehensive-user-guide-for-beginners)
@@ -141,8 +123,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Fine-tuning Stable Diffusion XL with DreamBooth and LoRA](https://www.datacamp.com/tutorial/fine-tuning-stable-diffusion-xl-with-dreambooth-and-lora)
 
 - [What is DALL-E?](https://www.datacamp.com/blog/what-is-dall-e)
-
- 
 
 ## Artificial Intelligence (AI)
 
@@ -178,16 +158,15 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [7 Exciting AI Projects for Beginner, Intermediate, and Advanced Learners](https://www.datacamp.com/blog/7-ai-projects-for-all-levels)
 
- 
-
 ## Data Engineering
 
+- [5 Airflow Alternatives for Data Orchestration - KDnuggets](https://www.kdnuggets.com/5-airflow-alternatives-for-data-orchestration)
 - [The Only Free Course You Need To Become a Professional Data Engineer](https://www.kdnuggets.com/the-only-free-course-you-need-to-become-a-professional-data-engineer)
 - [The Top 5 Data Management Tools For Your Projects](https://www.kdnuggets.com/top-5-data-management-tools-for-your-projects)
 
- 
-
 ## Career Guidance
+
+- [Free Mastery Course: Become a Large Language Model Expert - KDnuggets](https://www.kdnuggets.com/ree-mastery-course-become-a-large-language-model-expert)
 
 - [26 Data Science Interview Questions You Should Know](https://www.kdnuggets.com/26-data-science-interview-questions-you-should-know)
 
@@ -213,13 +192,9 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [How to Choose The Best Data Science Bootcamp in 2023](https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp)
 
- 
-
 ## Books
 
 - [Maximizing Productivity with ChatGPT](https://machinelearningmastery.com/productivity-with-chatgpt/) by Abid, Matthew, Kanwal, & Adrian
-
- 
 
 ## Cheat Sheets
 
@@ -261,9 +236,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [Getting Started with SQL Cheatsheet](https://www.kdnuggets.com/2022/08/getting-started-sql-cheatsheet.html)
 
- 
-
 ## Miscellaneous
 
+- [Everything You Need to Know About MLOps: A KDnuggets Tech Brief - Ebook](https://www.kdnuggets.com/tech-brief-everything-you-need-to-know-about-mlops)
 - [The Complete Collection of Data Science Cheat Sheets - Ebook](https://www.kdnuggets.com/news/subscribe.html)
 - [5 Super Cheat Sheets to Master Data Science](https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science)
