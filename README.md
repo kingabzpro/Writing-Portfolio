@@ -34,6 +34,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Analytics
 
+- [Top 5 Linux Distro for Data Science](https://www.kdnuggets.com/top-5-linux-distro-for-data-science)
+
 - [The Top 5 Alternatives to GitHub for Data Science Projects](https://www.kdnuggets.com/the-top-5-alternatives-to-github-for-data-science-projects)
 
 - [Create Stunning Data Viz in Seconds with ChatGPT](https://www.kdnuggets.com/create-stunning-data-viz-in-seconds-with-chatgpt)
@@ -174,7 +176,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Career Guidance
 
-- [Free Mastery Course: Become a Large Language Model Expert - KDnuggets](https://www.kdnuggets.com/ree-mastery-course-become-a-large-language-model-expert)
+- [Collection of Free Courses to Learn Data Science, Data Engineering, Machine Learning, MLOps, and LLMOps](https://www.kdnuggets.com/collection-of-free-courses-to-learn-data-science-data-engineering-machine-learning-mlops-and-llmops)
 
 - [26 Data Science Interview Questions You Should Know](https://www.kdnuggets.com/26-data-science-interview-questions-you-should-know)
 
@@ -199,9 +201,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [5 Portfolio Projects for Final Year Data Science Students](https://www.kdnuggets.com/5-portfolio-projects-for-final-year-data-science-students)
 
 - [How to Choose The Best Data Science Bootcamp in 2023](https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp)
-
-
-=======
 
 ## Books
 
