@@ -22,7 +22,9 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Programming
 
-- [Master The Art Of Command Line With This GitHub Repository](https://www.kdnuggets.com/master-the-art-of-command-line-with-this-github-repository)
+- [Getting Started With Go Programing For Data Science ](https://www.kdnuggets.com/getting-started-with-go-programing-for-data-science)
+
+- [The Top 11 AI Coding Assistants to Use in 2024](https://www.datacamp.com/blog/best-ai-coding-assistants)
 
 - [Top 5 AI Coding Assistants You Must Try](https://www.kdnuggets.com/top-5-ai-coding-assistants-you-must-try)
 
@@ -53,6 +55,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Top 10 ChatGPT Plugins for Data Science](https://www.datacamp.com/blog/the-10-best-chat-gpt-plugins-for-data-science)
 
 ## Machine Learning (ML)
+
+- [Streamline Your Machine Learning Workflow with Scikit-learn Pipelines](https://www.kdnuggets.com/streamline-your-machine-learning-workflow-with-scikit-learn-pipelines)
 
 - [10 GitHub Repositories to Master Machine Learning](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning)
 
@@ -102,6 +106,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Large Language Models (LLMs)
 
+- [Getting Started With Claude 3 Opus That Just Destroyed GPT-4 and Gemini](https://www.kdnuggets.com/getting-started-with-claude-3-opus-that-just-destroyed-gpt-4-and-gemini)
+
 - [Getting Started with Phi-2](https://www.datacamp.com/tutorial/phi-2-model)
 
 - [Running Mixtral 8x7b On Google Colab For Free](https://www.kdnuggets.com/running-mixtral-8x7b-on-google-colab-for-free)
@@ -134,7 +140,9 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Artificial Intelligence (AI)
 
-- [OpenAI API for Beginners: Your Easy-to-Follow Starter Guide](https://www.kdnuggets.com/openai-api-for-beginners-your-easy-to-follow-starter-guide)
+- [5 Ways To Use LLMs On Your Laptop ](https://www.kdnuggets.com/5-ways-to-use-llms-on-your-laptop)
+
+- [Getting Started with Claude 3 and the Claude 3 API ](https://www.datacamp.com/tutorial/getting-started-with-claude-3-and-the-claude-3-api)
 
 - [Discover the Power of the New Gemini AI Models](https://www.datacamp.com/tutorial/introducing-gemini-api)
 
@@ -168,7 +176,9 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Engineering
 
-- [5 Airflow Alternatives for Data Orchestration - KDnuggets](https://www.kdnuggets.com/5-airflow-alternatives-for-data-orchestration)
+- [14 Essential Data Engineering Tools to Use in 2024 ](https://www.datacamp.com/blog/top-data-engineer-tools)
+
+- [5 Airflow Alternatives for Data Orchestration](https://www.kdnuggets.com/5-airflow-alternatives-for-data-orchestration)
 
 - [The Only Free Course You Need To Become a Professional Data Engineer](https://www.kdnuggets.com/the-only-free-course-you-need-to-become-a-professional-data-engineer)
 
