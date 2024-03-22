@@ -84,6 +84,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [GitHub Actions For Machine Learning Beginners](https://www.kdnuggets.com/github-actions-for-machine-learning-beginners)
+
 - [A Beginner's Guide to CI/CD for Machine Learning](https://www.datacamp.com/tutorial/ci-cd-for-machine-learning)
 
 - [The Only Free Course You Need To Become a MLOps Engineer](https://www.kdnuggets.com/the-only-free-course-you-need-to-become-a-mlops-engineer)
@@ -105,6 +107,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [What is Named Entity Recognition (NER)? Methods, Use Cases, and Challenges](https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
 
 ## Large Language Models (LLMs)
+
+- [Fine Tuning Google Gemma: Enhancing LLMs with Customized Instructions](https://www.datacamp.com/tutorial/fine-tuning-google-gemma)
 
 - [Getting Started With Claude 3 Opus That Just Destroyed GPT-4 and Gemini](https://www.kdnuggets.com/getting-started-with-claude-3-opus-that-just-destroyed-gpt-4-and-gemini)
 
@@ -185,6 +189,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [The Top 5 Data Management Tools For Your Projects](https://www.kdnuggets.com/top-5-data-management-tools-for-your-projects)
 
 ## Career Guidance
+
+- [Collection of Guides on Mastering SQL, Python, Data Cleaning, Data Wrangling, and Exploratory Data Analysis - KDnuggets](https://www.kdnuggets.com/collection-of-guides-on-mastering-sql-python-data-cleaning-data-wrangling-and-exploratory-data-analysis)
 
 - [Collection of Free Courses to Learn Data Science, Data Engineering, Machine Learning, MLOps, and LLMOps](https://www.kdnuggets.com/collection-of-free-courses-to-learn-data-science-data-engineering-machine-learning-mlops-and-llmops)
 
