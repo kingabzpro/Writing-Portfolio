@@ -1,6 +1,6 @@
 Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guides, projects, and books covering data analytics, machine learning, SQL, Python, natural language processing, large language models, artificial intelligence, machine learning operations, and career guidance.
 
-> I have published over 320+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
+> I have published over 340+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
 
 ## Python
 
@@ -12,6 +12,14 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [OpenAI Function Calling Tutorial: Generate Structured Output](https://www.datacamp.com/tutorial/open-ai-function-calling-tutorial)
 
+- [Getting Started with ReactPy](https://www.kdnuggets.com/2023/06/getting-started-reactpy.html)
+
+- [12 VSCode Tips and Tricks for Python Development](https://www.kdnuggets.com/2023/05/12-vscode-tips-tricks-python-development.html)
+
+- [Setting Up VSCode For Python: A Complete Guide](https://www.datacamp.com/tutorial/setting-up-vscode-python)
+
+- [Python String Matching Without Complex RegEx Syntax](https://www.kdnuggets.com/2023/02/python-string-matching-without-complex-regex-syntax.html)
+
 ## SQL
 
 - [SQL CONTAINS: A Comprehensive Tutorial](https://www.datacamp.com/tutorial/sql-contains)
@@ -19,6 +27,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Mastering SQL NOT EQUAL Operator: A Beginner's Guide](https://www.datacamp.com/tutorial/sql-not-equal)
 
 - [SQL NOT IN Operator: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/sql-not-in-operator)
+
+- [Why is DuckDB Getting Popular?](https://www.kdnuggets.com/2023/07/duckdb-getting-popular.html)
+
+- [SQL With CSVs](https://www.kdnuggets.com/2023/01/sql-csvs.html)
 
 ## Programming
 
@@ -34,7 +46,17 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [Rust Burn Library for Deep Learning](https://www.kdnuggets.com/rust-burn-library-for-deep-learning)
 
-## Data Analytics
+- [Mojo: A Revolutionary New Programming Language for Building AI Applications](https://www.datacamp.com/tutorial/mojo-language-the-new-programming-language-for-ai)
+
+- [5 Highest-paid Languages to Learn This Year](https://www.kdnuggets.com/2023/07/5-highestpaid-languages-learn-year.html)
+
+- [7 Ways ChatGPT Makes You Code Better and Faster](https://www.kdnuggets.com/2023/06/7-ways-chatgpt-makes-code-better-faster.html)
+
+- [Getting Started with GitHub CLI](https://www.kdnuggets.com/2023/03/getting-started-github-cli.html)
+
+- [3 Julia Packages for Data Visualization](https://www.kdnuggets.com/2023/02/3-julia-packages-data-visualization.html)
+
+## Data Science
 
 - [Top 5 Linux Distro for Data Science](https://www.kdnuggets.com/top-5-linux-distro-for-data-science)
 
@@ -54,6 +76,26 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [Top 10 ChatGPT Plugins for Data Science](https://www.datacamp.com/blog/the-10-best-chat-gpt-plugins-for-data-science)
 
+- [Claude vs. ChatGPT: Which AI Assistant Should Data Scientists Choose in 2023?](https://www.datacamp.com/blog/claude-vs-chatgpt-data-science-comparison)
+
+- [Pandas AI: Your Guide to Generative AI-Powered Data Analysis](https://www.datacamp.com/blog/an-introduction-to-pandas-ai)
+
+- [10 Jupyter Notebook Tips and Tricks for Data Scientists](https://www.kdnuggets.com/2023/06/10-jupyter-notebook-tips-tricks-data-scientists.html)
+
+- [Unlocking the Potential of Google Bard for Data Science Projects](https://www.datacamp.com/blog/google-bard-for-data-science-projects)
+
+- [5 Essential AI Tools for Data Science](https://www.kdnuggets.com/2023/04/5-essential-ai-tools-data-science.html)
+
+- [5 Advance Projects for Data Science Portfolio](https://www.kdnuggets.com/2023/03/5-advance-projects-data-science-portfolio.html)
+
+- [A Guide to Using ChatGPT For Data Science Projects](https://www.datacamp.com/tutorial/chatgpt-data-science-projects)
+
+- [T-tests in R Tutorial: Learn How to Conduct T-Tests](https://www.datacamp.com/tutorial/t-tests-r-tutorial)
+
+- [5 More Command Line Tools for Data Science](https://www.kdnuggets.com/2023/03/5-command-line-tools-data-science.html)
+
+- [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
+
 ## Machine Learning (ML)
 
 - [Streamline Your Machine Learning Workflow with Scikit-learn Pipelines](https://www.kdnuggets.com/streamline-your-machine-learning-workflow-with-scikit-learn-pipelines)
@@ -61,6 +103,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [10 GitHub Repositories to Master Machine Learning](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning)
 
 - [Building a Convolutional Neural Network with PyTorch](https://www.kdnuggets.com/building-a-convolutional-neural-network-with-pytorch)
+
+- [Hands-On with Unsupervised Learning: K-Means Clustering](https://www.kdnuggets.com/handson-with-unsupervised-learning-kmeans-clustering)
+
+- [Using SHAP Values for Model Interpretability in Machine Learning](https://www.kdnuggets.com/2023/08/shap-values-model-interpretability-machine-learning.html)
 
 - [What is Machine Listening? Definition, Types, Use Cases](https://www.datacamp.com/blog/what-is-machine-listening)
 
@@ -82,6 +128,34 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [What is Sample Complexity?](https://www.datacamp.com/blog/what-is-sample-complexity)
 
+- [Introduction to Safetensors](https://www.kdnuggets.com/2023/07/introduction-safetensors.html)
+
+- [What is Synthetic Data?](https://www.datacamp.com/blog/what-is-synthetic-data)
+
+- [What is Unlabeled Data?](https://www.datacamp.com/blog/what-is-unlabeled-data)
+
+- [What is Labeled Data?](https://www.datacamp.com/blog/what-is-labeled-data)
+
+- [An Introduction to SHAP Values and Machine Learning Interpretability](https://www.datacamp.com/tutorial/introduction-to-shap-values-machine-learning-interpretability)
+
+- [What is Incremental Learning?](https://www.datacamp.com/blog/what-is-incremental-learning)
+
+- [What is Affective Computing?](https://www.datacamp.com/blog/what-is-affective-computing)
+
+- [What is Lazy Learning?](https://www.datacamp.com/blog/what-is-lazy-learning)
+
+- [What is Machine Perception?](https://www.datacamp.com/blog/what-is-machine-perception)
+
+- [K-Nearest Neighbors (KNN) Classification with R Tutorial](https://www.datacamp.com/tutorial/k-nearest-neighbors-knn-classification-with-r-tutorial)
+
+- [PyTorch 2.0: Unveiling the Latest Updates and Insights with Code Examples](https://www.datacamp.com/blog/pytorch-2-is-here-everything-we-know)
+
+- [7 Best Tools for Machine Learning Experiment Tracking](https://www.kdnuggets.com/2023/02/7-best-tools-machine-learning-experiment-tracking.html)
+
+- [Building Neural Network (NN) Models in R](https://www.datacamp.com/tutorial/neural-network-models-r)
+
+- [Encoding Categorical Features with MultiLabelBinarizer](https://www.kdnuggets.com/2023/01/encoding-categorical-features-multilabelbinarizer.html)
+
 ## Machine Learning Operations (MLOps)
 
 - [GitHub Actions For Machine Learning Beginners](https://www.kdnuggets.com/github-actions-for-machine-learning-beginners)
@@ -94,11 +168,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [Deploying Your First Machine Learning Model](https://www.kdnuggets.com/deploying-your-first-machine-learning-model)
 
-- [Hands-On with Unsupervised Learning: K-Means Clustering](https://www.kdnuggets.com/handson-with-unsupervised-learning-kmeans-clustering)
-
-- [Using SHAP Values for Model Interpretability in Machine Learning](https://www.kdnuggets.com/2023/08/shap-values-model-interpretability-machine-learning.html)
-
-- [What is Competitive Learning?](https://www.datacamp.com/blog/what-is-competitive-learning)
+- [Build AI Chatbot in 5 Minutes with Hugging Face and Gradio](https://www.kdnuggets.com/2023/06/build-ai-chatbot-5-minutes-hugging-face-gradio.html)
 
 ## Natural Language Processing (NLP)
 
@@ -106,7 +176,15 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [What is Named Entity Recognition (NER)? Methods, Use Cases, and Challenges](https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
 
+- [What is Text Generation?](https://www.datacamp.com/blog/what-is-text-generation)
+
+- [Bark: The Ultimate Audio Generation Model](https://www.kdnuggets.com/2023/05/bark-ultimate-audio-generation-model.html)
+
+- [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
+
 ## Large Language Models (LLMs)
+
+- [Introduction to ChatGPT Next Web (NextChat)](https://www.datacamp.com/tutorial/introduction-to-chatgpt-next-web-nextchat)
 
 - [Fine Tuning Google Gemma: Enhancing LLMs with Customized Instructions](https://www.datacamp.com/tutorial/fine-tuning-google-gemma)
 
@@ -132,6 +210,22 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [What is LaMDA?](https://www.datacamp.com/blog/what-is-lamda)
 
+- [The Pros and Cons of Using Large Language Models (LLMs) in the Cloud vs. Running LLMs Locally: Which Is Right for You?](https://www.datacamp.com/blog/the-pros-and-cons-of-using-llm-in-the-cloud-versus-running-llm-locally)
+
+- [StarCoder: The Coding Assistant That You Always Wanted](https://www.kdnuggets.com/2023/05/starcoder-coding-assistant-always-wanted.html)
+
+- [The Ultimate Open-Source Large Language Model Ecosystem](https://www.kdnuggets.com/2023/05/ultimate-opensource-large-language-model-ecosystem.html)
+
+- [Open Assistant: Explore the Possibilities of Open and Collaborative Chatbot Development](https://www.kdnuggets.com/2023/04/open-assistant-explore-possibilities-open-collaborative-chatbot-development.html)
+
+- [Dolly 2.0: ChatGPT Open Source Alternative for Commercial Use](https://www.kdnuggets.com/2023/04/dolly-20-chatgpt-open-source-alternative-commercial.html)
+
+- [ChatGPT and GPT-4 Open Source Alternatives that are Balancing the Scales](https://www.datacamp.com/blog/12-gpt4-open-source-alternatives)
+
+- [8 Open-Source Alternative to ChatGPT and Bard](https://www.kdnuggets.com/2023/04/8-opensource-alternative-chatgpt-bard.html)
+
+- [How Watermarking Can Help Mitigate The Potential Risks Of LLMs?](https://www.kdnuggets.com/2023/03/watermarking-help-mitigate-potential-risks-llms.html)
+
 ## Computer Vision
 
 - [StableDiffusion Web UI: A Comprehensive User Guide for Beginners](https://www.datacamp.com/tutorial/stable-diffusion-web-ui-a-comprehensive-user-guide-for-beginners)
@@ -142,7 +236,13 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [What is DALL-E?](https://www.datacamp.com/blog/what-is-dall-e)
 
+- [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
+
 ## Artificial Intelligence (AI)
+
+- [The 7 Best AI Tools for Data Science Workflow ](https://www.kdnuggets.com/the-7-best-ai-tools-for-data-science-workflow)
+
+- [The 8 AI Search Engines That You Should Replace Google With](https://www.kdnuggets.com/top-8-ai-search-engine-that-you-should-replace-with-google)
 
 - [5 Ways To Use LLMs On Your Laptop ](https://www.kdnuggets.com/5-ways-to-use-llms-on-your-laptop)
 
@@ -178,6 +278,50 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [7 Exciting AI Projects for Beginner, Intermediate, and Advanced Learners](https://www.datacamp.com/blog/7-ai-projects-for-all-levels)
 
+- [Top 10 ChatGPT Plugins for Data Science](https://www.datacamp.com/blog/the-10-best-chat-gpt-plugins-for-data-science)
+
+- [What is Superalignment & Why It is Important?](https://www.kdnuggets.com/2023/07/superalignment-important.html)
+
+- [What is Narrow AI?](https://www.datacamp.com/blog/what-is-narrow-ai)
+
+- [3 Ways to Access Claude AI for Free](https://www.kdnuggets.com/2023/06/3-ways-access-claude-ai-free.html)
+
+- [Introducing OpenChat: The Free & Simple Platform for Building Custom Chatbots in Minutes](https://www.kdnuggets.com/2023/06/introducing-openchat-free-simple-platform-building-custom-chatbots-minutes.html)
+
+- [Using ChatGPT for Translation Effectively](https://machinelearningmastery.com/using-chatgpt-for-translation-effectively/)
+
+- [Strategies for Effective Brainstorming with ChatGPT](https://machinelearningmastery.com/strategies-for-effective-brainstorming-with-chatgpt/)
+
+- [ChatGPT as Your Expert Helper](https://machinelearningmastery.com/chatgpt-as-your-expert-helper/)
+
+- [AgentGPT: Autonomous AI Agents in your Browser](https://www.kdnuggets.com/2023/06/agentgpt-autonomous-ai-agents-browser.html)
+
+- [Top 10 Tools for Detecting ChatGPT, GPT-4, Bard, and Claude](https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html)
+
+- [Super Bard: The AI That Can Do It All and Better](https://www.kdnuggets.com/2023/05/super-bard-ai-better.html)
+
+- [Introduction to Meta AI’s LLaMA: Empowering AI Innovation](https://www.datacamp.com/blog/introduction-to-meta-ai-llama)
+
+- [3 Free Platforms for Personalized ChatGPT Experience](https://www.kdnuggets.com/2023/05/3-free-platform-personalized-chatgpt-experience.html)
+
+- [8 Free AI and LLMs Playgrounds](https://www.kdnuggets.com/2023/05/8-free-ai-llms-playgrounds.html)
+
+- [3 Ways to Access GPT-4 for Free](https://www.kdnuggets.com/2023/05/3-ways-access-gpt4-free.html)
+
+- [MiniGPT-4: A Lightweight Alternative to GPT-4 for Enhanced Vision-language Understanding](https://www.kdnuggets.com/2023/04/minigpt4-lightweight-alternative-gpt4-enhanced-visionlanguage-understanding.html)
+
+- [5 Projects Build with Generative Models and Open Source Tools](https://www.datacamp.com/blog/5-projects-you-can-build-with-generative-ai-models)
+
+- [Post GPT-4: Answering Most Asked Questions About AI](https://www.kdnuggets.com/2023/04/post-gpt4-answering-asked-questions-ai.html)
+
+- [Unlock the Wealth of Knowledge with ChatPDF](https://www.kdnuggets.com/2023/04/unlock-wealth-knowledge-chatpdf.html)
+
+- [OpenChatKit: Open-Source ChatGPT Alternative](https://www.kdnuggets.com/2023/03/openchatkit-opensource-chatgpt-alternative.html)
+
+- [The Latest On OpenAI, Google AI, and What it Means For Data Science](https://www.datacamp.com/blog/openai-google-ai-data-science)
+
+- [5 Free Tools For Detecting ChatGPT, GPT3, and GPT2](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html)
+
 ## Data Engineering
 
 - [14 Essential Data Engineering Tools to Use in 2024 ](https://www.datacamp.com/blog/top-data-engineer-tools)
@@ -188,9 +332,11 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [The Top 5 Data Management Tools For Your Projects](https://www.kdnuggets.com/top-5-data-management-tools-for-your-projects)
 
-## Career Guidance
+## Career Guidance Resources
 
-- [Collection of Guides on Mastering SQL, Python, Data Cleaning, Data Wrangling, and Exploratory Data Analysis - KDnuggets](https://www.kdnuggets.com/collection-of-guides-on-mastering-sql-python-data-cleaning-data-wrangling-and-exploratory-data-analysis)
+- [A Collection Of Free Data Science Courses From Harvard, Stanford, MIT, Cornell, and Berkeley](https://www.kdnuggets.com/a-collection-of-free-data-science-courses-from-harvard-stanford-mit-cornell-and-berkeley)
+
+- [Collection of Guides on Mastering SQL, Python, Data Cleaning, Data Wrangling, and Exploratory Data Analysis](https://www.kdnuggets.com/collection-of-guides-on-mastering-sql-python-data-cleaning-data-wrangling-and-exploratory-data-analysis)
 
 - [Collection of Free Courses to Learn Data Science, Data Engineering, Machine Learning, MLOps, and LLMOps](https://www.kdnuggets.com/collection-of-free-courses-to-learn-data-science-data-engineering-machine-learning-mlops-and-llmops)
 
@@ -217,6 +363,24 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [5 Portfolio Projects for Final Year Data Science Students](https://www.kdnuggets.com/5-portfolio-projects-for-final-year-data-science-students)
 
 - [How to Choose The Best Data Science Bootcamp in 2023](https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp)
+
+- [5 Mistakes I Made While Switching to Data Science Career](https://www.kdnuggets.com/2023/07/5-mistakes-made-switching-data-science-career.html)
+
+- [Generative AI with Large Language Models: Hands-On Training](https://www.kdnuggets.com/2023/07/generative-ai-large-language-models-handson-training.html)
+
+- [5 Free Julia Books For Data Science](https://www.kdnuggets.com/2023/06/5-free-julia-books-data-science.html)
+
+- [How to Get Hired as Data Scientist in the GPT-4 Era](https://www.kdnuggets.com/2023/04/get-hired-data-scientist-gpt4-era.html)
+
+- [A Complete Collection of Data Science Free Courses – Part 2](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-2.html)
+
+- [A Complete Collection of Data Science Free Courses – Part 1](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-1.html)
+
+- [5 Free Data Science Books You Must Read in 2023](https://www.kdnuggets.com/2023/01/5-free-data-science-books-must-read-2023.html)
+
+- [3 Things I Wish I Knew When I Started Data Science](https://www.kdnuggets.com/2023/01/3-things-wish-knew-started-data-science.html)
+
+- [28 Top Data Scientist Interview Questions For All Levels](https://www.datacamp.com/blog/data-scientist-interview-questions) **(Start Here)**
 
 ## Books
 
