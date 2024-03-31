@@ -2,6 +2,36 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 > I have published over 340+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
 
+## Categories
+
+1. [Python](##Python)
+
+2. [SQL](##SQL)
+
+3. [Programming](##Programming)
+
+4. [Data Science](##Data Science) 
+
+5. [Machine Learning (ML)](##Machine Learning (ML))
+
+6. [Machine Learning Operations (MLOps)](##Machine Learning Operations (MLOps))
+
+7. [Natural Language Processing (NLP)](##Natural Language Processing (NLP))
+
+8. [Large Language Models (LLMs)](##Natural Language Processing (NLP))
+
+9. [Computer Vision](##Computer Vision)
+
+10. [Artificial Intelligence (AI)](##Artificial Intelligence (AI))
+
+11. [Data Engineering](##Data Engineering)
+
+12. [Career Guidance Resources](##Career Guidance Resources)
+
+13. [Books](##Books)
+
+14. [Cheat Sheets](##Cheat Sheets)
+
 ## Python
 
 - [Emulating a Do-While Loop in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/do-while-loop-python)
@@ -99,8 +129,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 ## Machine Learning (ML)
 
 - [Streamline Your Machine Learning Workflow with Scikit-learn Pipelines](https://www.kdnuggets.com/streamline-your-machine-learning-workflow-with-scikit-learn-pipelines)
-
-- [10 GitHub Repositories to Master Machine Learning](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning)
 
 - [Building a Convolutional Neural Network with PyTorch](https://www.kdnuggets.com/building-a-convolutional-neural-network-with-pytorch)
 
@@ -334,25 +362,15 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Career Guidance Resources
 
-- [A Collection Of Free Data Science Courses From Harvard, Stanford, MIT, Cornell, and Berkeley](https://www.kdnuggets.com/a-collection-of-free-data-science-courses-from-harvard-stanford-mit-cornell-and-berkeley)
+ 
 
-- [Collection of Guides on Mastering SQL, Python, Data Cleaning, Data Wrangling, and Exploratory Data Analysis](https://www.kdnuggets.com/collection-of-guides-on-mastering-sql-python-data-cleaning-data-wrangling-and-exploratory-data-analysis)
+### GitHub Repositories
 
-- [Collection of Free Courses to Learn Data Science, Data Engineering, Machine Learning, MLOps, and LLMOps](https://www.kdnuggets.com/collection-of-free-courses-to-learn-data-science-data-engineering-machine-learning-mlops-and-llmops)
+- [10 GitHub Repositories to Master MLOps](https://www.kdnuggets.com/10-github-repositories-to-master-mlops)
 
-- [26 Data Science Interview Questions You Should Know](https://www.kdnuggets.com/26-data-science-interview-questions-you-should-know)
+- [10 GitHub Repositories to Master Machine Learning](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning)
 
-- [Enroll in a Data Science Undergraduate Program For Free](https://www.kdnuggets.com/enroll-in-a-data-science-undergraduate-program-for-free)
-
-- [Read This Before You Take Any Free Data Science Course](https://www.kdnuggets.com/read-this-before-you-take-any-free-data-science-course)
-
-- [Enroll in a 4-year Computer Science Degree Program For Free](https://www.kdnuggets.com/enroll-in-a-4-year-computer-science-degree-program-for-free)
-
-- [25 Free Books to Master SQL, Python, Data Science, Machine Learning, and Natural Language Processing](https://www.kdnuggets.com/25-free-books-to-master-sql-python-data-science-machine-learning-and-natural-language-processing)
-
-- [25 Free Courses to Master Data Science, Data Engineering, Machine Learning, MLOps, and Generative AI](https://www.kdnuggets.com/25-free-courses-to-master-data-science-data-engineering-machine-learning-mlops-and-generative-ai)
-
-- [Top 7 Essential Cheat Sheets To Ace Your Data Science Interview](https://www.kdnuggets.com/top-7-essential-cheat-sheets-to-ace-your-data-science-interview)
+### Career Advice
 
 - [7 Platforms for Getting High Paying Data Science Jobs](https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs)
 
@@ -366,25 +384,59 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [5 Mistakes I Made While Switching to Data Science Career](https://www.kdnuggets.com/2023/07/5-mistakes-made-switching-data-science-career.html)
 
-- [Generative AI with Large Language Models: Hands-On Training](https://www.kdnuggets.com/2023/07/generative-ai-large-language-models-handson-training.html)
+- [How to Get Hired as Data Scientist in the GPT-4 Era](https://www.kdnuggets.com/2023/04/get-hired-data-scientist-gpt4-era.html)
+
+- [3 Things I Wish I Knew When I Started Data Science](https://www.kdnuggets.com/2023/01/3-things-wish-knew-started-data-science.html)
+
+### Guides
+
+- [Collection of Guides on Mastering SQL, Python, Data Cleaning, Data Wrangling, and Exploratory Data Analysis](https://www.kdnuggets.com/collection-of-guides-on-mastering-sql-python-data-cleaning-data-wrangling-and-exploratory-data-analysis)
+
+- [5 Super Cheat Sheets to Master Data Science](https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science)
+
+### Interviews
+
+- [26 Data Science Interview Questions You Should Know](https://www.kdnuggets.com/26-data-science-interview-questions-you-should-know)
+
+- [Top 7 Essential Cheat Sheets To Ace Your Data Science Interview](https://www.kdnuggets.com/top-7-essential-cheat-sheets-to-ace-your-data-science-interview)
+
+- [28 Top Data Scientist Interview Questions For All Levels](https://www.datacamp.com/blog/data-scientist-interview-questions) **(Start Here)**
+
+### Free Books
+
+- [25 Free Books to Master SQL, Python, Data Science, Machine Learning, and Natural Language Processing](https://www.kdnuggets.com/25-free-books-to-master-sql-python-data-science-machine-learning-and-natural-language-processing)
 
 - [5 Free Julia Books For Data Science](https://www.kdnuggets.com/2023/06/5-free-julia-books-data-science.html)
 
-- [How to Get Hired as Data Scientist in the GPT-4 Era](https://www.kdnuggets.com/2023/04/get-hired-data-scientist-gpt4-era.html)
+- [5 Free Data Science Books You Must Read in 2023](https://www.kdnuggets.com/2023/01/5-free-data-science-books-must-read-2023.html)
+
+### Free Courses
+
+- [A Collection Of Free Data Science Courses From Harvard, Stanford, MIT, Cornell, and Berkeley](https://www.kdnuggets.com/a-collection-of-free-data-science-courses-from-harvard-stanford-mit-cornell-and-berkeley)
+
+- [Collection of Free Courses to Learn Data Science, Data Engineering, Machine Learning, MLOps, and LLMOps](https://www.kdnuggets.com/collection-of-free-courses-to-learn-data-science-data-engineering-machine-learning-mlops-and-llmops)
+
+- [Enroll in a Data Science Undergraduate Program For Free](https://www.kdnuggets.com/enroll-in-a-data-science-undergraduate-program-for-free)
+
+- [Read This Before You Take Any Free Data Science Course](https://www.kdnuggets.com/read-this-before-you-take-any-free-data-science-course)
+
+- [Enroll in a 4-year Computer Science Degree Program For Free](https://www.kdnuggets.com/enroll-in-a-4-year-computer-science-degree-program-for-free)
+
+- [25 Free Courses to Master Data Science, Data Engineering, Machine Learning, MLOps, and Generative AI](https://www.kdnuggets.com/25-free-courses-to-master-data-science-data-engineering-machine-learning-mlops-and-generative-ai)
+
+- [Generative AI with Large Language Models: Hands-On Training](https://www.kdnuggets.com/2023/07/generative-ai-large-language-models-handson-training.html)
 
 - [A Complete Collection of Data Science Free Courses – Part 2](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-2.html)
 
 - [A Complete Collection of Data Science Free Courses – Part 1](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-1.html)
 
-- [5 Free Data Science Books You Must Read in 2023](https://www.kdnuggets.com/2023/01/5-free-data-science-books-must-read-2023.html)
-
-- [3 Things I Wish I Knew When I Started Data Science](https://www.kdnuggets.com/2023/01/3-things-wish-knew-started-data-science.html)
-
-- [28 Top Data Scientist Interview Questions For All Levels](https://www.datacamp.com/blog/data-scientist-interview-questions) **(Start Here)**
-
 ## Books
 
 - [Maximizing Productivity with ChatGPT](https://machinelearningmastery.com/productivity-with-chatgpt/) by Abid, Matthew, Kanwal, & Adrian
+
+- [Everything You Need to Know About MLOps: A KDnuggets Tech Brief - Ebook](https://www.kdnuggets.com/tech-brief-everything-you-need-to-know-about-mlops)
+
+- [The Complete Collection of Data Science Cheat Sheets - Ebook](https://www.kdnuggets.com/news/subscribe.html)
 
 ## Cheat Sheets
 
@@ -425,11 +477,3 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Getting Started with Pandas Cheatsheet](https://www.kdnuggets.com/2022/09/getting-started-pandas-cheatsheet.html)
 
 - [Getting Started with SQL Cheatsheet](https://www.kdnuggets.com/2022/08/getting-started-sql-cheatsheet.html)
-
-## Miscellaneous
-
-- [Everything You Need to Know About MLOps: A KDnuggets Tech Brief - Ebook](https://www.kdnuggets.com/tech-brief-everything-you-need-to-know-about-mlops)
-
-- [The Complete Collection of Data Science Cheat Sheets - Ebook](https://www.kdnuggets.com/news/subscribe.html)
-
-- [5 Super Cheat Sheets to Master Data Science](https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science)
