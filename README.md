@@ -4,33 +4,33 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Categories
 
-1. [Python](##Python)
+1. [Python](#python)
 
-2. [SQL](##SQL)
+2. [SQL](#sql)
 
-3. [Programming](##Programming)
+3. [Programming](#programming)
 
-4. [Data Science](##Data Science) 
+4. [Data Science](#data-science) 
 
-5. [Machine Learning (ML)](##Machine Learning (ML))
+5. [Machine Learning (ML)](#machine-learning-ml)
 
-6. [Machine Learning Operations (MLOps)](##Machine Learning Operations (MLOps))
+6. [Machine Learning Operations (MLOps)](#machine-learning-operations-mlops)
 
-7. [Natural Language Processing (NLP)](##Natural Language Processing (NLP))
+7. [Natural Language Processing (NLP)](#natural-language-processing-nlp)
 
-8. [Large Language Models (LLMs)](##Natural Language Processing (NLP))
+8. [Large Language Models (LLMs)](#natural-language-processing-nlp)
 
-9. [Computer Vision](##Computer Vision)
+9. [Computer Vision](#computer-vision)
 
-10. [Artificial Intelligence (AI)](##Artificial Intelligence (AI))
+10. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
 
-11. [Data Engineering](##Data Engineering)
+11. [Data Engineering](#data-engineering)
 
-12. [Career Guidance Resources](##Career Guidance Resources)
+12. [Career Guidance Resources](#career-guidance-resources)
 
-13. [Books](##Books)
+13. [Books](#books)
 
-14. [Cheat Sheets](##Cheat Sheets)
+14. [Cheat Sheets](#cheat-sheets)
 
 ## Python
 
@@ -361,8 +361,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [The Top 5 Data Management Tools For Your Projects](https://www.kdnuggets.com/top-5-data-management-tools-for-your-projects)
 
 ## Career Guidance Resources
-
- 
 
 ### GitHub Repositories
 
