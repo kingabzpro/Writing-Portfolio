@@ -186,6 +186,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [Using Prefect for Machine Learning Workflows](https://www.datacamp.com/tutorial/ml-workflow-orchestration-with-prefect)
+
+- [Top 7 Model Deployment and Serving Tools](https://www.kdnuggets.com/top-7-model-deployment-and-serving-tools)
+
 - [GitHub Actions For Machine Learning Beginners](https://www.kdnuggets.com/github-actions-for-machine-learning-beginners)
 
 - [A Beginner's Guide to CI/CD for Machine Learning](https://www.datacamp.com/tutorial/ci-cd-for-machine-learning)
@@ -268,7 +272,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Artificial Intelligence (AI)
 
-- [The 7 Best AI Tools for Data Science Workflow ](https://www.kdnuggets.com/the-7-best-ai-tools-for-data-science-workflow)
+- [Learn How to Use ChatGPT Next Web (NextChat) for Free](https://www.kdnuggets.com/learn-how-to-use-chatgpt-next-web-nextchat-for-free)
 
 - [The 8 AI Search Engines That You Should Replace Google With](https://www.kdnuggets.com/top-8-ai-search-engine-that-you-should-replace-with-google)
 
@@ -363,6 +367,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 ## Career Guidance Resources
 
 ### GitHub Repositories
+
+- [10 GitHub Repositories to Master Python](https://www.kdnuggets.com/10-github-repositories-to-master-python)
+
+- [10 GitHub Repositories to Master Computer Science](https://www.kdnuggets.com/10-github-repositories-to-master-computer-science)
 
 - [10 GitHub Repositories to Master MLOps](https://www.kdnuggets.com/10-github-repositories-to-master-mlops)
 
