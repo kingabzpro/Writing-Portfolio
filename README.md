@@ -4,33 +4,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Categories
 
-1. [Python](#python)
-
-2. [SQL](#sql)
-
-3. [Programming](#programming)
-
-4. [Data Science](#data-science) 
-
-5. [Machine Learning (ML)](#machine-learning-ml)
-
-6. [Machine Learning Operations (MLOps)](#machine-learning-operations-mlops)
-
-7. [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-
-8. [Large Language Models (LLMs)](#natural-language-processing-nlp)
-
-9. [Computer Vision](#computer-vision)
-
-10. [Artificial Intelligence (AI)](#artificial-intelligence-ai)
-
-11. [Data Engineering](#data-engineering)
-
-12. [Career Guidance Resources](#career-guidance-resources)
-
-13. [Books](#books)
-
-14. [Cheat Sheets](#cheat-sheets)
+[Python](#python) | [SQL](#sql) | [Programming](#programming) | [Data Science](#data-science)  | [Machine Learning (ML)](#machine-learning-ml) | [Machine Learning Operations (MLOps)](#machine-learning-operations-mlops) | [Natural Language Processing (NLP)](#natural-language-processing-nlp) | [Large Language Models (LLMs)](#natural-language-processing-nlp) | [Computer Vision](#computer-vision) | [Artificial Intelligence (AI)](#artificial-intelligence-ai) | [Data Engineering](#data-engineering) | [Career Guidance Resources](#career-guidance-resources) | [Books](#books) | [Cheat Sheets](#cheat-sheets)
 
 ## Python
 
