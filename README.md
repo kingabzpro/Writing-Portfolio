@@ -186,6 +186,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [7 Steps to Mastering MLOPs](https://www.kdnuggets.com/7-steps-to-mastering-mlops)
+
 - [Using Prefect for Machine Learning Workflows](https://www.datacamp.com/tutorial/ml-workflow-orchestration-with-prefect)
 
 - [Top 7 Model Deployment and Serving Tools](https://www.kdnuggets.com/top-7-model-deployment-and-serving-tools)
@@ -356,7 +358,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Engineering
 
-- [14 Essential Data Engineering Tools to Use in 2024 ](https://www.datacamp.com/blog/top-data-engineer-tools)
+- [7 Steps to Mastering Data Engineering](https://www.kdnuggets.com/7-steps-to-mastering-data-engineering)
 
 - [5 Airflow Alternatives for Data Orchestration](https://www.kdnuggets.com/5-airflow-alternatives-for-data-orchestration)
 
@@ -378,7 +380,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ### Career Advice
 
-- [7 Platforms for Getting High Paying Data Science Jobs](https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs)
+- [7 Things Students Are Missing in a Data Science Resume](https://www.kdnuggets.com/7-things-students-are-missing-in-a-data-science-resume)
 
 - [7 High Paying Side Hustles for Data Scientists](https://www.kdnuggets.com/7-high-paying-side-hustles-for-data-scientists)
 
@@ -410,6 +412,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ### Free Books
 
+- [5 Free Books to Learn Statistics](https://www.statology.org/5-free-books-learn-statistics/)
+
 - [25 Free Books to Master SQL, Python, Data Science, Machine Learning, and Natural Language Processing](https://www.kdnuggets.com/25-free-books-to-master-sql-python-data-science-machine-learning-and-natural-language-processing)
 
 - [5 Free Julia Books For Data Science](https://www.kdnuggets.com/2023/06/5-free-julia-books-data-science.html)
@@ -417,6 +421,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [5 Free Data Science Books You Must Read in 2023](https://www.kdnuggets.com/2023/01/5-free-data-science-books-must-read-2023.html)
 
 ### Free Courses
+
+- [5 MIT Statistics Courses That Are Free](https://www.statology.org/5-mit-statistics-courses-free/)
 
 - [A Collection Of Free Data Science Courses From Harvard, Stanford, MIT, Cornell, and Berkeley](https://www.kdnuggets.com/a-collection-of-free-data-science-courses-from-harvard-stanford-mit-cornell-and-berkeley)
 
