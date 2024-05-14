@@ -4,7 +4,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Categories
 
-[Python](#python) \| [SQL](#sql) \| [Programming](#programming) \| [Data Science](#data-science) \| [Machine Learning (ML)](#machine-learning-ml) \| [Machine Learning Operations (MLOps)](#machine-learning-operations-mlops) \| [Natural Language Processing (NLP)](#natural-language-processing-nlp) \| [Large Language Models (LLMs)](#natural-language-processing-nlp) \| [Computer Vision](#computer-vision) \| [Artificial Intelligence (AI)](#artificial-intelligence-ai) \| [Data Engineering](#data-engineering) \| [Career Guidance Resources](#career-guidance-resources) \| [Books](#books) \| [Cheat Sheets](#cheat-sheets)
+**[Python](#python) \| [SQL](#sql) \| [Programming](#programming) \| [Data Science](#data-science) \| [Machine Learning (ML)](#machine-learning-ml) \| [Machine Learning Operations (MLOps)](#machine-learning-operations-mlops) \| [Natural Language Processing (NLP)](#natural-language-processing-nlp) \| [Large Language Models (LLMs)](#natural-language-processing-nlp) \| [Computer Vision](#computer-vision) \| [Artificial Intelligence (AI)](#artificial-intelligence-ai) \| [Data Engineering](#data-engineering) \| [Career Guidance Resources](#career-guidance-resources) \| [Books](#books) \| [Cheat Sheets](#cheat-sheets)**
 
 ## Python
 
@@ -102,6 +102,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning (ML)
 
+- [5 Regularization Techniques You Should Know](https://www.statology.org/5-regularization-techniques/)
+
 - [Streamline Your Machine Learning Workflow with Scikit-learn Pipelines](https://www.kdnuggets.com/streamline-your-machine-learning-workflow-with-scikit-learn-pipelines)
 
 - [Building a Convolutional Neural Network with PyTorch](https://www.kdnuggets.com/building-a-convolutional-neural-network-with-pytorch)
@@ -160,6 +162,12 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [GitHub Actions and MakeFile: A Hands-on Introduction](https://www.datacamp.com/tutorial/makefile-github-actions-tutorial)
+
+- [7 End-to-End MLOps Platforms You Must Try in 2024](https://www.kdnuggets.com/7-end-to-end-mlops-platforms-you-must-try-in-2024)
+
+- [Everything You Need to Know About MLOps: A KDnuggets Tech Brief ](https://www.kdnuggets.com/tech-brief-everything-you-need-to-know-about-mlops)
+
 - [7 Steps to Mastering MLOPs](https://www.kdnuggets.com/7-steps-to-mastering-mlops)
 
 - [Using Prefect for Machine Learning Workflows](https://www.datacamp.com/tutorial/ml-workflow-orchestration-with-prefect)
@@ -191,6 +199,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [Using Groq Llama 3 70B Locally: Step by Step Guide](https://www.kdnuggets.com/using-groq-llama-3-70b-locally-step-by-step-guide)
+
+- [Run LLMs Locally: 7 Simple Methods](https://www.datacamp.com/tutorial/run-llms-locally-tutorial)
 
 - [Introduction to ChatGPT Next Web (NextChat)](https://www.datacamp.com/tutorial/introduction-to-chatgpt-next-web-nextchat)
 
@@ -235,6 +247,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [How Watermarking Can Help Mitigate The Potential Risks Of LLMs?](https://www.kdnuggets.com/2023/03/watermarking-help-mitigate-potential-risks-llms.html)
 
 ## Computer Vision
+
+- [Using OpenPose with Stable Diffusion](https://machinelearningmastery.com/openpose-with-stable-diffusion/)
+
+- [Using ControlNet with Stable Diffusion](https://machinelearningmastery.com/control-net-with-stable-diffusion/)
 
 - [StableDiffusion Web UI: A Comprehensive User Guide for Beginners](https://www.datacamp.com/tutorial/stable-diffusion-web-ui-a-comprehensive-user-guide-for-beginners)
 
@@ -354,6 +370,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ### Career Advice
 
+- [Free Python Resources That Can Help You Become a Pro](https://www.kdnuggets.com/free-python-resources-that-can-help-you-become-a-pro)
+
 - [7 Things Students Are Missing in a Data Science Resume](https://www.kdnuggets.com/7-things-students-are-missing-in-a-data-science-resume)
 
 - [7 High Paying Side Hustles for Data Scientists](https://www.kdnuggets.com/7-high-paying-side-hustles-for-data-scientists)
@@ -396,6 +414,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ### Free Courses
 
+- [Ultimate Collection of 50 Free Courses for Mastering Data Science](https://www.kdnuggets.com/ultimate-collection-of-50-free-courses-for-mastering-data-science)
+
 - [5 MIT Statistics Courses That Are Free](https://www.statology.org/5-mit-statistics-courses-free/)
 
 - [A Collection Of Free Data Science Courses From Harvard, Stanford, MIT, Cornell, and Berkeley](https://www.kdnuggets.com/a-collection-of-free-data-science-courses-from-harvard-stanford-mit-cornell-and-berkeley)
@@ -425,6 +445,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [The Complete Collection of Data Science Cheat Sheets - Ebook](https://www.kdnuggets.com/news/subscribe.html)
 
 ## Cheat Sheets
+
+- [Statistics Cheat Sheets to Get Before Your Job Interview](https://www.statology.org/statistics-cheat-sheets-job-interview/)
 
 - [10 ChatGPT Projects Cheat Sheet](https://www.kdnuggets.com/10-chatgpt-projects-cheat-sheet)
 
