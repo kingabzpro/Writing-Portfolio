@@ -162,6 +162,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [5 Best End-to-End Open Source MLOps Tools](https://www.kdnuggets.com/5-best-end-to-end-open-source-mlops-tools)
+
 - [GitHub Actions and MakeFile: A Hands-on Introduction](https://www.datacamp.com/tutorial/makefile-github-actions-tutorial)
 
 - [7 End-to-End MLOps Platforms You Must Try in 2024](https://www.kdnuggets.com/7-end-to-end-mlops-platforms-you-must-try-in-2024)
@@ -199,6 +201,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [Fine-Tune and Run Inference on Google's Gemma Model Using TPUs for Enhanced Speed and Performance](https://www.datacamp.com/tutorial/combine-google-gemma-with-tpus-fine-tune-and-run-inference-with-enhanced-performance-and-speed)
+
+- [The Easiest Way of Running Llama 3 Locally](https://www.kdnuggets.com/easiest-way-of-running-llama-3-locally)
 
 - [Using Groq Llama 3 70B Locally: Step by Step Guide](https://www.kdnuggets.com/using-groq-llama-3-70b-locally-step-by-step-guide)
 
@@ -347,6 +353,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [5 Free Tools For Detecting ChatGPT, GPT3, and GPT2](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html)
 
 ## Data Engineering
+
+- [10 GitHub Repositories to Master Data Engineering](https://www.kdnuggets.com/10-github-repositories-to-master-data-engineering)
 
 - [7 Steps to Mastering Data Engineering](https://www.kdnuggets.com/7-steps-to-mastering-data-engineering)
 
