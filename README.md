@@ -26,6 +26,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## SQL
 
+- [Using SQL with Python: SQLAlchemy and Pandas](https://www.kdnuggets.com/using-sql-with-python-sqlalchemy-and-pandas)
+
+- [10 GitHub Repositories to Master SQL](https://www.kdnuggets.com/10-github-repositories-to-master-sql)
+
 - [SQL CONTAINS: A Comprehensive Tutorial](https://www.datacamp.com/tutorial/sql-contains)
 
 - [Mastering SQL NOT EQUAL Operator: A Beginner's Guide](https://www.datacamp.com/tutorial/sql-not-equal)
@@ -37,6 +41,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [SQL With CSVs](https://www.kdnuggets.com/2023/01/sql-csvs.html)
 
 ## Programming
+
+- [10 Essential DevOps Tools Every Beginner Should Learn](https://www.kdnuggets.com/10-essential-devops-tools-every-beginner-should-learn)
 
 - [Getting Started With Go Programing For Data Science ](https://www.kdnuggets.com/getting-started-with-go-programing-for-data-science)
 
@@ -101,6 +107,12 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
 
 ## Machine Learning (ML)
+
+- [5 Free Datasets to Start Your Machine Learning Projects](https://machinelearningmastery.com/5-free-datasets-start-your-machine-learning-projects/)
+
+- [5 Free Platforms to Collaborate on Machine Learning Projects](https://machinelearningmastery.com/5-free-platforms-to-collaborate-on-machine-learning-projects/)
+
+- [5 Useful Loss Functions](https://machinelearningmastery.com/5-useful-loss-functions/)
 
 - [5 Regularization Techniques You Should Know](https://www.statology.org/5-regularization-techniques/)
 
@@ -202,6 +214,14 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Large Language Models (LLMs)
 
+- [What is Retrieval-Augmented Generation (RAG)?](https://www.statology.org/what-is-retrieval-augmented-generation-rag/)
+
+- [5 Vector Similarity Search Algorithms for LLMs](https://www.statology.org/5-vector-similarity-search-algorithms-llms/)
+
+- [Fine-Tuning Llama 3 and Using It Locally: A Step-by-Step Guide](https://www.datacamp.com/tutorial/llama3-fine-tuning-locally)
+
+- [How to Run Llama 3 Locally: A Complete Guide](https://www.datacamp.com/tutorial/run-llama-3-locally)
+
 - [Fine-Tune and Run Inference on Google's Gemma Model Using TPUs for Enhanced Speed and Performance](https://www.datacamp.com/tutorial/combine-google-gemma-with-tpus-fine-tune-and-run-inference-with-enhanced-performance-and-speed)
 
 - [The Easiest Way of Running Llama 3 Locally](https://www.kdnuggets.com/easiest-way-of-running-llama-3-locally)
@@ -254,6 +274,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Computer Vision
 
+- [Further Stable Diffusion Pipeline with Diffusers](https://machinelearningmastery.com/further-stable-diffusion-pipeline-with-diffusers/)
+
 - [Using OpenPose with Stable Diffusion](https://machinelearningmastery.com/openpose-with-stable-diffusion/)
 
 - [Using ControlNet with Stable Diffusion](https://machinelearningmastery.com/control-net-with-stable-diffusion/)
@@ -269,6 +291,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
 
 ## Artificial Intelligence (AI)
+
+- [5 Ways to Access GPT-4o for Free](https://www.kdnuggets.com/5-ways-to-access-gpt-4o-for-free)
 
 - [Learn How to Use ChatGPT Next Web (NextChat) for Free](https://www.kdnuggets.com/learn-how-to-use-chatgpt-next-web-nextchat-for-free)
 
@@ -422,6 +446,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ### Free Courses
 
+- [5 Free Courses on Reinforcement Learning](https://machinelearningmastery.com/5-free-courses-on-reinforcement-learning/)
+
 - [Ultimate Collection of 50 Free Courses for Mastering Data Science](https://www.kdnuggets.com/ultimate-collection-of-50-free-courses-for-mastering-data-science)
 
 - [5 MIT Statistics Courses That Are Free](https://www.statology.org/5-mit-statistics-courses-free/)
@@ -444,7 +470,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 - [A Complete Collection of Data Science Free Courses – Part 1](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-1.html)
 
-## Books
+## Books by Abid
 
 - [Maximizing Productivity with ChatGPT](https://machinelearningmastery.com/productivity-with-chatgpt/) by Abid, Matthew, Kanwal, & Adrian
 
