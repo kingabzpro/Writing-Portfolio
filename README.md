@@ -174,6 +174,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [Beginner’s Guide to Machine Learning Testing With DeepChecks](https://www.kdnuggets.com/beginners-guide-to-machine-learning-testing-with-deepchecks)
+
 - [5 Best End-to-End Open Source MLOps Tools](https://www.kdnuggets.com/5-best-end-to-end-open-source-mlops-tools)
 
 - [GitHub Actions and MakeFile: A Hands-on Introduction](https://www.datacamp.com/tutorial/makefile-github-actions-tutorial)
@@ -213,6 +215,12 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [LLM Portfolio Projects Ideas to Wow Employers](https://www.kdnuggets.com/llm-portfolio-projects-ideas-to-wow-employers)
+
+- [What are Quantized LLMs?](https://www.statology.org/what-quantized-llms/)
+
+- [Groq LPU Inference Engine Tutorial](https://www.datacamp.com/tutorial/groq-lpu-inference)
 
 - [What is Retrieval-Augmented Generation (RAG)?](https://www.statology.org/what-is-retrieval-augmented-generation-rag/)
 
@@ -435,6 +443,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [28 Top Data Scientist Interview Questions For All Levels](https://www.datacamp.com/blog/data-scientist-interview-questions) **(Start Here)**
 
 ### Free Books
+
+- [5 Free Books on Machine Learning Algorithms You Must Read](https://machinelearningmastery.com/5-free-books-on-machine-learning-algorithms-you-must-read/)
 
 - [5 Free Books to Learn Statistics](https://www.statology.org/5-free-books-learn-statistics/)
 
