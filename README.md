@@ -68,6 +68,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Science
 
+- [10 GitHub Repositories to Master Data Science](https://www.kdnuggets.com/10-github-repositories-to-master-data-science)
+
 - [Top 5 Linux Distro for Data Science](https://www.kdnuggets.com/top-5-linux-distro-for-data-science)
 
 - [The Top 5 Alternatives to GitHub for Data Science Projects](https://www.kdnuggets.com/the-top-5-alternatives-to-github-for-data-science-projects)
@@ -216,6 +218,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Large Language Models (LLMs)
 
+- [Cohere Command R+: A Complete Step-by-Step Tutorial](https://www.datacamp.com/tutorial/cohere-command-r-tutorial)
+
 - [LLM Portfolio Projects Ideas to Wow Employers](https://www.kdnuggets.com/llm-portfolio-projects-ideas-to-wow-employers)
 
 - [What are Quantized LLMs?](https://www.statology.org/what-quantized-llms/)
@@ -299,6 +303,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
 
 ## Artificial Intelligence (AI)
+
+- [DuckDB Tutorial: Building AI Projects](https://www.datacamp.com/tutorial/building-ai-projects-with-duckdb)
 
 - [5 Ways to Access GPT-4o for Free](https://www.kdnuggets.com/5-ways-to-access-gpt-4o-for-free)
 
@@ -386,6 +392,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Engineering
 
+- [7 Modern SQL Databases You Must Know in 2024](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024)
+
 - [10 GitHub Repositories to Master Data Engineering](https://www.kdnuggets.com/10-github-repositories-to-master-data-engineering)
 
 - [7 Steps to Mastering Data Engineering](https://www.kdnuggets.com/7-steps-to-mastering-data-engineering)
@@ -455,6 +463,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [5 Free Data Science Books You Must Read in 2023](https://www.kdnuggets.com/2023/01/5-free-data-science-books-must-read-2023.html)
 
 ### Free Courses
+
+- [5 Free Online Courses to Learn Data Science Fundamentals](https://www.kdnuggets.com/5-free-online-courses-to-learn-data-science-fundamentals)
 
 - [5 Free Courses on Reinforcement Learning](https://machinelearningmastery.com/5-free-courses-on-reinforcement-learning/)
 
