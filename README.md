@@ -68,6 +68,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Science
 
+- [Building Data Science Pipelines Using Pandas](https://www.kdnuggets.com/building-data-science-pipelines-using-pandas) 
+
+- [Learn Data Analysis with Julia](https://www.kdnuggets.com/learn-data-analysis-with-julia)
+
 - [10 GitHub Repositories to Master Data Science](https://www.kdnuggets.com/10-github-repositories-to-master-data-science)
 
 - [Top 5 Linux Distro for Data Science](https://www.kdnuggets.com/top-5-linux-distro-for-data-science)
@@ -109,6 +113,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
 
 ## Machine Learning (ML)
+
+- [7 Ways to Improve Your Machine Learning Models](https://www.kdnuggets.com/7-ways-to-improve-your-machine-learning-models)
 
 - [5 Free Datasets to Start Your Machine Learning Projects](https://machinelearningmastery.com/5-free-datasets-start-your-machine-learning-projects/)
 
@@ -217,6 +223,12 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [Fine-Tuning Llama 3.1 for Text Classification](https://www.datacamp.com/tutorial/fine-tuning-llama-3-1)
+
+- [Fine-Tuning Gemma 2 and Using it Locally](https://www.datacamp.com/tutorial/fine-tuning-gemma-2)
+
+- [RAG vs Fine-Tuning: A Comprehensive Tutorial with Practical Examples](https://www.datacamp.com/tutorial/rag-vs-fine-tuning)
 
 - [Cohere Command R+: A Complete Step-by-Step Tutorial](https://www.datacamp.com/tutorial/cohere-command-r-tutorial)
 
