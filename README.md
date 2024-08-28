@@ -1,6 +1,6 @@
 Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guides, projects, and books covering data analytics, machine learning, SQL, Python, natural language processing, large language models, artificial intelligence, machine learning operations, and career guidance.
 
-> I have published over 340+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
+> I have published over 380+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
 
 ## Categories
 
@@ -68,6 +68,12 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Science
 
+- [Top 7 Alternatives to VSCode for Data Science](https://www.statology.org/top-7-alternatives-to-vscode-for-data-science/)
+
+- [Top 10 Free Statistics Blogs and Websites to Follow](https://www.statology.org/top-10-free-statistics-blogs-and-websites-to-follow/)
+
+- [10 GitHub Repositories to Master Statistics](https://www.kdnuggets.com/10-github-repositories-to-master-statistics)
+
 - [Building Data Science Pipelines Using Pandas](https://www.kdnuggets.com/building-data-science-pipelines-using-pandas) 
 
 - [Learn Data Analysis with Julia](https://www.kdnuggets.com/learn-data-analysis-with-julia)
@@ -113,6 +119,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
 
 ## Machine Learning (ML)
+
+- [7 Machine Learning Projects That Can Add Value to Any Resume](https://machinelearningmastery.com/7-machine-learning-projects-that-can-add-value-to-any-resume/)
 
 - [7 Ways to Improve Your Machine Learning Models](https://www.kdnuggets.com/7-ways-to-improve-your-machine-learning-models)
 
@@ -182,6 +190,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [DeepChecks Tutorial: Automating Machine Learning Testing](https://www.datacamp.com/tutorial/automating-machine-learning-testing-using-deep-checks)
+
 - [Beginner’s Guide to Machine Learning Testing With DeepChecks](https://www.kdnuggets.com/beginners-guide-to-machine-learning-testing-with-deepchecks)
 
 - [5 Best End-to-End Open Source MLOps Tools](https://www.kdnuggets.com/5-best-end-to-end-open-source-mlops-tools)
@@ -223,6 +233,14 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [10 Free Resources on LLMs](https://www.statology.org/10-free-resources-on-llms/)
+
+- [3 Ways of Using Gemma 2 Locally](https://machinelearningmastery.com/3-ways-of-using-gemma-2-locally/)
+
+- [12 LLM Projects For All Levels](https://www.datacamp.com/blog/llm-projects)
+
+- [Building a Simple RAG Application Using LlamaIndex](https://machinelearningmastery.com/building-a-simple-rag-application-using-llamaindex/)
 
 - [Fine-Tuning Llama 3.1 for Text Classification](https://www.datacamp.com/tutorial/fine-tuning-llama-3-1)
 
@@ -315,6 +333,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
 
 ## Artificial Intelligence (AI)
+
+- [3 Ways of Building Python Projects using GPT-4o](https://www.kdnuggets.com/3-ways-of-building-python-projects-using-gpt-4o)
+
+- [7 AI Portfolio Projects to Boost the Resume](https://www.kdnuggets.com/7-ai-portfolio-projects-to-boost-the-resume)
 
 - [DuckDB Tutorial: Building AI Projects](https://www.datacamp.com/tutorial/building-ai-projects-with-duckdb)
 
@@ -476,6 +498,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ### Free Courses
 
+- [7 Free Resource to Master LLMs](https://machinelearningmastery.com/7-free-resource-to-master-llms/)
+
 - [5 Free Online Courses to Learn Data Science Fundamentals](https://www.kdnuggets.com/5-free-online-courses-to-learn-data-science-fundamentals)
 
 - [5 Free Courses on Reinforcement Learning](https://machinelearningmastery.com/5-free-courses-on-reinforcement-learning/)
@@ -503,6 +527,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [A Complete Collection of Data Science Free Courses – Part 1](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-1.html)
 
 ## Books by Abid
+
+- [Mastering Digital Art with Stable Diffusion](https://machinelearningmastery.com/mastering-digital-art-with-stable-diffusion/) by Abid, Vidhi, Kanwal, & Adrian
 
 - [Maximizing Productivity with ChatGPT](https://machinelearningmastery.com/productivity-with-chatgpt/) by Abid, Matthew, Kanwal, & Adrian
 
