@@ -68,6 +68,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Science
 
+- [10 Most Asked Data Science Interview Questions](https://www.statology.org/10-most-asked-data-science-interview-questions/)
+
+- [5 Common Data Science Mistakes and How to Avoid Them](https://www.kdnuggets.com/5-common-data-science-mistakes-and-how-to-avoid-them)
+
 - [Top 7 Alternatives to VSCode for Data Science](https://www.statology.org/top-7-alternatives-to-vscode-for-data-science/)
 
 - [Top 10 Free Statistics Blogs and Websites to Follow](https://www.statology.org/top-10-free-statistics-blogs-and-websites-to-follow/)
@@ -119,6 +123,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
 
 ## Machine Learning (ML)
+
+- [Time Series Forecasting With TimeGPT ](https://www.datacamp.com/tutorial/time-series-forecasting-with-time-gpt)
 
 - [7 Machine Learning Projects That Can Add Value to Any Resume](https://machinelearningmastery.com/7-machine-learning-projects-that-can-add-value-to-any-resume/)
 
@@ -233,6 +239,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [LlaMA-Factory WebUI Beginner's Guide: Fine-Tuning LLMs](https://www.datacamp.com/tutorial/llama-factory-web-ui-guide-fine-tuning-llms)
 
 - [10 Free Resources on LLMs](https://www.statology.org/10-free-resources-on-llms/)
 
@@ -425,6 +433,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [5 Free Tools For Detecting ChatGPT, GPT3, and GPT2](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html)
 
 ## Data Engineering
+
+- [Building Data Pipeline with Prefect](https://www.kdnuggets.com/building-data-pipeline-with-prefect)
 
 - [7 Modern SQL Databases You Must Know in 2024](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024)
 
