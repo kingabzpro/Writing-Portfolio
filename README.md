@@ -1,6 +1,6 @@
 Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guides, projects, and books covering data analytics, machine learning, SQL, Python, natural language processing, large language models, artificial intelligence, machine learning operations, and career guidance.
 
-> I have published over 380+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
+> I have published over 450+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
 
 ## Categories
 
@@ -124,6 +124,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning (ML)
 
+- [Top 5 Machine Learning APIs Practitioners Should Know](https://www.kdnuggets.com/top-5-machine-learning-apis-practitioners-should-know)
+
 - [Time Series Forecasting With TimeGPT ](https://www.datacamp.com/tutorial/time-series-forecasting-with-time-gpt)
 
 - [7 Machine Learning Projects That Can Add Value to Any Resume](https://machinelearningmastery.com/7-machine-learning-projects-that-can-add-value-to-any-resume/)
@@ -195,6 +197,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Encoding Categorical Features with MultiLabelBinarizer](https://www.kdnuggets.com/2023/01/encoding-categorical-features-multilabelbinarizer.html)
 
 ## Machine Learning Operations (MLOps)
+
+- [Using FastAPI for Building ML-Powered Web Apps](https://www.kdnuggets.com/using-fastapi-for-building-ml-powered-web-apps)
 
 - [DeepChecks Tutorial: Automating Machine Learning Testing](https://www.datacamp.com/tutorial/automating-machine-learning-testing-using-deep-checks)
 
@@ -341,6 +345,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
 
 ## Artificial Intelligence (AI)
+
+- [Using FLUX.1 Locally](https://www.kdnuggets.com/using-flux-1-locally)
 
 - [3 Ways of Building Python Projects using GPT-4o](https://www.kdnuggets.com/3-ways-of-building-python-projects-using-gpt-4o)
 
