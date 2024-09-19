@@ -68,6 +68,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Science
 
+- [7 Free Cloud IDE for Data Science That You Are Missing Out](https://www.kdnuggets.com/7-free-cloud-ide-for-data-science-that-you-are-missing-out)
+
 - [10 Most Asked Data Science Interview Questions](https://www.statology.org/10-most-asked-data-science-interview-questions/)
 
 - [5 Common Data Science Mistakes and How to Avoid Them](https://www.kdnuggets.com/5-common-data-science-mistakes-and-how-to-avoid-them)
@@ -123,6 +125,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
 
 ## Machine Learning (ML)
+
+- [OpenAI o1-preview Tutorial: Building a Machine Learning Project](https://www.datacamp.com/tutorial/open-ai-o1-tutorial-machine-learning-project)
 
 - [Top 5 Machine Learning APIs Practitioners Should Know](https://www.kdnuggets.com/top-5-machine-learning-apis-practitioners-should-know)
 
@@ -328,6 +332,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Computer Vision
 
+- [10 GitHub Repositories to Master Computer Vision](https://www.kdnuggets.com/10-github-repositories-to-master-computer-vision)
+
 - [Further Stable Diffusion Pipeline with Diffusers](https://machinelearningmastery.com/further-stable-diffusion-pipeline-with-diffusers/)
 
 - [Using OpenPose with Stable Diffusion](https://machinelearningmastery.com/openpose-with-stable-diffusion/)
@@ -345,6 +351,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
 
 ## Artificial Intelligence (AI)
+
+- [Getting Started with OpenAI o1 Reasoning Models](https://www.kdnuggets.com/getting-started-with-openai-o1-reasoning-models)
 
 - [Using FLUX.1 Locally](https://www.kdnuggets.com/using-flux-1-locally)
 
@@ -439,6 +447,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [5 Free Tools For Detecting ChatGPT, GPT3, and GPT2](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html)
 
 ## Data Engineering
+
+- [A Beginner’s Guide to ClickHouse Database](https://www.kdnuggets.com/a-beginners-guide-to-clickhouse-database)
 
 - [Building Data Pipeline with Prefect](https://www.kdnuggets.com/building-data-pipeline-with-prefect)
 
