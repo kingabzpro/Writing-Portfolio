@@ -8,6 +8,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Python
 
+- [7 Free Online Python REPLs](https://www.kdnuggets.com/7-free-online-python-repls)
+
 - [Emulating a Do-While Loop in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/do-while-loop-python)
 
 - [A Beginner's Guide to Python for Loops: Mastering for i in range](https://www.datacamp.com/tutorial/python-for-i-in-range)
@@ -125,6 +127,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
 
 ## Machine Learning (ML)
+
+- [10 GitHub Repositories for Deep Learning Enthusiasts](https://www.kdnuggets.com/10-github-repositories-for-deep-learning-enthusiasts)
 
 - [OpenAI o1-preview Tutorial: Building a Machine Learning Project](https://www.datacamp.com/tutorial/open-ai-o1-tutorial-machine-learning-project)
 
@@ -247,6 +251,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [Fine-tuning Llama 3.2: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-llama-3-2)
+
+- [Building 3 Fun AI Applications with ControlFlow](https://machinelearningmastery.com/building-3-fun-ai-applications-with-controlflow/)
 
 - [LlaMA-Factory WebUI Beginner's Guide: Fine-Tuning LLMs](https://www.datacamp.com/tutorial/llama-factory-web-ui-guide-fine-tuning-llms)
 
