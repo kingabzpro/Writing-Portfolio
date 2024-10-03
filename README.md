@@ -128,6 +128,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning (ML)
 
+- [Stock Market Forecasting with TimeGPT](https://www.kdnuggets.com/stock-market-forecasting-with-timegpt)
+
 - [10 GitHub Repositories for Deep Learning Enthusiasts](https://www.kdnuggets.com/10-github-repositories-for-deep-learning-enthusiasts)
 
 - [OpenAI o1-preview Tutorial: Building a Machine Learning Project](https://www.datacamp.com/tutorial/open-ai-o1-tutorial-machine-learning-project)
@@ -206,6 +208,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [Jenkins for MLOps: A Complete CI/CD Tutorial](https://www.datacamp.com/tutorial/jenkins-tutorial)
+
 - [Using FastAPI for Building ML-Powered Web Apps](https://www.kdnuggets.com/using-fastapi-for-building-ml-powered-web-apps)
 
 - [DeepChecks Tutorial: Automating Machine Learning Testing](https://www.datacamp.com/tutorial/automating-machine-learning-testing-using-deep-checks)
@@ -251,6 +255,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [Using Llama 3.2 Locally](https://www.kdnuggets.com/using-llama-3-2-locally)
 
 - [Fine-tuning Llama 3.2: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-llama-3-2)
 
@@ -459,6 +465,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [A Beginner’s Guide to ClickHouse Database](https://www.kdnuggets.com/a-beginners-guide-to-clickhouse-database)
 
 - [Building Data Pipeline with Prefect](https://www.kdnuggets.com/building-data-pipeline-with-prefect)
+
+- [Top 5 Airflow Alternatives for Data Orchestration (Code Examples Included)](https://www.datacamp.com/blog/airflow-alternatives)
 
 - [7 Modern SQL Databases You Must Know in 2024](https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024)
 
