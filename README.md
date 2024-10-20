@@ -8,6 +8,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Python
 
+- [How to Learn Python the Lazy Way](https://www.kdnuggets.com/how-to-learn-python-the-lazy-way)
+
 - [7 Free Online Python REPLs](https://www.kdnuggets.com/7-free-online-python-repls)
 
 - [Emulating a Do-While Loop in Python: A Comprehensive Guide for Beginners](https://www.datacamp.com/tutorial/do-while-loop-python)
@@ -44,6 +46,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Programming
 
+- [10 GitHub Features That You Are Missing Out On](https://www.kdnuggets.com/10-github-features-that-you-are-missing-out-on)
+
 - [10 Essential DevOps Tools Every Beginner Should Learn](https://www.kdnuggets.com/10-essential-devops-tools-every-beginner-should-learn)
 
 - [Getting Started With Go Programing For Data Science ](https://www.kdnuggets.com/getting-started-with-go-programing-for-data-science)
@@ -69,6 +73,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [3 Julia Packages for Data Visualization](https://www.kdnuggets.com/2023/02/3-julia-packages-data-visualization.html)
 
 ## Data Science
+
+- [7 Free Data Science Platform for Beginners](https://www.kdnuggets.com/7-free-data-science-platform-for-beginners)
 
 - [7 Free Cloud IDE for Data Science That You Are Missing Out](https://www.kdnuggets.com/7-free-cloud-ide-for-data-science-that-you-are-missing-out)
 
@@ -255,6 +261,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [Fine-Tuning Phi-3.5 on E-Commerce Classification Dataset](https://www.datacamp.com/tutorial/fine-tuning-phi-3-5)
+
+- [Fine-tuning GPT-4o Mini: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-gpt-4o-mini)
 
 - [Using Llama 3.2 Locally](https://www.kdnuggets.com/using-llama-3-2-locally)
 
@@ -462,6 +472,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Engineering
 
+- [7 Data Engineering Tools for Beginners](https://www.kdnuggets.com/7-data-engineering-tools-for-beginners)
+
 - [A Beginner’s Guide to ClickHouse Database](https://www.kdnuggets.com/a-beginners-guide-to-clickhouse-database)
 
 - [Building Data Pipeline with Prefect](https://www.kdnuggets.com/building-data-pipeline-with-prefect)
@@ -493,6 +505,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [10 GitHub Repositories to Master Machine Learning](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning)
 
 ### Career Advice
+
+- [Roadmap for AI Engineers](https://www.kdnuggets.com/roadmap-for-ai-engineers)
 
 - [Free Python Resources That Can Help You Become a Pro](https://www.kdnuggets.com/free-python-resources-that-can-help-you-become-a-pro)
 
