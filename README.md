@@ -250,7 +250,7 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Natural Language Processing (NLP)
 
-- [What is Tokenization? Types, Use Cases, Implementation](https://www.datacamp.com/blog/what-is-tokenization)
+- [10 GitHub Repositories to Master Natural Language Processing (NLP)](https://www.kdnuggets.com/10-github-repositories-to-master-natural-language-processing-nlp)
 
 - [What is Named Entity Recognition (NER)? Methods, Use Cases, and Challenges](https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
 
@@ -261,6 +261,12 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [Anthropic Computer Use: Automate Your Desktop With Claude 3.5](https://www.datacamp.com/blog/what-is-anthropic-computer-use)
+
+- [Fine-tuning Llama 3.2 Using Unsloth](https://www.kdnuggets.com/fine-tuning-llama-using-unsloth)
+
+- [Top 15 LLMOps Tools for Building AI Applications in 2024](https://www.datacamp.com/blog/llmops-tools)
 
 - [Fine-Tuning Phi-3.5 on E-Commerce Classification Dataset](https://www.datacamp.com/tutorial/fine-tuning-phi-3-5)
 
