@@ -8,6 +8,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Python
 
+- [Mastering f-strings in Python](https://www.kdnuggets.com/mastering-f-strings-in-python)
+
 - [How to Learn Python the Lazy Way](https://www.kdnuggets.com/how-to-learn-python-the-lazy-way)
 
 - [7 Free Online Python REPLs](https://www.kdnuggets.com/7-free-online-python-repls)
@@ -29,6 +31,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Python String Matching Without Complex RegEx Syntax](https://www.kdnuggets.com/2023/02/python-string-matching-without-complex-regex-syntax.html)
 
 ## SQL
+
+- [How to Learn SQL the Lazy Way](https://www.kdnuggets.com/how-to-learn-sql-the-lazy-way)
 
 - [Using SQL with Python: SQLAlchemy and Pandas](https://www.kdnuggets.com/using-sql-with-python-sqlalchemy-and-pandas)
 
@@ -214,6 +218,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning Operations (MLOps)
 
+- [Introduction to Podman for Machine Learning: Streamlining MLOps Workflows](https://www.datacamp.com/tutorial/introduction-to-podman-for-machine-learning-streamlining-ml-ops-workflows)
+
 - [Jenkins for MLOps: A Complete CI/CD Tutorial](https://www.datacamp.com/tutorial/jenkins-tutorial)
 
 - [Using FastAPI for Building ML-Powered Web Apps](https://www.kdnuggets.com/using-fastapi-for-building-ml-powered-web-apps)
@@ -261,6 +267,12 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [Best No-Code LLM App Builders](https://www.kdnuggets.com/best-no-code-llm-app-builders)
+
+- [Local AI with Docker, n8n, Qdrant, and Ollama](https://www.datacamp.com/tutorial/local-ai)
+
+- [Fine-Tuning GPT-4o](https://www.kdnuggets.com/fine-tuning-gpt-4o)
 
 - [Anthropic Computer Use: Automate Your Desktop With Claude 3.5](https://www.datacamp.com/blog/what-is-anthropic-computer-use)
 
@@ -361,6 +373,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [How Watermarking Can Help Mitigate The Potential Risks Of LLMs?](https://www.kdnuggets.com/2023/03/watermarking-help-mitigate-potential-risks-llms.html)
 
 ## Computer Vision
+
+- [7 Computer Vision Projects for All Levels](https://www.kdnuggets.com/7-computer-vision-projects-for-all-levels)
 
 - [10 GitHub Repositories to Master Computer Vision](https://www.kdnuggets.com/10-github-repositories-to-master-computer-vision)
 
