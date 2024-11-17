@@ -8,9 +8,9 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Python
 
-- [Mastering f-strings in Python](https://www.kdnuggets.com/mastering-f-strings-in-python)
+- [A New Python Package Manager](https://www.kdnuggets.com/new-python-package-manager)
 
-- [How to Learn Python the Lazy Way](https://www.kdnuggets.com/how-to-learn-python-the-lazy-way)
+- [Mastering f-strings in Python](https://www.kdnuggets.com/mastering-f-strings-in-python)
 
 - [7 Free Online Python REPLs](https://www.kdnuggets.com/7-free-online-python-repls)
 
@@ -31,8 +31,6 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Python String Matching Without Complex RegEx Syntax](https://www.kdnuggets.com/2023/02/python-string-matching-without-complex-regex-syntax.html)
 
 ## SQL
-
-- [How to Learn SQL the Lazy Way](https://www.kdnuggets.com/how-to-learn-sql-the-lazy-way)
 
 - [Using SQL with Python: SQLAlchemy and Pandas](https://www.kdnuggets.com/using-sql-with-python-sqlalchemy-and-pandas)
 
@@ -267,6 +265,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
 ## Large Language Models (LLMs)
+
+- [HumanEval: A Benchmark for Evaluating LLM Code Generation Capabilities](https://www.datacamp.com/tutorial/humaneval-benchmark-for-evaluating-llm-code-generation-capabilities)
 
 - [Best No-Code LLM App Builders](https://www.kdnuggets.com/best-no-code-llm-app-builders)
 
@@ -526,7 +526,17 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ### Career Advice
 
+- [Getting Addicted to Coding](https://www.kdnuggets.com/getting-addicted-to-coding)
+
+- [How to Learn AI the Lazy Way](https://www.kdnuggets.com/how-to-learn-ai-the-lazy-way)
+
+- [Roadmap for Becoming a Data Scientist](https://www.kdnuggets.com/roadmap-for-becoming-a-data-scientist)
+
 - [Roadmap for AI Engineers](https://www.kdnuggets.com/roadmap-for-ai-engineers)
+
+- [How to Learn Python the Lazy Way](https://www.kdnuggets.com/how-to-learn-python-the-lazy-way)
+
+- [How to Learn SQL the Lazy Way](https://www.kdnuggets.com/how-to-learn-sql-the-lazy-way)
 
 - [Free Python Resources That Can Help You Become a Pro](https://www.kdnuggets.com/free-python-resources-that-can-help-you-become-a-pro)
 
