@@ -266,6 +266,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Large Language Models (LLMs)
 
+- [How to Deploy LLM Applications Using Docker: A Step-by-Step Guide](https://www.datacamp.com/tutorial/deploy-llm-applications-using-docker)
+
+- [Run Local LLMs with Cortex](https://www.kdnuggets.com/run-local-llms-with-cortex)
+
 - [HumanEval: A Benchmark for Evaluating LLM Code Generation Capabilities](https://www.datacamp.com/tutorial/humaneval-benchmark-for-evaluating-llm-code-generation-capabilities)
 
 - [Best No-Code LLM App Builders](https://www.kdnuggets.com/best-no-code-llm-app-builders)
@@ -557,6 +561,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [3 Things I Wish I Knew When I Started Data Science](https://www.kdnuggets.com/2023/01/3-things-wish-knew-started-data-science.html)
 
 ### Guides
+
+- [Stop Applying for Jobs!](https://www.kdnuggets.com/stop-applying-for-jobs)
 
 - [Collection of Guides on Mastering SQL, Python, Data Cleaning, Data Wrangling, and Exploratory Data Analysis](https://www.kdnuggets.com/collection-of-guides-on-mastering-sql-python-data-cleaning-data-wrangling-and-exploratory-data-analysis)
 
