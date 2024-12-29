@@ -48,6 +48,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Programming
 
+- [Learn to Code with GitHub](https://www.kdnuggets.com/learn-to-code-github)
+
 - [10 GitHub Features That You Are Missing Out On](https://www.kdnuggets.com/10-github-features-that-you-are-missing-out-on)
 
 - [10 Essential DevOps Tools Every Beginner Should Learn](https://www.kdnuggets.com/10-essential-devops-tools-every-beginner-should-learn)
@@ -136,6 +138,10 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Machine Learning (ML)
 
+- [How to Get Addicted to Machine Learning](https://www.kdnuggets.com/how-to-get-addicted-machine-learning)
+
+- [10 GitHub Repositories to Master Reinforcement Learning](https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning)
+
 - [Stock Market Forecasting with TimeGPT](https://www.kdnuggets.com/stock-market-forecasting-with-timegpt)
 
 - [10 GitHub Repositories for Deep Learning Enthusiasts](https://www.kdnuggets.com/10-github-repositories-for-deep-learning-enthusiasts)
@@ -215,6 +221,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [Encoding Categorical Features with MultiLabelBinarizer](https://www.kdnuggets.com/2023/01/encoding-categorical-features-multilabelbinarizer.html)
 
 ## Machine Learning Operations (MLOps)
+
+- [7 Essential Python Libraries for MLOps](https://www.kdnuggets.com/7-essential-python-libraries-mlops)
 
 - [Introduction to Podman for Machine Learning: Streamlining MLOps Workflows](https://www.datacamp.com/tutorial/introduction-to-podman-for-machine-learning-streamlining-ml-ops-workflows)
 
@@ -400,6 +408,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Artificial Intelligence (AI)
 
+- [Artificial Intelligence for Noobs](https://www.kdnuggets.com/artificial-intelligence-noobs)
+
 - [Getting Started with OpenAI o1 Reasoning Models](https://www.kdnuggets.com/getting-started-with-openai-o1-reasoning-models)
 
 - [Using FLUX.1 Locally](https://www.kdnuggets.com/using-flux-1-locally)
@@ -496,6 +506,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 
 ## Data Engineering
 
+- [7 Projects to Master Data Engineering](https://www.kdnuggets.com/7-projects-master-data-engineering)
+
 - [7 Data Engineering Tools for Beginners](https://www.kdnuggets.com/7-data-engineering-tools-for-beginners)
 
 - [A Beginner’s Guide to ClickHouse Database](https://www.kdnuggets.com/a-beginners-guide-to-clickhouse-database)
@@ -529,6 +541,8 @@ Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guid
 - [10 GitHub Repositories to Master Machine Learning](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning)
 
 ### Career Advice
+
+- [Build a Strong Portfolio for Data Science Career](https://www.kdnuggets.com/build-strong-portfolio-data-science-career)
 
 - [Getting Addicted to Coding](https://www.kdnuggets.com/getting-addicted-to-coding)
 
