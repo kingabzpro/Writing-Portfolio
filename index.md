@@ -19,7 +19,7 @@ My portfolio includes comprehensive content across multiple domains:
 - [Data Engineering](pages/data-engineering) - Data pipeline and infrastructure
 - [Career Resources](pages/career-advice) - Career guidance and interview prep
 - [Cheat Sheets](pages/cheat-sheets) - Quick reference guides
-- 🌟[Books Published by Abid](pages/books-by-abid) - Published books and ebooks
+- **[Books Published by Abid](pages/books-by-abid)** - Published books and ebooks
 
 > I am continuously adding new content. Please star ⭐ the repository to stay updated!
 

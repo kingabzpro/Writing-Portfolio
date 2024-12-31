@@ -105,4 +105,4 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [A Complete Collection of Data Science Free Courses – Part 1](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-1.html)
 
 ## Related Resources
-- [Back to Home](/)
+- [Back to Home](Writing-Portfolio)
