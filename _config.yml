@@ -5,6 +5,12 @@ plugins:
 title: "Abid's Writing Portfolio"
 description: "Blogs | Tutorials | Cheat sheets | Projects | Books | Career Guide"
 
+# Collections
+collections:
+  pages:
+    output: true
+    permalink: /:collection/:name
+
 # Build settings
 markdown: kramdown
 exclude:

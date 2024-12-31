@@ -23,7 +23,7 @@
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-          <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
+        <a href="{{ site.github.owner_url }}" class="button"><small>Follow me on</small> GitHub</a>
       </div>
     </header>
 
@@ -34,16 +34,23 @@
         </section>
 
         <aside id="sidebar">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="button">
-              <small>Download</small>
-              .zip file
-            </a>
-            <a href="{{ site.github.tar_url }}" class="button">
-              <small>Download</small>
-              .tar.gz file
-            </a>
-          {% endif %}
+          <h3>Categories</h3>
+          <ul>
+            <li><a href="/pages/python">Python</a></li>
+            <li><a href="/pages/sql">SQL</a></li>
+            <li><a href="/pages/programming">Programming</a></li>
+            <li><a href="/pages/data-science">Data Science</a></li>
+            <li><a href="/pages/machine-learning">Machine Learning</a></li>
+            <li><a href="/pages/mlops">MLOps</a></li>
+            <li><a href="/pages/nlp">NLP</a></li>
+            <li><a href="/pages/llm">LLMs</a></li>
+            <li><a href="/pages/computer-vision">Computer Vision</a></li>
+            <li><a href="/pages/artificial-intelligence">AI</a></li>
+            <li><a href="/pages/data-engineering">Data Engineering</a></li>
+            <li><a href="/pages/career">Career</a></li>
+            <li><a href="/pages/books">Books</a></li>
+            <li><a href="/pages/cheatsheets">Cheat Sheets</a></li>
+          </ul>
         </aside>
       </div>
     </div>
