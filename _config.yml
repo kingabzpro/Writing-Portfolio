@@ -1,6 +1,7 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
 
 title: "Abid's Writing Portfolio"
 description: "Blogs | Tutorials | Cheat sheets | Projects | Books | Career Guide"
