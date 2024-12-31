@@ -1,4 +1,4 @@
-Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guides, projects, and books covering data analytics, machine learning, SQL, Python, natural language processing, large language models, artificial intelligence, machine learning operations, and career guidance.
+Abid's writing portfolio is a collection of blogs, tutorials, cheat sheets, guides, projects, and books covering data analytics, machine learning, SQL, Python, natural language processing, large language models, artificial intelligence, machine learning operations, and career guidance..
 
 > I have published over 450+ pieces online, and it will take me a few weeks to add them all. Please keep checking back weekly for updates. Thank you for your patience. Don't forget to Star ⭐ the repository.
 
