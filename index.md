@@ -6,7 +6,7 @@ I am a passionate writer and educator in the field of data science, artificial i
 
 My portfolio includes comprehensive content across multiple domains:
 
-- [Python Programming](/pages/python) - Tutorials and guides on Python programming
+- [Python Programming](Writing-Portfolio/pages/python) - Tutorials and guides on Python programming
 - [SQL](/pages/sql) - SQL tutorials and database management
 - [Programming](/pages/programming) - General programming concepts and tutorials
 - [Data Science](/pages/data-science) - Data analysis and visualization
