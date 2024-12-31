@@ -52,4 +52,4 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 - [5 Free Tools For Detecting ChatGPT, GPT3, and GPT2](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

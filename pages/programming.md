@@ -20,4 +20,4 @@ A collection of resources, tutorials, and articles about Programming.
 - [3 Julia Packages for Data Visualization](https://www.kdnuggets.com/2023/02/3-julia-packages-data-visualization.html)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

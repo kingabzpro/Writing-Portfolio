@@ -12,4 +12,4 @@ A collection of resources, tutorials, and articles about SQL.
 - [SQL With CSVs](https://www.kdnuggets.com/2023/01/sql-csvs.html)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

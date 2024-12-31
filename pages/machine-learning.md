@@ -47,4 +47,4 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 - [Encoding Categorical Features with MultiLabelBinarizer](https://www.kdnuggets.com/2023/01/encoding-categorical-features-multilabelbinarizer.html)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

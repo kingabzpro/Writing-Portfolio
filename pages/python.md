@@ -17,4 +17,4 @@ A collection of resources, tutorials, and articles about Python.
 - [Python String Matching Without Complex RegEx Syntax](https://www.kdnuggets.com/2023/02/python-string-matching-without-complex-regex-syntax.html)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

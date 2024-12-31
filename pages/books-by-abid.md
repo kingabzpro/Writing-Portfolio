@@ -10,4 +10,4 @@ Books by Abid.
 - [The Complete Collection of Data Science Cheat Sheets - Ebook](https://www.kdnuggets.com/news/subscribe.html)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

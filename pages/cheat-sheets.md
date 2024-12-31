@@ -25,4 +25,4 @@ A collection of resources, tutorials, and articles about Cheat Sheets.
 - [Getting Started with SQL Cheatsheet](https://www.kdnuggets.com/2022/08/getting-started-sql-cheatsheet.html)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

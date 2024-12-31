@@ -34,4 +34,4 @@ A collection of resources, tutorials, and articles about Data Science.
 - [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

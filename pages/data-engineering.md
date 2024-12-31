@@ -17,4 +17,4 @@ A collection of resources, tutorials, and articles about Data Engineering.
 - [The Top 5 Data Management Tools For Your Projects](https://www.kdnuggets.com/top-5-data-management-tools-for-your-projects)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)

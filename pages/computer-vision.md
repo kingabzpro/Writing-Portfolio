@@ -16,4 +16,4 @@ A collection of resources, tutorials, and articles about Computer Vision.
 - [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
 
 ## Related Resources
-- [Back to Home](Writing-Portfolio)
+- [Back to Home](/Writing-Portfolio)
