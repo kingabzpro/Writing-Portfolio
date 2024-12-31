@@ -1,7 +1,17 @@
-remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-architect
 plugins:
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-seo-tag
 
 title: "Abid's Writing Portfolio"
 description: "Blogs | Tutorials | Cheat sheets | Projects | Books | Career Guide"
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
