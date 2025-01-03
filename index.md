@@ -1,6 +1,13 @@
 # Welcome to Abid's Writing Portfolio
 
-I am a passionate writer and educator in the field of data science, artificial intelligence, and programming. With over 450+ published pieces online, I strive to make complex technical concepts accessible to everyone.
+<div class="author-section">
+  <img src="assets/images/author.png" alt="Abid's Profile Picture" class="author-image" style="width: 200px; border-radius: 50%; margin: 20px auto; display: block;">
+  
+  <div class="author-bio">
+    Hello! I'm Abid, a dedicated technical writer and educator with a passion for making complex concepts accessible to everyone. With a strong background in data science and programming, I've authored over 450 articles that bridge the gap between technical complexity and practical understanding.
+    My mission is to empower learners worldwide by breaking down complex technical concepts into digestible, engaging content. Whether you're a beginner taking your first steps in programming or an experienced developer looking to expand your knowledge, you'll find valuable resources here.
+  </div>
+</div>
 
 ## About My Work
 
@@ -27,4 +34,4 @@ My portfolio includes comprehensive content across multiple domains:
 
 - [GitHub](https://github.com/yourusername)
 - [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername) 
+- [Twitter](https://twitter.com/yourusername)
