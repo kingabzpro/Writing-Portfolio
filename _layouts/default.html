@@ -21,36 +21,14 @@
         --sidebar-bg: #f5f5f5;
       }
       
-      [data-theme="dark"] {
-        --primary-color: #3498db;
-        --secondary-color: #2ecc71;
-        --text-color: #f5f5f5;
-        --bg-color: #1a1a1a;
-        --sidebar-bg: #2c2c2c;
-      }
-
       body {
         background-color: var(--bg-color);
         color: var(--text-color);
-        transition: all 0.3s ease;
       }
 
       header {
         background: var(--primary-color);
         padding: 2rem 0;
-      }
-
-      #theme-toggle {
-        position: fixed;
-        top: 1rem;
-        right: 1rem;
-        padding: 0.5rem;
-        border-radius: 50%;
-        border: none;
-        background: var(--secondary-color);
-        color: var(--bg-color);
-        cursor: pointer;
-        transition: all 0.3s ease;
       }
 
       #content-wrapper {
@@ -174,12 +152,6 @@
         color: var(--text-color);
         font-size: 1.5rem;
       }
-
-      @media (max-width: 768px) {
-        #sidebar {
-          margin-top: 2rem;
-        }
-      }
     </style>
 
     <!--[if lt IE 9]>
@@ -191,10 +163,6 @@
   </head>
 
   <body>
-    <button id="theme-toggle" aria-label="Toggle dark mode">
-      <i class="fas fa-moon"></i>
-    </button>
-
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
@@ -238,25 +206,5 @@
         </aside>
       </div>
     </div>
-
-    <script>
-      const themeToggle = document.getElementById('theme-toggle');
-      const themeIcon = themeToggle.querySelector('i');
-      
-      function setTheme(isDark) {
-        document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
-        themeIcon.className = isDark ? 'fas fa-sun' : 'fas fa-moon';
-        localStorage.setItem('theme', isDark ? 'dark' : 'light');
-      }
-
-      themeToggle.addEventListener('click', () => {
-        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-        setTheme(!isDark);
-      });
-
-      // Set initial theme
-      const savedTheme = localStorage.getItem('theme') || 'light';
-      setTheme(savedTheme === 'dark');
-    </script>
   </body>
 </html>

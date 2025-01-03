@@ -16,44 +16,47 @@
 
 <div class="content-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
   <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
-    <h3><i class="fab fa-python" style="color: var(--secondary-color);"></i> Python Programming</h3>
-    <p>Comprehensive tutorials and guides for Python programming, from basics to advanced topics.</p>
-    <a href="pages/python" style="color: var(--secondary-color);">Learn More →</a>
+    <h3><i class="fas fa-cogs" style="color: var(--secondary-color);"></i> MLOps</h3>
+    <p>Comprehensive guides on Machine Learning Operations, deployment, and scaling ML systems.</p>
+    <a href="pages/machine-learning-operations" style="color: var(--secondary-color);">Learn More →</a>
+  </div>
+
+  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
+    <h3><i class="fas fa-brain" style="color: var(--secondary-color);"></i> Large Language Models</h3>
+    <p>Deep dives into LLMs, transformers, and state-of-the-art NLP applications.</p>
+    <a href="pages/large-language-models" style="color: var(--secondary-color);">Learn More →</a>
   </div>
 
   <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
     <h3><i class="fas fa-robot" style="color: var(--secondary-color);"></i> Machine Learning</h3>
-    <p>Deep dives into ML algorithms, practical implementations, and real-world applications.</p>
+    <p>In-depth tutorials on ML algorithms, deep learning, and practical implementations.</p>
     <a href="pages/machine-learning" style="color: var(--secondary-color);">Learn More →</a>
-  </div>
-
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
-    <h3><i class="fas fa-brain" style="color: var(--secondary-color);"></i> LLMs & AI</h3>
-    <p>Latest developments in Large Language Models and Artificial Intelligence.</p>
-    <a href="pages/large-language-models" style="color: var(--secondary-color);">Learn More →</a>
   </div>
 </div>
 
 ## 🎯 Popular Topics
 
 <div class="topics-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
-  <a href="pages/sql" class="topic-link">
-    <i class="fas fa-database"></i> SQL
+  <a href="pages/artificial-intelligence" class="topic-link">
+    <i class="fas fa-microchip"></i> Artificial Intelligence
   </a>
   <a href="pages/data-science" class="topic-link">
     <i class="fas fa-chart-bar"></i> Data Science
   </a>
-  <a href="pages/machine-learning-operations" class="topic-link">
-    <i class="fas fa-cogs"></i> MLOps
-  </a>
   <a href="pages/natural-language-processing" class="topic-link">
-    <i class="fas fa-language"></i> NLP
+    <i class="fas fa-language"></i> Natural Language Processing
   </a>
   <a href="pages/computer-vision" class="topic-link">
     <i class="fas fa-eye"></i> Computer Vision
   </a>
   <a href="pages/data-engineering" class="topic-link">
     <i class="fas fa-server"></i> Data Engineering
+  </a>
+  <a href="pages/programming" class="topic-link">
+    <i class="fas fa-code"></i> Programming
+  </a>
+  <a href="pages/sql" class="topic-link">
+    <i class="fas fa-database"></i> SQL
   </a>
 </div>
 
