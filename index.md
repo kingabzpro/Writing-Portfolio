@@ -7,7 +7,7 @@
   </div>
 </div>
 
-# About My Work
+## About My Work
 
 My portfolio includes comprehensive content across multiple domains:
 
@@ -28,7 +28,7 @@ My portfolio includes comprehensive content across multiple domains:
 
 > I am continuously adding new content. Please star ⭐ the repository to stay updated!
 
-# Connect With Me
+## Connect With Me
 
 - [GitHub](https://github.com/yourusername)
 - [LinkedIn](https://linkedin.com/in/yourusername)
