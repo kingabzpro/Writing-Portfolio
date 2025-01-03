@@ -60,41 +60,8 @@
   </a>
 </div>
 
-## 📈 Most Viewed Content
-
-<div class="most-viewed-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
-    <h3><i class="fas fa-docker" style="color: var(--secondary-color);"></i> Deploy LLM Applications with Docker</h3>
-    <p>Learn how to containerize and deploy Large Language Model applications efficiently using Docker.</p>
-    <a href="https://www.datacamp.com/tutorial/deploy-llm-applications-using-docker" target="_blank" style="color: var(--secondary-color);">Read More →</a>
-  </div>
-
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
-    <h3><i class="fas fa-cogs" style="color: var(--secondary-color);"></i> CI/CD for Machine Learning</h3>
-    <p>Master the implementation of Continuous Integration and Deployment for ML projects.</p>
-    <a href="https://www.datacamp.com/tutorial/ci-cd-for-machine-learning" target="_blank" style="color: var(--secondary-color);">Read More →</a>
-  </div>
-
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
-    <h3><i class="fas fa-project-diagram" style="color: var(--secondary-color);"></i> Data Engineering Projects</h3>
-    <p>Seven essential projects to master modern data engineering practices.</p>
-    <a href="https://www.kdnuggets.com/7-projects-master-data-engineering" target="_blank" style="color: var(--secondary-color);">Read More →</a>
-  </div>
-
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
-    <h3><i class="fas fa-brain" style="color: var(--secondary-color);"></i> Getting Started with ML</h3>
-    <p>A comprehensive guide to getting started and staying motivated in machine learning.</p>
-    <a href="https://www.kdnuggets.com/how-to-get-addicted-machine-learning" target="_blank" style="color: var(--secondary-color);">Read More →</a>
-  </div>
-
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
-    <h3><i class="fas fa-code" style="color: var(--secondary-color);"></i> Mastering Coding</h3>
-    <p>Tips and strategies to develop a consistent coding practice and improve your skills.</p>
-    <a href="https://www.kdnuggets.com/getting-addicted-to-coding" target="_blank" style="color: var(--secondary-color);">Read More →</a>
-  </div>
-</div>
-
 ## 📖 Latest Resources
+
 
 - 📚 **[Books Published by Abid](pages/books-by-abid)** - Check out my published books and ebooks
 - 📝 **[Career Resources](pages/career-advice)** - Career guidance and interview preparation
