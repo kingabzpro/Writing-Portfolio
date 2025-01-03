@@ -59,11 +59,10 @@
 
 ## 📖 Latest Resources
 
-<div class="resources-section" style="margin: 2rem 0;">
-  - 📚 **[Books Published by Abid](pages/books-by-abid)** - Check out my published books and ebooks
-  - 📝 **[Career Resources](pages/career-advice)** - Career guidance and interview preparation
-  - 📋 **[Cheat Sheets](pages/cheat-sheets)** - Quick reference guides for various technologies
-</div>
+
+- 📚 **[Books Published by Abid](pages/books-by-abid)** - Check out my published books and ebooks
+- 📝 **[Career Resources](pages/career-advice)** - Career guidance and interview preparation
+- 📋 **[Cheat Sheets](pages/cheat-sheets)** - Quick reference guides for various technologies
 
 <div class="cta-section" style="text-align: center; margin: 3rem 0; padding: 2rem; background: var(--sidebar-bg); border-radius: 15px;">
   <h2>Stay Updated!</h2>
