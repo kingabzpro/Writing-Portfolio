@@ -1,7 +1,5 @@
-# Welcome to Abid's Writing Portfolio
-
 <div class="author-section">
-  <img src="assets/images/author.png" alt="Abid's Profile Picture" class="author-image" style="width: 200px; border-radius: 50%; margin: 20px auto; display: block;">
+  <img src="assets/images/author.jpg" alt="Abid's Profile Picture" class="author-image" style="width: 200px; border-radius: 50%; margin: 20px auto; display: block;">
   
   <div class="author-bio">
     Hello! I'm Abid, a dedicated technical writer and educator with a passion for making complex concepts accessible to everyone. With a strong background in data science and programming, I've authored over 450 articles that bridge the gap between technical complexity and practical understanding.
@@ -9,7 +7,7 @@
   </div>
 </div>
 
-## About My Work
+# About My Work
 
 My portfolio includes comprehensive content across multiple domains:
 
@@ -30,7 +28,7 @@ My portfolio includes comprehensive content across multiple domains:
 
 > I am continuously adding new content. Please star ⭐ the repository to stay updated!
 
-## Connect With Me
+# Connect With Me
 
 - [GitHub](https://github.com/yourusername)
 - [LinkedIn](https://linkedin.com/in/yourusername)
