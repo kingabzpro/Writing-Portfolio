@@ -37,12 +37,24 @@
 ## 🎯 Popular Topics
 
 <div class="topics-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
-  - [<i class="fas fa-database"></i> SQL](pages/sql)
-  - [<i class="fas fa-chart-bar"></i> Data Science](pages/data-science)
-  - [<i class="fas fa-cogs"></i> MLOps](pages/machine-learning-operations)
-  - [<i class="fas fa-language"></i> NLP](pages/natural-language-processing)
-  - [<i class="fas fa-eye"></i> Computer Vision](pages/computer-vision)
-  - [<i class="fas fa-server"></i> Data Engineering](pages/data-engineering)
+  <a href="pages/sql" class="topic-link">
+    <i class="fas fa-database"></i> SQL
+  </a>
+  <a href="pages/data-science" class="topic-link">
+    <i class="fas fa-chart-bar"></i> Data Science
+  </a>
+  <a href="pages/machine-learning-operations" class="topic-link">
+    <i class="fas fa-cogs"></i> MLOps
+  </a>
+  <a href="pages/natural-language-processing" class="topic-link">
+    <i class="fas fa-language"></i> NLP
+  </a>
+  <a href="pages/computer-vision" class="topic-link">
+    <i class="fas fa-eye"></i> Computer Vision
+  </a>
+  <a href="pages/data-engineering" class="topic-link">
+    <i class="fas fa-server"></i> Data Engineering
+  </a>
 </div>
 
 ## 📖 Latest Resources

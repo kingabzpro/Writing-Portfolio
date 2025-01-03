@@ -63,6 +63,7 @@
       #sidebar ul {
         list-style: none;
         padding: 0;
+        margin: 0;
       }
 
       #sidebar li {
@@ -72,15 +73,50 @@
       #sidebar a {
         color: var(--text-color);
         text-decoration: none;
-        transition: color 0.3s ease;
-        display: block;
-        padding: 0.5rem;
-        border-radius: 5px;
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        padding: 0.75rem 1rem;
+        border-radius: 8px;
+      }
+
+      #sidebar a i {
+        margin-right: 10px;
+        width: 20px;
+        text-align: center;
       }
 
       #sidebar a:hover {
         background: var(--secondary-color);
         color: var(--bg-color);
+        transform: translateX(5px);
+      }
+
+      #sidebar h3 {
+        margin: 0 0 1.5rem 0;
+        padding-bottom: 0.5rem;
+        border-bottom: 2px solid var(--secondary-color);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .topic-link {
+        background: var(--sidebar-bg);
+        padding: 1rem;
+        border-radius: 8px;
+        text-decoration: none;
+        color: var(--text-color);
+        transition: all 0.3s ease;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .topic-link:hover {
+        background: var(--secondary-color);
+        color: var(--bg-color);
+        transform: translateX(5px);
       }
 
       .social-links {
@@ -150,9 +186,9 @@
           </ul>
 
           <div class="social-links">
-            <a href="https://github.com/yourusername" aria-label="GitHub"><i class="fab fa-github"></i></a>
-            <a href="https://linkedin.com/in/yourusername" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
-            <a href="https://twitter.com/yourusername" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="https://github.com/yourusername" aria-label="GitHub" title="GitHub"><i class="fab fa-github"></i></a>
+            <a href="https://linkedin.com/in/yourusername" aria-label="LinkedIn" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            <a href="https://twitter.com/yourusername" aria-label="Twitter" title="Twitter"><i class="fab fa-twitter"></i></a>
           </div>
         </aside>
       </div>
