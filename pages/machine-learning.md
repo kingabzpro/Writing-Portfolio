@@ -46,4 +46,4 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 - [Building Neural Network (NN) Models in R](https://www.datacamp.com/tutorial/neural-network-models-r)
 - [Encoding Categorical Features with MultiLabelBinarizer](https://www.kdnuggets.com/2023/01/encoding-categorical-features-multilabelbinarizer.html)
 
-<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 8px 15px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-size: 0.9em; transition: transform 0.2s ease;"><i class="fas fa-home"></i> Back to Home</a>
+<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 4px 12px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-weight: bold; font-size: 1em; transition: transform 0.2s ease;"><i class="fas fa-home"></i>Back to Home</a>
