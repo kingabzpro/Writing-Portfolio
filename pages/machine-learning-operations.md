@@ -25,4 +25,6 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 - [Build AI Chatbot in 5 Minutes with Hugging Face and Gradio](https://www.kdnuggets.com/2023/06/build-ai-chatbot-5-minutes-hugging-face-gradio.html)
 
 ## Related Resources
-- [Back to Home](/Writing-Portfolio)
+
+<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 10px 20px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 5px; margin-top: 20px;"><i class="fas fa-home"></i> Back to Home</a>
+
