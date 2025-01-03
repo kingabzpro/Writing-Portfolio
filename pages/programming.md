@@ -19,7 +19,5 @@ A collection of resources, tutorials, and articles about Programming.
 - [Getting Started with GitHub CLI](https://www.kdnuggets.com/2023/03/getting-started-github-cli.html) 
 - [3 Julia Packages for Data Visualization](https://www.kdnuggets.com/2023/02/3-julia-packages-data-visualization.html)
 
-## Related Resources
-
-<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 10px 20px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 5px; margin-top: 20px;"><i class="fas fa-home"></i> Back to Home</a>
+<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 8px 15px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-size: 0.9em; transition: transform 0.2s ease;"><i class="fas fa-home"></i> Back to Home</a>
 

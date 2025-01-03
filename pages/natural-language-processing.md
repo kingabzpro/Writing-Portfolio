@@ -10,7 +10,4 @@ A collection of resources, tutorials, and articles about Natural Language Proces
 - [Bark: The Ultimate Audio Generation Model](https://www.kdnuggets.com/2023/05/bark-ultimate-audio-generation-model.html)
 - [Speech to Text Made Easy with the OpenAI Whisper API](https://www.datacamp.com/tutorial/converting-speech-to-text-with-the-openAI-whisper-API)
 
-## Related Resources
-
-<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 10px 20px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 5px; margin-top: 20px;"><i class="fas fa-home"></i> Back to Home</a>
-
+<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 8px 15px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-size: 0.9em; transition: transform 0.2s ease;"><i class="fas fa-home"></i> Back to Home</a>

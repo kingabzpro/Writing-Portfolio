@@ -72,9 +72,9 @@
   <p>Star ⭐ this repository to get notified about new content and updates.</p>
   
   <div class="social-links" style="display: flex; justify-content: center; gap: 2rem; margin-top: 1.5rem;">
-    <a href="https://github.com/yourusername" style="font-size: 2rem; color: var(--text-color);"><i class="fab fa-github"></i></a>
-    <a href="https://linkedin.com/in/yourusername" style="font-size: 2rem; color: var(--text-color);"><i class="fab fa-linkedin"></i></a>
-    <a href="https://twitter.com/yourusername" style="font-size: 2rem; color: var(--text-color);"><i class="fab fa-twitter"></i></a>
+    <a href="https://github.com/kingabzpro" style="font-size: 2rem; color: var(--text-color);"><i class="fab fa-github"></i></a>
+    <a href="https://linkedin.com/in/1abidaliawan" style="font-size: 2rem; color: var(--text-color);"><i class="fab fa-linkedin"></i></a>
+    <a href="https://twitter.com/1abidaliawan" style="font-size: 2rem; color: var(--text-color);"><i class="fab fa-twitter"></i></a>
   </div>
 </div>
 

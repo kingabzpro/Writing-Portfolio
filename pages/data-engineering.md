@@ -16,7 +16,5 @@ A collection of resources, tutorials, and articles about Data Engineering.
 - [The Only Free Course You Need To Become a Professional Data Engineer](https://www.kdnuggets.com/the-only-free-course-you-need-to-become-a-professional-data-engineer)
 - [The Top 5 Data Management Tools For Your Projects](https://www.kdnuggets.com/top-5-data-management-tools-for-your-projects)
 
-## Related Resources
-
-<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 10px 20px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 5px; margin-top: 20px;"><i class="fas fa-home"></i> Back to Home</a>
+<a href="/Writing-Portfolio" class="button" style="display: inline-block; padding: 8px 15px; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-size: 0.9em; transition: transform 0.2s ease;"><i class="fas fa-home"></i> Back to Home</a>
 
