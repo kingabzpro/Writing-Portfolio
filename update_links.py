@@ -38,12 +38,12 @@ def add_to_latest_content(title, url, excerpt):
     with open(index_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Create new card for latest content (compact design)
+    # Create new card for latest content (compact design with improved styling)
     new_card = f'''
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <p style="margin: 0;"><a href="{url}" style="text-decoration: none; color: var(--body-color); font-size: 0.95em;">{title}</a></p>
-    <p style="font-size: 0.85em; color: var(--body-color-light); margin: 0.5rem 0;">{excerpt}</p>
-    <small style="color: var(--body-color-light); font-size: 0.8em;">Added: {datetime.now().strftime('%Y-%m-%d')}</small>
+  <div class="content-card" style="background: var(--sidebar-bg); padding: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s ease; border: 1px solid rgba(255,255,255,0.1);">
+    <p style="margin: 0;"><a href="{url}" style="text-decoration: none; color: var(--primary-color); font-size: 0.95em; font-weight: bold;">{title}</a></p>
+    <p style="font-size: 0.85em; color: var(--body-color-light); margin: 0.5rem 0; line-height: 1.4;">{excerpt}</p>
+    <small style="color: var(--body-color-light); font-size: 0.8em; opacity: 0.8;">Added: {datetime.now().strftime('%Y-%m-%d')}</small>
   </div>'''
     
     # Find the Latest Content section

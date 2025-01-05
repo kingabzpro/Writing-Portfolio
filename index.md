@@ -15,10 +15,10 @@
 ## 🆕 Latest Content
 
 <div class="content-grid latest-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; margin: 2rem 0;">
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <p style="margin: 0;"><a href="https://www.kdnuggets.com/10-github-repositories-master-math" style="text-decoration: none; color: var(--body-color); font-size: 0.95em;">10 GitHub Repositories to Master Math</a></p>
-    <p style="font-size: 0.85em; color: var(--body-color-light); margin: 0.5rem 0;">Learn math through roadmaps, courses, tutorials, Python frameworks for solving equations, guides, exercises, textbooks, and more.</p>
-    <small style="color: var(--body-color-light); font-size: 0.8em;">Added: 2025-01-05</small>
+  <div class="content-card" style="background: var(--sidebar-bg); padding: 1rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); transition: transform 0.2s ease; border: 1px solid rgba(255,255,255,0.1);">
+    <p style="margin: 0;"><a href="https://www.kdnuggets.com/10-github-repositories-master-math" style="text-decoration: none; color: var(--primary-color); font-size: 0.95em; font-weight: bold;">10 GitHub Repositories to Master Math</a></p>
+    <p style="font-size: 0.85em; color: var(--body-color-light); margin: 0.5rem 0; line-height: 1.4;">Learn math through roadmaps, courses, tutorials, Python frameworks for solving equations, guides, exercises, textbooks, and more.</p>
+    <small style="color: var(--body-color-light); font-size: 0.8em; opacity: 0.8;">Added: 2025-01-05</small>
   </div>
 </div>
 
