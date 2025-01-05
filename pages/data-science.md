@@ -33,5 +33,8 @@ A collection of resources, tutorials, and articles about Data Science.
 - [5 More Command Line Tools for Data Science](https://www.kdnuggets.com/2023/03/5-command-line-tools-data-science.html)
 - [PySpark for Data Science](https://www.kdnuggets.com/2023/02/pyspark-data-science.html)
 
+
+- [10 GitHub Repositories to Master Math](https://www.kdnuggets.com/10-github-repositories-master-math)
+
 <a href="/Writing-Portfolio" class="button" style="display: flex; align-items: center; justify-content: center; padding: 4px 12px; width: max-content; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-weight: bold; font-size: 1em; transition: transform 0.2s ease;"><i class="fas fa-home"></i><span style="margin-left: 5px;">Back to Home</span></a>
 

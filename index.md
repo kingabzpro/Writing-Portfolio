@@ -12,9 +12,33 @@
   </div>
 </div>
 
+## 🆕 Latest Content
+
+<div class="content-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+<div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <p><a href="https://www.kdnuggets.com/10-github-repositories-master-math" style="text-decoration: none; color: var(--body-color);">10 GitHub Repositories to Master Math</a></p>
+    <p style="font-size: 0.9em; color: var(--body-color-light);">Learn math through roadmaps, courses, tutorials, Python frameworks for solving equations, guides, exercises, textbooks, and more.</p>
+    <small style="color: var(--body-color-light);">Added: 2025-01-05</small>
+  </div>
+
+
+</div>
+
 ## 📚 Featured Content
 
 <div class="content-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: var(--primary-color);">Data Science</h3>
+    <p><a href="https://www.kdnuggets.com/10-github-repositories-master-math" style="text-decoration: none; color: var(--body-color);">10 GitHub Repositories to Master Math</a></p>
+    <p style="font-size: 0.9em; color: var(--body-color-light);">Learn math through roadmaps, courses, tutorials, Python frameworks for solving equations, guides, exercises, textbooks, and more.</p>
+    <small style="color: var(--body-color-light);">Added: 2025-01-05</small>
+  </div>
+  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+    <h3 style="margin-top: 0; color: var(--primary-color);">Data Science</h3>
+    <p><a href="https://www.kdnuggets.com/10-github-repositories-master-math" style="text-decoration: none; color: var(--body-color);">10 GitHub Repositories to Master Math</a></p>
+    <p style="font-size: 0.9em; color: var(--body-color-light);">Learn math through roadmaps, courses, tutorials, Python frameworks for solving equations, guides, exercises, textbooks, and more.</p>
+    <small style="color: var(--body-color-light);">Added: 2025-01-05</small>
+  </div>
   <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
     <h3><i class="fas fa-cogs" style="color: var(--secondary-color);"></i> MLOps</h3>
     <p>Comprehensive guides on Machine Learning Operations, deployment, and scaling ML systems.</p>

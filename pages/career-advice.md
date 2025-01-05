@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## GitHub Repositories
 
+- [10 GitHub Repositories to Master Math](https://www.kdnuggets.com/10-github-repositories-master-math)
+
 - [10 GitHub Repositories to Master Python](https://www.kdnuggets.com/10-github-repositories-to-master-python)
 
 - [10 GitHub Repositories to Master Computer Science](https://www.kdnuggets.com/10-github-repositories-to-master-computer-science)
