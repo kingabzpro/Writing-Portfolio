@@ -72,31 +72,6 @@ def add_to_latest_content(title, url, excerpt):
         with open(index_path, 'w', encoding='utf-8') as f:
             f.write(updated_content)
 
-def add_to_front_page(title, url, category, excerpt):
-    """Add link to front page featured content."""
-    index_path = os.path.join(os.path.dirname(__file__), 'index.md')
-    
-    with open(index_path, 'r', encoding='utf-8') as f:
-        content = f.read()
-    
-    # Create new card for featured content
-    new_card = f'''
-  <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
-    <h3 style="margin-top: 0; color: var(--primary-color);">{category}</h3>
-    <p><a href="{url}" style="text-decoration: none; color: var(--body-color);">{title}</a></p>
-    <p style="font-size: 0.9em; color: var(--body-color-light);">{excerpt}</p>
-    <small style="color: var(--body-color-light);">Added: {datetime.now().strftime('%Y-%m-%d')}</small>
-  </div>'''
-    
-    # Find the Featured Content grid div and add the new card at the start
-    featured_grid_match = re.search(r'## 📚 Featured Content\s*\n\s*<div class="content-grid".*?>', content, re.DOTALL)
-    if featured_grid_match:
-        insert_point = featured_grid_match.end()
-        updated_content = content[:insert_point] + new_card + content[insert_point:]
-        
-        with open(index_path, 'w', encoding='utf-8') as f:
-            f.write(updated_content)
-
 def main():
     print("=== Add New Link to Writing Portfolio ===")
     
@@ -125,12 +100,8 @@ def main():
     # Add to specific page (without excerpt)
     add_to_specific_page(selected_page, title, url)
     
-    # Always add to Latest Content (without category)
+    # Add to Latest Content only
     add_to_latest_content(title, url, excerpt)
-    
-    # Always add to Featured Content
-    category = selected_page[:-3].replace('-', ' ').title()
-    add_to_front_page(title, url, category, excerpt)
     
     print("\nLink added successfully!")
 
