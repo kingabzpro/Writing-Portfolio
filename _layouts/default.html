@@ -178,7 +178,19 @@
       </div>
     </header>
 
-    <div id="content-wrapper">
+    <div id="content-wrapper">{{ ... }}
+        </footer>
+    
+        <!-- Google Analytics 4 -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PRQC1HFQ4G"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-PRQC1HFQ4G');
+        </script>
+      </body>
+    </html>
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
