@@ -8,16 +8,6 @@ description: "Blogs | Tutorials | Cheat sheets | Projects | Books | Career Guide
 # Theme settings
 show_downloads: false
 google_analytics: G-PRQC1HFQ4G
-logo: /assets/images/author.jpg # Your site logo
-github:
-  is_project_page: false
-  repository_url: "https://github.com/kingabzpro/Writing-Portfolio"
-
-# Social media
-social:
-  github: kingabzpro
-  twitter: 1abidaliawan 
-  linkedin: in/1abidaliawan
 
 # Collections
 collections:
