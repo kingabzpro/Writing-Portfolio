@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Fine-Tuning Llama 3.2 Vision](https://www.datacamp.com/tutorial/fine-tuning-llama-3-2-vision)
+- [Evaluate LLMs Effectively Using DeepEval: A Practical Guide](https://www.datacamp.com/tutorial/deepeval)
 - [How to Deploy LLM Applications Using Docker: A Step-by-Step Guide](https://www.datacamp.com/tutorial/deploy-llm-applications-using-docker) 
 - [Run Local LLMs with Cortex](https://www.kdnuggets.com/run-local-llms-with-cortex)
 - [HumanEval: A Benchmark for Evaluating LLM Code Generation Capabilities](https://www.datacamp.com/tutorial/humaneval-benchmark-for-evaluating-llm-code-generation-capabilities) 
