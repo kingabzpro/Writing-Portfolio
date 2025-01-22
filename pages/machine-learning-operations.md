@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [A Simple Guide to GitOps](https://www.datacamp.com/tutorial/guide-to-gitops)
 - [7 Essential Python Libraries for MLOps](https://www.kdnuggets.com/7-essential-python-libraries-mlops) 
 - [Introduction to Podman for Machine Learning: Streamlining MLOps Workflows](https://www.datacamp.com/tutorial/introduction-to-podman-for-machine-learning-streamlining-ml-ops-workflows)
 - [Jenkins for MLOps: A Complete CI/CD Tutorial](https://www.datacamp.com/tutorial/jenkins-tutorial) 

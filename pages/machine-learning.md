@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 
 ## Articles
 
+- [Understanding Dimensionality Reduction](https://www.datacamp.com/tutorial/understanding-dimensionality-reduction)
 - [How to Get Addicted to Machine Learning](https://www.kdnuggets.com/how-to-get-addicted-machine-learning) 
 - [10 GitHub Repositories to Master Reinforcement Learning](https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning)
 - [Stock Market Forecasting with TimeGPT](https://www.kdnuggets.com/stock-market-forecasting-with-timegpt) 
