@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Using DeepSeek-R1 Locally](https://www.kdnuggets.com/using-deepseek-r1-locally)
 - [Fine-Tuning Llama 3.2 Vision](https://www.datacamp.com/tutorial/fine-tuning-llama-3-2-vision)
 - [Evaluate LLMs Effectively Using DeepEval: A Practical Guide](https://www.datacamp.com/tutorial/deepeval)
 - [How to Deploy LLM Applications Using Docker: A Step-by-Step Guide](https://www.datacamp.com/tutorial/deploy-llm-applications-using-docker) 
