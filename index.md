@@ -12,7 +12,58 @@
   </div>
 </div>
 
-## 📚 Author Expertise 
+<input type="text" id="searchInput" placeholder="Search articles..." style="
+    width: 100%;
+    padding: 12px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+">
+
+<div id="searchResults" style="margin-top: 15px;"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('searchInput');
+    const searchResults = document.getElementById('searchResults');
+
+    fetch('/search.json')
+        .then(response => response.json())
+        .then(pages => {
+            searchInput.addEventListener('input', function() {
+                const query = this.value.toLowerCase();
+                searchResults.innerHTML = '';
+
+                if (query.length < 2) return;
+
+                const results = pages.filter(page => {
+                    return page.title.toLowerCase().includes(query) || 
+                           page.content.toLowerCase().includes(query);
+                });
+
+                if (results.length > 0) {
+                    results.forEach(page => {
+                        searchResults.innerHTML += `
+                            <div style="margin-bottom: 15px; padding: 10px; border-bottom: 1px solid #eee;">
+                                <a href="${page.url}" style="font-size: 18px; color: #0366d6; text-decoration: none;">
+                                    ${page.title}
+                                </a>
+                                <div style="color: #666; margin-top: 5px; font-size: 14px;">
+                                    ${page.content.substring(0, 150)}...
+                                </div>
+                            </div>
+                        `;
+                    });
+                } else {
+                    searchResults.innerHTML = '<p style="color: #666;">No results found</p>';
+                }
+            });
+        });
+});
+</script>
+
+## �� Author Expertise 
 
 <div class="content-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
   <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
