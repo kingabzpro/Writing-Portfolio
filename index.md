@@ -35,27 +35,28 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             return response.json();
         })
-        .then(pages => {
+        .then(articles => {
             searchInput.addEventListener('input', function() {
                 const query = this.value.toLowerCase();
                 searchResults.innerHTML = '';
 
                 if (query.length < 2) return;
 
-                const results = pages.filter(page => {
-                    return page.title.toLowerCase().includes(query) || 
-                           page.content.toLowerCase().includes(query);
+                const results = articles.filter(article => {
+                    return article.title.toLowerCase().includes(query) || 
+                           article.content.toLowerCase().includes(query) ||
+                           article.category.toLowerCase().includes(query);
                 });
 
                 if (results.length > 0) {
-                    results.forEach(page => {
+                    results.forEach(article => {
                         searchResults.innerHTML += `
                             <div style="margin-bottom: 15px; padding: 10px; border-bottom: 1px solid #eee;">
-                                <a href="${page.url}" style="font-size: 18px; color: #0366d6; text-decoration: none;">
-                                    ${page.title}
+                                <a href="${article.url}" style="font-size: 18px; color: #0366d6; text-decoration: none;">
+                                    ${article.title}
                                 </a>
                                 <div style="color: #666; margin-top: 5px; font-size: 14px;">
-                                    ${page.content.substring(0, 150)}...
+                                    Category: ${article.category}
                                 </div>
                             </div>
                         `;
