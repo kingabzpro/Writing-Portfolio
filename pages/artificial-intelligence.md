@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [How to Use DeepSeek Janus-Pro Locally](https://www.datacamp.com/tutorial/how-to-use-deepseek-janus-pro-locally)
 - [7 Advanced AI Projects for Beginners](https://www.kdnuggets.com/7-advanced-ai-projects-beginners)
 - [Artificial Intelligence for Noobs](https://www.kdnuggets.com/artificial-intelligence-noobs) 
 - [Getting Started with OpenAI o1 Reasoning Models](https://www.kdnuggets.com/getting-started-with-openai-o1-reasoning-models)
