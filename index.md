@@ -28,8 +28,13 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('searchInput');
     const searchResults = document.getElementById('searchResults');
 
-    fetch('/search.json')
-        .then(response => response.json())
+    fetch('/Writing-Portfolio/search.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('Failed to load search data');
+            }
+            return response.json();
+        })
         .then(pages => {
             searchInput.addEventListener('input', function() {
                 const query = this.value.toLowerCase();
@@ -59,11 +64,15 @@ document.addEventListener('DOMContentLoaded', function() {
                     searchResults.innerHTML = '<p style="color: #666;">No results found</p>';
                 }
             });
+        })
+        .catch(error => {
+            console.error('Error loading search data:', error);
+            searchResults.innerHTML = '<p style="color: #dc3545;">Error loading search data. Please try again later.</p>';
         });
 });
 </script>
 
-## �� Author Expertise 
+## 👽 Author Expertise 
 
 <div class="content-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
   <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">

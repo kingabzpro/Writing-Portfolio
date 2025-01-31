@@ -1,12 +1,57 @@
----
-layout: null
----
 [
-  {% for page in site.pages %}
-    {
-      "title": "{{ page.title | escape }}",
-      "url": "{{ site.baseurl }}{{ page.url }}",
-      "content": {{ page.content | strip_html | jsonify }}
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+  {
+    "title": "Machine Learning Operations",
+    "url": "/Writing-Portfolio/pages/machine-learning-operations",
+    "content": "Comprehensive guides on Machine Learning Operations, deployment, and scaling ML systems."
+  },
+  {
+    "title": "Large Language Models",
+    "url": "/Writing-Portfolio/pages/large-language-models",
+    "content": "Deep dives into LLMs, transformers, and state-of-the-art NLP applications."
+  },
+  {
+    "title": "Machine Learning",
+    "url": "/Writing-Portfolio/pages/machine-learning",
+    "content": "In-depth tutorials on ML algorithms, deep learning, and practical implementations."
+  },
+  {
+    "title": "Artificial Intelligence",
+    "url": "/Writing-Portfolio/pages/artificial-intelligence",
+    "content": "Explore the fundamentals and advanced concepts of Artificial Intelligence."
+  },
+  {
+    "title": "Data Science",
+    "url": "/Writing-Portfolio/pages/data-science",
+    "content": "Learn about data analysis, visualization, and statistical methods in data science."
+  },
+  {
+    "title": "Natural Language Processing",
+    "url": "/Writing-Portfolio/pages/natural-language-processing",
+    "content": "Discover NLP techniques, text processing, and language understanding."
+  },
+  {
+    "title": "Data Engineering",
+    "url": "/Writing-Portfolio/pages/data-engineering",
+    "content": "Learn about data pipelines, ETL processes, and data infrastructure."
+  },
+  {
+    "title": "Programming",
+    "url": "/Writing-Portfolio/pages/programming",
+    "content": "General programming concepts, best practices, and coding tutorials."
+  },
+  {
+    "title": "SQL",
+    "url": "/Writing-Portfolio/pages/sql",
+    "content": "Database management, SQL queries, and data manipulation techniques."
+  },
+  {
+    "title": "Books by Abid",
+    "url": "/Writing-Portfolio/pages/books-by-abid",
+    "content": "Published books and ebooks on various technical topics."
+  },
+  {
+    "title": "Career Advice",
+    "url": "/Writing-Portfolio/pages/career-advice",
+    "content": "Career guidance, interview preparation, and professional development tips."
+  }
 ]
