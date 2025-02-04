@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 </script>
 
-## 👽 Author Expertise 
+## 👨‍🔬 Author Expertise 
 
 <div class="content-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
   <div class="content-card" style="background: var(--sidebar-bg); padding: 1.5rem; border-radius: 10px; transition: transform 0.3s ease;">
