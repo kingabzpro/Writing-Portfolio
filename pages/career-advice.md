@@ -106,5 +106,5 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 - [A Complete Collection of Data Science Free Courses – Part 1](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-1.html)
 
-<a href="/Writing-Portfolio" class="button" style="display: flex; align-items: center; justify-content: center; padding: 4px 12px; width: max-content; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-weight: bold; font-size: 1em; transition: transform 0.2s ease;"><i class="fas fa-home"></i><span style="margin-left: 5px;">Back to Home</span></a>
+<a href="/" class="button" style="display: flex; align-items: center; justify-content: center; padding: 4px 12px; width: max-content; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-weight: bold; font-size: 1em; transition: transform 0.2s ease;"><i class="fas fa-home"></i><span style="margin-left: 5px;">Back to Home</span></a>
 

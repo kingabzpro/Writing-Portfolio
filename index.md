@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const searchInput = document.getElementById('searchInput');
     const searchResults = document.getElementById('searchResults');
 
-    fetch('/Writing-Portfolio/search.json')
+    fetch('/search.json')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Failed to load search data');

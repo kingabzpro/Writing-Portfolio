@@ -16,5 +16,5 @@ A collection of resources, tutorials, and articles about Python.
 - [Setting Up VSCode For Python: A Complete Guide](https://www.datacamp.com/tutorial/setting-up-vscode-python)
 - [Python String Matching Without Complex RegEx Syntax](https://www.kdnuggets.com/2023/02/python-string-matching-without-complex-regex-syntax.html)
 
-<a href="/Writing-Portfolio" class="button" style="display: flex; align-items: center; justify-content: center; padding: 4px 12px; width: max-content; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-weight: bold; font-size: 1em; transition: transform 0.2s ease;"><i class="fas fa-home"></i><span style="margin-left: 5px;">Back to Home</span></a>
+<a href="/" class="button" style="display: flex; align-items: center; justify-content: center; padding: 4px 12px; width: max-content; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-weight: bold; font-size: 1em; transition: transform 0.2s ease;"><i class="fas fa-home"></i><span style="margin-left: 5px;">Back to Home</span></a>
 
