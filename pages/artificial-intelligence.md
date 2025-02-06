@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [How to Use Qwen2.5-VL Locally](https://www.datacamp.com/tutorial/use-qwen2-5-vl-locally)
+- [Using Llama 3.2-Vision Locally: A Step-by-Step Guide](https://www.kdnuggets.com/using-llama-32-vision-locally)
 - [How to Use DeepSeek Janus-Pro Locally](https://www.datacamp.com/tutorial/how-to-use-deepseek-janus-pro-locally)
 - [7 Advanced AI Projects for Beginners](https://www.kdnuggets.com/7-advanced-ai-projects-beginners)
 - [Artificial Intelligence for Noobs](https://www.kdnuggets.com/artificial-intelligence-noobs) 
