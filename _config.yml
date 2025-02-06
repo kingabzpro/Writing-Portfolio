@@ -2,9 +2,6 @@ theme: jekyll-theme-architect
 plugins:
   - jekyll-seo-tag
 
-title: "Abid's Writing Portfolio"
-description: "Blogs | Tutorials | Cheat sheets | Projects | Books | Career Guide"
-
 # Theme settings
 show_downloads: false
 google_analytics: G-PRQC1HFQ4G
