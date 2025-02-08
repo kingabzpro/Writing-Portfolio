@@ -39,20 +39,6 @@
         padding: 2rem 0;
       }
 
-      header .inner {
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-      }
-
-      header h1 {
-        margin: 0;
-      }
-
-      header .button {
-        align-self: center;
-      }
-
       #content-wrapper {
         padding-top: 20px;
       }
@@ -206,6 +192,7 @@
         <a href="{{ '/' | absolute_url }}">
           <h1 style="font-size: 3rem;">{{ site.title | default: site.github.repository_name }}</h1>
         </a>
+        <!-- <h2 style="font-size: 1rem;">{{ site.description | default: site.github.project_tagline }}</h2> -->
         <a href="{{ site.github.owner_url }}" class="button"><small style="font-size: 0.8rem;">Follow me on</small> GitHub</a>
       </div>
     </header>
