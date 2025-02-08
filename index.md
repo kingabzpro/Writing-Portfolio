@@ -2,8 +2,8 @@
   <img src="assets/images/author.jpg" alt="Abid's Profile Picture" class="author-image" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; margin: 15px auto; display: block; border: 3px solid var(--secondary-color); box-shadow: 0 3px 10px rgba(0,0,0,0.2);">
   
   <div class="author-bio" style="max-width: 700px; margin: 0 auto; line-height: 1.4;">
-    <h1 style="color: var(--primary-color); font-size: 1.8em; margin-bottom: 0.5rem;">Hello! I'm Abid</h1>
-    <p style="font-size: 0.95em; margin: 0.7rem 0;">
+    <h1 style="color: var(--primary-color);  margin-bottom: 0.5rem;">Hello! I'm Abid</h1>
+    <p style=" margin: 0.7rem 0;">
       A dedicated technical writer and educator with a passion for making complex concepts accessible to everyone. With a strong background in data science and programming, I've authored over 450 articles that bridge the gap between technical complexity and practical understanding.
     </p>
   </div>
