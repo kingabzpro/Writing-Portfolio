@@ -161,6 +161,17 @@
         font-size: 1.5rem;
       }
 
+      .button {
+        display: inline-block;
+        padding: 0.4rem 0.8rem;
+        font-size: 0.875rem;
+        background-color: var(--secondary-color);
+        color: var(--bg-color);
+        text-decoration: none;
+        border-radius: 4px;
+        transition: all 0.3s ease;
+      }
+
       .button:hover {
         transform: translateY(-2px);
         box-shadow: 0 2px 8px rgba(0,0,0,0.2);
@@ -179,10 +190,10 @@
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
-          <h1 style="font-size: 1.5rem;">{{ site.title | default: site.github.repository_name }}</h1>
+          <h1 style="font-size: 3rem;">{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <!-- <h2 style="font-size: 1rem;">{{ site.description | default: site.github.project_tagline }}</h2> -->
-        <a href="{{ site.github.owner_url }}" class="button" style="font-size: 0.7rem; padding: 0.5rem 1rem;"><small style="font-size: 0.6rem;">Follow me on</small> GitHub</a>
+        <a href="{{ site.github.owner_url }}" class="button"><small style="font-size: 0.8rem;">Follow me on</small> GitHub</a>
       </div>
     </header>
 
