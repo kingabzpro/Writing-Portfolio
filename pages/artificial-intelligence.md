@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Using Gemini 2.0 Pro Locally](https://www.kdnuggets.com/using-gemini-2-pro-locally)
 - [How to Use Qwen2.5-VL Locally](https://www.datacamp.com/tutorial/use-qwen2-5-vl-locally)
 - [Using Llama 3.2-Vision Locally: A Step-by-Step Guide](https://www.kdnuggets.com/using-llama-32-vision-locally)
 - [How to Use DeepSeek Janus-Pro Locally](https://www.datacamp.com/tutorial/how-to-use-deepseek-janus-pro-locally)

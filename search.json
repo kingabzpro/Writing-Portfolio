@@ -516,6 +516,12 @@
     "content": "7 Things Students Are Missing in a Data Science Resume - Career Advice article about 7 things students are missing in a data science resume"
   },
   {
+    "title": "7 Tools I Cannot Live Without as a Data Scientist",
+    "url": "https://www.kdnuggets.com/7-tools-cannot-live-without-data-scientist",
+    "category": "Data Science",
+    "content": "7 Tools I Cannot Live Without as a Data Scientist - Data Science article about 7 tools i cannot live without as a data scientist"
+  },
+  {
     "title": "7 Ways ChatGPT Makes You Code Better and Faster",
     "url": "https://www.kdnuggets.com/2023/06/7-ways-chatgpt-makes-code-better-faster.html",
     "category": "Programming",
@@ -694,6 +700,12 @@
     "url": "https://www.kdnuggets.com/building-data-science-pipelines-using-pandas",
     "category": "Data Science",
     "content": "Building Data Science Pipelines Using Pandas - Data Science article about building data science pipelines using pandas"
+  },
+  {
+    "title": "Building Multimodal AI Application with Gemini 2.0 Pro",
+    "url": "https://www.datacamp.com/tutorial/building-multimodal-ai-application-with-gemini-2-0-pro",
+    "category": "Large Language Models (LLMs)",
+    "content": "Building Multimodal AI Application with Gemini 2.0 Pro - Large Language Models (LLMs) article about building multimodal ai application with gemini 2.0 pro"
   },
   {
     "title": "Building Neural Network (NN) Models in R",
@@ -1102,6 +1114,12 @@
     "url": "https://www.datacamp.com/tutorial/deploy-llms-with-bentoml",
     "category": "Machine Learning Operations (MLOps)",
     "content": "How to Deploy LLMs with BentoML: A Step-by-Step Guide - Machine Learning Operations (MLOps) article about how to deploy llms with bentoml: a step-by-step guide"
+  },
+  {
+    "title": "How to Deploy Llama 3.3 70B on the Cloud: A Hands-On Guide",
+    "url": "https://www.datacamp.com/tutorial/deploy-llama-33-70b-on-the-cloud",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "How to Deploy Llama 3.3 70B on the Cloud: A Hands-On Guide - Machine Learning Operations (MLOps) article about how to deploy llama 3.3 70b on the cloud: a hands-on guide"
   },
   {
     "title": "How to Get Addicted to Machine Learning",
@@ -1798,6 +1816,12 @@
     "url": "https://www.kdnuggets.com/using-fastapi-for-building-ml-powered-web-apps",
     "category": "Machine Learning Operations (MLOps)",
     "content": "Using FastAPI for Building ML-Powered Web Apps - Machine Learning Operations (MLOps) article about using fastapi for building ml-powered web apps"
+  },
+  {
+    "title": "Using Gemini 2.0 Pro Locally",
+    "url": "https://www.kdnuggets.com/using-gemini-2-pro-locally",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Using Gemini 2.0 Pro Locally - Artificial Intelligence (AI) article about using gemini 2.0 pro locally"
   },
   {
     "title": "Using Google’s NotebookLM for Data Science: A Comprehensive Guide",

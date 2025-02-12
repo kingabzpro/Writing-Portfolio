@@ -3,7 +3,7 @@
 A collection of resources, tutorials, and articles about Machine Learning Operations (MLOps).
 
 ## Articles
-
+- [How to Deploy Llama 3.3 70B on the Cloud: A Hands-On Guide](https://www.datacamp.com/tutorial/deploy-llama-33-70b-on-the-cloud)
 - [How to Deploy LLMs with BentoML: A Step-by-Step Guide](https://www.datacamp.com/tutorial/deploy-llms-with-bentoml)
 - [A Simple Guide to GitOps](https://www.datacamp.com/tutorial/guide-to-gitops)
 - [7 Essential Python Libraries for MLOps](https://www.kdnuggets.com/7-essential-python-libraries-mlops) 

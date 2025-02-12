@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Building Multimodal AI Application with Gemini 2.0 Pro](https://www.datacamp.com/tutorial/building-multimodal-ai-application-with-gemini-2-0-pro)
 - [Building AI Application with Gemini 2.0](https://www.kdnuggets.com/building-ai-application-gemini-2)
 - [Top 5 LLMs to Use According to FACTS Leaderboard](https://www.kdnuggets.com/top-5-llms-facts-leaderboard)
 - [Fine-Tuning DeepSeek R1 (Reasoning Model)](https://www.datacamp.com/tutorial/fine-tuning-deepseek-r1-reasoning-model)

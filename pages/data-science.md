@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Data Science.
 
 ## Articles
 
+- [7 Tools I Cannot Live Without as a Data Scientist](https://www.kdnuggets.com/7-tools-cannot-live-without-data-scientist)
 - [7 Free Data Science Platform for Beginners](https://www.kdnuggets.com/7-free-data-science-platform-for-beginners) 
 - [7 Free Cloud IDE for Data Science That You Are Missing Out](https://www.kdnuggets.com/7-free-cloud-ide-for-data-science-that-you-are-missing-out)
 - [10 Most Asked Data Science Interview Questions](https://www.statology.org/10-most-asked-data-science-interview-questions/) 
