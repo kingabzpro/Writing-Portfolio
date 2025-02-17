@@ -16,6 +16,8 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## Career Advice
 
+- [Top 5 Freelancer Websites Better Than Fiverr and Upwork](https://www.kdnuggets.com/top-5-freelancer-websites-better-fiverr-upwork)
+
 - [Build a Strong Portfolio for Data Science Career](https://www.kdnuggets.com/build-strong-portfolio-data-science-career)
 
 - [Getting Addicted to Coding](https://www.kdnuggets.com/getting-addicted-to-coding)
