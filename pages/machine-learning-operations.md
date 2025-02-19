@@ -3,6 +3,9 @@
 A collection of resources, tutorials, and articles about Machine Learning Operations (MLOps).
 
 ## Articles
+
+- [Deploying DeepSeek R1 on Databricks: A Step-by-Step Guide](https://www.datacamp.com/tutorial/deploying-deepseek-r1-on-databricks)
+- [7 MLOPs Projects for Beginners](https://www.kdnuggets.com/7-mlops-projects-beginners)
 - [How to Deploy Llama 3.3 70B on the Cloud: A Hands-On Guide](https://www.datacamp.com/tutorial/deploy-llama-33-70b-on-the-cloud)
 - [How to Deploy LLMs with BentoML: A Step-by-Step Guide](https://www.datacamp.com/tutorial/deploy-llms-with-bentoml)
 - [A Simple Guide to GitOps](https://www.datacamp.com/tutorial/guide-to-gitops)
