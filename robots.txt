@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://abidaliawan.com/sitemap.xml
+
+# Allow all robots complete access
+Disallow:
+
+# Crawl-delay
+Crawl-delay: 10
