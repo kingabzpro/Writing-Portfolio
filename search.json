@@ -480,6 +480,12 @@
     "content": "7 High Paying Side Hustles for Data Scientists - Career Advice article about 7 high paying side hustles for data scientists"
   },
   {
+    "title": "7 MLOPs Projects for Beginners",
+    "url": "https://www.kdnuggets.com/7-mlops-projects-beginners",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "7 MLOPs Projects for Beginners - Machine Learning Operations (MLOps) article about 7 mlops projects for beginners"
+  },
+  {
     "title": "7 Machine Learning Projects That Can Add Value to Any Resume",
     "url": "https://machinelearningmastery.com/7-machine-learning-projects-that-can-add-value-to-any-resume/",
     "category": "Machine Learning (ML)",
@@ -792,6 +798,12 @@
     "content": "DeepChecks Tutorial: Automating Machine Learning Testing - Machine Learning Operations (MLOps) article about deepchecks tutorial: automating machine learning testing"
   },
   {
+    "title": "Deploying DeepSeek R1 on Databricks: A Step-by-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/deploying-deepseek-r1-on-databricks",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Deploying DeepSeek R1 on Databricks: A Step-by-Step Guide - Machine Learning Operations (MLOps) article about deploying deepseek r1 on databricks: a step-by-step guide"
+  },
+  {
     "title": "Deploying Your First Machine Learning Model",
     "url": "https://www.kdnuggets.com/deploying-your-first-machine-learning-model",
     "category": "Machine Learning Operations (MLOps)",
@@ -1086,6 +1098,12 @@
     "content": "Hands-On with Unsupervised Learning: K-Means Clustering - Machine Learning (ML) article about hands-on with unsupervised learning: k-means clustering"
   },
   {
+    "title": "Hosting Khoj for Free: Your Personal Autonomous AI App",
+    "url": "https://www.kdnuggets.com/hosting-khoj-free-personal-autonomous-ai-app",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Hosting Khoj for Free: Your Personal Autonomous AI App - Artificial Intelligence (AI) article about hosting khoj for free: your personal autonomous ai app"
+  },
+  {
     "title": "How Watermarking Can Help Mitigate The Potential Risks Of LLMs?",
     "url": "https://www.kdnuggets.com/2023/03/watermarking-help-mitigate-potential-risks-llms.html",
     "category": "Large Language Models (LLMs)",
@@ -1354,6 +1372,12 @@
     "url": "https://www.datacamp.com/tutorial/open-ai-o1-tutorial-machine-learning-project",
     "category": "Machine Learning (ML)",
     "content": "OpenAI o1-preview Tutorial: Building a Machine Learning Project - Machine Learning (ML) article about openai o1-preview tutorial: building a machine learning project"
+  },
+  {
+    "title": "OpenAI o3-mini Tutorial: Building a Machine Learning Project with o3-mini",
+    "url": "https://www.datacamp.com/tutorial/openai-o3-mini-tutorial-building-a-machine-learning-project",
+    "category": "Large Language Models (LLMs)",
+    "content": "OpenAI o3-mini Tutorial: Building a Machine Learning Project with o3-mini - Large Language Models (LLMs) article about openai o3-mini tutorial: building a machine learning project with o3-mini"
   },
   {
     "title": "OpenChatKit: Open-Source ChatGPT Alternative",
@@ -1702,6 +1726,12 @@
     "url": "https://www.datacamp.com/blog/llmops-tools",
     "category": "Large Language Models (LLMs)",
     "content": "Top 15 LLMOps Tools for Building AI Applications in 2024 - Large Language Models (LLMs) article about top 15 llmops tools for building ai applications in 2024"
+  },
+  {
+    "title": "Top 3 Video Generation Models",
+    "url": "https://www.kdnuggets.com/top-3-video-generation-models",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Top 3 Video Generation Models - Artificial Intelligence (AI) article about top 3 video generation models"
   },
   {
     "title": "Top 5 AI Coding Assistants You Must Try",
