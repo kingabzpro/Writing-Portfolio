@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://abidaliawan.com/sitemap.xml
+Sitemap: https://abid.work/sitemap.xml
 
 # Allow all robots complete access
 Disallow:
