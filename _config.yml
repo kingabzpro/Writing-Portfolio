@@ -3,6 +3,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# SEO and Sitemap settings
+url: "https://abidaliawan.com"
 title: "Abid's Writing Portfolio"
 description: "Blogs | Tutorials | Cheat sheets | Projects | Books | Career Guide"
 
@@ -10,8 +12,30 @@ description: "Blogs | Tutorials | Cheat sheets | Projects | Books | Career Guide
 show_downloads: false
 google_analytics: G-PRQC1HFQ4G
 
-# Collections
+# Collections and Sitemap settings
 collections:
   pages:
     output: true
     permalink: /:collection/:name
+
+# Sitemap configuration
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      changefreq: "monthly"
+      priority: 0.5
+  -
+    scope:
+      path: "pages"
+      type: "pages"
+    values:
+      changefreq: "weekly"
+      priority: 0.7
+  -
+    scope:
+      path: "index.md"
+    values:
+      changefreq: "daily"
+      priority: 1.0
