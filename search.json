@@ -654,6 +654,12 @@
     "content": "Beginner’s Guide to Machine Learning Testing With DeepChecks - Machine Learning Operations (MLOps) article about beginner’s guide to machine learning testing with deepchecks"
   },
   {
+    "title": "BentoML: MLOps for Beginners",
+    "url": "https://www.kdnuggets.com/bentoml-mlops-for-beginners",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "BentoML: MLOps for Beginners - Machine Learning Operations (MLOps) article about bentoml: mlops for beginners"
+  },
+  {
     "title": "Best No-Code LLM App Builders",
     "url": "https://www.kdnuggets.com/best-no-code-llm-app-builders",
     "category": "Large Language Models (LLMs)",
@@ -1386,6 +1392,12 @@
     "content": "OpenChatKit: Open-Source ChatGPT Alternative - Artificial Intelligence (AI) article about openchatkit: open-source chatgpt alternative"
   },
   {
+    "title": "OpenHands: Open Source AI Software Developer",
+    "url": "https://www.kdnuggets.com/openhands-open-source-ai-software-developer",
+    "category": "Artificial Intelligence (AI)",
+    "content": "OpenHands: Open Source AI Software Developer - Artificial Intelligence (AI) article about openhands: open source ai software developer"
+  },
+  {
     "title": "Overview of PEFT: State-of-the-art Parameter-Efficient Fine-Tuning",
     "url": "https://www.kdnuggets.com/overview-of-peft-stateoftheart-parameterefficient-finetuning",
     "category": "Machine Learning Operations (MLOps)",
@@ -1720,6 +1732,12 @@
     "url": "https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html",
     "category": "Artificial Intelligence (AI)",
     "content": "Top 10 Tools for Detecting ChatGPT, GPT-4, Bard, and Claude - Artificial Intelligence (AI) article about top 10 tools for detecting chatgpt, gpt-4, bard, and claude"
+  },
+  {
+    "title": "Top 12 Docker Container Images for Machine Learning and AI",
+    "url": "https://www.datacamp.com/blog/docker-container-images-for-machine-learning-and-ai",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Top 12 Docker Container Images for Machine Learning and AI - Machine Learning Operations (MLOps) article about top 12 docker container images for machine learning and ai"
   },
   {
     "title": "Top 15 LLMOps Tools for Building AI Applications in 2024",
@@ -2062,5 +2080,11 @@
     "url": "https://www.kdnuggets.com/2023/07/duckdb-getting-popular.html",
     "category": "SQL",
     "content": "Why is DuckDB Getting Popular? - SQL article about why is duckdb getting popular?"
+  },
+  {
+    "title": "Windsurf AI Agentic Code Editor: Features, Setup, and Use Cases",
+    "url": "https://www.datacamp.com/tutorial/windsurf-ai-agentic-code-editor",
+    "category": "Programming",
+    "content": "Windsurf AI Agentic Code Editor: Features, Setup, and Use Cases - Programming article about windsurf ai agentic code editor: features, setup, and use cases"
   }
 ]

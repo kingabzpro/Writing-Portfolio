@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [Top 12 Docker Container Images for Machine Learning and AI](https://www.datacamp.com/blog/docker-container-images-for-machine-learning-and-ai)
+- [BentoML: MLOps for Beginners](https://www.kdnuggets.com/bentoml-mlops-for-beginners)
 - [Deploying DeepSeek R1 on Databricks: A Step-by-Step Guide](https://www.datacamp.com/tutorial/deploying-deepseek-r1-on-databricks)
 - [7 MLOPs Projects for Beginners](https://www.kdnuggets.com/7-mlops-projects-beginners)
 - [How to Deploy Llama 3.3 70B on the Cloud: A Hands-On Guide](https://www.datacamp.com/tutorial/deploy-llama-33-70b-on-the-cloud)

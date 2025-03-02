@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [OpenHands: Open Source AI Software Developer](https://www.kdnuggets.com/openhands-open-source-ai-software-developer)
 - [Hosting Khoj for Free: Your Personal Autonomous AI App](https://www.kdnuggets.com/hosting-khoj-free-personal-autonomous-ai-app)
 - [Top 3 Video Generation Models](https://www.kdnuggets.com/top-3-video-generation-models)
 - [Using Gemini 2.0 Pro Locally](https://www.kdnuggets.com/using-gemini-2-pro-locally)

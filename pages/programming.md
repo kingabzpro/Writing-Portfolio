@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [Windsurf AI Agentic Code Editor: Features, Setup, and Use Cases](https://www.datacamp.com/tutorial/windsurf-ai-agentic-code-editor)
 - [Learn to Code with GitHub](https://www.kdnuggets.com/learn-to-code-github) 
 - [10 GitHub Features That You Are Missing Out On](https://www.kdnuggets.com/10-github-features-that-you-are-missing-out-on)
 - [10 Essential DevOps Tools Every Beginner Should Learn](https://www.kdnuggets.com/10-essential-devops-tools-every-beginner-should-learn) 
