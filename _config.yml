@@ -18,6 +18,7 @@ collections:
     output: true
     permalink: /:collection/:name
 
-# Clean URLs without .html extension
-permalink: pretty
+# Clean URLs without .html extension and trailing slash
+permalink: /:title
+trailing_slash: false
 
