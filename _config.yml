@@ -22,14 +22,14 @@ collections:
 defaults:
   -
     scope:
-      path: "/pages"
+      path: "pages/"
     values:
       sitemap:
         changefreq: "weekly"
         priority: 0.8
   -
     scope:
-      path: "index.md"
+      path: "/"
     values:
       sitemap:
         changefreq: "daily"
