@@ -4,7 +4,6 @@ plugins:
   - jekyll-sitemap
 
 # SEO and Sitemap settings
-url: "https://abid.work"
 title: "Abid's Writing Portfolio"
 description: "Technical Writing Portfolio: Blogs, Tutorials, Cheat Sheets, Projects, Books & Career Resources"
 
@@ -18,19 +17,3 @@ collections:
     output: true
     permalink: /:collection/:name
 
-# Sitemap settings
-defaults:
-  -
-    scope:
-      path: "pages/"
-    values:
-      sitemap:
-        changefreq: "weekly"
-        priority: 0.8
-  -
-    scope:
-      path: "/"
-    values:
-      sitemap:
-        changefreq: "daily"
-        priority: 1.0
