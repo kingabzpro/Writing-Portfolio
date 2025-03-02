@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://abid.work/</loc>
-    <lastmod>2024-01-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -58,6 +57,21 @@
   </url>
   <url>
     <loc>https://abid.work/pages/sql</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://abid.work/pages/large-language-models</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://abid.work/pages/machine-learning-operations</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://abid.work/pages/natural-language-processing</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
