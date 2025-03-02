@@ -17,3 +17,6 @@ collections:
     output: true
     permalink: /:collection/:name
 
+# Clean URLs without .html extension
+permalink: pretty
+
