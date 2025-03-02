@@ -18,36 +18,19 @@ collections:
     output: true
     permalink: /:collection/:name
 
-# Sitemap configuration
+# Sitemap settings
 defaults:
-  - scope:
-      path: ""
-      type: "posts"
+  -
+    scope:
+      path: "/pages"
     values:
-      sitemap: true
-      changefreq: "monthly"
-      priority: 0.5
-      last_modified_at: null
-  - scope:
-      path: "pages"
-      type: "pages"
-    values:
-      sitemap: true
-      changefreq: "weekly"
-      priority: 0.7
-      last_modified_at: null
-  - scope:
+      sitemap:
+        changefreq: "weekly"
+        priority: 0.8
+  -
+    scope:
       path: "index.md"
     values:
-      sitemap: true
-      changefreq: "daily"
-      priority: 1.0
-      last_modified_at: null
-  - scope:
-      path: "assets/*"
-    values:
-      sitemap: false
-  - scope:
-      path: "_layouts/*"
-    values:
-      sitemap: false
+      sitemap:
+        changefreq: "daily"
+        priority: 1.0
