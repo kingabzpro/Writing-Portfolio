@@ -4,6 +4,7 @@ plugins:
   - jekyll-sitemap
 
 # SEO and Sitemap settings
+url: https://abid.work/
 title: "Abid's Writing Portfolio"
 description: "Technical Writing Portfolio: Blogs, Tutorials, Cheat Sheets, Projects, Books & Career Resources"
 
