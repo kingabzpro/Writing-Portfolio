@@ -1,9 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://abid.work/sitemap.xml
-
-# Allow all robots complete access
-Disallow:
-
-# Crawl-delay
-Crawl-delay: 10
