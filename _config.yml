@@ -5,8 +5,8 @@ plugins:
 
 # SEO and Sitemap settings
 url: https://abid.work
-title: "Abid's Writing Portfolio"
-description: "Technical Writing Portfolio: Blogs, Tutorials, Cheat Sheets, Projects, Books & Career Resources"
+title: "Abid's Technical Writing Portfolio"
+description: "Explore expertly crafted blogs, step-by-step tutorials, quick-reference cheat sheets, immersive projects, detailed book reviews, and career resources—all focused on data and AI."
 
 # Theme settings
 show_downloads: false

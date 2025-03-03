@@ -1,6 +1,6 @@
 # Books by Abid
 
-Books by Abid.
+Books written by Abid Ali Awan.
 
 ## Articles
 

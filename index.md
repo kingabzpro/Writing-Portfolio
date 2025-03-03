@@ -4,7 +4,7 @@
   <div class="author-bio" style="max-width: 700px; margin: 0 auto; line-height: 1.4;">
     <h1 style="color: var(--primary-color);  margin-bottom: 0.5rem;">Hello! I'm Abid</h1>
     <p style=" margin: 0.7rem 0;">
-      A dedicated technical writer and educator with a passion for making complex concepts accessible to everyone. With a strong background in data science and programming, I've authored over 450 articles that bridge the gap between technical complexity and practical understanding.
+      I am a certified data science professional with a passion for developing innovative machine learning solutions. As a dedicated technical writer and educator, I have authored over 450 articles to make complex concepts more accessible and to promote practical understanding. If you appreciate my work, please feel free to reach out to me on LinkedIn.
     </p>
   </div>
 </div>
@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
   </a>
 </div>
 
-## 📖 Latest Resources
+## 📖 Miscellaneous
 
 
 - 📚 **[Books Published by Abid](pages/books-by-abid)** - Check out my published books and ebooks
