@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div class="cta-section" style="text-align: center; margin: 3rem 0; padding: 2rem; background: var(--sidebar-bg); border-radius: 15px;">
   <h2>Stay Updated!</h2>
-  <p>Star ⭐ this repository to get notified about new content and updates.</p>
+  <p>Star ⭐ this <a href="https://github.com/kingabzpro/Writing-Portfolio">repository</a> to get notified about new content and updates.</p>
   
   <div class="social-links" style="display: flex; justify-content: center; gap: 2rem; margin-top: 1.5rem;">
     <a href="https://github.com/kingabzpro" style="font-size: 2rem; color: var(--text-color);"><i class="fab fa-github"></i></a>
