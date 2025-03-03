@@ -12,5 +12,7 @@ description: "Technical Writing Portfolio: Blogs, Tutorials, Cheat Sheets, Proje
 show_downloads: false
 google_analytics: G-PRQC1HFQ4G
 
-
+# Clean URLs without .html extension and trailing slash
+permalink: /:title
+trailing_slash: false
 
