@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+
+- [Using GPT-4.5 Without a $200 Subscription](https://www.kdnuggets.com/using-gpt-4-5-without-a-200-subscription)
 - [OpenHands: Open Source AI Software Developer](https://www.kdnuggets.com/openhands-open-source-ai-software-developer)
 - [Hosting Khoj for Free: Your Personal Autonomous AI App](https://www.kdnuggets.com/hosting-khoj-free-personal-autonomous-ai-app)
 - [Top 3 Video Generation Models](https://www.kdnuggets.com/top-3-video-generation-models)
