@@ -810,6 +810,12 @@
     "content": "Deploying DeepSeek R1 on Databricks: A Step-by-Step Guide - Machine Learning Operations (MLOps) article about deploying deepseek r1 on databricks: a step-by-step guide"
   },
   {
+    "title": "Deploying Deepseek Janus Pro locally",
+    "url": "https://www.kdnuggets.com/deploying-deepseek-janus-pro-locally",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Deploying Deepseek Janus Pro locally - Artificial Intelligence (AI) article about deploying deepseek janus pro locally"
+  },
+  {
     "title": "Deploying Your First Machine Learning Model",
     "url": "https://www.kdnuggets.com/deploying-your-first-machine-learning-model",
     "category": "Machine Learning Operations (MLOps)",
@@ -982,6 +988,12 @@
     "url": "https://machinelearningmastery.com/further-stable-diffusion-pipeline-with-diffusers/",
     "category": "Computer Vision",
     "content": "Further Stable Diffusion Pipeline with Diffusers - Computer Vision article about further stable diffusion pipeline with diffusers"
+  },
+  {
+    "title": "GPT-4.5 Function Calling Tutorial: Extract Stock Prices and News With AI",
+    "url": "https://www.datacamp.com/tutorial/gpt-4-5-function-calling",
+    "category": "Large Language Models (LLMs)",
+    "content": "GPT-4.5 Function Calling Tutorial: Extract Stock Prices and News With AI - Large Language Models (LLMs) article about gpt-4.5 function calling tutorial: extract stock prices and news with ai"
   },
   {
     "title": "Generative AI with Large Language Models: Hands-On Training",
@@ -1870,6 +1882,12 @@
     "url": "https://www.kdnuggets.com/using-fastapi-for-building-ml-powered-web-apps",
     "category": "Machine Learning Operations (MLOps)",
     "content": "Using FastAPI for Building ML-Powered Web Apps - Machine Learning Operations (MLOps) article about using fastapi for building ml-powered web apps"
+  },
+  {
+    "title": "Using GPT-4.5 Without a $200 Subscription",
+    "url": "https://www.kdnuggets.com/using-gpt-4-5-without-a-200-subscription",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Using GPT-4.5 Without a $200 Subscription - Artificial Intelligence (AI) article about using gpt-4.5 without a $200 subscription"
   },
   {
     "title": "Using Gemini 2.0 Pro Locally",

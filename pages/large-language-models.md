@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [GPT-4.5 Function Calling Tutorial: Extract Stock Prices and News With AI](https://www.datacamp.com/tutorial/gpt-4-5-function-calling)
 - [OpenAI o3-mini Tutorial: Building a Machine Learning Project with o3-mini](https://www.datacamp.com/tutorial/openai-o3-mini-tutorial-building-a-machine-learning-project)
 - [Building Multimodal AI Application with Gemini 2.0 Pro](https://www.datacamp.com/tutorial/building-multimodal-ai-application-with-gemini-2-0-pro)
 - [Building AI Application with Gemini 2.0](https://www.kdnuggets.com/building-ai-application-gemini-2)

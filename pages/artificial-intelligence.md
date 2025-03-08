@@ -4,7 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
-
+- [Deploying Deepseek Janus Pro locally](https://www.kdnuggets.com/deploying-deepseek-janus-pro-locally)
 - [Using GPT-4.5 Without a $200 Subscription](https://www.kdnuggets.com/using-gpt-4-5-without-a-200-subscription)
 - [OpenHands: Open Source AI Software Developer](https://www.kdnuggets.com/openhands-open-source-ai-software-developer)
 - [Hosting Khoj for Free: Your Personal Autonomous AI App](https://www.kdnuggets.com/hosting-khoj-free-personal-autonomous-ai-app)
