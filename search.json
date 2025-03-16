@@ -810,6 +810,12 @@
     "content": "DeepChecks Tutorial: Automating Machine Learning Testing - Machine Learning Operations (MLOps) article about deepchecks tutorial: automating machine learning testing"
   },
   {
+    "title": "Demand for MLOps Solutions in the World of Large Language Models",
+    "url": "https://nexusml.co/blog/demand-for-mlops-solutions/",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Demand for MLOps Solutions in the World of Large Language Models - Machine Learning Operations (MLOps) article about demand for mlops solutions in the world of large language models"
+  },
+  {
     "title": "Deploying DeepSeek R1 on Databricks: A Step-by-Step Guide",
     "url": "https://www.datacamp.com/tutorial/deploying-deepseek-r1-on-databricks",
     "category": "Machine Learning Operations (MLOps)",
@@ -838,6 +844,12 @@
     "url": "https://www.kdnuggets.com/2023/04/dolly-20-chatgpt-open-source-alternative-commercial.html",
     "category": "Large Language Models (LLMs)",
     "content": "Dolly 2.0: ChatGPT Open Source Alternative for Commercial Use - Large Language Models (LLMs) article about dolly 2.0: chatgpt open source alternative for commercial use"
+  },
+  {
+    "title": "Driving Efficiency in Business with Proactive MLOps & AI Solutions",
+    "url": "https://nexusml.co/blog/proactive-mlops-ai-solutions/",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Driving Efficiency in Business with Proactive MLOps & AI Solutions - Machine Learning Operations (MLOps) article about driving efficiency in business with proactive mlops & ai solutions"
   },
   {
     "title": "DuckDB Tutorial: Building AI Projects",
@@ -1218,6 +1230,12 @@
     "content": "HumanEval: A Benchmark for Evaluating LLM Code Generation Capabilities - Large Language Models (LLMs) article about humaneval: a benchmark for evaluating llm code generation capabilities"
   },
   {
+    "title": "Image Classification Inference with FastAPI",
+    "url": "https://nexusml.co/blog/image-classification-inference-fastapi/",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Image Classification Inference with FastAPI - Machine Learning Operations (MLOps) article about image classification inference with fastapi"
+  },
+  {
     "title": "Introducing OpenChat: The Free & Simple Platform for Building Custom Chatbots in Minutes",
     "url": "https://www.kdnuggets.com/2023/06/introducing-openchat-free-simple-platform-building-custom-chatbots-minutes.html",
     "category": "Artificial Intelligence (AI)",
@@ -1494,6 +1512,12 @@
     "content": "Roadmap for Becoming a Data Scientist - Career Advice article about roadmap for becoming a data scientist"
   },
   {
+    "title": "Run Gemma 3 Locally Using Open WebUI",
+    "url": "https://skillenai.com/competition-post/run-gemma-3-locally-using-open-webui/",
+    "category": "Large Language Models (LLMs)",
+    "content": "Run Gemma 3 Locally Using Open WebUI - Large Language Models (LLMs) article about run gemma 3 locally using open webui"
+  },
+  {
     "title": "Run LLMs Locally: 7 Simple Methods",
     "url": "https://www.datacamp.com/tutorial/run-llms-locally-tutorial",
     "category": "Large Language Models (LLMs)",
@@ -1540,6 +1564,12 @@
     "url": "https://www.kdnuggets.com/2022/12/scikit-learn-machine-learning-cheatsheet.html",
     "category": "Cheat Sheets",
     "content": "Scikit-learn for Machine Learning Cheat Sheet - Cheat Sheets article about scikit-learn for machine learning cheat sheet"
+  },
+  {
+    "title": "Securing Your FastAPI ML Application",
+    "url": "https://nexusml.co/blog/securing_fastapi_ml_application/",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Securing Your FastAPI ML Application - Machine Learning Operations (MLOps) article about securing your fastapi ml application"
   },
   {
     "title": "Setting Up VSCode For Python: A Complete Guide",
@@ -1804,6 +1834,12 @@
     "url": "https://www.kdnuggets.com/top-5-linux-distro-for-data-science",
     "category": "Data Science",
     "content": "Top 5 Linux Distro for Data Science - Data Science article about top 5 linux distro for data science"
+  },
+  {
+    "title": "Top 5 MLOps Tools",
+    "url": "https://nexusml.co/blog/top-5-mlops-tools/",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Top 5 MLOps Tools - Machine Learning Operations (MLOps) article about top 5 mlops tools"
   },
   {
     "title": "Top 5 Machine Learning APIs Practitioners Should Know",
