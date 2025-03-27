@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Using Claude 3.7 Locally](https://www.kdnuggets.com/using-claude-3-7-locally)
+- [Building Agentic Application Using Streamlit and Langchain](https://www.kdnuggets.com/building-agentic-application-using-streamlit-and-langchain)
 - [Deploying Deepseek Janus Pro locally](https://www.kdnuggets.com/deploying-deepseek-janus-pro-locally)
 - [Using GPT-4.5 Without a $200 Subscription](https://www.kdnuggets.com/using-gpt-4-5-without-a-200-subscription)
 - [OpenHands: Open Source AI Software Developer](https://www.kdnuggets.com/openhands-open-source-ai-software-developer)

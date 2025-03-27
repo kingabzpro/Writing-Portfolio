@@ -4,7 +4,9 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Fine-Tune Gemma 3: A Step-by-Step Guide With Financial Q&A Dataset](https://www.datacamp.com/tutorial/fine-tune-gemma-3)
 - [Run Gemma 3 Locally Using Open WebUI](https://skillenai.com/competition-post/run-gemma-3-locally-using-open-webui/)
+- [Top 7 Open-Source LLMs in 2025](https://www.kdnuggets.com/top-7-open-source-llms-in-2025)
 - [5 Cheapest Cloud Platforms for Fine-tuning LLMs](https://www.kdnuggets.com/5-cheapest-cloud-platforms-for-fine-tuning-llms)
 - [GPT-4.5 Function Calling Tutorial: Extract Stock Prices and News With AI](https://www.datacamp.com/tutorial/gpt-4-5-function-calling)
 - [OpenAI o3-mini Tutorial: Building a Machine Learning Project with o3-mini](https://www.datacamp.com/tutorial/openai-o3-mini-tutorial-building-a-machine-learning-project)

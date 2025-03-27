@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## GitHub Repositories
 
+- [How to Reach $500K on Upwork](https://www.kdnuggets.com/how-to-reach-500k-on-upwork)
+
 - [10 GitHub Repositories to Master Math](https://www.kdnuggets.com/10-github-repositories-master-math)
 
 - [10 GitHub Repositories to Master Python](https://www.kdnuggets.com/10-github-repositories-to-master-python)

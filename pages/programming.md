@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [Trae: Adaptive AI Code Editor](https://www.kdnuggets.com/trae-adaptive-ai-code-editor)
+- [5 AI Code Editors to Use in 2025](https://www.kdnuggets.com/5-ai-code-editors-to-use-in-2025)
 - [Windsurf AI Agentic Code Editor: Features, Setup, and Use Cases](https://www.datacamp.com/tutorial/windsurf-ai-agentic-code-editor)
 - [Learn to Code with GitHub](https://www.kdnuggets.com/learn-to-code-github) 
 - [10 GitHub Features That You Are Missing Out On](https://www.kdnuggets.com/10-github-features-that-you-are-missing-out-on)

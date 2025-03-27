@@ -210,6 +210,12 @@
     "content": "3 Ways to Generate Hyper-Realistic Faces Using Stable Diffusion - Computer Vision article about 3 ways to generate hyper-realistic faces using stable diffusion"
   },
   {
+    "title": "5 AI Code Editors to Use in 2025",
+    "url": "https://www.kdnuggets.com/5-ai-code-editors-to-use-in-2025",
+    "category": "Programming",
+    "content": "5 AI Code Editors to Use in 2025 - Programming article about 5 ai code editors to use in 2025"
+  },
+  {
     "title": "5 Advance Projects for Data Science Portfolio",
     "url": "https://www.kdnuggets.com/2023/03/5-advance-projects-data-science-portfolio.html",
     "category": "Data Science",
@@ -708,6 +714,12 @@
     "content": "Building AI Application with Gemini 2.0 - Large Language Models (LLMs) article about building ai application with gemini 2.0"
   },
   {
+    "title": "Building Agentic Application Using Streamlit and Langchain",
+    "url": "https://www.kdnuggets.com/building-agentic-application-using-streamlit-and-langchain",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Building Agentic Application Using Streamlit and Langchain - Artificial Intelligence (AI) article about building agentic application using streamlit and langchain"
+  },
+  {
     "title": "Building Data Pipeline with Prefect",
     "url": "https://www.kdnuggets.com/building-data-pipeline-with-prefect",
     "category": "Data Engineering",
@@ -910,6 +922,12 @@
     "url": "https://www.datacamp.com/tutorial/fine-tuning-google-gemma",
     "category": "Large Language Models (LLMs)",
     "content": "Fine Tuning Google Gemma: Enhancing LLMs with Customized Instructions - Large Language Models (LLMs) article about fine tuning google gemma: enhancing llms with customized instructions"
+  },
+  {
+    "title": "Fine-Tune Gemma 3: A Step-by-Step Guide With Financial Q&A Dataset",
+    "url": "https://www.datacamp.com/tutorial/fine-tune-gemma-3",
+    "category": "Large Language Models (LLMs)",
+    "content": "Fine-Tune Gemma 3: A Step-by-Step Guide With Financial Q&A Dataset - Large Language Models (LLMs) article about fine-tune gemma 3: a step-by-step guide with financial q&a dataset"
   },
   {
     "title": "Fine-Tune and Run Inference on Google's Gemma Model Using TPUs for Enhanced Speed and Performance",
@@ -1204,6 +1222,12 @@
     "url": "https://www.kdnuggets.com/how-to-learn-sql-the-lazy-way",
     "category": "Career Advice",
     "content": "How to Learn SQL the Lazy Way - Career Advice article about how to learn sql the lazy way"
+  },
+  {
+    "title": "How to Reach $500K on Upwork",
+    "url": "https://www.kdnuggets.com/how-to-reach-500k-on-upwork",
+    "category": "Career Advice",
+    "content": "How to Reach $500K on Upwork - Career Advice article about how to reach $500k on upwork"
   },
   {
     "title": "How to Run Llama 3 Locally: A Complete Guide",
@@ -1872,6 +1896,18 @@
     "content": "Top 7 Model Deployment and Serving Tools - Machine Learning Operations (MLOps) article about top 7 model deployment and serving tools"
   },
   {
+    "title": "Top 7 Open-Source LLMs in 2025",
+    "url": "https://www.kdnuggets.com/top-7-open-source-llms-in-2025",
+    "category": "Large Language Models (LLMs)",
+    "content": "Top 7 Open-Source LLMs in 2025 - Large Language Models (LLMs) article about top 7 open-source llms in 2025"
+  },
+  {
+    "title": "Trae: Adaptive AI Code Editor",
+    "url": "https://www.kdnuggets.com/trae-adaptive-ai-code-editor",
+    "category": "Programming",
+    "content": "Trae: Adaptive AI Code Editor - Programming article about trae: adaptive ai code editor"
+  },
+  {
     "title": "Ultimate Collection of 50 Free Courses for Mastering Data Science",
     "url": "https://www.kdnuggets.com/ultimate-collection-of-50-free-courses-for-mastering-data-science",
     "category": "Career Advice",
@@ -1900,6 +1936,12 @@
     "url": "https://machinelearningmastery.com/using-chatgpt-for-translation-effectively/",
     "category": "Artificial Intelligence (AI)",
     "content": "Using ChatGPT for Translation Effectively - Artificial Intelligence (AI) article about using chatgpt for translation effectively"
+  },
+  {
+    "title": "Using Claude 3.7 Locally",
+    "url": "https://www.kdnuggets.com/using-claude-3-7-locally",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Using Claude 3.7 Locally - Artificial Intelligence (AI) article about using claude 3.7 locally"
   },
   {
     "title": "Using ControlNet with Stable Diffusion",
