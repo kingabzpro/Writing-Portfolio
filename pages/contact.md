@@ -14,12 +14,20 @@ I'd love to hear from you! Whether you have a question about my articles, want t
   style="max-width: 500px; margin: 30px 0;"
 >
   <label style="display: block; margin-bottom: 15px;">
+    Your name:
+    <input type="text" name="name" required style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;">
+  </label>
+  <label style="display: block; margin-bottom: 15px;">
     Your email:
-    <input type="email" name="email" style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;">
+    <input type="email" name="email" required style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;">
+  </label>
+  <label style="display: block; margin-bottom: 15px;">
+    Subject:
+    <input type="text" name="subject" required style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;">
   </label>
   <label style="display: block; margin-bottom: 15px;">
     Your message:
-    <textarea name="message" style="width: 100%; height: 150px; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
+    <textarea name="message" required style="width: 100%; height: 150px; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
   </label>
   <button type="submit" style="background: var(--primary-color); color: white; border: none; padding: 10px 15px; border-radius: 4px; cursor: pointer; font-weight: bold;">Send</button>
 </form>
