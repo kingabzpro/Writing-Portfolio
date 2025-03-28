@@ -5,7 +5,7 @@ title: Contact Me
 
 # Contact Me
 
-I'd love to hear from you! Whether you have a question about my articles, want to discuss a potential collaboration, or just want to say hello, feel free to reach out using any of the methods below.
+I'd love to hear from you! Whether you have a question about my articles, want to discuss a potential collaboration, or just want to say hello.
 
 <!-- Contact form -->
 <form
