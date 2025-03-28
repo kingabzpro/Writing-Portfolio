@@ -4,7 +4,7 @@
   <div class="author-bio" style="max-width: 700px; margin: 0 auto; line-height: 1.4;">
     <h1 style="color: var(--primary-color);  margin-bottom: 0.5rem;">Hello! I'm Abid</h1>
     <p style=" margin: 0.7rem 0;">
-      I am a certified data science professional with a passion for developing innovative machine learning solutions. As a dedicated technical writer and educator, I have authored over 450 articles to make complex concepts more accessible and to promote practical understanding. If you appreciate my work, please feel free to reach out to me on LinkedIn.
+      I am a certified data science professional with a passion for developing innovative machine learning solutions. As a dedicated technical writer and educator, I have authored over 450 articles to make complex concepts more accessible and to promote practical understanding. If you appreciate my work, please feel free to <a href="pages/contact" style="color: var(--secondary-color);">contact me</a> or reach out on LinkedIn.
     </p>
   </div>
 </div>
@@ -124,6 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
 - 📚 **[Books Published by Abid](pages/books-by-abid)** - Check out my published books and ebooks
 - 📝 **[Career Resources](pages/career-advice)** - Career guidance and interview preparation
 - 📋 **[Cheat Sheets](pages/cheat-sheets)** - Quick reference guides for various technologies
+- 📬 **[Contact Me](pages/contact)** - Get in touch with me for questions or collaborations
 
 <div class="cta-section" style="text-align: center; margin: 3rem 0; padding: 2rem; background: var(--sidebar-bg); border-radius: 15px;">
   <h2>Stay Updated!</h2>
