@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Gemini 2.5 Pro API: A Guide With Demo Project](https://www.datacamp.com/tutorial/gemini-2-5-pro-api)
 - [Using Claude 3.7 Locally](https://www.kdnuggets.com/using-claude-3-7-locally)
 - [Building Agentic Application Using Streamlit and Langchain](https://www.kdnuggets.com/building-agentic-application-using-streamlit-and-langchain)
 - [Deploying Deepseek Janus Pro locally](https://www.kdnuggets.com/deploying-deepseek-janus-pro-locally)

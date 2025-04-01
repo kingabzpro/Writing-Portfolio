@@ -486,6 +486,12 @@
     "content": "7 Free Resource to Master LLMs - Career Advice article about 7 free resource to master llms"
   },
   {
+    "title": "7 GitHub Projects to Master Machine Learning",
+    "url": "https://www.kdnuggets.com/7-github-projects-to-master-machine-learning",
+    "category": "Machine Learning (ML)",
+    "content": "7 GitHub Projects to Master Machine Learning - Machine Learning (ML) article about 7 github projects to master machine learning"
+  },
+  {
     "title": "7 High Paying Side Hustles for Data Scientists",
     "url": "https://www.kdnuggets.com/7-high-paying-side-hustles-for-data-scientists",
     "category": "Career Advice",
@@ -1030,6 +1036,12 @@
     "url": "https://www.datacamp.com/tutorial/gpt-4-5-function-calling",
     "category": "Large Language Models (LLMs)",
     "content": "GPT-4.5 Function Calling Tutorial: Extract Stock Prices and News With AI - Large Language Models (LLMs) article about gpt-4.5 function calling tutorial: extract stock prices and news with ai"
+  },
+  {
+    "title": "Gemini 2.5 Pro API: A Guide With Demo Project",
+    "url": "https://www.datacamp.com/tutorial/gemini-2-5-pro-api",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Gemini 2.5 Pro API: A Guide With Demo Project - Artificial Intelligence (AI) article about gemini 2.5 pro api: a guide with demo project"
   },
   {
     "title": "Generative AI with Large Language Models: Hands-On Training",

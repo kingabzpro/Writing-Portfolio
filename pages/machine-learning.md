@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 
 ## Articles
 
+- [7 GitHub Projects to Master Machine Learning](https://www.kdnuggets.com/7-github-projects-to-master-machine-learning)
 - [Understanding Dimensionality Reduction](https://www.datacamp.com/tutorial/understanding-dimensionality-reduction)
 - [How to Get Addicted to Machine Learning](https://www.kdnuggets.com/how-to-get-addicted-machine-learning) 
 - [10 GitHub Repositories to Master Reinforcement Learning](https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning)
