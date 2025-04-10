@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Fine-Tuning Llama 4: A Guide With Demo Project](https://www.datacamp.com/tutorial/fine-tuning-llama-4)
 - [Fine-Tune Gemma 3: A Step-by-Step Guide With Financial Q&A Dataset](https://www.datacamp.com/tutorial/fine-tune-gemma-3)
 - [Run Gemma 3 Locally Using Open WebUI](https://skillenai.com/competition-post/run-gemma-3-locally-using-open-webui/)
 - [Top 7 Open-Source LLMs in 2025](https://www.kdnuggets.com/top-7-open-source-llms-in-2025)

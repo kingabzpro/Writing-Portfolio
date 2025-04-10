@@ -42,6 +42,12 @@
     "content": "10 GitHub Repositories for Deep Learning Enthusiasts - Machine Learning (ML) article about 10 github repositories for deep learning enthusiasts"
   },
   {
+    "title": "10 GitHub Repositories to Master Cloud Computing",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "10 GitHub Repositories to Master Cloud Computing - Machine Learning Operations (MLOps) article about 10 github repositories to master cloud computing"
+  },
+  {
     "title": "10 GitHub Repositories to Master Computer Science",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-computer-science",
     "category": "Career Advice",
@@ -202,6 +208,12 @@
     "url": "https://www.kdnuggets.com/2023/05/3-ways-access-gpt4-free.html",
     "category": "Artificial Intelligence (AI)",
     "content": "3 Ways to Access GPT-4 for Free - Artificial Intelligence (AI) article about 3 ways to access gpt-4 for free"
+  },
+  {
+    "title": "3 Ways to Access Llama 4 for Free",
+    "url": "https://www.kdnuggets.com/3-ways-to-access-llama-4-for-free",
+    "category": "Artificial Intelligence (AI)",
+    "content": "3 Ways to Access Llama 4 for Free - Artificial Intelligence (AI) article about 3 ways to access llama 4 for free"
   },
   {
     "title": "3 Ways to Generate Hyper-Realistic Faces Using Stable Diffusion",
@@ -982,6 +994,12 @@
     "url": "https://www.datacamp.com/tutorial/fine-tuning-llama-3-2-vision",
     "category": "Large Language Models (LLMs)",
     "content": "Fine-Tuning Llama 3.2 Vision - Large Language Models (LLMs) article about fine-tuning llama 3.2 vision"
+  },
+  {
+    "title": "Fine-Tuning Llama 4: A Guide With Demo Project",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-llama-4",
+    "category": "Large Language Models (LLMs)",
+    "content": "Fine-Tuning Llama 4: A Guide With Demo Project - Large Language Models (LLMs) article about fine-tuning llama 4: a guide with demo project"
   },
   {
     "title": "Fine-Tuning Phi-3.5 on E-Commerce Classification Dataset",

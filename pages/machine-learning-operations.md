@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [10 GitHub Repositories to Master Cloud Computing](https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing)
 - [Securing Your FastAPI ML Application](https://nexusml.co/blog/securing_fastapi_ml_application/)
 - [Image Classification Inference with FastAPI](https://nexusml.co/blog/image-classification-inference-fastapi/)
 - [Top 5 MLOps Tools](https://nexusml.co/blog/top-5-mlops-tools/)

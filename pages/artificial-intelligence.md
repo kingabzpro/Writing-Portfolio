@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [3 Ways to Access Llama 4 for Free](https://www.kdnuggets.com/3-ways-to-access-llama-4-for-free)
 - [Gemini 2.5 Pro API: A Guide With Demo Project](https://www.datacamp.com/tutorial/gemini-2-5-pro-api)
 - [Using Claude 3.7 Locally](https://www.kdnuggets.com/using-claude-3-7-locally)
 - [Building Agentic Application Using Streamlit and Langchain](https://www.kdnuggets.com/building-agentic-application-using-streamlit-and-langchain)
