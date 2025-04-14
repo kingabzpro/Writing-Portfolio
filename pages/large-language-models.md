@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Building A Simple MCP Server](https://www.kdnuggets.com/building-a-simple-mcp-server)
+- [Llama 4 With RAG: A Guide With Demo Project](https://www.datacamp.com/tutorial/llama-4-rag)
 - [Fine-Tuning Llama 4: A Guide With Demo Project](https://www.datacamp.com/tutorial/fine-tuning-llama-4)
 - [Fine-Tune Gemma 3: A Step-by-Step Guide With Financial Q&A Dataset](https://www.datacamp.com/tutorial/fine-tune-gemma-3)
 - [Run Gemma 3 Locally Using Open WebUI](https://skillenai.com/competition-post/run-gemma-3-locally-using-open-webui/)

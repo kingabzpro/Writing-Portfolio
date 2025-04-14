@@ -168,6 +168,12 @@
     "content": "28 Top Data Scientist Interview Questions For All Levels - Career Advice article about 28 top data scientist interview questions for all levels"
   },
   {
+    "title": "3 APIs to Access Gemini 2.5 Pro",
+    "url": "https://www.kdnuggets.com/3-apis-to-access-gemini-2-5-pro",
+    "category": "Artificial Intelligence (AI)",
+    "content": "3 APIs to Access Gemini 2.5 Pro - Artificial Intelligence (AI) article about 3 apis to access gemini 2.5 pro"
+  },
+  {
     "title": "3 Free Platforms for Personalized ChatGPT Experience",
     "url": "https://www.kdnuggets.com/2023/05/3-free-platform-personalized-chatgpt-experience.html",
     "category": "Artificial Intelligence (AI)",
@@ -724,6 +730,12 @@
     "url": "https://machinelearningmastery.com/building-3-fun-ai-applications-with-controlflow/",
     "category": "Large Language Models (LLMs)",
     "content": "Building 3 Fun AI Applications with ControlFlow - Large Language Models (LLMs) article about building 3 fun ai applications with controlflow"
+  },
+  {
+    "title": "Building A Simple MCP Server",
+    "url": "https://www.kdnuggets.com/building-a-simple-mcp-server",
+    "category": "Large Language Models (LLMs)",
+    "content": "Building A Simple MCP Server - Large Language Models (LLMs) article about building a simple mcp server"
   },
   {
     "title": "Building AI Application with Gemini 2.0",
@@ -1390,6 +1402,12 @@
     "url": "https://www.datacamp.com/tutorial/llama-factory-web-ui-guide-fine-tuning-llms",
     "category": "Large Language Models (LLMs)",
     "content": "LlaMA-Factory WebUI Beginner's Guide: Fine-Tuning LLMs - Large Language Models (LLMs) article about llama-factory webui beginner's guide: fine-tuning llms"
+  },
+  {
+    "title": "Llama 4 With RAG: A Guide With Demo Project",
+    "url": "https://www.datacamp.com/tutorial/llama-4-rag",
+    "category": "Large Language Models (LLMs)",
+    "content": "Llama 4 With RAG: A Guide With Demo Project - Large Language Models (LLMs) article about llama 4 with rag: a guide with demo project"
   },
   {
     "title": "Local AI with Docker, n8n, Qdrant, and Ollama",

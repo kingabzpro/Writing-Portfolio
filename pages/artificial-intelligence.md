@@ -3,7 +3,7 @@
 A collection of resources, tutorials, and articles about Artificial Intelligence (AI).
 
 ## Articles
-
+- [3 APIs to Access Gemini 2.5 Pro](https://www.kdnuggets.com/3-apis-to-access-gemini-2-5-pro)
 - [3 Ways to Access Llama 4 for Free](https://www.kdnuggets.com/3-ways-to-access-llama-4-for-free)
 - [Gemini 2.5 Pro API: A Guide With Demo Project](https://www.datacamp.com/tutorial/gemini-2-5-pro-api)
 - [Using Claude 3.7 Locally](https://www.kdnuggets.com/using-claude-3-7-locally)
