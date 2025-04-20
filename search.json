@@ -6,6 +6,12 @@
     "content": "10 Advanced Git Techniques - Programming article about 10 advanced git techniques"
   },
   {
+    "title": "10 Awesome MCP Servers",
+    "url": "https://www.kdnuggets.com/10-awesome-mcp-servers",
+    "category": "Artificial Intelligence (AI)",
+    "content": "10 Awesome MCP Servers - Artificial Intelligence (AI) article about 10 awesome mcp servers"
+  },
+  {
     "title": "10 ChatGPT Plugins for Data Science Cheat Sheet",
     "url": "https://www.kdnuggets.com/2023/06/10-chatgpt-plugins-data-science-cheat-sheet.html",
     "category": "Cheat Sheets",
@@ -840,6 +846,12 @@
     "content": "Comprehensive Guide to Zephyr-7B: Features, Usage, and Fine-tuning - Large Language Models (LLMs) article about comprehensive guide to zephyr-7b: features, usage, and fine-tuning"
   },
   {
+    "title": "Control Your Spotify Playlist with an MCP Server",
+    "url": "https://www.kdnuggets.com/control-spotify-playlist-with-mcp-server",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Control Your Spotify Playlist with an MCP Server - Artificial Intelligence (AI) article about control your spotify playlist with an mcp server"
+  },
+  {
     "title": "Create Stunning Data Viz in Seconds with ChatGPT",
     "url": "https://www.kdnuggets.com/create-stunning-data-viz-in-seconds-with-chatgpt",
     "category": "Data Science",
@@ -1060,6 +1072,12 @@
     "url": "https://machinelearningmastery.com/further-stable-diffusion-pipeline-with-diffusers/",
     "category": "Computer Vision",
     "content": "Further Stable Diffusion Pipeline with Diffusers - Computer Vision article about further stable diffusion pipeline with diffusers"
+  },
+  {
+    "title": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application",
+    "url": "https://www.datacamp.com/tutorial/gpt-4-1-guide-demo-project",
+    "category": "Large Language Models (LLMs)",
+    "content": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application - Large Language Models (LLMs) article about gpt-4.1 guide with demo project: keyword code search application"
   },
   {
     "title": "GPT-4.5 Function Calling Tutorial: Extract Stock Prices and News With AI",

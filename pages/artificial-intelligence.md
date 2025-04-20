@@ -3,6 +3,9 @@
 A collection of resources, tutorials, and articles about Artificial Intelligence (AI).
 
 ## Articles
+
+- [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
+- [Control Your Spotify Playlist with an MCP Server](https://www.kdnuggets.com/control-spotify-playlist-with-mcp-server)
 - [3 APIs to Access Gemini 2.5 Pro](https://www.kdnuggets.com/3-apis-to-access-gemini-2-5-pro)
 - [3 Ways to Access Llama 4 for Free](https://www.kdnuggets.com/3-ways-to-access-llama-4-for-free)
 - [Gemini 2.5 Pro API: A Guide With Demo Project](https://www.datacamp.com/tutorial/gemini-2-5-pro-api)

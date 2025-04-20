@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [GPT-4.1 Guide With Demo Project: Keyword Code Search Application](https://www.datacamp.com/tutorial/gpt-4-1-guide-demo-project)
 - [Building A Simple MCP Server](https://www.kdnuggets.com/building-a-simple-mcp-server)
 - [Llama 4 With RAG: A Guide With Demo Project](https://www.datacamp.com/tutorial/llama-4-rag)
 - [Fine-Tuning Llama 4: A Guide With Demo Project](https://www.datacamp.com/tutorial/fine-tuning-llama-4)
