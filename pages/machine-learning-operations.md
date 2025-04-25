@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [Accelerate Machine Learning Model Serving with FastAPI and Redis Caching](https://www.kdnuggets.com/accelerate-machine-learning-model-serving-with-fastapi-and-redis-caching)
 - [10 GitHub Repositories to Master Cloud Computing](https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing)
 - [Securing Your FastAPI ML Application](https://nexusml.co/blog/securing_fastapi_ml_application/)
 - [Image Classification Inference with FastAPI](https://nexusml.co/blog/image-classification-inference-fastapi/)

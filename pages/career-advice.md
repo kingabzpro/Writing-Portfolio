@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## GitHub Repositories
 
+
+- [7 High Paying Specialized Freelancing Jobs in 2025](https://www.kdnuggets.com/7-high-paying-freelancing-jobs-in-2025)
+
 - [How to Reach $500K on Upwork](https://www.kdnuggets.com/how-to-reach-500k-on-upwork)
 
 - [10 GitHub Repositories to Master Math](https://www.kdnuggets.com/10-github-repositories-master-math)

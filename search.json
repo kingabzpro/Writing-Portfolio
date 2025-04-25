@@ -522,6 +522,12 @@
     "content": "7 High Paying Side Hustles for Data Scientists - Career Advice article about 7 high paying side hustles for data scientists"
   },
   {
+    "title": "7 High Paying Specialized Freelancing Jobs in 2025",
+    "url": "https://www.kdnuggets.com/7-high-paying-freelancing-jobs-in-2025",
+    "category": "Career Advice",
+    "content": "7 High Paying Specialized Freelancing Jobs in 2025 - Career Advice article about 7 high paying specialized freelancing jobs in 2025"
+  },
+  {
     "title": "7 MLOPs Projects for Beginners",
     "url": "https://www.kdnuggets.com/7-mlops-projects-beginners",
     "category": "Machine Learning Operations (MLOps)",
@@ -658,6 +664,12 @@
     "url": "https://www.kdnuggets.com/2023/06/ai-chrome-extensions-data-scientists-cheat-sheet.html",
     "category": "Cheat Sheets",
     "content": "AI Chrome Extensions for Data Scientists Cheat Sheet - Cheat Sheets article about ai chrome extensions for data scientists cheat sheet"
+  },
+  {
+    "title": "Accelerate Machine Learning Model Serving with FastAPI and Redis Caching",
+    "url": "https://www.kdnuggets.com/accelerate-machine-learning-model-serving-with-fastapi-and-redis-caching",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Accelerate Machine Learning Model Serving with FastAPI and Redis Caching - Machine Learning Operations (MLOps) article about accelerate machine learning model serving with fastapi and redis caching"
   },
   {
     "title": "AgentGPT: Autonomous AI Agents in your Browser",
@@ -1072,6 +1084,12 @@
     "url": "https://machinelearningmastery.com/further-stable-diffusion-pipeline-with-diffusers/",
     "category": "Computer Vision",
     "content": "Further Stable Diffusion Pipeline with Diffusers - Computer Vision article about further stable diffusion pipeline with diffusers"
+  },
+  {
+    "title": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application",
+    "url": "https://www.datacamp.com/tutorial/gpt-4-1-guide-demo-project",
+    "category": "Artificial Intelligence (AI)",
+    "content": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application - Artificial Intelligence (AI) article about gpt-4.1 guide with demo project: keyword code search application"
   },
   {
     "title": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application",
@@ -1492,6 +1510,12 @@
     "url": "https://www.kdnuggets.com/2023/04/open-assistant-explore-possibilities-open-collaborative-chatbot-development.html",
     "category": "Large Language Models (LLMs)",
     "content": "Open Assistant: Explore the Possibilities of Open and Collaborative Chatbot Development - Large Language Models (LLMs) article about open assistant: explore the possibilities of open and collaborative chatbot development"
+  },
+  {
+    "title": "OpenAI Codex CLI Tutorial",
+    "url": "https://www.datacamp.com/tutorial/open-ai-codex-cli-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "content": "OpenAI Codex CLI Tutorial - Artificial Intelligence (AI) article about openai codex cli tutorial"
   },
   {
     "title": "OpenAI Function Calling Tutorial: Generate Structured Output",

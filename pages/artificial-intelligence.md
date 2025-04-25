@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [OpenAI Codex CLI Tutorial](https://www.datacamp.com/tutorial/open-ai-codex-cli-tutorial)
+- [GPT-4.1 Guide With Demo Project: Keyword Code Search Application](https://www.datacamp.com/tutorial/gpt-4-1-guide-demo-project)
 - [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
 - [Control Your Spotify Playlist with an MCP Server](https://www.kdnuggets.com/control-spotify-playlist-with-mcp-server)
 - [3 APIs to Access Gemini 2.5 Pro](https://www.kdnuggets.com/3-apis-to-access-gemini-2-5-pro)
