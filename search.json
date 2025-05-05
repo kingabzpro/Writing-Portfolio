@@ -1044,6 +1044,12 @@
     "content": "Fine-Tuning Phi-3.5 on E-Commerce Classification Dataset - Large Language Models (LLMs) article about fine-tuning phi-3.5 on e-commerce classification dataset"
   },
   {
+    "title": "Fine-Tuning Qwen3: A Step-by-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-qwen3",
+    "category": "Large Language Models (LLMs)",
+    "content": "Fine-Tuning Qwen3: A Step-by-Step Guide - Large Language Models (LLMs) article about fine-tuning qwen3: a step-by-step guide"
+  },
+  {
     "title": "Fine-tuning GPT-4o Mini: A Step-by-Step Guide",
     "url": "https://www.datacamp.com/tutorial/fine-tuning-gpt-4o-mini",
     "category": "Large Language Models (LLMs)",
@@ -1084,12 +1090,6 @@
     "url": "https://machinelearningmastery.com/further-stable-diffusion-pipeline-with-diffusers/",
     "category": "Computer Vision",
     "content": "Further Stable Diffusion Pipeline with Diffusers - Computer Vision article about further stable diffusion pipeline with diffusers"
-  },
-  {
-    "title": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application",
-    "url": "https://www.datacamp.com/tutorial/gpt-4-1-guide-demo-project",
-    "category": "Artificial Intelligence (AI)",
-    "content": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application - Artificial Intelligence (AI) article about gpt-4.1 guide with demo project: keyword code search application"
   },
   {
     "title": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application",
@@ -1548,6 +1548,12 @@
     "content": "OpenHands: Open Source AI Software Developer - Artificial Intelligence (AI) article about openhands: open source ai software developer"
   },
   {
+    "title": "OpenRouter: A Unified Interface for LLMs",
+    "url": "https://www.kdnuggets.com/openrouter-a-unified-interface-for-llms",
+    "category": "Large Language Models (LLMs)",
+    "content": "OpenRouter: A Unified Interface for LLMs - Large Language Models (LLMs) article about openrouter: a unified interface for llms"
+  },
+  {
     "title": "Overview of PEFT: State-of-the-art Parameter-Efficient Fine-Tuning",
     "url": "https://www.kdnuggets.com/overview-of-peft-stateoftheart-parameterefficient-finetuning",
     "category": "Machine Learning Operations (MLOps)",
@@ -1678,6 +1684,12 @@
     "url": "https://www.kdnuggets.com/2022/12/scikit-learn-machine-learning-cheatsheet.html",
     "category": "Cheat Sheets",
     "content": "Scikit-learn for Machine Learning Cheat Sheet - Cheat Sheets article about scikit-learn for machine learning cheat sheet"
+  },
+  {
+    "title": "Securing Machine Learning Applications with Authentication and User Management",
+    "url": "https://www.kdnuggets.com/securing-machine-learning-application-with-authentication-and-user-management",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Securing Machine Learning Applications with Authentication and User Management - Machine Learning Operations (MLOps) article about securing machine learning applications with authentication and user management"
   },
   {
     "title": "Securing Your FastAPI ML Application",

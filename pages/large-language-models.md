@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Fine-Tuning Qwen3: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-qwen3)
+- [OpenRouter: A Unified Interface for LLMs](https://www.kdnuggets.com/openrouter-a-unified-interface-for-llms)
 - [GPT-4.1 Guide With Demo Project: Keyword Code Search Application](https://www.datacamp.com/tutorial/gpt-4-1-guide-demo-project)
 - [Building A Simple MCP Server](https://www.kdnuggets.com/building-a-simple-mcp-server)
 - [Llama 4 With RAG: A Guide With Demo Project](https://www.datacamp.com/tutorial/llama-4-rag)
