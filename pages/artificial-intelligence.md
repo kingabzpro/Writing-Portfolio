@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Building Fun Projects with OpenAI Codex](https://www.kdnuggets.com/building-fun-projects-with-openai-codex)
 - [OpenAI Codex CLI Tutorial](https://www.datacamp.com/tutorial/open-ai-codex-cli-tutorial)
 - [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
 - [Control Your Spotify Playlist with an MCP Server](https://www.kdnuggets.com/control-spotify-playlist-with-mcp-server)
