@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 
 ## Articles
 
+- [7 AWS Services for Machine Learning Projects](https://www.kdnuggets.com/7-aws-services-for-machine-learning-projects)
 - [7 GitHub Projects to Master Machine Learning](https://www.kdnuggets.com/7-github-projects-to-master-machine-learning)
 - [Understanding Dimensionality Reduction](https://www.datacamp.com/tutorial/understanding-dimensionality-reduction)
 - [How to Get Addicted to Machine Learning](https://www.kdnuggets.com/how-to-get-addicted-machine-learning) 

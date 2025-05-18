@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [10 GitHub Repositories to Master Large Language Models](https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models)
 - [Fine-Tuning Qwen3: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-qwen3)
 - [OpenRouter: A Unified Interface for LLMs](https://www.kdnuggets.com/openrouter-a-unified-interface-for-llms)
 - [GPT-4.1 Guide With Demo Project: Keyword Code Search Application](https://www.datacamp.com/tutorial/gpt-4-1-guide-demo-project)

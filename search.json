@@ -78,6 +78,12 @@
     "content": "10 GitHub Repositories to Master Data Science - Data Science article about 10 github repositories to master data science"
   },
   {
+    "title": "10 GitHub Repositories to Master Large Language Models",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models",
+    "category": "Large Language Models (LLMs)",
+    "content": "10 GitHub Repositories to Master Large Language Models - Large Language Models (LLMs) article about 10 github repositories to master large language models"
+  },
+  {
     "title": "10 GitHub Repositories to Master MLOps",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-mlops",
     "category": "Career Advice",
@@ -438,6 +444,12 @@
     "content": "7 AI Portfolio Projects to Boost the Resume - Artificial Intelligence (AI) article about 7 ai portfolio projects to boost the resume"
   },
   {
+    "title": "7 AWS Services for Machine Learning Projects",
+    "url": "https://www.kdnuggets.com/7-aws-services-for-machine-learning-projects",
+    "category": "Machine Learning (ML)",
+    "content": "7 AWS Services for Machine Learning Projects - Machine Learning (ML) article about 7 aws services for machine learning projects"
+  },
+  {
     "title": "7 Advanced AI Projects for Beginners",
     "url": "https://www.kdnuggets.com/7-advanced-ai-projects-beginners",
     "category": "Artificial Intelligence (AI)",
@@ -634,6 +646,12 @@
     "url": "https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-2.html",
     "category": "Career Advice",
     "content": "A Complete Collection of Data Science Free Courses – Part 2 - Career Advice article about a complete collection of data science free courses – part 2"
+  },
+  {
+    "title": "A Guide to Mastering Serverless Machine Learning",
+    "url": "https://www.kdnuggets.com/a-guide-to-mastering-serverless-machine-learning",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "A Guide to Mastering Serverless Machine Learning - Machine Learning Operations (MLOps) article about a guide to mastering serverless machine learning"
   },
   {
     "title": "A Guide to Using ChatGPT For Data Science Projects",
@@ -1234,6 +1252,12 @@
     "url": "https://www.kdnuggets.com/handson-with-unsupervised-learning-kmeans-clustering",
     "category": "Machine Learning (ML)",
     "content": "Hands-On with Unsupervised Learning: K-Means Clustering - Machine Learning (ML) article about hands-on with unsupervised learning: k-means clustering"
+  },
+  {
+    "title": "Haystack AI Tutorial: Building Agentic Workflows",
+    "url": "https://www.datacamp.com/tutorial/haystack-ai-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Haystack AI Tutorial: Building Agentic Workflows - Artificial Intelligence (AI) article about haystack ai tutorial: building agentic workflows"
   },
   {
     "title": "Hosting Khoj for Free: Your Personal Autonomous AI App",
@@ -2140,6 +2164,12 @@
     "url": "https://www.kdnuggets.com/using-sql-with-python-sqlalchemy-and-pandas",
     "category": "SQL",
     "content": "Using SQL with Python: SQLAlchemy and Pandas - SQL article about using sql with python: sqlalchemy and pandas"
+  },
+  {
+    "title": "Warp Terminal Tutorial: AI-Powered Features for Developers and Data Pros",
+    "url": "https://www.datacamp.com/tutorial/warp-terminal-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Warp Terminal Tutorial: AI-Powered Features for Developers and Data Pros - Artificial Intelligence (AI) article about warp terminal tutorial: ai-powered features for developers and data pros"
   },
   {
     "title": "What are Neural Networks?",
