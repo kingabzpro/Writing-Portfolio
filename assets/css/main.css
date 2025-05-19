@@ -25,8 +25,11 @@
 }
 
 .search-container {
-    max-width: 700px;
-    margin: 0 auto;
+    position: relative;
+    max-width: 750px;
+    width: 100%;
+    display: flex;
+    align-items: center;
 }
 
 .search-icon {
