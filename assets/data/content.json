@@ -1,0 +1,76 @@
+{
+    "expertise": [
+        {
+            "title": "MLOps",
+            "icon": "fas fa-cogs",
+            "description": "Comprehensive guides on Machine Learning Operations, deployment, and scaling ML systems.",
+            "link": "pages/machine-learning-operations"
+        },
+        {
+            "title": "Large Language Models",
+            "icon": "fas fa-brain",
+            "description": "Deep dives into LLMs, transformers, and state-of-the-art NLP applications.",
+            "link": "pages/large-language-models"
+        },
+        {
+            "title": "Machine Learning",
+            "icon": "fas fa-robot",
+            "description": "In-depth tutorials on ML algorithms, deep learning, and practical implementations.",
+            "link": "pages/machine-learning"
+        }
+    ],
+    "topics": [
+        {
+            "title": "Artificial Intelligence",
+            "icon": "fas fa-microchip",
+            "link": "pages/artificial-intelligence"
+        },
+        {
+            "title": "Data Science",
+            "icon": "fas fa-chart-bar",
+            "link": "pages/data-science"
+        },
+        {
+            "title": "Natural Language Processing",
+            "icon": "fas fa-language",
+            "link": "pages/natural-language-processing"
+        },
+        {
+            "title": "Computer Vision",
+            "icon": "fas fa-eye",
+            "link": "pages/computer-vision"
+        },
+        {
+            "title": "Data Engineering",
+            "icon": "fas fa-server",
+            "link": "pages/data-engineering"
+        },
+        {
+            "title": "Programming",
+            "icon": "fas fa-code",
+            "link": "pages/programming"
+        },
+        {
+            "title": "SQL",
+            "icon": "fas fa-database",
+            "link": "pages/sql"
+        }
+    ],
+    "social": [
+        {
+            "platform": "GitHub",
+            "icon": "fab fa-github",
+            "url": "https://github.com/kingabzpro"
+        },
+        {
+            "platform": "LinkedIn",
+            "icon": "fab fa-linkedin",
+            "url": "https://linkedin.com/in/1abidaliawan"
+        },
+        {
+            "platform": "Twitter",
+            "icon": "fab fa-twitter",
+            "url": "https://twitter.com/1abidaliawan"
+        }
+    ]
+}

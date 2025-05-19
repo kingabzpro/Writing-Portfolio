@@ -1,0 +1,118 @@
+.author-section {
+    text-align: center;
+    padding: 1.5rem;
+    background: var(--sidebar-bg);
+    border-radius: 15px;
+    margin-bottom: 1.5rem;
+}
+
+.author-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: 15px auto;
+    display: block;
+    border: 3px solid var(--secondary-color);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.2);
+}
+
+.author-bio {
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.4;
+}
+
+.search-input {
+    width: 100%;
+    padding: 12px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.content-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.content-card {
+    background: var(--sidebar-bg);
+    padding: 1.5rem;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.content-card:hover {
+    transform: translateY(-5px);
+}
+
+.topics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.topic-link {
+    display: block;
+    padding: 0.5rem;
+    background: var(--sidebar-bg);
+    border-radius: 5px;
+    text-decoration: none;
+    color: var(--text-color);
+    transition: all 0.3s ease;
+}
+
+.topic-link:hover {
+    background: var(--secondary-color);
+    color: var(--bg-color);
+    transform: translateX(5px);
+}
+
+.cta-section {
+    text-align: center;
+    margin: 3rem 0;
+    padding: 2rem;
+    background: var(--sidebar-bg);
+    border-radius: 15px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+
+.social-links a {
+    font-size: 2rem;
+    color: var(--text-color);
+    transition: all 0.3s ease;
+}
+
+.social-links a:hover {
+    color: var(--secondary-color);
+    transform: scale(1.1);
+}
+
+.search-result {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.search-result a {
+    font-size: 18px;
+    color: #0366d6;
+    text-decoration: none;
+}
+
+.search-result-category {
+    color: #666;
+    margin-top: 5px;
+    font-size: 14px;
+}
