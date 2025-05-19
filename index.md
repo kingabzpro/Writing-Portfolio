@@ -4,15 +4,17 @@
 <div class="author-section">
   <img src="assets/images/author.jpg" alt="Abid's Profile Picture" class="author-image">
   
-  <div class="author-bio">
-    <h1 style="color: var(--primary-color); margin-bottom: 0.5rem;">Hello! I'm Abid</h1>
-    <p style="margin: 0.7rem 0;">
-      I am a certified data science professional with a passion for developing innovative machine learning solutions. As a dedicated technical writer and educator, I have authored over 450 articles to make complex concepts more accessible and to promote practical understanding. If you appreciate my work, please feel free to <a href="pages/contact" style="color: var(--secondary-color);">contact me</a> or reach out on LinkedIn.
+  <div class="author-bio">    <h1 class="author-title">Hello! I'm Abid</h1>
+    <p class="author-description">
+      I am a certified data science professional with a passion for developing innovative machine learning solutions. As a dedicated technical writer and educator, I have authored over 450 articles to make complex concepts more accessible and to promote practical understanding. If you appreciate my work, please feel free to <a href="pages/contact" class="highlight-link">contact me</a> or reach out on LinkedIn.
     </p>
   </div>
 </div>
 
-<input type="text" id="searchInput" class="search-input" placeholder="Search articles...">
+<div class="search-container">
+  <i class="fas fa-search search-icon"></i>
+  <input type="text" id="searchInput" class="search-input" placeholder="Search articles...">
+</div>
 <div id="searchResults"></div>
 
 ## 👨‍🔬 Author Expertise 
