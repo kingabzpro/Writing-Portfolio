@@ -26,15 +26,10 @@
 
 .search-container {
     position: relative;
-    margin: 2rem auto 2rem auto;
-    max-width: 500px;
+    max-width: 700px;
     width: 100%;
     display: flex;
     align-items: center;
-    background: var(--sidebar-bg);
-    border-radius: 10px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-    padding: 0.5rem 1rem;
 }
 
 .search-icon {
