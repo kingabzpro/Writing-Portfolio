@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Fine-Tuning Phi-4 Reasoning: A Step-By-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-phi-4-reasoning)
+- [Mistral Medium 3 Tutorial: Building Agentic Applications](https://www.datacamp.com/tutorial/mistral-medium-3-tutorial)
 - [10 GitHub Repositories to Master Large Language Models](https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models)
 - [Fine-Tuning Qwen3: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-qwen3)
 - [OpenRouter: A Unified Interface for LLMs](https://www.kdnuggets.com/openrouter-a-unified-interface-for-llms)

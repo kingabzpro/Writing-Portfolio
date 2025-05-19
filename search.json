@@ -1068,6 +1068,12 @@
     "content": "Fine-Tuning Phi-3.5 on E-Commerce Classification Dataset - Large Language Models (LLMs) article about fine-tuning phi-3.5 on e-commerce classification dataset"
   },
   {
+    "title": "Fine-Tuning Phi-4 Reasoning: A Step-By-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-phi-4-reasoning",
+    "category": "Large Language Models (LLMs)",
+    "content": "Fine-Tuning Phi-4 Reasoning: A Step-By-Step Guide - Large Language Models (LLMs) article about fine-tuning phi-4 reasoning: a step-by-step guide"
+  },
+  {
     "title": "Fine-Tuning Qwen3: A Step-by-Step Guide",
     "url": "https://www.datacamp.com/tutorial/fine-tuning-qwen3",
     "category": "Large Language Models (LLMs)",
@@ -1528,6 +1534,12 @@
     "url": "https://www.datacamp.com/tutorial/mistral-7b-tutorial",
     "category": "Large Language Models (LLMs)",
     "content": "Mistral 7B Tutorial: A Step-by-Step Guide to Using and Fine-Tuning Mistral 7B - Large Language Models (LLMs) article about mistral 7b tutorial: a step-by-step guide to using and fine-tuning mistral 7b"
+  },
+  {
+    "title": "Mistral Medium 3 Tutorial: Building Agentic Applications",
+    "url": "https://www.datacamp.com/tutorial/mistral-medium-3-tutorial",
+    "category": "Large Language Models (LLMs)",
+    "content": "Mistral Medium 3 Tutorial: Building Agentic Applications - Large Language Models (LLMs) article about mistral medium 3 tutorial: building agentic applications"
   },
   {
     "title": "Mojo: A Revolutionary New Programming Language for Building AI Applications",
