@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Devstral Quickstart Guide: Run Mistral AI's LLM Locally](https://www.datacamp.com/tutorial/devstral-quickstart-guide)
 - [Gemma 3n: Smarter, Faster, and Offline-Ready](https://www.kdnuggets.com/gemma-3n-smarter-faster-and-offline-ready)
 - [Haystack AI Tutorial: Building Agentic Workflows](https://www.datacamp.com/tutorial/haystack-ai-tutorial)
 - [Warp Terminal Tutorial: AI-Powered Features for Developers and Data Pros](https://www.datacamp.com/tutorial/warp-terminal-tutorial)
