@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [AutoGen Tutorial: Build Multi-Agent AI Applications](https://www.datacamp.com/tutorial/autogen-tutorial)
 - [Fine-Tuning Phi-4 Reasoning: A Step-By-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-phi-4-reasoning)
 - [Mistral Medium 3 Tutorial: Building Agentic Applications](https://www.datacamp.com/tutorial/mistral-medium-3-tutorial)
 - [10 GitHub Repositories to Master Large Language Models](https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models)

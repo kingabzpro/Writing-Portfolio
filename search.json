@@ -714,6 +714,12 @@
     "content": "Artificial Intelligence for Noobs - Artificial Intelligence (AI) article about artificial intelligence for noobs"
   },
   {
+    "title": "AutoGen Tutorial: Build Multi-Agent AI Applications",
+    "url": "https://www.datacamp.com/tutorial/autogen-tutorial",
+    "category": "Large Language Models (LLMs)",
+    "content": "AutoGen Tutorial: Build Multi-Agent AI Applications - Large Language Models (LLMs) article about autogen tutorial: build multi-agent ai applications"
+  },
+  {
     "title": "Bark: The Ultimate Audio Generation Model",
     "url": "https://www.kdnuggets.com/2023/05/bark-ultimate-audio-generation-model.html",
     "category": "Natural Language Processing (NLP)",
@@ -1138,6 +1144,12 @@
     "url": "https://www.datacamp.com/tutorial/gemini-2-5-pro-api",
     "category": "Artificial Intelligence (AI)",
     "content": "Gemini 2.5 Pro API: A Guide With Demo Project - Artificial Intelligence (AI) article about gemini 2.5 pro api: a guide with demo project"
+  },
+  {
+    "title": "Gemma 3n: Smarter, Faster, and Offline-Ready",
+    "url": "https://www.kdnuggets.com/gemma-3n-smarter-faster-and-offline-ready",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Gemma 3n: Smarter, Faster, and Offline-Ready - Artificial Intelligence (AI) article about gemma 3n: smarter, faster, and offline-ready"
   },
   {
     "title": "Generative AI with Large Language Models: Hands-On Training",
