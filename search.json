@@ -240,6 +240,12 @@
     "content": "3 Ways to Generate Hyper-Realistic Faces Using Stable Diffusion - Computer Vision article about 3 ways to generate hyper-realistic faces using stable diffusion"
   },
   {
+    "title": "32 MCP Servers You Need To Check Out Now",
+    "url": "https://www.kdnuggets.com/32-mcp-servers-you-need-to-check-out-now",
+    "category": "Artificial Intelligence (AI)",
+    "content": "32 MCP Servers You Need To Check Out Now - Artificial Intelligence (AI) article about 32 mcp servers you need to check out now"
+  },
+  {
     "title": "5 AI Code Editors to Use in 2025",
     "url": "https://www.kdnuggets.com/5-ai-code-editors-to-use-in-2025",
     "category": "Programming",
@@ -376,6 +382,12 @@
     "url": "https://www.kdnuggets.com/5-portfolio-projects-for-final-year-data-science-students",
     "category": "Career Advice",
     "content": "5 Portfolio Projects for Final Year Data Science Students - Career Advice article about 5 portfolio projects for final year data science students"
+  },
+  {
+    "title": "5 Powerful Ways to Use Claude 4",
+    "url": "https://www.kdnuggets.com/5-powerful-ways-to-use-claude-4",
+    "category": "Large Language Models (LLMs)",
+    "content": "5 Powerful Ways to Use Claude 4 - Large Language Models (LLMs) article about 5 powerful ways to use claude 4"
   },
   {
     "title": "5 Projects Build with Generative Models and Open Source Tools",
@@ -858,6 +870,12 @@
     "content": "ChatGPT for Data Science Interview Cheat Sheet - Cheat Sheets article about chatgpt for data science interview cheat sheet"
   },
   {
+    "title": "Claude Opus 4 with Claude Code: A Guide With Demo Project",
+    "url": "https://www.datacamp.com/tutorial/claude-opus-4-claude-code",
+    "category": "Programming",
+    "content": "Claude Opus 4 with Claude Code: A Guide With Demo Project - Programming article about claude opus 4 with claude code: a guide with demo project"
+  },
+  {
     "title": "Claude vs. ChatGPT: Which AI Assistant Should Data Scientists Choose in 2023?",
     "url": "https://www.datacamp.com/blog/claude-vs-chatgpt-data-science-comparison",
     "category": "Data Science",
@@ -1032,6 +1050,12 @@
     "content": "Fine-Tuning DeepSeek R1 (Reasoning Model) - Large Language Models (LLMs) article about fine-tuning deepseek r1 (reasoning model)"
   },
   {
+    "title": "Fine-Tuning DeepSeek-R1-0528 on an RTX 4090",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-deep-seek-r1-0528",
+    "category": "Large Language Models (LLMs)",
+    "content": "Fine-Tuning DeepSeek-R1-0528 on an RTX 4090 - Large Language Models (LLMs) article about fine-tuning deepseek-r1-0528 on an rtx 4090"
+  },
+  {
     "title": "Fine-Tuning GPT-4o",
     "url": "https://www.kdnuggets.com/fine-tuning-gpt-4o",
     "category": "Large Language Models (LLMs)",
@@ -1072,6 +1096,12 @@
     "url": "https://www.datacamp.com/tutorial/fine-tuning-llama-4",
     "category": "Large Language Models (LLMs)",
     "content": "Fine-Tuning Llama 4: A Guide With Demo Project - Large Language Models (LLMs) article about fine-tuning llama 4: a guide with demo project"
+  },
+  {
+    "title": "Fine-Tuning MedGemma on a Brain MRI Dataset",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-medgemma",
+    "category": "Large Language Models (LLMs)",
+    "content": "Fine-Tuning MedGemma on a Brain MRI Dataset - Large Language Models (LLMs) article about fine-tuning medgemma on a brain mri dataset"
   },
   {
     "title": "Fine-Tuning Phi-3.5 on E-Commerce Classification Dataset",
@@ -2064,6 +2094,12 @@
     "content": "Top 7 Open-Source LLMs in 2025 - Large Language Models (LLMs) article about top 7 open-source llms in 2025"
   },
   {
+    "title": "Top 7 Python Frameworks for AI Agents",
+    "url": "https://www.kdnuggets.com/top-7-python-frameworks-for-ai-agents",
+    "category": "Python",
+    "content": "Top 7 Python Frameworks for AI Agents - Python article about top 7 python frameworks for ai agents"
+  },
+  {
     "title": "Trae: Adaptive AI Code Editor",
     "url": "https://www.kdnuggets.com/trae-adaptive-ai-code-editor",
     "category": "Programming",
@@ -2200,6 +2236,12 @@
     "url": "https://www.datacamp.com/tutorial/warp-terminal-tutorial",
     "category": "Artificial Intelligence (AI)",
     "content": "Warp Terminal Tutorial: AI-Powered Features for Developers and Data Pros - Artificial Intelligence (AI) article about warp terminal tutorial: ai-powered features for developers and data pros"
+  },
+  {
+    "title": "Warp: The Intelligent AI-Powered Terminal",
+    "url": "https://www.kdnuggets.com/warp-the-intelligent-ai-powered-terminal",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Warp: The Intelligent AI-Powered Terminal - Artificial Intelligence (AI) article about warp: the intelligent ai-powered terminal"
   },
   {
     "title": "What are Neural Networks?",

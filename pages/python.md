@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [Top 7 Python Frameworks for AI Agents](https://www.kdnuggets.com/top-7-python-frameworks-for-ai-agents)
 - [A New Python Package Manager](https://www.kdnuggets.com/new-python-package-manager) 
 - [Mastering f-strings in Python](https://www.kdnuggets.com/mastering-f-strings-in-python)
 - [7 Free Online Python REPLs](https://www.kdnuggets.com/7-free-online-python-repls) 

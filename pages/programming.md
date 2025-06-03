@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [Claude Opus 4 with Claude Code: A Guide With Demo Project](https://www.datacamp.com/tutorial/claude-opus-4-claude-code)
 - [Trae: Adaptive AI Code Editor](https://www.kdnuggets.com/trae-adaptive-ai-code-editor)
 - [5 AI Code Editors to Use in 2025](https://www.kdnuggets.com/5-ai-code-editors-to-use-in-2025)
 - [Windsurf AI Agentic Code Editor: Features, Setup, and Use Cases](https://www.datacamp.com/tutorial/windsurf-ai-agentic-code-editor)

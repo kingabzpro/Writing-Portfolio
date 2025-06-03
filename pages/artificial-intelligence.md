@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [32 MCP Servers You Need To Check Out Now](https://www.kdnuggets.com/32-mcp-servers-you-need-to-check-out-now)
+- [Warp: The Intelligent AI-Powered Terminal](https://www.kdnuggets.com/warp-the-intelligent-ai-powered-terminal)
 - [Devstral Quickstart Guide: Run Mistral AI's LLM Locally](https://www.datacamp.com/tutorial/devstral-quickstart-guide)
 - [Gemma 3n: Smarter, Faster, and Offline-Ready](https://www.kdnuggets.com/gemma-3n-smarter-faster-and-offline-ready)
 - [Haystack AI Tutorial: Building Agentic Workflows](https://www.datacamp.com/tutorial/haystack-ai-tutorial)

@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [5 Powerful Ways to Use Claude 4](https://www.kdnuggets.com/5-powerful-ways-to-use-claude-4)
+- [Fine-Tuning DeepSeek-R1-0528 on an RTX 4090](https://www.datacamp.com/tutorial/fine-tuning-deep-seek-r1-0528)
+- [Fine-Tuning MedGemma on a Brain MRI Dataset](https://www.datacamp.com/tutorial/fine-tuning-medgemma)
 - [AutoGen Tutorial: Build Multi-Agent AI Applications](https://www.datacamp.com/tutorial/autogen-tutorial)
 - [Fine-Tuning Phi-4 Reasoning: A Step-By-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-phi-4-reasoning)
 - [Mistral Medium 3 Tutorial: Building Agentic Applications](https://www.datacamp.com/tutorial/mistral-medium-3-tutorial)
