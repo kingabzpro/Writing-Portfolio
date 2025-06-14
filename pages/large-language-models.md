@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Run the Full DeepSeek-R1-0528 Model Locally](https://www.kdnuggets.com/run-the-full-deepseek-r1-0528-model-locally)
+- [Mixedbread Cloud: A Unified API for RAG Pipelines](https://www.kdnuggets.com/mixedbread-cloud-a-unified-api-for-rag-pipelines)
 - [5 Powerful Ways to Use Claude 4](https://www.kdnuggets.com/5-powerful-ways-to-use-claude-4)
 - [Fine-Tuning DeepSeek-R1-0528 on an RTX 4090](https://www.datacamp.com/tutorial/fine-tuning-deep-seek-r1-0528)
 - [Fine-Tuning MedGemma on a Brain MRI Dataset](https://www.datacamp.com/tutorial/fine-tuning-medgemma)

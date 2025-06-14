@@ -386,6 +386,12 @@
   {
     "title": "5 Powerful Ways to Use Claude 4",
     "url": "https://www.kdnuggets.com/5-powerful-ways-to-use-claude-4",
+    "category": "Artificial Intelligence (AI)",
+    "content": "5 Powerful Ways to Use Claude 4 - Artificial Intelligence (AI) article about 5 powerful ways to use claude 4"
+  },
+  {
+    "title": "5 Powerful Ways to Use Claude 4",
+    "url": "https://www.kdnuggets.com/5-powerful-ways-to-use-claude-4",
     "category": "Large Language Models (LLMs)",
     "content": "5 Powerful Ways to Use Claude 4 - Large Language Models (LLMs) article about 5 powerful ways to use claude 4"
   },
@@ -730,6 +736,12 @@
     "url": "https://www.datacamp.com/tutorial/autogen-tutorial",
     "category": "Large Language Models (LLMs)",
     "content": "AutoGen Tutorial: Build Multi-Agent AI Applications - Large Language Models (LLMs) article about autogen tutorial: build multi-agent ai applications"
+  },
+  {
+    "title": "Automating GitHub Workflows with Claude 4",
+    "url": "https://www.kdnuggets.com/automate-github-workflows-with-claude-4",
+    "category": "Programming",
+    "content": "Automating GitHub Workflows with Claude 4 - Programming article about automating github workflows with claude 4"
   },
   {
     "title": "Bark: The Ultimate Audio Generation Model",
@@ -1296,6 +1308,12 @@
     "content": "GitHub CLI for Data Science Cheat Sheet - Cheat Sheets article about github cli for data science cheat sheet"
   },
   {
+    "title": "Gradio MCP Server Guide: Build, Test, Deploy & Integrate",
+    "url": "https://www.datacamp.com/tutorial/gradio-mcp-server-guide",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Gradio MCP Server Guide: Build, Test, Deploy & Integrate - Artificial Intelligence (AI) article about gradio mcp server guide: build, test, deploy & integrate"
+  },
+  {
     "title": "Groq LPU Inference Engine Tutorial",
     "url": "https://www.datacamp.com/tutorial/groq-lpu-inference",
     "category": "Large Language Models (LLMs)",
@@ -1590,6 +1608,12 @@
     "content": "Mistral Medium 3 Tutorial: Building Agentic Applications - Large Language Models (LLMs) article about mistral medium 3 tutorial: building agentic applications"
   },
   {
+    "title": "Mixedbread Cloud: A Unified API for RAG Pipelines",
+    "url": "https://www.kdnuggets.com/mixedbread-cloud-a-unified-api-for-rag-pipelines",
+    "category": "Large Language Models (LLMs)",
+    "content": "Mixedbread Cloud: A Unified API for RAG Pipelines - Large Language Models (LLMs) article about mixedbread cloud: a unified api for rag pipelines"
+  },
+  {
     "title": "Mojo: A Revolutionary New Programming Language for Building AI Applications",
     "url": "https://www.datacamp.com/tutorial/mojo-language-the-new-programming-language-for-ai",
     "category": "Programming",
@@ -1738,6 +1762,12 @@
     "url": "https://www.kdnuggets.com/run-local-llms-with-cortex",
     "category": "Large Language Models (LLMs)",
     "content": "Run Local LLMs with Cortex - Large Language Models (LLMs) article about run local llms with cortex"
+  },
+  {
+    "title": "Run the Full DeepSeek-R1-0528 Model Locally",
+    "url": "https://www.kdnuggets.com/run-the-full-deepseek-r1-0528-model-locally",
+    "category": "Large Language Models (LLMs)",
+    "content": "Run the Full DeepSeek-R1-0528 Model Locally - Large Language Models (LLMs) article about run the full deepseek-r1-0528 model locally"
   },
   {
     "title": "Running Mixtral 8x7b On Google Colab For Free",
@@ -2080,6 +2110,12 @@
     "url": "https://www.kdnuggets.com/top-7-free-cloud-notebooks-for-data-science",
     "category": "Data Science",
     "content": "Top 7 Free Cloud Notebooks for Data Science - Data Science article about top 7 free cloud notebooks for data science"
+  },
+  {
+    "title": "Top 7 MCP Clients for AI Tooling",
+    "url": "https://www.kdnuggets.com/top-7-mcp-clients-for-ai-tooling",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Top 7 MCP Clients for AI Tooling - Artificial Intelligence (AI) article about top 7 mcp clients for ai tooling"
   },
   {
     "title": "Top 7 Model Deployment and Serving Tools",

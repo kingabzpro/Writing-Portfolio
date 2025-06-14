@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [Automating GitHub Workflows with Claude 4](https://www.kdnuggets.com/automate-github-workflows-with-claude-4)
 - [Understanding OpenAI Codex CLI Commands](https://machinelearningmastery.com/understanding-openai-codex-cli-commands/)
 - [Claude Opus 4 with Claude Code: A Guide With Demo Project](https://www.datacamp.com/tutorial/claude-opus-4-claude-code)
 - [Trae: Adaptive AI Code Editor](https://www.kdnuggets.com/trae-adaptive-ai-code-editor)

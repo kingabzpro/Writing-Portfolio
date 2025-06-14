@@ -3,7 +3,9 @@
 A collection of resources, tutorials, and articles about Artificial Intelligence (AI).
 
 ## Articles
-
+- [Gradio MCP Server Guide: Build, Test, Deploy & Integrate](https://www.datacamp.com/tutorial/gradio-mcp-server-guide)
+- [Top 7 MCP Clients for AI Tooling](https://www.kdnuggets.com/top-7-mcp-clients-for-ai-tooling)
+- [5 Powerful Ways to Use Claude 4](https://www.kdnuggets.com/5-powerful-ways-to-use-claude-4)
 - [32 MCP Servers You Need To Check Out Now](https://www.kdnuggets.com/32-mcp-servers-you-need-to-check-out-now)
 - [Warp: The Intelligent AI-Powered Terminal](https://www.kdnuggets.com/warp-the-intelligent-ai-powered-terminal)
 - [Devstral Quickstart Guide: Run Mistral AI's LLM Locally](https://www.datacamp.com/tutorial/devstral-quickstart-guide)
