@@ -960,6 +960,12 @@
     "content": "Deploying Your First Machine Learning Model - Machine Learning Operations (MLOps) article about deploying your first machine learning model"
   },
   {
+    "title": "Deploying the Magistral vLLM Server on Modal",
+    "url": "https://www.kdnuggets.com/deploying-the-magistral-vllm-server-on-modal",
+    "category": "Large Language Models (LLMs)",
+    "content": "Deploying the Magistral vLLM Server on Modal - Large Language Models (LLMs) article about deploying the magistral vllm server on modal"
+  },
+  {
     "title": "Devstral Quickstart Guide: Run Mistral AI's LLM Locally",
     "url": "https://www.datacamp.com/tutorial/devstral-quickstart-guide",
     "category": "Artificial Intelligence (AI)",
@@ -1108,6 +1114,12 @@
     "url": "https://www.datacamp.com/tutorial/fine-tuning-llama-4",
     "category": "Large Language Models (LLMs)",
     "content": "Fine-Tuning Llama 4: A Guide With Demo Project - Large Language Models (LLMs) article about fine-tuning llama 4: a guide with demo project"
+  },
+  {
+    "title": "Fine-Tuning Magistral: A Step-By-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-magistral",
+    "category": "Large Language Models (LLMs)",
+    "content": "Fine-Tuning Magistral: A Step-By-Step Guide - Large Language Models (LLMs) article about fine-tuning magistral: a step-by-step guide"
   },
   {
     "title": "Fine-Tuning MedGemma on a Brain MRI Dataset",
