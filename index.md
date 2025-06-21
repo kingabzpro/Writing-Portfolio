@@ -6,7 +6,7 @@
   
   <div class="author-bio">    <h1 class="author-title">Hello! I'm Abid</h1>
     <p class="author-description">
-      I am a certified data science professional with a passion for developing innovative machine learning solutions. As a dedicated technical writer and educator, I have authored over 450 articles to make complex concepts more accessible and to promote practical understanding. If you appreciate my work, please feel free to <a href="pages/contact" class="highlight-link">contact me</a> or reach out on LinkedIn.
+      I am a certified data science professional with a passion for developing innovative machine learning solutions. As a dedicated technical writer and educator, I have authored over 500 articles to make complex concepts more accessible and to promote practical understanding. If you appreciate my work, please feel free to <a href="pages/contact" class="highlight-link">contact me</a> or reach out on LinkedIn.
     </p>
   </div>
 </div>
