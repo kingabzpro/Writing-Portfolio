@@ -132,6 +132,12 @@
     "content": "10 GitHub Repositories to Master Statistics - Data Science article about 10 github repositories to master statistics"
   },
   {
+    "title": "10 GitHub Repositories to Master Web Development in 2025",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-web-development-in-2025",
+    "category": "Programming",
+    "content": "10 GitHub Repositories to Master Web Development in 2025 - Programming article about 10 github repositories to master web development in 2025"
+  },
+  {
     "title": "10 Jupyter Notebook Tips and Tricks for Data Scientists",
     "url": "https://www.kdnuggets.com/2023/06/10-jupyter-notebook-tips-tricks-data-scientists.html",
     "category": "Data Science",
@@ -804,6 +810,12 @@
     "content": "Building A Simple MCP Server - Large Language Models (LLMs) article about building a simple mcp server"
   },
   {
+    "title": "Building AI Agents with llama.cpp",
+    "url": "https://www.kdnuggets.com/building-ai-agent-with-llama-cpp",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Building AI Agents with llama.cpp - Artificial Intelligence (AI) article about building ai agents with llama.cpp"
+  },
+  {
     "title": "Building AI Application with Gemini 2.0",
     "url": "https://www.kdnuggets.com/building-ai-application-gemini-2",
     "category": "Large Language Models (LLMs)",
@@ -1246,6 +1258,12 @@
     "url": "https://www.datacamp.com/tutorial/getting-started-with-claude-3-and-the-claude-3-api",
     "category": "Artificial Intelligence (AI)",
     "content": "Getting Started with Claude 3 and the Claude 3 API  - Artificial Intelligence (AI) article about getting started with claude 3 and the claude 3 api "
+  },
+  {
+    "title": "Getting Started with Gemini Fullstack LangGraph",
+    "url": "https://www.datacamp.com/tutorial/gemini-fullstack-langgraph",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Getting Started with Gemini Fullstack LangGraph - Artificial Intelligence (AI) article about getting started with gemini fullstack langgraph"
   },
   {
     "title": "Getting Started with GitHub CLI",
@@ -2068,6 +2086,12 @@
     "url": "https://www.datacamp.com/blog/airflow-alternatives",
     "category": "Data Engineering",
     "content": "Top 5 Airflow Alternatives for Data Orchestration (Code Examples Included) - Data Engineering article about top 5 airflow alternatives for data orchestration (code examples included)"
+  },
+  {
+    "title": "Top 5 Frameworks for Distributed Machine Learning",
+    "url": "https://www.kdnuggets.com/top-5-frameworks-for-distributed-machine-learning",
+    "category": "Machine Learning (ML)",
+    "content": "Top 5 Frameworks for Distributed Machine Learning - Machine Learning (ML) article about top 5 frameworks for distributed machine learning"
   },
   {
     "title": "Top 5 Free Alternatives to GPT-4",

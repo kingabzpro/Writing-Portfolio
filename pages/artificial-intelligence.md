@@ -3,6 +3,9 @@
 A collection of resources, tutorials, and articles about Artificial Intelligence (AI).
 
 ## Articles
+
+- [Building AI Agents with llama.cpp](https://www.kdnuggets.com/building-ai-agent-with-llama-cpp)
+- [Getting Started with Gemini Fullstack LangGraph](https://www.datacamp.com/tutorial/gemini-fullstack-langgraph)
 - [Gradio MCP Server Guide: Build, Test, Deploy & Integrate](https://www.datacamp.com/tutorial/gradio-mcp-server-guide)
 - [Top 7 MCP Clients for AI Tooling](https://www.kdnuggets.com/top-7-mcp-clients-for-ai-tooling)
 - [5 Powerful Ways to Use Claude 4](https://www.kdnuggets.com/5-powerful-ways-to-use-claude-4)
