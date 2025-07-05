@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Data Science.
 
 ## Articles
 
+- [10 GitHub Awesome Lists for Data Science](https://www.kdnuggets.com/10-github-awesome-lists-for-data-science)
 - [7 Tools I Cannot Live Without as a Data Scientist](https://www.kdnuggets.com/7-tools-cannot-live-without-data-scientist)
 - [7 Free Data Science Platform for Beginners](https://www.kdnuggets.com/7-free-data-science-platform-for-beginners) 
 - [7 Free Cloud IDE for Data Science That You Are Missing Out](https://www.kdnuggets.com/7-free-cloud-ide-for-data-science-that-you-are-missing-out)

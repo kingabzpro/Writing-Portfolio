@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [Securing FastAPI Endpoints for MLOps: An Authentication Guide](https://machinelearningmastery.com/securing-fastapi-endpoints-for-mlops-an-authentication-guide/)
 - [Top 7 Python Frameworks for AI Agents](https://www.kdnuggets.com/top-7-python-frameworks-for-ai-agents)
 - [A New Python Package Manager](https://www.kdnuggets.com/new-python-package-manager) 
 - [Mastering f-strings in Python](https://www.kdnuggets.com/mastering-f-strings-in-python)
