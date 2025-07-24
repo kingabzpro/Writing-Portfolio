@@ -4,7 +4,9 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [10 GitHub Repositories for Mastering Agents and MCPs](https://www.kdnuggets.com/10-github-repositories-for-mastering-agents-and-mcps)
 - [Building AI Agents with llama.cpp](https://www.kdnuggets.com/building-ai-agent-with-llama-cpp)
+- [Building an MCP Server and Client with FastMCP 2.0](https://www.datacamp.com/tutorial/building-mcp-server-client-fastmcp)
 - [Getting Started with Gemini Fullstack LangGraph](https://www.datacamp.com/tutorial/gemini-fullstack-langgraph)
 - [Gradio MCP Server Guide: Build, Test, Deploy & Integrate](https://www.datacamp.com/tutorial/gradio-mcp-server-guide)
 - [Top 7 MCP Clients for AI Tooling](https://www.kdnuggets.com/top-7-mcp-clients-for-ai-tooling)

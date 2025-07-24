@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [10 GitHub Repositories for Python Projects](https://www.kdnuggets.com/10-github-repositories-for-python-projects)
+- [7 Python Statistics Tools That Data Scientists Actually Use in 2025](https://www.kdnuggets.com/7-python-statistics-tools-that-data-scientists-actually-use-in-2025)
+- [Top 5 Python Automation Tools You Need to Know](https://www.kdnuggets.com/top-5-python-automation-tools-you-need-to-know)
 - [Securing FastAPI Endpoints for MLOps: An Authentication Guide](https://machinelearningmastery.com/securing-fastapi-endpoints-for-mlops-an-authentication-guide/)
 - [Top 7 Python Frameworks for AI Agents](https://www.kdnuggets.com/top-7-python-frameworks-for-ai-agents)
 - [A New Python Package Manager](https://www.kdnuggets.com/new-python-package-manager) 

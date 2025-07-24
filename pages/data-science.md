@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Data Science.
 
 ## Articles
 
+- [Kaggle CLI Cheat Sheet](https://www.kdnuggets.com/kaggle-cli-cheat-sheet)
 - [10 GitHub Awesome Lists for Data Science](https://www.kdnuggets.com/10-github-awesome-lists-for-data-science)
 - [7 Tools I Cannot Live Without as a Data Scientist](https://www.kdnuggets.com/7-tools-cannot-live-without-data-scientist)
 - [7 Free Data Science Platform for Beginners](https://www.kdnuggets.com/7-free-data-science-platform-for-beginners) 

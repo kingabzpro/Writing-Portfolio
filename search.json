@@ -54,6 +54,24 @@
     "content": "10 GitHub Repositories for Deep Learning Enthusiasts - Machine Learning (ML) article about 10 github repositories for deep learning enthusiasts"
   },
   {
+    "title": "10 GitHub Repositories for Machine Learning Projects",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-machine-learning-projects",
+    "category": "Machine Learning (ML)",
+    "content": "10 GitHub Repositories for Machine Learning Projects - Machine Learning (ML) article about 10 github repositories for machine learning projects"
+  },
+  {
+    "title": "10 GitHub Repositories for Mastering Agents and MCPs",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-mastering-agents-and-mcps",
+    "category": "Artificial Intelligence (AI)",
+    "content": "10 GitHub Repositories for Mastering Agents and MCPs - Artificial Intelligence (AI) article about 10 github repositories for mastering agents and mcps"
+  },
+  {
+    "title": "10 GitHub Repositories for Python Projects",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-python-projects",
+    "category": "Python",
+    "content": "10 GitHub Repositories for Python Projects - Python article about 10 github repositories for python projects"
+  },
+  {
     "title": "10 GitHub Repositories to Master Cloud Computing",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing",
     "category": "Machine Learning Operations (MLOps)",
@@ -594,6 +612,18 @@
     "content": "7 Projects to Master Data Engineering - Data Engineering article about 7 projects to master data engineering"
   },
   {
+    "title": "7 Python Statistics Tools That Data Scientists Actually Use in 2025",
+    "url": "https://www.kdnuggets.com/7-python-statistics-tools-that-data-scientists-actually-use-in-2025",
+    "category": "Python",
+    "content": "7 Python Statistics Tools That Data Scientists Actually Use in 2025 - Python article about 7 python statistics tools that data scientists actually use in 2025"
+  },
+  {
+    "title": "7 Python Web Development Frameworks for Data Scientists",
+    "url": "https://www.kdnuggets.com/7-python-web-development-frameworks",
+    "category": "Programming",
+    "content": "7 Python Web Development Frameworks for Data Scientists - Programming article about 7 python web development frameworks for data scientists"
+  },
+  {
     "title": "7 Steps to Mastering Data Engineering",
     "url": "https://www.kdnuggets.com/7-steps-to-mastering-data-engineering",
     "category": "Data Engineering",
@@ -874,6 +904,12 @@
     "url": "https://machinelearningmastery.com/building-a-simple-rag-application-using-llamaindex/",
     "category": "Large Language Models (LLMs)",
     "content": "Building a Simple RAG Application Using LlamaIndex - Large Language Models (LLMs) article about building a simple rag application using llamaindex"
+  },
+  {
+    "title": "Building an MCP Server and Client with FastMCP 2.0",
+    "url": "https://www.datacamp.com/tutorial/building-mcp-server-client-fastmcp",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Building an MCP Server and Client with FastMCP 2.0 - Artificial Intelligence (AI) article about building an mcp server and client with fastmcp 2.0"
   },
   {
     "title": "ChatGPT and GPT-4 Open Source Alternatives that are Balancing the Scales",
@@ -1446,6 +1482,12 @@
     "content": "How to Reach $500K on Upwork - Career Advice article about how to reach $500k on upwork"
   },
   {
+    "title": "How to Run Kimi K2 Locally: Complete Setup & Troubleshooting",
+    "url": "https://www.datacamp.com/tutorial/run-kimi-k2-locally",
+    "category": "Large Language Models (LLMs)",
+    "content": "How to Run Kimi K2 Locally: Complete Setup & Troubleshooting - Large Language Models (LLMs) article about how to run kimi k2 locally: complete setup & troubleshooting"
+  },
+  {
     "title": "How to Run Llama 3 Locally: A Complete Guide",
     "url": "https://www.datacamp.com/tutorial/run-llama-3-locally",
     "category": "Large Language Models (LLMs)",
@@ -1522,6 +1564,12 @@
     "url": "https://www.datacamp.com/tutorial/k-nearest-neighbors-knn-classification-with-r-tutorial",
     "category": "Machine Learning (ML)",
     "content": "K-Nearest Neighbors (KNN) Classification with R Tutorial - Machine Learning (ML) article about k-nearest neighbors (knn) classification with r tutorial"
+  },
+  {
+    "title": "Kaggle CLI Cheat Sheet",
+    "url": "https://www.kdnuggets.com/kaggle-cli-cheat-sheet",
+    "category": "Data Science",
+    "content": "Kaggle CLI Cheat Sheet - Data Science article about kaggle cli cheat sheet"
   },
   {
     "title": "LLM Portfolio Projects Ideas to Wow Employers",
@@ -2140,6 +2188,12 @@
     "url": "https://www.kdnuggets.com/top-5-machine-learning-apis-practitioners-should-know",
     "category": "Machine Learning (ML)",
     "content": "Top 5 Machine Learning APIs Practitioners Should Know - Machine Learning (ML) article about top 5 machine learning apis practitioners should know"
+  },
+  {
+    "title": "Top 5 Python Automation Tools You Need to Know",
+    "url": "https://www.kdnuggets.com/top-5-python-automation-tools-you-need-to-know",
+    "category": "Python",
+    "content": "Top 5 Python Automation Tools You Need to Know - Python article about top 5 python automation tools you need to know"
   },
   {
     "title": "Top 7 Alternatives to VSCode for Data Science",
