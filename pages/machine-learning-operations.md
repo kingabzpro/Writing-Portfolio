@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [Top 7 Continuous Integration and Continuous Delivery Tools for 2025](https://www.kdnuggets.com/top-7-continuous-integration-and-continuous-delivery-tools-for-2025)
 - [A Guide to Mastering Serverless Machine Learning](https://www.kdnuggets.com/a-guide-to-mastering-serverless-machine-learning)
 - [Securing Machine Learning Applications with Authentication and User Management](https://www.kdnuggets.com/securing-machine-learning-application-with-authentication-and-user-management)
 - [Accelerate Machine Learning Model Serving with FastAPI and Redis Caching](https://www.kdnuggets.com/accelerate-machine-learning-model-serving-with-fastapi-and-redis-caching)

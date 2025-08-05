@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Getting The Most From The LangChain Ecosystem](https://www.kdnuggets.com/getting-the-most-from-the-langchain-ecosystem)
 - [How to Run Kimi K2 Locally: Complete Setup & Troubleshooting](https://www.datacamp.com/tutorial/run-kimi-k2-locally)
 - [Fine-Tuning Magistral: A Step-By-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-magistral)
 - [Deploying the Magistral vLLM Server on Modal](https://www.kdnuggets.com/deploying-the-magistral-vllm-server-on-modal)

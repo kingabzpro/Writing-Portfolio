@@ -858,6 +858,12 @@
     "content": "Building AI Application with Gemini 2.0 - Large Language Models (LLMs) article about building ai application with gemini 2.0"
   },
   {
+    "title": "Building AI Applications with Kimi K2: A Complete Travel Deal Finder Tutorial",
+    "url": "https://www.firecrawl.dev/blog/building-ai-applications-kimi-k2-travel-deal-finder",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Building AI Applications with Kimi K2: A Complete Travel Deal Finder Tutorial - Artificial Intelligence (AI) article about building ai applications with kimi k2: a complete travel deal finder tutorial"
+  },
+  {
     "title": "Building Agentic Application Using Streamlit and Langchain",
     "url": "https://www.kdnuggets.com/building-agentic-application-using-streamlit-and-langchain",
     "category": "Artificial Intelligence (AI)",
@@ -1354,6 +1360,12 @@
     "url": "https://www.kdnuggets.com/getting-started-data-engineer-handbook",
     "category": "Data Engineering",
     "content": "Getting Started with the Data Engineer Handbook - Data Engineering article about getting started with the data engineer handbook"
+  },
+  {
+    "title": "Getting The Most From The LangChain Ecosystem",
+    "url": "https://www.kdnuggets.com/getting-the-most-from-the-langchain-ecosystem",
+    "category": "Large Language Models (LLMs)",
+    "content": "Getting The Most From The LangChain Ecosystem - Large Language Models (LLMs) article about getting the most from the langchain ecosystem"
   },
   {
     "title": "Git for Data Science Cheatsheet",
@@ -2200,6 +2212,12 @@
     "url": "https://www.statology.org/top-7-alternatives-to-vscode-for-data-science/",
     "category": "Data Science",
     "content": "Top 7 Alternatives to VSCode for Data Science - Data Science article about top 7 alternatives to vscode for data science"
+  },
+  {
+    "title": "Top 7 Continuous Integration and Continuous Delivery Tools for 2025",
+    "url": "https://www.kdnuggets.com/top-7-continuous-integration-and-continuous-delivery-tools-for-2025",
+    "category": "Machine Learning Operations (MLOps)",
+    "content": "Top 7 Continuous Integration and Continuous Delivery Tools for 2025 - Machine Learning Operations (MLOps) article about top 7 continuous integration and continuous delivery tools for 2025"
   },
   {
     "title": "Top 7 Essential Cheat Sheets To Ace Your Data Science Interview",
