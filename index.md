@@ -32,6 +32,7 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
 
 <div id="topicsGrid" class="topics-grid"></div>
 
+
 <script>
 fetch('assets/data/content.json')
   .then(response => response.json())
@@ -92,4 +93,5 @@ fetch('assets/data/content.json')
   .catch(error => {
     console.error('Error loading social links:', error);
   });
+
 </script>
