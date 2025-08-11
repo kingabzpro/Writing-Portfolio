@@ -3,16 +3,46 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# SEO and Sitemap settings
+# Site settings
+lang: en
 url: https://abid.work
+# If deploying to a subpath, also set: baseurl: ""
+
 title: "Abid's Writing Portfolio"
 description: "Explore expertly crafted blogs, step-by-step tutorials, quick-reference cheat sheets, immersive projects, detailed book reviews, and career resources—all focused on data and AI."
+
+# SEO images
+logo: /assets/images/og-cover.png
+image: /assets/images/og-cover.png
+
+# Author and social
+author:
+  name: Abid
+social:
+  name: Abid
+  links:
+    - https://github.com/kingabzpro
+# twitter_username can improve card rendering if you have it
+# twitter_username: kingabzpro
 
 # Theme settings
 show_downloads: false
 google_analytics: G-PRQC1HFQ4G
 
-# Clean URLs without .html extension and trailing slash
+# URLs
 permalink: /:title
 trailing_slash: false
+
+# Defaults ensure all pages use the proper layout
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: default
 

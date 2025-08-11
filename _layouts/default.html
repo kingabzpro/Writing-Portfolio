@@ -202,22 +202,17 @@
     {% seo %}
     {% include head-custom.html %}
   </head>
-
   <body>
     <header>
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
           <h1 style="font-size: 3rem;">{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <!-- <h2 style="font-size: 1rem;">{{ site.description | default: site.github.project_tagline }}</h2> -->
         <a href="{{ site.github.owner_url }}" class="button"><small style="font-size: 0.8rem;">Follow me on</small> GitHub</a>
       </div>
     </header>
 
-    <div id="content-wrapper">{{ ... }}
-        </footer>
-      </body>
-    </html>
+    <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}

@@ -1,3 +1,10 @@
+---
+layout: default
+permalink: /
+title: "Abid's Writing Portfolio"
+description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects, book reviews, and career resources in data and AI."
+---
+
 <link rel="stylesheet" href="assets/css/main.css">
 <script src="assets/js/search.js" defer></script>
 
