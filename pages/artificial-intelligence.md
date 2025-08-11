@@ -8,6 +8,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 - [Building AI Applications with Kimi K2: A Complete Travel Deal Finder Tutorial](https://www.firecrawl.dev/blog/building-ai-applications-kimi-k2-travel-deal-finder)
 - [10 GitHub Repositories for Mastering Agents and MCPs](https://www.kdnuggets.com/10-github-repositories-for-mastering-agents-and-mcps)
 - [Building AI Agents with llama.cpp](https://www.kdnuggets.com/building-ai-agent-with-llama-cpp)
+- [Top 10 Vision Language Models in 2025](https://www.datacamp.com/blog/top-vision-language-models)
 - [Building an MCP Server and Client with FastMCP 2.0](https://www.datacamp.com/tutorial/building-mcp-server-client-fastmcp)
 - [Getting Started with Gemini Fullstack LangGraph](https://www.datacamp.com/tutorial/gemini-fullstack-langgraph)
 - [Gradio MCP Server Guide: Build, Test, Deploy & Integrate](https://www.datacamp.com/tutorial/gradio-mcp-server-guide)
