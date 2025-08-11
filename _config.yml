@@ -17,9 +17,9 @@ image: /assets/images/og-cover.png
 
 # Author and social
 author:
-  name: Abid
+  name: "Abid Ali Awan"
 social:
-  name: Abid
+  name: "Abid Ali Awan"
   links:
     - https://github.com/kingabzpro
 # twitter_username can improve card rendering if you have it
