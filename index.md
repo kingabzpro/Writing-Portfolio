@@ -25,7 +25,7 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
   .latest-list li { display: flex; align-items: center; gap: 10px; padding: 6px 8px; border-radius: 6px; }
   .latest-list li + li { margin-top: 4px; }
   .latest-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--secondary-color); flex: 0 0 6px; }
-  .latest-link { color: var(--text-color); text-decoration: none; font-weight: 600; }
+  .latest-link { color: var(--text-color); text-decoration: none; font-weight: 400; }
   .latest-link:hover { text-decoration: underline; color: var(--secondary-color); }
 </style>
 <div id="latestList"></div>
