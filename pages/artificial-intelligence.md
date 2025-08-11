@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Building a Medical AI Application with Grok 4](https://www.firecrawl.dev/blog/building_medical_ai_application_with_grok_4)
 - [Building AI Applications with Kimi K2: A Complete Travel Deal Finder Tutorial](https://www.firecrawl.dev/blog/building-ai-applications-kimi-k2-travel-deal-finder)
 - [10 GitHub Repositories for Mastering Agents and MCPs](https://www.kdnuggets.com/10-github-repositories-for-mastering-agents-and-mcps)
 - [Building AI Agents with llama.cpp](https://www.kdnuggets.com/building-ai-agent-with-llama-cpp)

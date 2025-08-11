@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [10 GitHub Repositories to Master Backend Development](https://www.kdnuggets.com/10-github-repositories-to-master-backend-development)
 - [7 Python Web Development Frameworks for Data Scientists](https://www.kdnuggets.com/7-python-web-development-frameworks)
 - [10 GitHub Repositories to Master Web Development in 2025](https://www.kdnuggets.com/10-github-repositories-to-master-web-development-in-2025)
 - [Automating GitHub Workflows with Claude 4](https://www.kdnuggets.com/automate-github-workflows-with-claude-4)

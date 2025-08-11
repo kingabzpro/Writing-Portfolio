@@ -72,6 +72,12 @@
     "content": "10 GitHub Repositories for Python Projects - Python article about 10 github repositories for python projects"
   },
   {
+    "title": "10 GitHub Repositories to Master Backend Development",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-backend-development",
+    "category": "Programming",
+    "content": "10 GitHub Repositories to Master Backend Development - Programming article about 10 github repositories to master backend development"
+  },
+  {
     "title": "10 GitHub Repositories to Master Cloud Computing",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing",
     "category": "Machine Learning Operations (MLOps)",
@@ -172,6 +178,12 @@
     "url": "https://www.statology.org/10-most-asked-data-science-interview-questions/",
     "category": "Data Science",
     "content": "10 Most Asked Data Science Interview Questions - Data Science article about 10 most asked data science interview questions"
+  },
+  {
+    "title": "10 Ways To Access GPT-OSS 120B for Free",
+    "url": "https://www.datacamp.com/tutorial/how-to-access-gpt-oss-120b-for-free",
+    "category": "Large Language Models (LLMs)",
+    "content": "10 Ways To Access GPT-OSS 120B for Free - Large Language Models (LLMs) article about 10 ways to access gpt-oss 120b for free"
   },
   {
     "title": "12 LLM Projects For All Levels",
@@ -316,6 +328,12 @@
     "url": "https://www.kdnuggets.com/5-common-data-science-mistakes-and-how-to-avoid-them",
     "category": "Data Science",
     "content": "5 Common Data Science Mistakes and How to Avoid Them - Data Science article about 5 common data science mistakes and how to avoid them"
+  },
+  {
+    "title": "5 Easy Ways to Access GLM-4.5",
+    "url": "https://www.firecrawl.dev/blog/5_easy_ways_to_access_glm_4_5",
+    "category": "Large Language Models (LLMs)",
+    "content": "5 Easy Ways to Access GLM-4.5 - Large Language Models (LLMs) article about 5 easy ways to access glm-4.5"
   },
   {
     "title": "5 Essential AI Tools for Data Science",
@@ -904,6 +922,12 @@
     "url": "https://www.kdnuggets.com/building-a-convolutional-neural-network-with-pytorch",
     "category": "Machine Learning (ML)",
     "content": "Building a Convolutional Neural Network with PyTorch - Machine Learning (ML) article about building a convolutional neural network with pytorch"
+  },
+  {
+    "title": "Building a Medical AI Application with Grok 4",
+    "url": "https://www.firecrawl.dev/blog/building_medical_ai_application_with_grok_4",
+    "category": "Artificial Intelligence (AI)",
+    "content": "Building a Medical AI Application with Grok 4 - Artificial Intelligence (AI) article about building a medical ai application with grok 4"
   },
   {
     "title": "Building a Simple RAG Application Using LlamaIndex",
@@ -1504,6 +1528,12 @@
     "url": "https://www.datacamp.com/tutorial/run-llama-3-locally",
     "category": "Large Language Models (LLMs)",
     "content": "How to Run Llama 3 Locally: A Complete Guide - Large Language Models (LLMs) article about how to run llama 3 locally: a complete guide"
+  },
+  {
+    "title": "How to Run Qwen3-Coder Locally",
+    "url": "https://www.datacamp.com/tutorial/run-qwen3-coder-locally",
+    "category": "Large Language Models (LLMs)",
+    "content": "How to Run Qwen3-Coder Locally - Large Language Models (LLMs) article about how to run qwen3-coder locally"
   },
   {
     "title": "How to Use DeepSeek Janus-Pro Locally",
@@ -2110,6 +2140,12 @@
     "url": "https://www.datacamp.com/blog/the-10-best-chat-gpt-plugins-for-data-science",
     "category": "Data Science",
     "content": "Top 10 ChatGPT Plugins for Data Science - Data Science article about top 10 chatgpt plugins for data science"
+  },
+  {
+    "title": "Top 10 Collections of Cheat Sheets on GitHub",
+    "url": "https://www.kdnuggets.com/top-10-collections-of-cheat-sheets-on-github",
+    "category": "Cheat Sheets",
+    "content": "Top 10 Collections of Cheat Sheets on GitHub - Cheat Sheets article about top 10 collections of cheat sheets on github"
   },
   {
     "title": "Top 10 Data Science Tools To Use in 2024",
