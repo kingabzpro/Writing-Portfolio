@@ -19,6 +19,15 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
 </div>
 
 ## 🆕 Latest Posts
+<style>
+  /* Compact latest list, scoped to this page */
+  .latest-list { list-style: none; padding: 0; margin: 0 0 0.75rem 0; }
+  .latest-list li { display: flex; align-items: center; gap: 10px; padding: 6px 8px; border-radius: 6px; }
+  .latest-list li + li { margin-top: 4px; }
+  .latest-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--secondary-color); flex: 0 0 6px; }
+  .latest-link { color: var(--text-color); text-decoration: none; font-weight: 600; }
+  .latest-link:hover { text-decoration: underline; color: var(--secondary-color); }
+</style>
 <div id="latestList"></div>
 <script>
   fetch('assets/data/latest.json')
@@ -31,11 +40,13 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
         el.innerHTML = '<p>No recent posts.</p>';
         return;
       }
-      el.innerHTML = latest.map(item => `
-        <div class="content-card">
-          <h3><a href="${item.url}">${item.title}</a></h3>
-        </div>
+      const list = latest.map(item => `
+        <li>
+          <span class="latest-dot"></span>
+          <a class="latest-link" href="${item.url}">${item.title}</a>
+        </li>
       `).join('');
+      el.innerHTML = `<ul class="latest-list">${list}</ul>`;
     })
     .catch(err => console.error('Failed to load latest posts:', err));
 </script>
