@@ -18,6 +18,28 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
   </div>
 </div>
 
+## 🆕 Latest Posts
+<div id="latestList"></div>
+<script>
+  fetch('assets/data/latest.json')
+    .then(r => r.json())
+    .then(items => {
+      const latest = Array.isArray(items) ? items.slice(0, 3) : [];
+      const el = document.getElementById('latestList');
+      if (!el) return;
+      if (latest.length === 0) {
+        el.innerHTML = '<p>No recent posts.</p>';
+        return;
+      }
+      el.innerHTML = latest.map(item => `
+        <div class="content-card">
+          <h3><a href="${item.url}">${item.title}</a></h3>
+        </div>
+      `).join('');
+    })
+    .catch(err => console.error('Failed to load latest posts:', err));
+</script>
+
 <div class="search-container">
   <i class="fas fa-search search-icon"></i>
   <input type="text" id="searchInput" class="search-input" placeholder="Search articles...">

@@ -95,31 +95,32 @@ def build_latest_from_git(since_days: int = 180, top_n: int = 3) -> List[Dict]:
         return []
 
     added_link_re = re.compile(r"^\+\s*-\s*\[(.*?)\]\((https?://[^)\s]+)\)")
-    commit_date: str | None = None
+    commit_date_iso: str | None = None
     latest_by_url: Dict[str, Dict] = {}
 
     for line in out.splitlines():
         if line.startswith("commit:"):
-            commit_date = None  # reset; will set when Date: appears
+            commit_date_iso = None  # reset; will set when Date: appears
             continue
         if line.startswith("Date:"):
             # capture ISO date
-            commit_date = line.split("Date:", 1)[1].strip()
+            commit_date_iso = line.split("Date:", 1)[1].strip()
             continue
         # Skip diff headers
         if line.startswith("+++") or line.startswith("---") or line.startswith("@@"):
             continue
         m = added_link_re.match(line)
-        if m and commit_date:
+        if m and commit_date_iso:
             title, url = m.group(1).strip(), m.group(2).strip()
+            # Simplify date to YYYY-MM-DD
+            date_simple = commit_date_iso.split('T', 1)[0] if 'T' in commit_date_iso else commit_date_iso[:10]
             prev = latest_by_url.get(url)
-            # Keep the most recent commit date per URL
-            if not prev or commit_date > prev.get("date", ""):
+            # Keep the most recent date per URL
+            if not prev or date_simple > prev.get("date", ""):
                 latest_by_url[url] = {
                     "title": title,
                     "url": url,
-                    "date": commit_date,
-                    "source": "pages"
+                    "date": date_simple
                 }
 
     latest = sorted(latest_by_url.values(), key=lambda x: x.get("date", ""), reverse=True)[:top_n]
@@ -137,7 +138,7 @@ def main() -> int:
     if latest is None:
         latest = []
     write_json(LATEST_JSON, latest)
-    print(f"Wrote {LATEST_JSON} with {len(latest)} items (source: git)")
+    print(f"Wrote {LATEST_JSON} with {len(latest)} items")
 
     return 0
 
