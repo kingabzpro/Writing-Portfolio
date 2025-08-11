@@ -30,7 +30,7 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
 </style>
 <div id="latestList"></div>
 <script>
-  fetch('assets/data/latest.json')
+  fetch('/assets/data/latest.json')
     .then(r => r.json())
     .then(items => {
       const latest = Array.isArray(items) ? items.slice(0, 3) : [];
@@ -67,7 +67,7 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
 
 
 <script>
-fetch('assets/data/content.json')
+fetch('/assets/data/content.json')
   .then(response => response.json())
   .then(data => {
     // Populate expertise section
@@ -112,8 +112,8 @@ fetch('assets/data/content.json')
 </div>
 
 <script>
-fetch('assets/data/content.json')
-  .then(response => response.json())
+fetch('/assets/data/content.json')
+  .then(response =[0m response.json())
   .then(data => {
     // Populate social links
     const socialLinks = document.getElementById('socialLinks');
