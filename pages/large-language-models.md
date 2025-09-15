@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Top 7 Small Language Models](https://www.kdnuggets.com/top-7-small-language-models)
+- [The Best Way of Running GPT-OSS Locally](https://www.kdnuggets.com/the-best-way-of-running-gpt-oss-locally)
 - [5 Easy Ways to Access GLM-4.5](https://www.firecrawl.dev/blog/5_easy_ways_to_access_glm_4_5)
 - [10 Ways To Access GPT-OSS 120B for Free](https://www.datacamp.com/tutorial/how-to-access-gpt-oss-120b-for-free)
 - [How to Run Qwen3-Coder Locally](https://www.datacamp.com/tutorial/run-qwen3-coder-locally)

@@ -90,6 +90,11 @@
     "category": "Data Science"
   },
   {
+    "title": "10 GitHub Repositories to Master Frontend Development",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-frontend-development",
+    "category": "Programming"
+  },
+  {
     "title": "10 GitHub Repositories to Master Large Language Models",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models",
     "category": "Large Language Models (LLMs)"
@@ -153,6 +158,11 @@
     "title": "10 Ways To Access GPT-OSS 120B for Free",
     "url": "https://www.datacamp.com/tutorial/how-to-access-gpt-oss-120b-for-free",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "12 Essential Lessons for Building AI Agents",
+    "url": "https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "12 LLM Projects For All Levels",
@@ -283,6 +293,11 @@
     "title": "5 Essential AI Tools for Data Science",
     "url": "https://www.kdnuggets.com/2023/04/5-essential-ai-tools-data-science.html",
     "category": "Data Science"
+  },
+  {
+    "title": "5 Free AI Courses from Hugging Face",
+    "url": "https://www.kdnuggets.com/5-free-ai-courses-from-hugging-face",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "5 Free Books on Machine Learning Algorithms You Must Read",
@@ -1675,6 +1690,11 @@
     "category": "Cheat Sheets"
   },
   {
+    "title": "Stress Testing FastAPI Application",
+    "url": "https://www.kdnuggets.com/stress-testing-fastapi-application",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
     "title": "Super Bard: The AI That Can Do It All and Better",
     "url": "https://www.kdnuggets.com/2023/05/super-bard-ai-better.html",
     "category": "Artificial Intelligence (AI)"
@@ -1693,6 +1713,11 @@
     "title": "The 8 AI Search Engines That You Should Replace Google With",
     "url": "https://www.kdnuggets.com/top-8-ai-search-engine-that-you-should-replace-with-google",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "The Best Way of Running GPT-OSS Locally",
+    "url": "https://www.kdnuggets.com/the-best-way-of-running-gpt-oss-locally",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "The Complete Collection of Data Science Cheat Sheets - Ebook",
@@ -1875,6 +1900,11 @@
     "category": "Python"
   },
   {
+    "title": "Top 7 AI Web Scraping Tools",
+    "url": "https://www.kdnuggets.com/top-7-ai-web-scraping-tools",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Top 7 Alternatives to VSCode for Data Science",
     "url": "https://www.statology.org/top-7-alternatives-to-vscode-for-data-science/",
     "category": "Data Science"
@@ -1913,6 +1943,11 @@
     "title": "Top 7 Python Frameworks for AI Agents",
     "url": "https://www.kdnuggets.com/top-7-python-frameworks-for-ai-agents",
     "category": "Python"
+  },
+  {
+    "title": "Top 7 Small Language Models",
+    "url": "https://www.kdnuggets.com/top-7-small-language-models",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "Trae: Adaptive AI Code Editor",

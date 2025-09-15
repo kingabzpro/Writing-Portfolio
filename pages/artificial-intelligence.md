@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [12 Essential Lessons for Building AI Agents](https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents)
+- [5 Free AI Courses from Hugging Face](https://www.kdnuggets.com/5-free-ai-courses-from-hugging-face)
+- [Top 7 AI Web Scraping Tools](https://www.kdnuggets.com/top-7-ai-web-scraping-tools)
 - [Building a Medical AI Application with Grok 4](https://www.firecrawl.dev/blog/building_medical_ai_application_with_grok_4)
 - [Building AI Applications with Kimi K2: A Complete Travel Deal Finder Tutorial](https://www.firecrawl.dev/blog/building-ai-applications-kimi-k2-travel-deal-finder)
 - [10 GitHub Repositories for Mastering Agents and MCPs](https://www.kdnuggets.com/10-github-repositories-for-mastering-agents-and-mcps)
