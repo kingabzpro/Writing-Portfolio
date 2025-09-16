@@ -4,7 +4,9 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Fine-Tune OpenAI GPT-OSS 20B on the Dermatology Dataset](https://www.firecrawl.dev/blog/fine_tune_openai_gpt_oss)
 - [Top 7 Small Language Models](https://www.kdnuggets.com/top-7-small-language-models)
+- [Fine-Tuning GPT-OSS](https://www.datacamp.com/tutorial/fine-tuning-gpt-oss)
 - [The Best Way of Running GPT-OSS Locally](https://www.kdnuggets.com/the-best-way-of-running-gpt-oss-locally)
 - [5 Easy Ways to Access GLM-4.5](https://www.firecrawl.dev/blog/5_easy_ways_to_access_glm_4_5)
 - [10 Ways To Access GPT-OSS 120B for Free](https://www.datacamp.com/tutorial/how-to-access-gpt-oss-120b-for-free)

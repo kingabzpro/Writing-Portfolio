@@ -965,6 +965,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Fine-Tune OpenAI GPT-OSS 20B on the Dermatology Dataset",
+    "url": "https://www.firecrawl.dev/blog/fine_tune_openai_gpt_oss",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Fine-Tune and Run Inference on Google's Gemma Model Using TPUs for Enhanced Speed and Performance",
     "url": "https://www.datacamp.com/tutorial/combine-google-gemma-with-tpus-fine-tune-and-run-inference-with-enhanced-performance-and-speed",
     "category": "Large Language Models (LLMs)"
@@ -982,6 +987,11 @@
   {
     "title": "Fine-Tuning GPT-4o",
     "url": "https://www.kdnuggets.com/fine-tuning-gpt-4o",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Fine-Tuning GPT-OSS",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-gpt-oss",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -1235,6 +1245,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "How to Create a Dermatology Q&A Dataset with OpenAI Harmony & Firecrawl Search",
+    "url": "https://www.firecrawl.dev/blog/creating_dermatology_dataset_with_openai_harmony_firecrawl_search",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "How to Deploy LLM Applications Using Docker: A Step-by-Step Guide",
     "url": "https://www.datacamp.com/tutorial/deploy-llm-applications-using-docker",
     "category": "Large Language Models (LLMs)"
@@ -1483,6 +1498,11 @@
     "title": "OpenAI Function Calling Tutorial: Generate Structured Output",
     "url": "https://www.datacamp.com/tutorial/open-ai-function-calling-tutorial",
     "category": "Python"
+  },
+  {
+    "title": "OpenAI GPT‑5 API: Hands-On With New Features",
+    "url": "https://www.datacamp.com/tutorial/openai-gpt-5-api",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "OpenAI o1-preview Tutorial: Building a Machine Learning Project",
