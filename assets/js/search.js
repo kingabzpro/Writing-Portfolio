@@ -17,9 +17,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (query.length < 2) return;
 
                 const results = articles.filter(article => {
-                    return article.title.toLowerCase().includes(query) || 
-                           article.content.toLowerCase().includes(query) ||
-                           article.category.toLowerCase().includes(query);
+                    const title = (article.title || '').toLowerCase();
+                    const content = (article.content || '').toLowerCase();
+                    const category = (article.category || '').toLowerCase();
+                    return title.includes(query) || content.includes(query) || category.includes(query);
                 });
 
                 displaySearchResults(results);
