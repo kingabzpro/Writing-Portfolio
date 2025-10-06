@@ -8,9 +8,9 @@ import sys
 
 ROOT = Path(__file__).resolve().parent
 PAGES_DIR = ROOT / "pages"
-SEARCH_JSON = ROOT / "search.json"
-DATA_DIR = ROOT / "assets" / "data"
-LATEST_JSON = DATA_DIR / "latest.json"
+DATA_SITE_DIR = ROOT / "_data"
+SEARCH_JSON_SITE = DATA_SITE_DIR / "search.json"
+LATEST_JSON_SITE = DATA_SITE_DIR / "latest.json"
 
 
 def extract_articles_from_md(file_path: Path) -> List[Dict]:
@@ -129,15 +129,15 @@ def build_latest_from_git(since_days: int = 180, top_n: int = 3) -> List[Dict]:
 def main() -> int:
     # 1) Build search index and write search.json
     search_data = build_search_index()
-    write_json(SEARCH_JSON, search_data)
-    print(f"Wrote {SEARCH_JSON} with {len(search_data)} items")
+    write_json(SEARCH_JSON_SITE, search_data)
+    print(f"Wrote {SEARCH_JSON_SITE} with {len(search_data)} items")
 
     # 2) Build latest.json strictly from git history; write empty list if unavailable
     latest = build_latest_from_git(since_days=365, top_n=3)
     if latest is None:
         latest = []
-    write_json(LATEST_JSON, latest)
-    print(f"Wrote {LATEST_JSON} with {len(latest)} items")
+    write_json(LATEST_JSON_SITE, latest)
+    print(f"Wrote {LATEST_JSON_SITE} with {len(latest)} items")
 
     return 0
 
