@@ -1,3 +1,13 @@
-This repository contains code for the writing portfolio of Abid, who has written for multiple publications such as KDnugget, DataCamp, Towards Data Science, Analytical Vidhya, Machine Learning Mastery, Statology, and more as a tech freelance writer. You can acces the portfolio website [here](https://abid.work/).
+# Abid's Writing Portfolio
 
-Thank you, and please dont' forget to star ⭐ the repo!
+This repository powers [abid.work](https://abid.work), Abid's personal writing portfolio highlighting published work across AI, data science, and machine learning.
+
+Explore curated articles, topic hubs, and resources from outlets like KDnuggets, DataCamp, Towards Data Science, Analytic Vidhya, Machine Learning Mastery, and more.
+
+## Key Features
+
+- Dynamic latest posts feed sourced from `assets/data/latest.json` with friendly date formatting.
+- Full-text search powered by `search.json` for quick article discovery.
+- Interactive expertise and topic hubs populated from `assets/data/content.json`.
+- Resource collections covering books, cheat sheets, and career guidance pages.
+- Contact and social call-to-actions for collaboration opportunities.
