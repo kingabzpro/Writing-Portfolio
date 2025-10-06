@@ -27,6 +27,7 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
   .latest-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--secondary-color); flex: 0 0 6px; }
   .latest-link { color: var(--text-color); text-decoration: none; font-weight: 400; }
   .latest-link:hover { text-decoration: underline; color: var(--secondary-color); }
+  .latest-date { margin-left: auto; color: #9aa0a6; font-size: 0.9em; white-space: nowrap; }
 </style>
 <div id="latestList"></div>
 <script>
@@ -40,10 +41,17 @@ description: "Explore expertly crafted blogs, tutorials, cheat sheets, projects,
         el.innerHTML = '<p>No recent posts.</p>';
         return;
       }
+      const formatDate = (value) => {
+        if (!value) return '';
+        const d = new Date(value);
+        if (isNaN(d.getTime())) return value; // show raw if unparsable
+        return d.toLocaleDateString(undefined, { year: 'numeric', month: 'short', day: '2-digit' });
+      };
       const list = latest.map(item => `
         <li>
           <span class="latest-dot"></span>
           <a class="latest-link" href="${item.url}">${item.title}</a>
+          ${item.date ? `<span class="latest-date">${formatDate(item.date)}</span>` : ''}
         </li>
       `).join('');
       el.innerHTML = `<ul class="latest-list">${list}</ul>`;
