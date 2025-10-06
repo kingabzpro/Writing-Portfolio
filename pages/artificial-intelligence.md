@@ -4,7 +4,14 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Claude Agent SDK Tutorial: Create Agents Using Claude Sonnet 4.5](https://www.datacamp.com/tutorial/how-to-use-claude-agent-sdk)
+- [11 AI Agent Projects You Can Build Today (With Guides)](https://www.firecrawl.dev/blog/11-ai-agent-projects)
+- [Top 10 AI Agent Projects to Build in 2025 (With Guides and Demos)](https://www.datacamp.com/blog/top-ai-agent-projects)
+- [Top 10 Vision Language Models in 2025](https://www.datacamp.com/blog/top-vision-language-models)
+- [Top 10 MCP Servers & Clients for AI Workflow Automation in 2025](https://www.datacamp.com/blog/top-mcp-servers-and-clients)
 - [How to Create a Dermatology Q&A Dataset with OpenAI Harmony & Firecrawl Search](https://www.firecrawl.dev/blog/creating_dermatology_dataset_with_openai_harmony_firecrawl_search)
+- [Beginner’s Guide to VibeVoice](https://www.kdnuggets.com/beginners-guide-to-vibevoice)
+- [7 Free Web Search APIs for AI Agents](https://www.kdnuggets.com/7-free-web-search-apis-for-ai-agents)
 - [12 Essential Lessons for Building AI Agents](https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents)
 - [5 Free AI Courses from Hugging Face](https://www.kdnuggets.com/5-free-ai-courses-from-hugging-face)
 - [OpenAI GPT‑5 API: Hands-On With New Features](https://www.datacamp.com/tutorial/openai-gpt-5-api)

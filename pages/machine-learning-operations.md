@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [Building Machine Learning Application with Django](https://www.kdnuggets.com/building-machine-learning-application-with-django)
 - [Stress Testing FastAPI Application](https://www.kdnuggets.com/stress-testing-fastapi-application)
 - [Top 7 Continuous Integration and Continuous Delivery Tools for 2025](https://www.kdnuggets.com/top-7-continuous-integration-and-continuous-delivery-tools-for-2025)
 - [A Guide to Mastering Serverless Machine Learning](https://www.kdnuggets.com/a-guide-to-mastering-serverless-machine-learning)

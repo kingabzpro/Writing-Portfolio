@@ -160,6 +160,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "11 AI Agent Projects You Can Build Today (With Guides)",
+    "url": "https://www.firecrawl.dev/blog/11-ai-agent-projects",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "12 Essential Lessons for Building AI Agents",
     "url": "https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents",
     "category": "Artificial Intelligence (AI)"
@@ -505,6 +510,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "7 Free Web Search APIs for AI Agents",
+    "url": "https://www.kdnuggets.com/7-free-web-search-apis-for-ai-agents",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "7 GitHub Projects to Master Machine Learning",
     "url": "https://www.kdnuggets.com/7-github-projects-to-master-machine-learning",
     "category": "Machine Learning (ML)"
@@ -695,6 +705,11 @@
     "category": "Machine Learning Operations (MLOps)"
   },
   {
+    "title": "Beginner’s Guide to VibeVoice",
+    "url": "https://www.kdnuggets.com/beginners-guide-to-vibevoice",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "BentoML: MLOps for Beginners",
     "url": "https://www.kdnuggets.com/bentoml-mlops-for-beginners",
     "category": "Machine Learning Operations (MLOps)"
@@ -770,6 +785,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Building Machine Learning Application with Django",
+    "url": "https://www.kdnuggets.com/building-machine-learning-application-with-django",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
     "title": "Building Multimodal AI Application with Gemini 2.0 Pro",
     "url": "https://www.datacamp.com/tutorial/building-multimodal-ai-application-with-gemini-2-0-pro",
     "category": "Large Language Models (LLMs)"
@@ -818,6 +838,11 @@
     "title": "ChatGPT for Data Science Interview Cheat Sheet",
     "url": "https://www.kdnuggets.com/2023/06/chatgpt-data-science-interviews-cheat-sheet.html",
     "category": "Cheat Sheets"
+  },
+  {
+    "title": "Claude Agent SDK Tutorial: Create Agents Using Claude Sonnet 4.5",
+    "url": "https://www.datacamp.com/tutorial/how-to-use-claude-agent-sdk",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "Claude Opus 4 with Claude Code: A Guide With Demo Project",
@@ -1307,6 +1332,11 @@
   {
     "title": "How to Run Qwen3-Coder Locally",
     "url": "https://www.datacamp.com/tutorial/run-qwen3-coder-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "How to Run Qwen3-Next Locally",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-qwen3-next-locally",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -1815,6 +1845,11 @@
     "category": "Machine Learning (ML)"
   },
   {
+    "title": "Top 10 AI Agent Projects to Build in 2025 (With Guides and Demos)",
+    "url": "https://www.datacamp.com/blog/top-ai-agent-projects",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Top 10 AI Startups to Work for in India",
     "url": "https://www.kdnuggets.com/top-10-ai-startups-to-work-for-in-india",
     "category": "Artificial Intelligence (AI)"
@@ -1840,13 +1875,28 @@
     "category": "Data Science"
   },
   {
+    "title": "Top 10 Free API Providers for Data Science Projects",
+    "url": "https://www.kdnuggets.com/top-10-free-api-providers-for-data-science-projects",
+    "category": "Data Science"
+  },
+  {
     "title": "Top 10 Free Statistics Blogs and Websites to Follow",
     "url": "https://www.statology.org/top-10-free-statistics-blogs-and-websites-to-follow/",
     "category": "Data Science"
   },
   {
+    "title": "Top 10 MCP Servers & Clients for AI Workflow Automation in 2025",
+    "url": "https://www.datacamp.com/blog/top-mcp-servers-and-clients",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Top 10 Tools for Detecting ChatGPT, GPT-4, Bard, and Claude",
     "url": "https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Top 10 Vision Language Models in 2025",
+    "url": "https://www.datacamp.com/blog/top-vision-language-models",
     "category": "Artificial Intelligence (AI)"
   },
   {

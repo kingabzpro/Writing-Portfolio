@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [How to Run Qwen3-Next Locally](https://www.datacamp.com/tutorial/how-to-run-qwen3-next-locally)
 - [Fine-Tune OpenAI GPT-OSS 20B on the Dermatology Dataset](https://www.firecrawl.dev/blog/fine_tune_openai_gpt_oss)
 - [Top 7 Small Language Models](https://www.kdnuggets.com/top-7-small-language-models)
 - [Fine-Tuning GPT-OSS](https://www.datacamp.com/tutorial/fine-tuning-gpt-oss)
