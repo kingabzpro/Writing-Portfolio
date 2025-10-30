@@ -3,7 +3,7 @@
 A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
-
+- [7 Free Remote MCPs You Must Use As A Developer](https://www.kdnuggets.com/7-free-remote-mcps-you-must-use-as-a-developer)
 - [10 GitHub Repositories to Master Frontend Development](https://www.kdnuggets.com/10-github-repositories-to-master-frontend-development)
 - [10 GitHub Repositories to Master Backend Development](https://www.kdnuggets.com/10-github-repositories-to-master-backend-development)
 - [7 Python Web Development Frameworks for Data Scientists](https://www.kdnuggets.com/7-python-web-development-frameworks)

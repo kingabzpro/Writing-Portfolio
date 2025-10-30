@@ -1,5 +1,10 @@
 [
   {
+    "title": "10 AI Projects You Can Build with Firecrawl Now",
+    "url": "https://www.firecrawl.dev/blog/10-ai-projects-with-firecrawl",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "10 Advanced Git Techniques",
     "url": "https://www.kdnuggets.com/10-advanced-git-techniques",
     "category": "Programming"
@@ -23,6 +28,11 @@
     "title": "10 Essential DevOps Tools Every Beginner Should Learn",
     "url": "https://www.kdnuggets.com/10-essential-devops-tools-every-beginner-should-learn",
     "category": "Programming"
+  },
+  {
+    "title": "10 Essential Python Libraries Every Data Analyst Should Know",
+    "url": "https://www.firecrawl.dev/blog/python-libraries-for-data-analysts",
+    "category": "Python"
   },
   {
     "title": "10 Free Resources on LLMs",
@@ -455,6 +465,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "7 Best Chrome Extensions for Agentic AI",
+    "url": "https://www.kdnuggets.com/7-best-chrome-extensions-for-agentic-ai",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "7 Best Tools for Machine Learning Experiment Tracking",
     "url": "https://www.kdnuggets.com/2023/02/7-best-tools-machine-learning-experiment-tracking.html",
     "category": "Machine Learning (ML)"
@@ -503,6 +518,11 @@
     "title": "7 Free Online Python REPLs",
     "url": "https://www.kdnuggets.com/7-free-online-python-repls",
     "category": "Python"
+  },
+  {
+    "title": "7 Free Remote MCPs You Must Use As A Developer",
+    "url": "https://www.kdnuggets.com/7-free-remote-mcps-you-must-use-as-a-developer",
+    "category": "Programming"
   },
   {
     "title": "7 Free Resource to Master LLMs",
@@ -748,6 +768,11 @@
     "title": "Building A Simple MCP Server",
     "url": "https://www.kdnuggets.com/building-a-simple-mcp-server",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Building AI Agents with OpenAI Agent Builders & Firecrawl",
+    "url": "https://www.firecrawl.dev/blog/openai-agent-builders-and-firecrawl",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "Building AI Agents with llama.cpp",
@@ -1117,6 +1142,11 @@
   {
     "title": "GPT-4.5 Function Calling Tutorial: Extract Stock Prices and News With AI",
     "url": "https://www.datacamp.com/tutorial/gpt-4-5-function-calling",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "GPT-5 Function Calling Tutorial",
+    "url": "https://www.datacamp.com/tutorial/gpt-5-function-calling-tutorial",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -1815,6 +1845,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "The Top 10 Video Generation Models of 2025",
+    "url": "https://www.datacamp.com/blog/top-video-generation-models",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "The Top 11 AI Coding Assistants to Use in 2024",
     "url": "https://www.datacamp.com/blog/best-ai-coding-assistants",
     "category": "Programming"
@@ -1915,6 +1950,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Top 15 Python Projects to Build in 2025: From Beginner to Production",
+    "url": "https://www.firecrawl.dev/blog/15-python-projects-2025",
+    "category": "Python"
+  },
+  {
     "title": "Top 3 Video Generation Models",
     "url": "https://www.kdnuggets.com/top-3-video-generation-models",
     "category": "Artificial Intelligence (AI)"
@@ -1965,9 +2005,19 @@
     "category": "Machine Learning (ML)"
   },
   {
+    "title": "Top 5 Open Source Video Generation Models",
+    "url": "https://www.kdnuggets.com/top-5-open-source-video-generation-models",
+    "category": "Computer Vision"
+  },
+  {
     "title": "Top 5 Python Automation Tools You Need to Know",
     "url": "https://www.kdnuggets.com/top-5-python-automation-tools-you-need-to-know",
     "category": "Python"
+  },
+  {
+    "title": "Top 5 Text-to-Speech Open Source Models",
+    "url": "https://www.kdnuggets.com/top-5-text-to-speech-open-source-models",
+    "category": "Natural Language Processing (NLP)"
   },
   {
     "title": "Top 7 AI Web Scraping Tools",
@@ -2012,6 +2062,11 @@
   {
     "title": "Top 7 Python Frameworks for AI Agents",
     "url": "https://www.kdnuggets.com/top-7-python-frameworks-for-ai-agents",
+    "category": "Python"
+  },
+  {
+    "title": "Top 7 Python Package Managers",
+    "url": "https://www.kdnuggets.com/top-7-python-package-managers",
     "category": "Python"
   },
   {
@@ -2133,6 +2188,11 @@
     "title": "Using SQL with Python: SQLAlchemy and Pandas",
     "url": "https://www.kdnuggets.com/using-sql-with-python-sqlalchemy-and-pandas",
     "category": "SQL"
+  },
+  {
+    "title": "Vibe Coding with GLM 4.6 Coding Plan",
+    "url": "https://www.kdnuggets.com/vibe-coding-with-glm-46-coding-plan",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "Warp Terminal Tutorial: AI-Powered Features for Developers and Data Pros",

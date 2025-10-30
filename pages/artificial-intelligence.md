@@ -3,7 +3,11 @@
 A collection of resources, tutorials, and articles about Artificial Intelligence (AI).
 
 ## Articles
-
+- [Building AI Agents with OpenAI Agent Builders & Firecrawl](https://www.firecrawl.dev/blog/openai-agent-builders-and-firecrawl)
+- [7 Best Chrome Extensions for Agentic AI](https://www.kdnuggets.com/7-best-chrome-extensions-for-agentic-ai)
+- [Vibe Coding with GLM 4.6 Coding Plan](https://www.kdnuggets.com/vibe-coding-with-glm-46-coding-plan)
+- [10 AI Projects You Can Build with Firecrawl Now](https://www.firecrawl.dev/blog/10-ai-projects-with-firecrawl)
+- [The Top 10 Video Generation Models of 2025](https://www.datacamp.com/blog/top-video-generation-models)
 - [Claude Agent SDK Tutorial: Create Agents Using Claude Sonnet 4.5](https://www.datacamp.com/tutorial/how-to-use-claude-agent-sdk)
 - [11 AI Agent Projects You Can Build Today (With Guides)](https://www.firecrawl.dev/blog/11-ai-agent-projects)
 - [Top 10 AI Agent Projects to Build in 2025 (With Guides and Demos)](https://www.datacamp.com/blog/top-ai-agent-projects)

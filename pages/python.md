@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [Top 15 Python Projects to Build in 2025: From Beginner to Production](https://www.firecrawl.dev/blog/15-python-projects-2025)
+- [Top 7 Python Package Managers](https://www.kdnuggets.com/top-7-python-package-managers)
+- [10 Essential Python Libraries Every Data Analyst Should Know](https://www.firecrawl.dev/blog/python-libraries-for-data-analysts)
 - [10 GitHub Repositories for Python Projects](https://www.kdnuggets.com/10-github-repositories-for-python-projects)
 - [7 Python Statistics Tools That Data Scientists Actually Use in 2025](https://www.kdnuggets.com/7-python-statistics-tools-that-data-scientists-actually-use-in-2025)
 - [Top 5 Python Automation Tools You Need to Know](https://www.kdnuggets.com/top-5-python-automation-tools-you-need-to-know)

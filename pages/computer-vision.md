@@ -4,7 +4,7 @@ A collection of resources, tutorials, and articles about Computer Vision.
 
 ## Articles
 
-
+- [Top 5 Open Source Video Generation Models](https://www.kdnuggets.com/top-5-open-source-video-generation-models)
 - [7 Computer Vision Projects for All Levels](https://www.kdnuggets.com/7-computer-vision-projects-for-all-levels) 
 - [10 GitHub Repositories to Master Computer Vision](https://www.kdnuggets.com/10-github-repositories-to-master-computer-vision)
 - [Further Stable Diffusion Pipeline with Diffusers](https://machinelearningmastery.com/further-stable-diffusion-pipeline-with-diffusers/) 
