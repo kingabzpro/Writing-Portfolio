@@ -1,0 +1,13 @@
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/srv/jekyll
+      - /srv/jekyll/_site
+      - /srv/jekyll/.bundle
+    environment:
+      - JEKYLL_ENV=development
+    command: bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload --force_polling
+    restart: unless-stopped
