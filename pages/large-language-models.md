@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Top 7 Open Source AI Coding Models You Are Missing Out On](https://www.kdnuggets.com/top-7-open-source-ai-coding-models-you-are-missing-out-on)
 - [GPT-5 Function Calling Tutorial](https://www.datacamp.com/tutorial/gpt-5-function-calling-tutorial)
 - [How to Run Qwen3-Next Locally](https://www.datacamp.com/tutorial/how-to-run-qwen3-next-locally)
 - [Fine-Tune OpenAI GPT-OSS 20B on the Dermatology Dataset](https://www.firecrawl.dev/blog/fine_tune_openai_gpt_oss)

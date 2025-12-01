@@ -3,6 +3,10 @@
 A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
+
+- [Git for Vibe Coders](https://www.kdnuggets.com/git-for-vibe-coders)
+- [Top 5 Agentic Coding CLI Tools](https://www.kdnuggets.com/top-5-agentic-coding-cli-tools)
+- [Building E-Commerce Intelligence Application with GLM Coding Plan](https://www.firecrawl.dev/blog/building-ecommerce-intelligence-app-with-glm-4-6)
 - [7 Free Remote MCPs You Must Use As A Developer](https://www.kdnuggets.com/7-free-remote-mcps-you-must-use-as-a-developer)
 - [10 GitHub Repositories to Master Frontend Development](https://www.kdnuggets.com/10-github-repositories-to-master-frontend-development)
 - [10 GitHub Repositories to Master Backend Development](https://www.kdnuggets.com/10-github-repositories-to-master-backend-development)

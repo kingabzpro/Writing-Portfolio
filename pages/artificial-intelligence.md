@@ -3,7 +3,14 @@
 A collection of resources, tutorials, and articles about Artificial Intelligence (AI).
 
 ## Articles
+
+- [Gemini 3 API Tutorial: Automating Data Analysis With Gemini 3 Pro and LangGraph](https://www.datacamp.com/tutorial/gemini-3-api-tutorial)
+- [GPT-5.1 Codex Guide With Hands-On Project: Building a GitHub Issue Analyzer Agent](https://www.datacamp.com/tutorial/gpt-5-1-codex-guide-with-hands-on-project)
+- [Getting Started with the Claude Agent SDK](https://www.kdnuggets.com/getting-started-with-the-claude-agent-sdk)
+- [7 AI Tools I Can’t Live Without as a Professional Data Scientist](https://www.kdnuggets.com/7-ai-tools-i-cant-live-without-as-a-professional-data-scientist)
+- [Top 15 Agentic AI Chrome Extensions](https://www.datacamp.com/blog/top-agentic-ai-chrome-extensions)
 - [Building AI Agents with OpenAI Agent Builders & Firecrawl](https://www.firecrawl.dev/blog/openai-agent-builders-and-firecrawl)
+- [Top 7 ChatGPT Alternatives You Can Try For Free](https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free)
 - [7 Best Chrome Extensions for Agentic AI](https://www.kdnuggets.com/7-best-chrome-extensions-for-agentic-ai)
 - [Vibe Coding with GLM 4.6 Coding Plan](https://www.kdnuggets.com/vibe-coding-with-glm-46-coding-plan)
 - [10 AI Projects You Can Build with Firecrawl Now](https://www.firecrawl.dev/blog/10-ai-projects-with-firecrawl)

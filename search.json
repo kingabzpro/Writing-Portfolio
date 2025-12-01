@@ -205,6 +205,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "28 Data Analytics Projects for All Levels in 2025",
+    "url": "https://www.datacamp.com/blog/data-analytics-projects-all-levels",
+    "category": "Data Science"
+  },
+  {
     "title": "28 Top Data Scientist Interview Questions For All Levels",
     "url": "https://www.datacamp.com/blog/data-scientist-interview-questions",
     "category": "Career Advice"
@@ -452,6 +457,11 @@
   {
     "title": "7 AI Portfolio Projects to Boost the Resume",
     "url": "https://www.kdnuggets.com/7-ai-portfolio-projects-to-boost-the-resume",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "7 AI Tools I Can’t Live Without as a Professional Data Scientist",
+    "url": "https://www.kdnuggets.com/7-ai-tools-i-cant-live-without-as-a-professional-data-scientist",
     "category": "Artificial Intelligence (AI)"
   },
   {
@@ -805,6 +815,11 @@
     "category": "Data Science"
   },
   {
+    "title": "Building E-Commerce Intelligence Application with GLM Coding Plan",
+    "url": "https://www.firecrawl.dev/blog/building-ecommerce-intelligence-app-with-glm-4-6",
+    "category": "Programming"
+  },
+  {
     "title": "Building Fun Projects with OpenAI Codex",
     "url": "https://www.kdnuggets.com/building-fun-projects-with-openai-codex",
     "category": "Artificial Intelligence (AI)"
@@ -1150,8 +1165,18 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "GPT-5.1 Codex Guide With Hands-On Project: Building a GitHub Issue Analyzer Agent",
+    "url": "https://www.datacamp.com/tutorial/gpt-5-1-codex-guide-with-hands-on-project",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Gemini 2.5 Pro API: A Guide With Demo Project",
     "url": "https://www.datacamp.com/tutorial/gemini-2-5-pro-api",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Gemini 3 API Tutorial: Automating Data Analysis With Gemini 3 Pro and LangGraph",
+    "url": "https://www.datacamp.com/tutorial/gemini-3-api-tutorial",
     "category": "Artificial Intelligence (AI)"
   },
   {
@@ -1230,6 +1255,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Getting Started with the Claude Agent SDK",
+    "url": "https://www.kdnuggets.com/getting-started-with-the-claude-agent-sdk",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Getting Started with the Data Engineer Handbook",
     "url": "https://www.kdnuggets.com/getting-started-data-engineer-handbook",
     "category": "Data Engineering"
@@ -1243,6 +1273,11 @@
     "title": "Git for Data Science Cheatsheet",
     "url": "https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html",
     "category": "Cheat Sheets"
+  },
+  {
+    "title": "Git for Vibe Coders",
+    "url": "https://www.kdnuggets.com/git-for-vibe-coders",
+    "category": "Programming"
   },
   {
     "title": "GitHub Actions For Machine Learning Beginners",
@@ -1945,6 +1980,11 @@
     "category": "Machine Learning Operations (MLOps)"
   },
   {
+    "title": "Top 15 Agentic AI Chrome Extensions",
+    "url": "https://www.datacamp.com/blog/top-agentic-ai-chrome-extensions",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Top 15 LLMOps Tools for Building AI Applications in 2024",
     "url": "https://www.datacamp.com/blog/llmops-tools",
     "category": "Large Language Models (LLMs)"
@@ -1962,6 +2002,11 @@
   {
     "title": "Top 5 AI Coding Assistants You Must Try",
     "url": "https://www.kdnuggets.com/top-5-ai-coding-assistants-you-must-try",
+    "category": "Programming"
+  },
+  {
+    "title": "Top 5 Agentic Coding CLI Tools",
+    "url": "https://www.kdnuggets.com/top-5-agentic-coding-cli-tools",
     "category": "Programming"
   },
   {
@@ -2030,6 +2075,11 @@
     "category": "Data Science"
   },
   {
+    "title": "Top 7 ChatGPT Alternatives You Can Try For Free",
+    "url": "https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Top 7 Continuous Integration and Continuous Delivery Tools for 2025",
     "url": "https://www.kdnuggets.com/top-7-continuous-integration-and-continuous-delivery-tools-for-2025",
     "category": "Machine Learning Operations (MLOps)"
@@ -2053,6 +2103,11 @@
     "title": "Top 7 Model Deployment and Serving Tools",
     "url": "https://www.kdnuggets.com/top-7-model-deployment-and-serving-tools",
     "category": "Machine Learning Operations (MLOps)"
+  },
+  {
+    "title": "Top 7 Open Source AI Coding Models You Are Missing Out On",
+    "url": "https://www.kdnuggets.com/top-7-open-source-ai-coding-models-you-are-missing-out-on",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "Top 7 Open-Source LLMs in 2025",

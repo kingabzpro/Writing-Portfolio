@@ -3,6 +3,8 @@
 A collection of resources, tutorials, and articles about Data Science.
 
 ## Articles
+
+- [28 Data Analytics Projects for All Levels in 2025](https://www.datacamp.com/blog/data-analytics-projects-all-levels)
 - [Top 10 Free API Providers for Data Science Projects](https://www.kdnuggets.com/top-10-free-api-providers-for-data-science-projects)
 - [Kaggle CLI Cheat Sheet](https://www.kdnuggets.com/kaggle-cli-cheat-sheet)
 - [10 GitHub Awesome Lists for Data Science](https://www.kdnuggets.com/10-github-awesome-lists-for-data-science)
