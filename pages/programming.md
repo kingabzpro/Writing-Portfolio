@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [10 GitHub Repositories to Master Vibe Coding](https://www.kdnuggets.com/10-github-repositories-to-master-vibe-coding)
+- [How to Vibe Code on a Budget](https://www.kdnuggets.com/how-to-vibe-code-on-a-budget)
 - [Git for Vibe Coders](https://www.kdnuggets.com/git-for-vibe-coders)
 - [Top 5 Agentic Coding CLI Tools](https://www.kdnuggets.com/top-5-agentic-coding-cli-tools)
 - [Building E-Commerce Intelligence Application with GLM Coding Plan](https://www.firecrawl.dev/blog/building-ecommerce-intelligence-app-with-glm-4-6)

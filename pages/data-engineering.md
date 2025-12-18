@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Data Engineering.
 
 ## Articles
 
+- [5 Workflow Automation Tools for All Professionals](https://www.kdnuggets.com/5-workflow-automation-tools-for-all-professionals)
 - [Getting Started with the Data Engineer Handbook](https://www.kdnuggets.com/getting-started-data-engineer-handbook)
 - [7 Projects to Master Data Engineering](https://www.kdnuggets.com/7-projects-master-data-engineering) 
 - [7 Data Engineering Tools for Beginners](https://www.kdnuggets.com/7-data-engineering-tools-for-beginners)

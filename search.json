@@ -120,6 +120,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "10 GitHub Repositories to Master Machine Learning Deployment",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
     "title": "10 GitHub Repositories to Master Math",
     "url": "https://www.kdnuggets.com/10-github-repositories-master-math",
     "category": "Career Advice"
@@ -148,6 +153,11 @@
     "title": "10 GitHub Repositories to Master Statistics",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-statistics",
     "category": "Data Science"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Vibe Coding",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-vibe-coding",
+    "category": "Programming"
   },
   {
     "title": "10 GitHub Repositories to Master Web Development in 2025",
@@ -453,6 +463,11 @@
     "title": "5 Ways to Access GPT-4o for Free",
     "url": "https://www.kdnuggets.com/5-ways-to-access-gpt-4o-for-free",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "5 Workflow Automation Tools for All Professionals",
+    "url": "https://www.kdnuggets.com/5-workflow-automation-tools-for-all-professionals",
+    "category": "Data Engineering"
   },
   {
     "title": "7 AI Portfolio Projects to Boost the Resume",
@@ -890,6 +905,11 @@
     "category": "Programming"
   },
   {
+    "title": "Claude Opus 4.5 Tutorial: Build a GitHub Wiki Agent",
+    "url": "https://www.datacamp.com/tutorial/claude-opus-4-5-tutorial",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Claude vs. ChatGPT: Which AI Assistant Should Data Scientists Choose in 2023?",
     "url": "https://www.datacamp.com/blog/claude-vs-chatgpt-data-science-comparison",
     "category": "Data Science"
@@ -1098,6 +1118,11 @@
     "title": "Fine-Tuning MedGemma on a Brain MRI Dataset",
     "url": "https://www.datacamp.com/tutorial/fine-tuning-medgemma",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Fine-Tuning Ministral 3: A Step-by-Step Guide to Training a Vision-Language Model for X-Ray Classification",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-ministral-3",
+    "category": "Computer Vision"
   },
   {
     "title": "Fine-Tuning Phi-3.5 on E-Commerce Classification Dataset",
@@ -1413,6 +1438,11 @@
     "title": "How to Use Qwen2.5-VL Locally",
     "url": "https://www.datacamp.com/tutorial/use-qwen2-5-vl-locally",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "How to Vibe Code on a Budget",
+    "url": "https://www.kdnuggets.com/how-to-vibe-code-on-a-budget",
+    "category": "Programming"
   },
   {
     "title": "HumanEval: A Benchmark for Evaluating LLM Code Generation Capabilities",
@@ -1995,6 +2025,11 @@
     "category": "Python"
   },
   {
+    "title": "Top 15 Remote MCP Servers Every AI Builder Should Know in 2026",
+    "url": "https://www.datacamp.com/blog/top-remote-mcp-servers",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Top 3 Video Generation Models",
     "url": "https://www.kdnuggets.com/top-3-video-generation-models",
     "category": "Artificial Intelligence (AI)"
@@ -2058,6 +2093,11 @@
     "title": "Top 5 Python Automation Tools You Need to Know",
     "url": "https://www.kdnuggets.com/top-5-python-automation-tools-you-need-to-know",
     "category": "Python"
+  },
+  {
+    "title": "Top 5 Small AI Coding Models That You Can Run Locally",
+    "url": "https://www.kdnuggets.com/top-5-small-ai-coding-models-that-you-can-run-locally",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "Top 5 Text-to-Speech Open Source Models",

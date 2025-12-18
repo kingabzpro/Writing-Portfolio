@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Claude Opus 4.5 Tutorial: Build a GitHub Wiki Agent](https://www.datacamp.com/tutorial/claude-opus-4-5-tutorial)
+- [Top 15 Remote MCP Servers Every AI Builder Should Know in 2026](https://www.datacamp.com/blog/top-remote-mcp-servers)
 - [Gemini 3 API Tutorial: Automating Data Analysis With Gemini 3 Pro and LangGraph](https://www.datacamp.com/tutorial/gemini-3-api-tutorial)
 - [GPT-5.1 Codex Guide With Hands-On Project: Building a GitHub Issue Analyzer Agent](https://www.datacamp.com/tutorial/gpt-5-1-codex-guide-with-hands-on-project)
 - [Getting Started with the Claude Agent SDK](https://www.kdnuggets.com/getting-started-with-the-claude-agent-sdk)
