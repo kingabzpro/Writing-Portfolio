@@ -4,7 +4,10 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [10 Most Popular GitHub Repositories for Learning AI](https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai)
+- [GPT-5.2 Codex Tutorial: Build a Data Pipeline in VSCode](https://www.datacamp.com/tutorial/gpt-5-2-codex-tutorial)
 - [Claude Opus 4.5 Tutorial: Build a GitHub Wiki Agent](https://www.datacamp.com/tutorial/claude-opus-4-5-tutorial)
+- [The Best Agentic AI Browsers to Look For in 2026](https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026)
 - [Top 15 Remote MCP Servers Every AI Builder Should Know in 2026](https://www.datacamp.com/blog/top-remote-mcp-servers)
 - [Gemini 3 API Tutorial: Automating Data Analysis With Gemini 3 Pro and LangGraph](https://www.datacamp.com/tutorial/gemini-3-api-tutorial)
 - [GPT-5.1 Codex Guide With Hands-On Project: Building a GitHub Issue Analyzer Agent](https://www.datacamp.com/tutorial/gpt-5-1-codex-guide-with-hands-on-project)

@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Fine-Tuning Qwen3-VL 8B: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tuning-qwen3-vl-8b)
+- [7 Tiny AI Models for Raspberry Pi](https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi)
 - [Top 5 Small AI Coding Models That You Can Run Locally](https://www.kdnuggets.com/top-5-small-ai-coding-models-that-you-can-run-locally)
 - [Top 7 Open Source AI Coding Models You Are Missing Out On](https://www.kdnuggets.com/top-7-open-source-ai-coding-models-you-are-missing-out-on)
 - [GPT-5 Function Calling Tutorial](https://www.datacamp.com/tutorial/gpt-5-function-calling-tutorial)

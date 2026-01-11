@@ -175,6 +175,11 @@
     "category": "Data Science"
   },
   {
+    "title": "10 Most Popular GitHub Repositories for Learning AI",
+    "url": "https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "10 Ways To Access GPT-OSS 120B for Free",
     "url": "https://www.datacamp.com/tutorial/how-to-access-gpt-oss-120b-for-free",
     "category": "Large Language Models (LLMs)"
@@ -570,6 +575,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "7 High Paying Side Hustles for Students",
+    "url": "https://www.kdnuggets.com/7-high-paying-side-hustles-for-students",
+    "category": "Career Advice"
+  },
+  {
     "title": "7 High Paying Specialized Freelancing Jobs in 2025",
     "url": "https://www.kdnuggets.com/7-high-paying-freelancing-jobs-in-2025",
     "category": "Career Advice"
@@ -618,6 +628,11 @@
     "title": "7 Things Students Are Missing in a Data Science Resume",
     "url": "https://www.kdnuggets.com/7-things-students-are-missing-in-a-data-science-resume",
     "category": "Career Advice"
+  },
+  {
+    "title": "7 Tiny AI Models for Raspberry Pi",
+    "url": "https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "7 Tools I Cannot Live Without as a Data Scientist",
@@ -1135,6 +1150,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Fine-Tuning Qwen3-VL 8B: A Step-by-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-qwen3-vl-8b",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Fine-Tuning Qwen3: A Step-by-Step Guide",
     "url": "https://www.datacamp.com/tutorial/fine-tuning-qwen3",
     "category": "Large Language Models (LLMs)"
@@ -1192,6 +1212,11 @@
   {
     "title": "GPT-5.1 Codex Guide With Hands-On Project: Building a GitHub Issue Analyzer Agent",
     "url": "https://www.datacamp.com/tutorial/gpt-5-1-codex-guide-with-hands-on-project",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "GPT-5.2 Codex Tutorial: Build a Data Pipeline in VSCode",
+    "url": "https://www.datacamp.com/tutorial/gpt-5-2-codex-tutorial",
     "category": "Artificial Intelligence (AI)"
   },
   {
@@ -1428,6 +1453,11 @@
     "title": "How to Run Qwen3-Next Locally",
     "url": "https://www.datacamp.com/tutorial/how-to-run-qwen3-next-locally",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "How to Run SAM Audio Locally",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-sam-audio-locally",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "How to Use DeepSeek Janus-Pro Locally",
@@ -1860,6 +1890,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "The Best Agentic AI Browsers to Look For in 2026",
+    "url": "https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "The Best Way of Running GPT-OSS Locally",
     "url": "https://www.kdnuggets.com/the-best-way-of-running-gpt-oss-locally",
     "category": "Large Language Models (LLMs)"
@@ -2150,6 +2185,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Top 7 Open Source OCR Models",
+    "url": "https://www.kdnuggets.com/top-7-open-source-ocr-models",
+    "category": "Computer Vision"
+  },
+  {
     "title": "Top 7 Open-Source LLMs in 2025",
     "url": "https://www.kdnuggets.com/top-7-open-source-llms-in-2025",
     "category": "Large Language Models (LLMs)"
@@ -2168,6 +2208,11 @@
     "title": "Top 7 Small Language Models",
     "url": "https://www.kdnuggets.com/top-7-small-language-models",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Top 7 n8n Workflow Templates for Data Science",
+    "url": "https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science",
+    "category": "Data Science"
   },
   {
     "title": "Trae: Adaptive AI Code Editor",

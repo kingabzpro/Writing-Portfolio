@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 
 ## Articles
 
+- [How to Run SAM Audio Locally](https://www.datacamp.com/tutorial/how-to-run-sam-audio-locally)
 - [10 GitHub Repositories for Machine Learning Projects](https://www.kdnuggets.com/10-github-repositories-for-machine-learning-projects)
 - [Top 5 Frameworks for Distributed Machine Learning](https://www.kdnuggets.com/top-5-frameworks-for-distributed-machine-learning)
 - [7 AWS Services for Machine Learning Projects](https://www.kdnuggets.com/7-aws-services-for-machine-learning-projects)
