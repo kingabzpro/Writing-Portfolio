@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Top 5 Open-Source AI Model API Providers](https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers)
+- [Top 5 Agentic AI Website Builders (That Actually Ship)](https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/)
 - [10 Most Popular GitHub Repositories for Learning AI](https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai)
 - [GPT-5.2 Codex Tutorial: Build a Data Pipeline in VSCode](https://www.datacamp.com/tutorial/gpt-5-2-codex-tutorial)
 - [Claude Opus 4.5 Tutorial: Build a GitHub Wiki Agent](https://www.datacamp.com/tutorial/claude-opus-4-5-tutorial)
@@ -16,6 +18,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 - [Top 15 Agentic AI Chrome Extensions](https://www.datacamp.com/blog/top-agentic-ai-chrome-extensions)
 - [Building AI Agents with OpenAI Agent Builders & Firecrawl](https://www.firecrawl.dev/blog/openai-agent-builders-and-firecrawl)
 - [Top 7 ChatGPT Alternatives You Can Try For Free](https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free)
+- [5 AI Agent Projects for Beginners](https://machinelearningmastery.com/5-ai-agent-projects-for-beginners/)
 - [7 Best Chrome Extensions for Agentic AI](https://www.kdnuggets.com/7-best-chrome-extensions-for-agentic-ai)
 - [Vibe Coding with GLM 4.6 Coding Plan](https://www.kdnuggets.com/vibe-coding-with-glm-46-coding-plan)
 - [10 AI Projects You Can Build with Firecrawl Now](https://www.firecrawl.dev/blog/10-ai-projects-with-firecrawl)

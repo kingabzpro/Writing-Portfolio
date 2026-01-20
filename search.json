@@ -285,6 +285,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "5 AI Agent Projects for Beginners",
+    "url": "https://machinelearningmastery.com/5-ai-agent-projects-for-beginners/",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "5 AI Code Editors to Use in 2025",
     "url": "https://www.kdnuggets.com/5-ai-code-editors-to-use-in-2025",
     "category": "Programming"
@@ -313,6 +318,11 @@
     "title": "5 Cheapest Cloud Platforms for Fine-tuning LLMs",
     "url": "https://www.kdnuggets.com/5-cheapest-cloud-platforms-for-fine-tuning-llms",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "5 Code Sandboxes for Your AI Agents",
+    "url": "https://www.kdnuggets.com/5-code-sandbox-for-your-ai-agents",
+    "category": "Programming"
   },
   {
     "title": "5 Common Data Science Mistakes and How to Avoid Them",
@@ -598,6 +608,11 @@
     "title": "7 Modern SQL Databases You Must Know in 2024",
     "url": "https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024",
     "category": "Data Engineering"
+  },
+  {
+    "title": "7 Must-Have Tools for Your Coding Workflow",
+    "url": "https://www.kdnuggets.com/7-must-have-tools-for-your-coding-workflow",
+    "category": "Programming"
   },
   {
     "title": "7 Projects to Master Data Engineering",
@@ -1160,6 +1175,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Fine-Tuning T5Gemma-2",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-t5gemma-2",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Fine-tuning GPT-4o Mini: A Step-by-Step Guide",
     "url": "https://www.datacamp.com/tutorial/fine-tuning-gpt-4o-mini",
     "category": "Large Language Models (LLMs)"
@@ -1433,6 +1453,11 @@
     "title": "How to Reach $500K on Upwork",
     "url": "https://www.kdnuggets.com/how-to-reach-500k-on-upwork",
     "category": "Career Advice"
+  },
+  {
+    "title": "How to Run FLUX.2 Locally on an RTX 3090",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-flux2-locally",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "How to Run Kimi K2 Locally: Complete Setup & Troubleshooting",
@@ -2075,6 +2100,11 @@
     "category": "Programming"
   },
   {
+    "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
+    "url": "https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Top 5 Agentic Coding CLI Tools",
     "url": "https://www.kdnuggets.com/top-5-agentic-coding-cli-tools",
     "category": "Programming"
@@ -2123,6 +2153,11 @@
     "title": "Top 5 Open Source Video Generation Models",
     "url": "https://www.kdnuggets.com/top-5-open-source-video-generation-models",
     "category": "Computer Vision"
+  },
+  {
+    "title": "Top 5 Open-Source AI Model API Providers",
+    "url": "https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "Top 5 Python Automation Tools You Need to Know",
