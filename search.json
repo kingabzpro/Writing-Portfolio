@@ -52,7 +52,17 @@
   {
     "title": "10 GitHub Repositories for Deep Learning Enthusiasts",
     "url": "https://www.kdnuggets.com/10-github-repositories-for-deep-learning-enthusiasts",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories for Deep Learning Enthusiasts",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-deep-learning-enthusiasts",
     "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "10 GitHub Repositories for Machine Learning Projects",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-machine-learning-projects",
+    "category": "Career Advice"
   },
   {
     "title": "10 GitHub Repositories for Machine Learning Projects",
@@ -65,14 +75,39 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "10 GitHub Repositories for Mastering Agents and MCPs",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-mastering-agents-and-mcps",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories for Python Projects",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-python-projects",
+    "category": "Career Advice"
+  },
+  {
     "title": "10 GitHub Repositories for Python Projects",
     "url": "https://www.kdnuggets.com/10-github-repositories-for-python-projects",
     "category": "Python"
   },
   {
+    "title": "10 GitHub Repositories to Ace Any Tech Interview",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Backend Development",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-backend-development",
+    "category": "Career Advice"
+  },
+  {
     "title": "10 GitHub Repositories to Master Backend Development",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-backend-development",
     "category": "Programming"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Cloud Computing",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing",
+    "category": "Career Advice"
   },
   {
     "title": "10 GitHub Repositories to Master Cloud Computing",
@@ -87,7 +122,17 @@
   {
     "title": "10 GitHub Repositories to Master Computer Vision",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-computer-vision",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Computer Vision",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-computer-vision",
     "category": "Computer Vision"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Data Engineering",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-data-engineering",
+    "category": "Career Advice"
   },
   {
     "title": "10 GitHub Repositories to Master Data Engineering",
@@ -97,12 +142,27 @@
   {
     "title": "10 GitHub Repositories to Master Data Science",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-data-science",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Data Science",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-data-science",
     "category": "Data Science"
   },
   {
     "title": "10 GitHub Repositories to Master Frontend Development",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-frontend-development",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Frontend Development",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-frontend-development",
     "category": "Programming"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Large Language Models",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models",
+    "category": "Career Advice"
   },
   {
     "title": "10 GitHub Repositories to Master Large Language Models",
@@ -122,11 +182,21 @@
   {
     "title": "10 GitHub Repositories to Master Machine Learning Deployment",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Machine Learning Deployment",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment",
     "category": "Machine Learning Operations (MLOps)"
   },
   {
     "title": "10 GitHub Repositories to Master Math",
     "url": "https://www.kdnuggets.com/10-github-repositories-master-math",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Natural Language Processing (NLP)",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-natural-language-processing-nlp",
     "category": "Career Advice"
   },
   {
@@ -142,7 +212,17 @@
   {
     "title": "10 GitHub Repositories to Master Reinforcement Learning",
     "url": "https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Reinforcement Learning",
+    "url": "https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning",
     "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "10 GitHub Repositories to Master SQL",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-sql",
+    "category": "Career Advice"
   },
   {
     "title": "10 GitHub Repositories to Master SQL",
@@ -152,12 +232,27 @@
   {
     "title": "10 GitHub Repositories to Master Statistics",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-statistics",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Statistics",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-statistics",
     "category": "Data Science"
   },
   {
     "title": "10 GitHub Repositories to Master Vibe Coding",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-vibe-coding",
+    "category": "Career Advice"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Vibe Coding",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-vibe-coding",
     "category": "Programming"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Web Development in 2025",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-web-development-in-2025",
+    "category": "Career Advice"
   },
   {
     "title": "10 GitHub Repositories to Master Web Development in 2025",
@@ -178,6 +273,11 @@
     "title": "10 Most Popular GitHub Repositories for Learning AI",
     "url": "https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "10 Most Popular GitHub Repositories for Learning AI",
+    "url": "https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai",
+    "category": "Career Advice"
   },
   {
     "title": "10 Ways To Access GPT-OSS 120B for Free",
@@ -718,6 +818,11 @@
     "title": "A New Python Package Manager",
     "url": "https://www.kdnuggets.com/new-python-package-manager",
     "category": "Python"
+  },
+  {
+    "title": "A Practical Vibe Coding Tech Stack For Fast Shipping",
+    "url": "https://www.datacamp.com/blog/vibe-coding-tech-stack",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "A Simple Guide to GitOps",
@@ -1425,6 +1530,11 @@
     "category": "Machine Learning Operations (MLOps)"
   },
   {
+    "title": "How to Fine-Tune FunctionGemma: A Step-by-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/fine-tune-functiongemma",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "How to Get Addicted to Machine Learning",
     "url": "https://www.kdnuggets.com/how-to-get-addicted-machine-learning",
     "category": "Machine Learning (ML)"
@@ -1457,6 +1567,16 @@
   {
     "title": "How to Run FLUX.2 Locally on an RTX 3090",
     "url": "https://www.datacamp.com/tutorial/how-to-run-flux2-locally",
+    "category": "Computer Vision"
+  },
+  {
+    "title": "How to Run GLM 4.7 Flash Locally",
+    "url": "https://www.datacamp.com/tutorial/glm-4-7-flash-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "How to Run GLM-4.7 Locally with llama.cpp: A High-Performance Guide",
+    "url": "https://www.datacamp.com/tutorial/run-glm-4-7-locally",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -2165,6 +2285,11 @@
     "category": "Python"
   },
   {
+    "title": "Top 5 Self Hosting Platform Alternative to Vercel, Heroku & Netlify",
+    "url": "https://www.kdnuggets.com/top-5-self-hosting-platform-alternative-to-vercel-heroku-netlify",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
     "title": "Top 5 Small AI Coding Models That You Can Run Locally",
     "url": "https://www.kdnuggets.com/top-5-small-ai-coding-models-that-you-can-run-locally",
     "category": "Large Language Models (LLMs)"
@@ -2188,6 +2313,11 @@
     "title": "Top 7 ChatGPT Alternatives You Can Try For Free",
     "url": "https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Top 7 Coding Plans for Vibe Coding",
+    "url": "https://www.kdnuggets.com/top-7-coding-plans-for-vibe-coding",
+    "category": "Programming"
   },
   {
     "title": "Top 7 Continuous Integration and Continuous Delivery Tools for 2025",

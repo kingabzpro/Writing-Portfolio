@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [Top 5 Self Hosting Platform Alternative to Vercel, Heroku & Netlify](https://www.kdnuggets.com/top-5-self-hosting-platform-alternative-to-vercel-heroku-netlify)
 - [10 GitHub Repositories to Master Machine Learning Deployment](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment)
 - [Building Machine Learning Application with Django](https://www.kdnuggets.com/building-machine-learning-application-with-django)
 - [Stress Testing FastAPI Application](https://www.kdnuggets.com/stress-testing-fastapi-application)

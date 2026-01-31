@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [A Practical Vibe Coding Tech Stack For Fast Shipping](https://www.datacamp.com/blog/vibe-coding-tech-stack)
 - [Top 5 Open-Source AI Model API Providers](https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers)
 - [Top 5 Agentic AI Website Builders (That Actually Ship)](https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/)
 - [10 Most Popular GitHub Repositories for Learning AI](https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai)

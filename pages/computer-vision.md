@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Computer Vision.
 
 ## Articles
 
+- [How to Run FLUX.2 Locally on an RTX 3090](https://www.datacamp.com/tutorial/how-to-run-flux2-locally)
 - [Top 7 Open Source OCR Models](https://www.kdnuggets.com/top-7-open-source-ocr-models)
 - [Fine-Tuning Ministral 3: A Step-by-Step Guide to Training a Vision-Language Model for X-Ray Classification](https://www.datacamp.com/tutorial/fine-tuning-ministral-3)
 - [Top 5 Open Source Video Generation Models](https://www.kdnuggets.com/top-5-open-source-video-generation-models)

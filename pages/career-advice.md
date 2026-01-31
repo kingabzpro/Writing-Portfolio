@@ -4,16 +4,35 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## GitHub Repositories
 
-- [7 High Paying Specialized Freelancing Jobs in 2025](https://www.kdnuggets.com/7-high-paying-freelancing-jobs-in-2025)
-- [How to Reach $500K on Upwork](https://www.kdnuggets.com/how-to-reach-500k-on-upwork)
+- [10 GitHub Repositories to Ace Any Tech Interview](https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview)
 - [10 GitHub Repositories to Master Math](https://www.kdnuggets.com/10-github-repositories-master-math)
 - [10 GitHub Repositories to Master Python](https://www.kdnuggets.com/10-github-repositories-to-master-python)
 - [10 GitHub Repositories to Master Computer Science](https://www.kdnuggets.com/10-github-repositories-to-master-computer-science)
 - [10 GitHub Repositories to Master MLOps](https://www.kdnuggets.com/10-github-repositories-to-master-mlops)
 - [10 GitHub Repositories to Master Machine Learning](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning)
+- [10 GitHub Repositories to Master Web Development in 2025](https://www.kdnuggets.com/10-github-repositories-to-master-web-development-in-2025)
+- [10 GitHub Repositories to Master Machine Learning Deployment](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment)
+- [10 Most Popular GitHub Repositories for Learning AI](https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai)
+- [10 GitHub Repositories to Master Data Science](https://www.kdnuggets.com/10-github-repositories-to-master-data-science)
+- [10 GitHub Repositories for Deep Learning Enthusiasts](https://www.kdnuggets.com/10-github-repositories-for-deep-learning-enthusiasts)
+- [10 GitHub Repositories for Machine Learning Projects](https://www.kdnuggets.com/10-github-repositories-for-machine-learning-projects)
+- [10 GitHub Repositories for Mastering Agents and MCPs](https://www.kdnuggets.com/10-github-repositories-for-mastering-agents-and-mcps)
+- [10 GitHub Repositories for Python Projects](https://www.kdnuggets.com/10-github-repositories-for-python-projects)
+- [10 GitHub Repositories to Master Backend Development](https://www.kdnuggets.com/10-github-repositories-to-master-backend-development)
+- [10 GitHub Repositories to Master Cloud Computing](https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing)
+- [10 GitHub Repositories to Master Computer Vision](https://www.kdnuggets.com/10-github-repositories-to-master-computer-vision)
+- [10 GitHub Repositories to Master Data Engineering](https://www.kdnuggets.com/10-github-repositories-to-master-data-engineering)
+- [10 GitHub Repositories to Master Frontend Development](https://www.kdnuggets.com/10-github-repositories-to-master-frontend-development)
+- [10 GitHub Repositories to Master Large Language Models](https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models)
+- [10 GitHub Repositories to Master Natural Language Processing (NLP)](https://www.kdnuggets.com/10-github-repositories-to-master-natural-language-processing-nlp)
+- [10 GitHub Repositories to Master Reinforcement Learning](https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning)
+- [10 GitHub Repositories to Master SQL](https://www.kdnuggets.com/10-github-repositories-to-master-sql)
+- [10 GitHub Repositories to Master Statistics](https://www.kdnuggets.com/10-github-repositories-to-master-statistics)
+- [10 GitHub Repositories to Master Vibe Coding](https://www.kdnuggets.com/10-github-repositories-to-master-vibe-coding)
 
 ## Career Advice
-
+- [7 High Paying Specialized Freelancing Jobs in 2025](https://www.kdnuggets.com/7-high-paying-freelancing-jobs-in-2025)
+- [How to Reach $500K on Upwork](https://www.kdnuggets.com/how-to-reach-500k-on-upwork)
 - [7 High Paying Side Hustles for Students](https://www.kdnuggets.com/7-high-paying-side-hustles-for-students)
 - [Top 5 Freelancer Websites Better Than Fiverr and Upwork](https://www.kdnuggets.com/top-5-freelancer-websites-better-fiverr-upwork)
 - [Build a Strong Portfolio for Data Science Career](https://www.kdnuggets.com/build-strong-portfolio-data-science-career)

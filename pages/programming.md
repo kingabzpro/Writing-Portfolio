@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [Top 7 Coding Plans for Vibe Coding](https://www.kdnuggets.com/top-7-coding-plans-for-vibe-coding)
 - [5 Code Sandboxes for Your AI Agents](https://www.kdnuggets.com/5-code-sandbox-for-your-ai-agents)
 - [7 Must-Have Tools for Your Coding Workflow](https://www.kdnuggets.com/7-must-have-tools-for-your-coding-workflow)
 - [10 GitHub Repositories to Master Vibe Coding](https://www.kdnuggets.com/10-github-repositories-to-master-vibe-coding)
