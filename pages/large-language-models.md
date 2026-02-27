@@ -4,6 +4,13 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [How to Run Qwen 3.5 Locally on a Single GPU: Step-by-Step Guide](https://www.datacamp.com/tutorial/run-qwen-3-5-locally)
+- [Top 5 Super Fast LLM API Providers](https://www.kdnuggets.com/top-5-super-fast-llm-api-providers)
+- [Top 5 Embedding Models for Your RAG Pipeline](https://www.kdnuggets.com/top-5-embedding-models-for-your-rag-pipeline)
+- [Run GLM-5 Locally For Agentic Coding](https://www.datacamp.com/tutorial/run-glm-5-locally)
+- [Run Qwen3-Coder-Next Locally: Vibe Code an Analytics Dashboard](https://www.datacamp.com/tutorial/run-qwen3-coder-next-locally)
+- [How to Run Kimi K2.5 Locally](https://www.datacamp.com/tutorial/how-to-run-kimi-k2-5-locally)
+- [Using Claude Code With Ollama Local Models](https://www.datacamp.com/tutorial/using-claude-code-with-ollama-local-models)
 - [How to Run GLM-4.7 Locally with llama.cpp: A High-Performance Guide](https://www.datacamp.com/tutorial/run-glm-4-7-locally)
 - [How to Run GLM 4.7 Flash Locally](https://www.datacamp.com/tutorial/glm-4-7-flash-locally)
 - [How to Fine-Tune FunctionGemma: A Step-by-Step Guide](https://www.datacamp.com/tutorial/fine-tune-functiongemma)

@@ -15,6 +15,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "10 Best AutoML Frameworks for Python and No-Code Users",
+    "url": "https://www.datacamp.com/blog/best-automl-frameworks",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "10 ChatGPT Plugins for Data Science Cheat Sheet",
     "url": "https://www.kdnuggets.com/2023/06/10-chatgpt-plugins-data-science-cheat-sheet.html",
     "category": "Cheat Sheets"
@@ -410,6 +415,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "5 Android Apps for Code Editing",
+    "url": "https://www.kdnuggets.com/5-android-apps-for-code-editing",
+    "category": "Programming"
+  },
+  {
     "title": "5 Best End-to-End Open Source MLOps Tools",
     "url": "https://www.kdnuggets.com/5-best-end-to-end-open-source-mlops-tools",
     "category": "Machine Learning Operations (MLOps)"
@@ -500,6 +510,11 @@
     "category": "Programming"
   },
   {
+    "title": "5 Lightweight and Secure OpenClaw Alternatives to Try Right Now",
+    "url": "https://www.kdnuggets.com/5-lightweight-and-secure-openclaw-alternatives-to-try-right-now",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "5 MIT Statistics Courses That Are Free",
     "url": "https://www.statology.org/5-mit-statistics-courses-free/",
     "category": "Career Advice"
@@ -513,6 +528,11 @@
     "title": "5 More Command Line Tools for Data Science",
     "url": "https://www.kdnuggets.com/2023/03/5-command-line-tools-data-science.html",
     "category": "Data Science"
+  },
+  {
+    "title": "5 Open Source Image Editing AI Models",
+    "url": "https://www.kdnuggets.com/5-open-source-image-editing-ai-models",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "5 Portfolio Projects for Final Year Data Science Students",
@@ -543,6 +563,11 @@
     "title": "5 Super Cheat Sheets to Master Data Science",
     "url": "https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science",
     "category": "Career Advice"
+  },
+  {
+    "title": "5 Time Series Foundation Models You Are Missing Out On",
+    "url": "https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "5 Tools to Help Build Your LLM Apps",
@@ -1010,6 +1035,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Building with Gemini 3.1 Pro: The Ultimate Coding Agent Tutorial",
+    "url": "https://www.datacamp.com/tutorial/building-with-gemini-3-1-pro-coding-agent-tutorial",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "ChatGPT and GPT-4 Open Source Alternatives that are Balancing the Scales",
     "url": "https://www.datacamp.com/blog/12-gpt4-open-source-alternatives",
     "category": "Large Language Models (LLMs)"
@@ -1173,6 +1203,11 @@
     "title": "Everything You Need to Know About MLOps: A KDnuggets Tech Brief - Ebook",
     "url": "https://www.kdnuggets.com/tech-brief-everything-you-need-to-know-about-mlops",
     "category": "Books by Abid"
+  },
+  {
+    "title": "Export Your ML Model in ONNX Format",
+    "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "Fine Tuning Google Gemma: Enhancing LLMs with Customized Instructions",
@@ -1380,6 +1415,11 @@
     "category": "Programming"
   },
   {
+    "title": "Getting Started With Moltbook: How to Get Your AI Agent Posting",
+    "url": "https://www.datacamp.com/tutorial/moltbook-how-to-get-started",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Getting Started with Claude 2 API",
     "url": "https://www.kdnuggets.com/getting-started-with-claude-2-api",
     "category": "Artificial Intelligence (AI)"
@@ -1585,8 +1625,18 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "How to Run Kimi K2.5 Locally",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-kimi-k2-5-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "How to Run Llama 3 Locally: A Complete Guide",
     "url": "https://www.datacamp.com/tutorial/run-llama-3-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "How to Run Qwen 3.5 Locally on a Single GPU: Step-by-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/run-qwen-3-5-locally",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -1785,6 +1835,11 @@
     "category": "Programming"
   },
   {
+    "title": "NVIDIA PersonaPlex Tutorial: Run a Natural, Real-Time Local Voice Assistant",
+    "url": "https://www.datacamp.com/tutorial/nvidia-personaplex-tutorial",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Open Assistant: Explore the Possibilities of Open and Collaborative Chatbot Development",
     "url": "https://www.kdnuggets.com/2023/04/open-assistant-explore-possibilities-open-collaborative-chatbot-development.html",
     "category": "Large Language Models (LLMs)"
@@ -1895,6 +1950,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "Run GLM-5 Locally For Agentic Coding",
+    "url": "https://www.datacamp.com/tutorial/run-glm-5-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Run Gemma 3 Locally Using Open WebUI",
     "url": "https://skillenai.com/competition-post/run-gemma-3-locally-using-open-webui/",
     "category": "Large Language Models (LLMs)"
@@ -1907,6 +1967,11 @@
   {
     "title": "Run Local LLMs with Cortex",
     "url": "https://www.kdnuggets.com/run-local-llms-with-cortex",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Run Qwen3-Coder-Next Locally: Vibe Code an Analytics Dashboard",
+    "url": "https://www.datacamp.com/tutorial/run-qwen3-coder-next-locally",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -2235,6 +2300,11 @@
     "category": "Data Engineering"
   },
   {
+    "title": "Top 5 Embedding Models for Your RAG Pipeline",
+    "url": "https://www.kdnuggets.com/top-5-embedding-models-for-your-rag-pipeline",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Top 5 Frameworks for Distributed Machine Learning",
     "url": "https://www.kdnuggets.com/top-5-frameworks-for-distributed-machine-learning",
     "category": "Machine Learning (ML)"
@@ -2292,6 +2362,11 @@
   {
     "title": "Top 5 Small AI Coding Models That You Can Run Locally",
     "url": "https://www.kdnuggets.com/top-5-small-ai-coding-models-that-you-can-run-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Top 5 Super Fast LLM API Providers",
+    "url": "https://www.kdnuggets.com/top-5-super-fast-llm-api-providers",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -2360,8 +2435,18 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Top 7 OpenClaw Tools & Integrations You Are Missing Out On",
+    "url": "https://www.kdnuggets.com/top-7-openclaw-tools-integrations-you-are-missing-out",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Top 7 Python Frameworks for AI Agents",
     "url": "https://www.kdnuggets.com/top-7-python-frameworks-for-ai-agents",
+    "category": "Python"
+  },
+  {
+    "title": "Top 7 Python Libraries for Progress Bars",
+    "url": "https://www.kdnuggets.com/top-7-python-libraries-for-progress-bars",
     "category": "Python"
   },
   {
@@ -2418,6 +2503,11 @@
     "title": "Using Claude 3.7 Locally",
     "url": "https://www.kdnuggets.com/using-claude-3-7-locally",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Using Claude Code With Ollama Local Models",
+    "url": "https://www.datacamp.com/tutorial/using-claude-code-with-ollama-local-models",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "Using ControlNet with Stable Diffusion",
