@@ -5,31 +5,43 @@ title: Contact Me
 
 # Contact Me
 
-I'd love to hear from you! Whether you have a question about my articles, want to discuss a potential collaboration, or just want to say hello.
+<div class="contact-intro">
+<p>I love hearing from readers, hiring teams, and collaborators. If you have a question about an article, need help with a data/AI topic, or want to discuss a writing or consulting opportunity, send a message.</p>
+</div>
 
-<!-- Contact form -->
-<form
-  action="https://formspree.io/f/mwplnoqv"
-  method="POST"
-  style="max-width: 500px; margin: 30px 0;"
->
-  <label style="display: block; margin-bottom: 15px;">
-    Your name:
-    <input type="text" name="name" required style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;">
-  </label>
-  <label style="display: block; margin-bottom: 15px;">
-    Your email:
-    <input type="email" name="email" required style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;">
-  </label>
-  <label style="display: block; margin-bottom: 15px;">
-    Subject:
-    <input type="text" name="subject" required style="width: 100%; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;">
-  </label>
-  <label style="display: block; margin-bottom: 15px;">
-    Your message:
-    <textarea name="message" required style="width: 100%; height: 150px; padding: 8px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px;"></textarea>
-  </label>
-  <button type="submit" style="background: var(--primary-color); color: white; border: none; padding: 10px 15px; border-radius: 4px; cursor: pointer; font-weight: bold;">Send</button>
+<div class="contact-grid">
+<section class="contact-card">
+<h2>What to include</h2>
+<ul class="contact-list">
+<li>Your goal or question</li>
+<li>Relevant links (article, repo, profile, or company page)</li>
+<li>Any timeline or priority</li>
+</ul>
+<p class="contact-note">The more context you share, the faster I can give a useful response.</p>
+</section>
+
+<section class="contact-card contact-form-card">
+<h2>Send a message</h2>
+<form class="contact-form" action="https://formspree.io/f/mwplnoqv" method="POST">
+<label class="form-field">
+<span>Your name</span>
+<input type="text" name="name" required placeholder="Jane Doe" />
+</label>
+<label class="form-field">
+<span>Your email</span>
+<input type="email" name="email" required placeholder="jane@company.com" />
+</label>
+<label class="form-field">
+<span>Subject</span>
+<input type="text" name="subject" required placeholder="Collaboration request" />
+</label>
+<label class="form-field">
+<span>Your message</span>
+<textarea name="message" required rows="6" placeholder="Tell me what you are working on and how I can help."></textarea>
+</label>
+<button type="submit" class="contact-submit">Send Message</button>
 </form>
+</section>
+</div>
 
-<a href="/" class="button" style="display: flex; align-items: center; justify-content: center; padding: 4px 12px; width: max-content; background: var(--primary-color); color: white; text-decoration: none; border-radius: 4px; margin-top: 30px; font-weight: bold; font-size: 1em; transition: transform 0.2s ease;"><i class="fas fa-home"></i><span style="margin-left: 5px;">Back to Home</span></a>
+<a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
