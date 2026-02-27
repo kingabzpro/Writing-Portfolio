@@ -1,0 +1,85 @@
+<section class="home-section">
+  <div class="search-container">
+    <i class="fas fa-search search-icon"></i>
+    <input
+      type="text"
+      id="searchInput"
+      class="search-input"
+      placeholder="Search articles..."
+      autocomplete="off"
+    />
+  </div>
+  <div id="searchResults" class="search-results"></div>
+</section>
+
+<script is:inline>
+  const input = document.getElementById("searchInput");
+  const resultsNode = document.getElementById("searchResults");
+  let articles = [];
+
+  function showMessage(message) {
+    if (!resultsNode) return;
+    const p = document.createElement("p");
+    p.textContent = message;
+    resultsNode.replaceChildren(p);
+  }
+
+  function renderResults(results) {
+    if (!resultsNode) return;
+    resultsNode.replaceChildren();
+
+    if (!results.length) {
+      showMessage("No results found.");
+      return;
+    }
+
+    results.forEach((article) => {
+      const card = document.createElement("div");
+      card.className = "search-result";
+
+      const link = document.createElement("a");
+      link.href = article.url;
+      link.textContent = article.title;
+
+      const category = document.createElement("div");
+      category.className = "search-result-category";
+      category.textContent = `Category: ${article.category}`;
+
+      card.append(link, category);
+      resultsNode.append(card);
+    });
+  }
+
+  async function loadSearchData() {
+    try {
+      const response = await fetch("/search.json");
+      if (!response.ok) throw new Error("Failed to load search data");
+      const payload = await response.json();
+      articles = Array.isArray(payload) ? payload : [];
+    } catch (error) {
+      console.error("Error loading search data:", error);
+      showMessage("Error loading search data. Please try again later.");
+    }
+  }
+
+  input?.addEventListener("input", (event) => {
+    const query = event.target.value.trim().toLowerCase();
+    if (!resultsNode) return;
+
+    if (query.length < 2) {
+      resultsNode.replaceChildren();
+      return;
+    }
+
+    const matched = articles.filter((article) => {
+      const title = (article.title || "").toLowerCase();
+      const content = (article.content || "").toLowerCase();
+      const category = (article.category || "").toLowerCase();
+      return title.includes(query) || content.includes(query) || category.includes(query);
+    });
+
+    renderResults(matched);
+  });
+
+  loadSearchData();
+</script>

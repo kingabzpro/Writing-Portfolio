@@ -1,0 +1,100 @@
+---
+import Sidebar from "../components/Sidebar.astro";
+import { SITE, buildSeo } from "../lib/seo";
+import "../styles/main.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  pathname?: string;
+}
+
+const { title, description, image, pathname } = Astro.props;
+const seo = buildSeo({
+  title,
+  description,
+  image,
+  pathname: pathname ?? Astro.url.pathname,
+  site: Astro.site ?? new URL(SITE.url)
+});
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{seo.title}</title>
+    <meta name="description" content={seo.description} />
+    <link rel="canonical" href={seo.canonical} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE.title} />
+    <meta property="og:title" content={seo.title} />
+    <meta property="og:description" content={seo.description} />
+    <meta property="og:url" content={seo.canonical} />
+    <meta property="og:image" content={seo.imageUrl} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content={`@${SITE.twitterHandle}`} />
+    <meta name="twitter:title" content={seo.title} />
+    <meta name="twitter:description" content={seo.description} />
+    <meta name="twitter:image" content={seo.imageUrl} />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png" />
+    <link rel="manifest" href="/assets/favicon/site.webmanifest" />
+    <link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+
+    <script type="application/ld+json" is:inline set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Person",
+      name: SITE.authorName,
+      url: SITE.url,
+      sameAs: SITE.socialLinks,
+      description: SITE.description
+    })}></script>
+
+    <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.gaId}`}></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "G-PRQC1HFQ4G");
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="inner">
+        <a href="/" class="logo-link">
+          <h1>{SITE.title}</h1>
+        </a>
+        <a href="https://github.com/kingabzpro" class="button github-btn">
+          <small>Follow me on</small>
+          <span>GitHub</span>
+        </a>
+      </div>
+    </header>
+
+    <div id="content-wrapper">
+      <div class="inner grid-layout">
+        <main id="main-content">
+          <slot />
+        </main>
+        <Sidebar />
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Bun Dev",
+      "type": "shell",
+      "command": "bun run dev",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Bun Build",
+      "type": "shell",
+      "command": "bun run build",
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "label": "Generate Search Data",
+      "type": "shell",
+      "command": "python update_search.py",
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,20 +1,16 @@
-# Use the official Jekyll image
-FROM jekyll/jekyll:latest
+FROM oven/bun:1
 
-# Set working directory
-WORKDIR /srv/jekyll
+WORKDIR /workspace
 
-# Copy Gemfile and Gemfile.lock if they exist, or create a basic Gemfile
-COPY _config.yml ./
+RUN apt-get update \
+  && apt-get install -y --no-install-recommends python3 git \
+  && rm -rf /var/lib/apt/lists/*
 
-# Install the required Jekyll theme and any additional dependencies
-RUN gem install jekyll-theme-architect jekyll-seo-tag jekyll-sitemap webrick
+COPY package.json ./
+RUN bun install
 
-# Copy the current directory contents into the container at /srv/jekyll
 COPY . .
 
-# Expose port 4000 for the Jekyll development server
-EXPOSE 4000
+EXPOSE 4321
 
-# Command to run Jekyll in development mode with live reload
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4000", "--livereload"]
+CMD ["bun", "run", "dev"]

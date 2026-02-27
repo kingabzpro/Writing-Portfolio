@@ -1,13 +1,56 @@
-# Abid's Writing Portfolio
+# Abid's Writing Portfolio (Astro)
 
-This repository powers [abid.work](https://abid.work), Abid's personal writing portfolio highlighting published work across AI, data science, and machine learning.
+This repository powers [abid.work](https://abid.work), a writing portfolio focused on AI, data science, machine learning, and engineering resources.
 
-Explore curated articles, topic hubs, and resources from outlets like KDnuggets, DataCamp, Towards Data Science, Analytic Vidhya, Machine Learning Mastery, and more.
+## Stack
 
-## Key Features
+- Astro (static site generation)
+- Bun (package manager and task runner)
+- Python (`update_search.py` for `search.json` and `latest.json` generation)
+- Docker + docker-compose for local containerized dev
+- GitHub Pages deployment via GitHub Actions
 
-- Dynamic latest posts feed sourced from `assets/data/latest.json` with friendly date formatting.
-- Full-text search powered by `search.json` for quick article discovery.
-- Interactive expertise and topic hubs populated from `assets/data/content.json`.
-- Resource collections covering books, cheat sheets, and career guidance pages.
-- Contact and social call-to-actions for collaboration opportunities.
+## Local Development
+
+```bash
+bun install
+bun run dev
+```
+
+Site runs on `http://localhost:4321`.
+
+## Build
+
+```bash
+bun run build
+```
+
+Build output goes to `dist/`.
+
+## Data Pipeline
+
+- Source content remains in `pages/*.md`
+- Search index is generated to `public/search.json`
+- Latest posts are generated to `public/assets/data/latest.json`
+
+To regenerate data directly:
+
+```bash
+python update_search.py
+```
+
+## Docker
+
+```bash
+docker compose up --build
+```
+
+## VS Code
+
+- Recommended extensions: `.vscode/extensions.json`
+- Tasks: `.vscode/tasks.json`
+- Dev container: `.devcontainer/devcontainer.json`
+
+## Deployment
+
+GitHub Pages deployment is configured in `.github/workflows/deploy.yml` and publishes `dist/` from `main`.
