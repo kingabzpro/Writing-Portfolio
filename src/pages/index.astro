@@ -1,0 +1,88 @@
+---
+import fs from "node:fs/promises";
+import path from "node:path";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import LatestPosts from "../components/LatestPosts.astro";
+import SearchPanel from "../components/SearchPanel.astro";
+import SocialLinks from "../components/SocialLinks.astro";
+import { SITE } from "../lib/seo";
+import type { ContentData } from "../types/content";
+
+const contentDataPath = path.resolve(process.cwd(), "public/assets/data/content.json");
+const contentData = JSON.parse(await fs.readFile(contentDataPath, "utf-8")) as ContentData;
+---
+
+<BaseLayout title={SITE.title} description={SITE.description} pathname="/">
+  <section class="author-section">
+    <img src="/assets/images/author.jpg" alt="Abid profile picture" class="author-image" />
+    <div class="author-bio">
+      <h2 class="author-title">Hello, I'm Abid</h2>
+      <p class="author-description">
+        I am a certified data science professional with a passion for developing practical machine
+        learning solutions. I have written more than 500 articles to make AI and data topics easier
+        to learn and apply.
+      </p>
+      <p class="author-description">
+        Reach out via the <a href="/pages/contact" class="highlight-link">contact page</a> or connect
+        on LinkedIn.
+      </p>
+    </div>
+  </section>
+
+  <LatestPosts />
+  <SearchPanel />
+
+  <section class="home-section">
+    <h2>Author Expertise</h2>
+    <div class="content-grid">
+      {
+        contentData.expertise.map((item) => (
+          <article class="content-card">
+            <h3>
+              <i class={item.icon}></i>
+              {item.title}
+            </h3>
+            <p>{item.description}</p>
+            <a href={`/${item.link}`} class="inline-link">Learn More</a>
+          </article>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="home-section">
+    <h2>Popular Topics</h2>
+    <div class="topics-grid">
+      {
+        contentData.topics.map((topic) => (
+          <a href={`/${topic.link}`} class="topic-link">
+            <i class={topic.icon}></i>
+            <span>{topic.title}</span>
+          </a>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="home-section">
+    <h2>Miscellaneous</h2>
+    <ul class="misc-links">
+      <li><a href="/pages/books-by-abid">Books Published by Abid</a></li>
+      <li><a href="/pages/career-advice">Career Resources</a></li>
+      <li><a href="/pages/cheat-sheets">Cheat Sheets</a></li>
+      <li><a href="/pages/contact">Contact Me</a></li>
+    </ul>
+  </section>
+
+  <section class="cta-section">
+    <h2>Stay Updated</h2>
+    <p>
+      Star this
+      <a href="https://github.com/kingabzpro/Writing-Portfolio" target="_blank" rel="noreferrer">
+        repository
+      </a>
+      to get notified about new updates.
+    </p>
+    <SocialLinks items={contentData.social} />
+  </section>
+</BaseLayout>

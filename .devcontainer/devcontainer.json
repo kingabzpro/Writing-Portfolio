@@ -1,0 +1,18 @@
+{
+  "name": "Writing Portfolio Astro",
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
+  "service": "astro",
+  "workspaceFolder": "/workspace",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "astro-build.astro-vscode",
+        "esbenp.prettier-vscode",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  },
+  "postCreateCommand": "bun install"
+}

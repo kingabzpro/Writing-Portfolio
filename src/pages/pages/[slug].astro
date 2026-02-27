@@ -1,0 +1,28 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { SITE } from "../../lib/seo";
+import { getPageBySlug, listPageSlugs } from "../../lib/page-content";
+
+export async function getStaticPaths() {
+  const slugs = await listPageSlugs();
+  return slugs.map((slug) => ({ params: { slug } }));
+}
+
+const slug = Astro.params.slug;
+
+if (!slug) {
+  throw new Error("Missing page slug.");
+}
+
+const page = await getPageBySlug(slug);
+
+if (!page) {
+  throw new Error(`Content page not found for slug: ${slug}`);
+}
+
+const pageTitle = `${page.title} | ${SITE.title}`;
+---
+
+<BaseLayout title={pageTitle} description={page.description} pathname={page.url}>
+  <article class="markdown-content" set:html={page.html}></article>
+</BaseLayout>

@@ -1,0 +1,23 @@
+{
+  "name": "abid-work-astro",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "prebuild": "python update_search.py",
+    "dev": "bunx astro dev --host 0.0.0.0 --port 4321",
+    "build": "bunx astro build",
+    "preview": "bunx astro preview --host 0.0.0.0 --port 4321",
+    "check": "bunx astro check"
+  },
+  "dependencies": {
+    "astro": "^5.10.0",
+    "gray-matter": "^4.0.3",
+    "marked": "^15.0.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "@types/node": "^22.15.29",
+    "typescript": "^5.8.3"
+  }
+}

@@ -8,8 +8,9 @@ import sys
 
 ROOT = Path(__file__).resolve().parent
 PAGES_DIR = ROOT / "pages"
-SEARCH_JSON = ROOT / "search.json"
-DATA_DIR = ROOT / "assets" / "data"
+PUBLIC_DIR = ROOT / "public"
+SEARCH_JSON = PUBLIC_DIR / "search.json"
+DATA_DIR = PUBLIC_DIR / "assets" / "data"
 LATEST_JSON = DATA_DIR / "latest.json"
 
 
