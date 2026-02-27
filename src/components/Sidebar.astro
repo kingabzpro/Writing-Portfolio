@@ -1,30 +1,30 @@
 ---
 const categories = [
-  { href: "/pages/python", icon: "fab fa-python", label: "Python" },
-  { href: "/pages/sql", icon: "fas fa-database", label: "SQL" },
-  { href: "/pages/programming", icon: "fas fa-code", label: "Programming" },
-  { href: "/pages/data-science", icon: "fas fa-chart-bar", label: "Data Science" },
-  { href: "/pages/machine-learning", icon: "fas fa-robot", label: "Machine Learning" },
-  { href: "/pages/machine-learning-operations", icon: "fas fa-cogs", label: "MLOps" },
-  { href: "/pages/natural-language-processing", icon: "fas fa-language", label: "NLP" },
-  { href: "/pages/large-language-models", icon: "fas fa-brain", label: "LLMs" },
-  { href: "/pages/computer-vision", icon: "fas fa-eye", label: "Computer Vision" },
-  { href: "/pages/artificial-intelligence", icon: "fas fa-microchip", label: "AI" },
-  { href: "/pages/data-engineering", icon: "fas fa-server", label: "Data Engineering" },
-  { href: "/pages/career-advice", icon: "fas fa-briefcase", label: "Career" },
-  { href: "/pages/books-by-abid", icon: "fas fa-book", label: "Books" },
-  { href: "/pages/cheat-sheets", icon: "fas fa-file-alt", label: "Cheat Sheets" }
+  { href: "/pages/python", label: "Python" },
+  { href: "/pages/sql", label: "SQL" },
+  { href: "/pages/programming", label: "Programming" },
+  { href: "/pages/data-science", label: "Data Science" },
+  { href: "/pages/machine-learning", label: "Machine Learning" },
+  { href: "/pages/machine-learning-operations", label: "MLOps" },
+  { href: "/pages/natural-language-processing", label: "NLP" },
+  { href: "/pages/large-language-models", label: "LLMs" },
+  { href: "/pages/computer-vision", label: "Computer Vision" },
+  { href: "/pages/artificial-intelligence", label: "AI" },
+  { href: "/pages/data-engineering", label: "Data Engineering" },
+  { href: "/pages/career-advice", label: "Career" },
+  { href: "/pages/books-by-abid", label: "Books" },
+  { href: "/pages/cheat-sheets", label: "Cheat Sheets" }
 ];
 ---
 
 <aside id="sidebar" aria-label="Topic navigation">
-  <h2><i class="fas fa-folder-open"></i> Categories</h2>
+  <h2>Categories</h2>
+  <p class="sidebar-subtitle">Browse topics</p>
   <ul>
     {
       categories.map((item) => (
         <li>
           <a href={item.href}>
-            <i class={item.icon}></i>
             <span>{item.label}</span>
           </a>
         </li>
