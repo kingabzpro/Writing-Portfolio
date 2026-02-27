@@ -4,6 +4,12 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Top 7 OpenClaw Tools & Integrations You Are Missing Out On](https://www.kdnuggets.com/top-7-openclaw-tools-integrations-you-are-missing-out)
+- [Building with Gemini 3.1 Pro: The Ultimate Coding Agent Tutorial](https://www.datacamp.com/tutorial/building-with-gemini-3-1-pro-coding-agent-tutorial)
+- [Getting Started With Moltbook: How to Get Your AI Agent Posting](https://www.datacamp.com/tutorial/moltbook-how-to-get-started)
+- [5 Lightweight and Secure OpenClaw Alternatives to Try Right Now](https://www.kdnuggets.com/5-lightweight-and-secure-openclaw-alternatives-to-try-right-now)
+- [NVIDIA PersonaPlex Tutorial: Run a Natural, Real-Time Local Voice Assistant](https://www.datacamp.com/tutorial/nvidia-personaplex-tutorial)
+- [5 Open Source Image Editing AI Models](https://www.kdnuggets.com/5-open-source-image-editing-ai-models)
 - [A Practical Vibe Coding Tech Stack For Fast Shipping](https://www.datacamp.com/blog/vibe-coding-tech-stack)
 - [Top 5 Open-Source AI Model API Providers](https://www.kdnuggets.com/top-5-open-source-ai-model-api-providers)
 - [Top 5 Agentic AI Website Builders (That Actually Ship)](https://machinelearningmastery.com/top-5-agentic-ai-website-builders-that-actually-ship/)

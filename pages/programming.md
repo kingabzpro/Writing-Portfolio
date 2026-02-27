@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [Tech Stack for Vibe Coding Modern Applications
+](https://www.kdnuggets.com/tech-stack-for-vibe-coding-modern-applications)
+- [5 Android Apps for Code Editing](https://www.kdnuggets.com/5-android-apps-for-code-editing)
 - [Top 7 Coding Plans for Vibe Coding](https://www.kdnuggets.com/top-7-coding-plans-for-vibe-coding)
 - [5 Code Sandboxes for Your AI Agents](https://www.kdnuggets.com/5-code-sandbox-for-your-ai-agents)
 - [7 Must-Have Tools for Your Coding Workflow](https://www.kdnuggets.com/7-must-have-tools-for-your-coding-workflow)

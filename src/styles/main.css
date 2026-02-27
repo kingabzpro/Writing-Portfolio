@@ -32,6 +32,10 @@ body {
   padding: 0;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 body {
   font-family: "Space Grotesk", "Segoe UI", sans-serif;
   color: var(--ink-950);
@@ -39,6 +43,7 @@ body {
     radial-gradient(circle at 20% -10%, rgba(47, 143, 255, 0.17), transparent 38%),
     radial-gradient(circle at 80% -5%, rgba(45, 200, 165, 0.16), transparent 35%),
     var(--paper);
+  background-attachment: fixed;
   line-height: 1.65;
 }
 
