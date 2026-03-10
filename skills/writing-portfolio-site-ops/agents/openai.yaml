@@ -1,0 +1,4 @@
+interface:
+  display_name: "Writing Portfolio Site Ops"
+  short_description: "Maintain, test, and deploy the Writing Portfolio site"
+  default_prompt: "Use this skill for Writing Portfolio maintenance, testing, and GitHub Pages deployment tasks."
