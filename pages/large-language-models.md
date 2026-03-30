@@ -4,6 +4,11 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [How to Run Unsloth Studio Locally: Step-by-Step Guide](https://www.datacamp.com/tutorial/how-to-run-unsloth-studio-locally)
+- [How to Run Qwen 3.5 Locally on a Single GPU: Step-by-Step Guide](https://www.datacamp.com/tutorial/run-qwen-3-5-locally)
+- [Run a Real Time Speech to Speech AI Model Locally](https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally)
+- [Run Tiny AI Models Locally Using BitNet A Beginner Guide](https://www.kdnuggets.com/run-tiny-ai-models-locally-using-bitnet-a-beginner-guide)
+- [Fine-Tuning Qwen3.5 Small With QLoRA For News Classification](https://www.datacamp.com/tutorial/fine-tuning-qwen3-5-small)
 - [How to Run Qwen 3.5 Locally on a Single GPU: Step-by-Step Guide](https://www.datacamp.com/tutorial/run-qwen-3-5-locally)
 - [Top 5 Super Fast LLM API Providers](https://www.kdnuggets.com/top-5-super-fast-llm-api-providers)
 - [Top 5 Embedding Models for Your RAG Pipeline](https://www.kdnuggets.com/top-5-embedding-models-for-your-rag-pipeline)

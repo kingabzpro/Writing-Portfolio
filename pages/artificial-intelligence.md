@@ -4,7 +4,17 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [7 Free Web APIs Every Developer and Vibe Coder Should Know](https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know)
+- [Getting Started with Nanobot: Build Your First AI Agent](https://www.kdnuggets.com/getting-started-with-nanobot-build-your-first-ai-agent)
+- [Claude Code Channels With Discord: Step-by-Step Setup Guide](https://www.datacamp.com/tutorial/claude-code-channels)
+- [5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent](https://www.kdnuggets.com/5-tips-to-turn-openai-codex-into-a-powerful-ai-coding-agent)
+- [Agentic Market Research & Trend Analysis with Olostep](https://www.olostep.com/blog/agentic-market-research-olostep)
+- [Top 15 Vibe Coding Tools to Build Faster in 2026](https://www.datacamp.com/blog/top-vibe-coding-tools-to-build-faster)
+- [Universal Commerce Protocol Tutorial: Build Your First UCP Server](https://www.datacamp.com/tutorial/universal-commerce-protocol-ucp-tutorial)
+- [5 Things You Need to Know Before Using OpenClaw
+](https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw)
 - [Top 7 OpenClaw Tools & Integrations You Are Missing Out On](https://www.kdnuggets.com/top-7-openclaw-tools-integrations-you-are-missing-out)
+- [The Top 100+ Agent Skills For OpenClaw, Codex and Claude](https://www.datacamp.com/blog/top-agent-skills)
 - [Building with Gemini 3.1 Pro: The Ultimate Coding Agent Tutorial](https://www.datacamp.com/tutorial/building-with-gemini-3-1-pro-coding-agent-tutorial)
 - [Getting Started With Moltbook: How to Get Your AI Agent Posting](https://www.datacamp.com/tutorial/moltbook-how-to-get-started)
 - [5 Lightweight and Secure OpenClaw Alternatives to Try Right Now](https://www.kdnuggets.com/5-lightweight-and-secure-openclaw-alternatives-to-try-right-now)

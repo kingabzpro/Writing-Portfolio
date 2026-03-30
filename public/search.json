@@ -210,6 +210,11 @@
     "category": "Natural Language Processing (NLP)"
   },
   {
+    "title": "10 GitHub Repositories to Master OpenClaw",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-openclaw",
+    "category": "Career Advice"
+  },
+  {
     "title": "10 GitHub Repositories to Master Python",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-python",
     "category": "Career Advice"
@@ -243,6 +248,11 @@
     "title": "10 GitHub Repositories to Master Statistics",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-statistics",
     "category": "Data Science"
+  },
+  {
+    "title": "10 GitHub Repositories to Master System Design",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-system-design",
+    "category": "Career Advice"
   },
   {
     "title": "10 GitHub Repositories to Master Vibe Coding",
@@ -570,6 +580,11 @@
     "category": "Machine Learning (ML)"
   },
   {
+    "title": "5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent",
+    "url": "https://www.kdnuggets.com/5-tips-to-turn-openai-codex-into-a-powerful-ai-coding-agent",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "5 Tools to Help Build Your LLM Apps",
     "url": "https://www.kdnuggets.com/5-tools-to-help-build-your-llm-apps",
     "category": "Large Language Models (LLMs)"
@@ -695,6 +710,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "7 Free Web APIs Every Developer and Vibe Coder Should Know",
+    "url": "https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "7 Free Web Search APIs for AI Agents",
     "url": "https://www.kdnuggets.com/7-free-web-search-apis-for-ai-agents",
     "category": "Artificial Intelligence (AI)"
@@ -785,6 +805,11 @@
     "category": "Programming"
   },
   {
+    "title": "7 Ways People Are Making Money Using AI in 2026",
+    "url": "https://www.kdnuggets.com/7-ways-people-are-making-money-using-ai-in-2026",
+    "category": "Career Advice"
+  },
+  {
     "title": "7 Ways to Improve Your Machine Learning Models",
     "url": "https://www.kdnuggets.com/7-ways-to-improve-your-machine-learning-models",
     "category": "Machine Learning (ML)"
@@ -872,6 +897,11 @@
   {
     "title": "AgentGPT: Autonomous AI Agents in your Browser",
     "url": "https://www.kdnuggets.com/2023/06/agentgpt-autonomous-ai-agents-browser.html",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Agentic Market Research & Trend Analysis with Olostep",
+    "url": "https://www.olostep.com/blog/agentic-market-research-olostep",
     "category": "Artificial Intelligence (AI)"
   },
   {
@@ -1062,6 +1092,11 @@
   {
     "title": "Claude Agent SDK Tutorial: Create Agents Using Claude Sonnet 4.5",
     "url": "https://www.datacamp.com/tutorial/how-to-use-claude-agent-sdk",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Claude Code Channels With Discord: Step-by-Step Setup Guide",
+    "url": "https://www.datacamp.com/tutorial/claude-code-channels",
     "category": "Artificial Intelligence (AI)"
   },
   {
@@ -1310,6 +1345,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Fine-Tuning Qwen3.5 Small With QLoRA For News Classification",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-qwen3-5-small",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Fine-Tuning Qwen3: A Step-by-Step Guide",
     "url": "https://www.datacamp.com/tutorial/fine-tuning-qwen3",
     "category": "Large Language Models (LLMs)"
@@ -1440,6 +1480,11 @@
     "category": "Programming"
   },
   {
+    "title": "Getting Started with Nanobot: Build Your First AI Agent",
+    "url": "https://www.kdnuggets.com/getting-started-with-nanobot-build-your-first-ai-agent",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Getting Started with OpenAI o1 Reasoning Models",
     "url": "https://www.kdnuggets.com/getting-started-with-openai-o1-reasoning-models",
     "category": "Artificial Intelligence (AI)"
@@ -1453,6 +1498,11 @@
     "title": "Getting Started with Phi-2",
     "url": "https://www.datacamp.com/tutorial/phi-2-model",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Getting Started with Python Async Programming",
+    "url": "https://www.kdnuggets.com/getting-started-with-python-async-programming",
+    "category": "Python"
   },
   {
     "title": "Getting Started with ReactPy",
@@ -1640,6 +1690,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "How to Run Qwen 3.5 Locally on a Single GPU: Step-by-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/run-qwen-3-5-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "How to Run Qwen3-Coder Locally",
     "url": "https://www.datacamp.com/tutorial/run-qwen3-coder-locally",
     "category": "Large Language Models (LLMs)"
@@ -1653,6 +1708,11 @@
     "title": "How to Run SAM Audio Locally",
     "url": "https://www.datacamp.com/tutorial/how-to-run-sam-audio-locally",
     "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "How to Run Unsloth Studio Locally: Step-by-Step Guide",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-unsloth-studio-locally",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "How to Use DeepSeek Janus-Pro Locally",
@@ -1975,6 +2035,16 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Run Tiny AI Models Locally Using BitNet A Beginner Guide",
+    "url": "https://www.kdnuggets.com/run-tiny-ai-models-locally-using-bitnet-a-beginner-guide",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Run a Real Time Speech to Speech AI Model Locally",
+    "url": "https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Run the Full DeepSeek-R1-0528 Model Locally",
     "url": "https://www.kdnuggets.com/run-the-full-deepseek-r1-0528-model-locally",
     "category": "Large Language Models (LLMs)"
@@ -2160,6 +2230,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "The Top 100+ Agent Skills For OpenClaw, Codex and Claude",
+    "url": "https://www.datacamp.com/blog/top-agent-skills",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "The Top 11 AI Coding Assistants to Use in 2024",
     "url": "https://www.datacamp.com/blog/best-ai-coding-assistants",
     "category": "Programming"
@@ -2272,6 +2347,11 @@
   {
     "title": "Top 15 Remote MCP Servers Every AI Builder Should Know in 2026",
     "url": "https://www.datacamp.com/blog/top-remote-mcp-servers",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Top 15 Vibe Coding Tools to Build Faster in 2026",
+    "url": "https://www.datacamp.com/blog/top-vibe-coding-tools-to-build-faster",
     "category": "Artificial Intelligence (AI)"
   },
   {
@@ -2483,6 +2563,11 @@
     "title": "Understanding OpenAI Codex CLI Commands",
     "url": "https://machinelearningmastery.com/understanding-openai-codex-cli-commands/",
     "category": "Programming"
+  },
+  {
+    "title": "Universal Commerce Protocol Tutorial: Build Your First UCP Server",
+    "url": "https://www.datacamp.com/tutorial/universal-commerce-protocol-ucp-tutorial",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "Unlock the Wealth of Knowledge with ChatPDF",

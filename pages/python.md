@@ -3,7 +3,7 @@
 A collection of resources, tutorials, and articles about Python.
 
 ## Articles
-
+- [Getting Started with Python Async Programming](https://www.kdnuggets.com/getting-started-with-python-async-programming)
 - [Top 7 Python Libraries for Progress Bars](https://www.kdnuggets.com/top-7-python-libraries-for-progress-bars)
 - [Top 15 Python Projects to Build in 2025: From Beginner to Production](https://www.firecrawl.dev/blog/15-python-projects-2025)
 - [Top 7 Python Package Managers](https://www.kdnuggets.com/top-7-python-package-managers)
