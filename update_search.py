@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import argparse
 from pathlib import Path
 from typing import Dict, List
 import subprocess
@@ -128,10 +129,22 @@ def build_latest_from_git(since_days: int = 180, top_n: int = 3) -> List[Dict]:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description="Generate search and latest JSON assets.")
+    parser.add_argument(
+        "--skip-latest",
+        action="store_true",
+        help="Only update search.json and keep the committed latest.json unchanged."
+    )
+    args = parser.parse_args()
+
     # 1) Build search index and write search.json
     search_data = build_search_index()
     write_json(SEARCH_JSON, search_data)
     print(f"Wrote {SEARCH_JSON} with {len(search_data)} items")
+
+    if args.skip_latest:
+        print(f"Skipped {LATEST_JSON}")
+        return 0
 
     # 2) Build latest.json strictly from git history; write empty list if unavailable
     latest = build_latest_from_git(since_days=365, top_n=3)
