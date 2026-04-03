@@ -39,6 +39,10 @@ A collection of resources, tutorials, and articles about Python.
 - [12 Essential Commands for Streamlit](https://www.kdnuggets.com/2023/01/12-essential-commands-streamlit.html)
 - [Parallel Processing Large File in Python](https://www.kdnuggets.com/2022/07/parallel-processing-large-file-python.html)
 - [OpenAI API for Beginners: Your Easy-to-Follow Starter Guide](https://www.kdnuggets.com/openai-api-for-beginners-your-easy-to-follow-starter-guide)
+- [Discord bot using DailoGPT and HuggingFace API.](https://medium.com/geekculture/discord-bot-using-dailogpt-and-huggingface-api-c71983422701)
+- [Learn how to build your Discord bot using DailoGPT and HuggingFace API](https://www.analyticsvidhya.com/blog/2021/11/learn-how-to-build-your-discord-bot)
+- [Training BERT Text Classifier on Tensor Processing Unit (TPU)](https://www.analyticsvidhya.com/blog/2021/08/training-bert-text-classifier-on-tensor-processing-unit-tpu)
+- [Creating Data Science Python Package using Jupyter Notebook](https://www.analyticsvidhya.com/blog/2021/07/creating-data-science-python-package-using-jupyter-notebook)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 

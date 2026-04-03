@@ -14,6 +14,7 @@ A collection of resources, tutorials, and articles about Natural Language Proces
 - [Convert Text Documents to a TF-IDF Matrix with tfidfvectorizer](https://www.kdnuggets.com/2022/09/convert-text-documents-tfidf-matrix-tfidfvectorizer.html)
 - [Top 5 NLP Cheat Sheets for Beginners to Professional](https://www.kdnuggets.com/2022/12/top-5-nlp-cheat-sheets-beginners-professional.html)
 - [Top Free Resources To Learn ChatGPT](https://www.kdnuggets.com/2023/02/top-free-resources-learn-chatgpt.html)
+- [Malawi News Classification -An NLP Project](https://www.analyticsvidhya.com/blog/2021/08/malawi-news-classification-an-nlp-project)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 

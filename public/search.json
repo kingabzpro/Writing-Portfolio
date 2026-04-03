@@ -670,6 +670,11 @@
     "category": "Machine Learning (ML)"
   },
   {
+    "title": "5 Tips for Acing Your First Data Science Interview",
+    "url": "https://medium.com/data-science/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7",
+    "category": "Career Advice"
+  },
+  {
     "title": "5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent",
     "url": "https://www.kdnuggets.com/5-tips-to-turn-openai-codex-into-a-powerful-ai-coding-agent",
     "category": "Artificial Intelligence (AI)"
@@ -980,6 +985,11 @@
     "category": "Machine Learning Operations (MLOps)"
   },
   {
+    "title": "A Beginner's Guide to Get Productive With FastDS!",
+    "url": "https://www.analyticsvidhya.com/blog/2022/04/a-beginners-guide-to-get-productive-with-fastds",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
     "title": "A Beginner's Guide to Python for Loops: Mastering for i in range",
     "url": "https://www.datacamp.com/tutorial/python-for-i-in-range",
     "category": "Python"
@@ -1008,6 +1018,16 @@
     "title": "A Complete Collection of Data Science Free Courses – Part 2",
     "url": "https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-2.html",
     "category": "Career Advice"
+  },
+  {
+    "title": "A Guide to DVC and DAGsHub for Machine Learning Experiments",
+    "url": "https://www.analyticsvidhya.com/blog/2021/10/a-guide-to-dvc-and-dagshub-for-machine-learning-experiments",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
+    "title": "A Guide to Machine Learning Pipelines and Orchest",
+    "url": "https://www.analyticsvidhya.com/blog/2021/10/a-guide-to-machine-learning-pipelines-and-orchest",
+    "category": "Machine Learning Operations (MLOps)"
   },
   {
     "title": "A Guide to Mastering Serverless Machine Learning",
@@ -1335,6 +1355,11 @@
     "category": "Data Science"
   },
   {
+    "title": "Creating Data Science Python Package using Jupyter Notebook",
+    "url": "https://www.analyticsvidhya.com/blog/2021/07/creating-data-science-python-package-using-jupyter-notebook",
+    "category": "Python"
+  },
+  {
     "title": "Data Ingestion with Pandas: A Beginner Tutorial",
     "url": "https://www.kdnuggets.com/2022/04/data-ingestion-pandas-beginner-tutorial.html",
     "category": "Python"
@@ -1343,6 +1368,11 @@
     "title": "Data Science at the Command Line: The Free eBook",
     "url": "https://www.kdnuggets.com/2022/03/data-science-command-line-free-ebook.html",
     "category": "Data Science"
+  },
+  {
+    "title": "Deep learning model to predict mRNA Degradation",
+    "url": "https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "DeepChecks Tutorial: Automating Machine Learning Testing",
@@ -1363,6 +1393,11 @@
     "title": "Deploying Deepseek Janus Pro locally",
     "url": "https://www.kdnuggets.com/deploying-deepseek-janus-pro-locally",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Deploying Gradio App on Spaces Using DagsHub: A Beginner’s Tutorial",
+    "url": "https://medium.com/data-science/deploying-gradio-app-on-spaces-using-dagshub-a-beginners-tutorial-a42664abcc14",
+    "category": "Machine Learning Operations (MLOps)"
   },
   {
     "title": "Deploying Your First Machine Learning API",
@@ -1388,6 +1423,16 @@
     "title": "Devstral Quickstart Guide: Run Mistral AI's LLM Locally",
     "url": "https://www.datacamp.com/tutorial/devstral-quickstart-guide",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Digital Learning During Covid19: A Complete Analysis",
+    "url": "https://pub.towardsai.net/digital-learning-during-covid19-a-complete-analysis-45c525b1904",
+    "category": "Data Science"
+  },
+  {
+    "title": "Discord bot using DailoGPT and HuggingFace API.",
+    "url": "https://medium.com/geekculture/discord-bot-using-dailogpt-and-huggingface-api-c71983422701",
+    "category": "Python"
   },
   {
     "title": "Discover the Power of the New Gemini AI Models",
@@ -1790,6 +1835,11 @@
     "category": "Cheat Sheets"
   },
   {
+    "title": "Gradient Descent: Design Your First Machine Learning Model",
+    "url": "https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "Gradio MCP Server Guide: Build, Test, Deploy & Integrate",
     "url": "https://www.datacamp.com/tutorial/gradio-mcp-server-guide",
     "category": "Artificial Intelligence (AI)"
@@ -2060,6 +2110,11 @@
     "category": "Machine Learning Operations (MLOps)"
   },
   {
+    "title": "Julia: A New Age of Data Science",
+    "url": "https://www.analyticsvidhya.com/blog/2021/07/julia-a-new-age-of-data-science",
+    "category": "Data Science"
+  },
+  {
     "title": "K-Nearest Neighbors (KNN) Classification with R Tutorial",
     "url": "https://www.datacamp.com/tutorial/k-nearest-neighbors-knn-classification-with-r-tutorial",
     "category": "Machine Learning (ML)"
@@ -2105,6 +2160,11 @@
     "category": "Machine Learning (ML)"
   },
   {
+    "title": "Learn how to build your Discord bot using DailoGPT and HuggingFace API",
+    "url": "https://www.analyticsvidhya.com/blog/2021/11/learn-how-to-build-your-discord-bot",
+    "category": "Python"
+  },
+  {
     "title": "Learn to Code with GitHub",
     "url": "https://www.kdnuggets.com/learn-to-code-github",
     "category": "Programming"
@@ -2138,6 +2198,11 @@
     "title": "Machine Learning with ChatGPT Cheat Sheet",
     "url": "https://www.kdnuggets.com/2023/05/machine-learning-chatgpt-cheat-sheet.html",
     "category": "Cheat Sheets"
+  },
+  {
+    "title": "Malawi News Classification -An NLP Project",
+    "url": "https://www.analyticsvidhya.com/blog/2021/08/malawi-news-classification-an-nlp-project",
+    "category": "Natural Language Processing (NLP)"
   },
   {
     "title": "Markdown Cheatsheet",
@@ -2465,6 +2530,11 @@
     "category": "Programming"
   },
   {
+    "title": "Simple Image Classification Using FastAI.jl",
+    "url": "https://www.analyticsvidhya.com/blog/2021/09/simple-image-classification-using-fastai-jl",
+    "category": "Computer Vision"
+  },
+  {
     "title": "Simple and Fast Data Streaming for Machine Learning Projects",
     "url": "https://www.kdnuggets.com/2022/11/simple-fast-data-streaming-machine-learning-projects.html",
     "category": "Machine Learning (ML)"
@@ -2643,6 +2713,16 @@
     "title": "The Generative AI Bubble Will Burst Soon",
     "url": "https://www.kdnuggets.com/the-generative-ai-bubble-will-burst-soon",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "The Guide To Data Analysis With Duck DB",
+    "url": "https://pub.towardsai.net/the-guide-to-data-analysis-with-duck-db-93a79950a08f",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Guide to Data Analysis with DuckDB",
+    "url": "https://www.analyticsvidhya.com/blog/2021/12/the-guide-to-data-analysis-with-duckdb",
+    "category": "SQL"
   },
   {
     "title": "The High Paying Side Hustles for Data Scientists",
@@ -3073,6 +3153,11 @@
     "title": "Trae: Adaptive AI Code Editor",
     "url": "https://www.kdnuggets.com/trae-adaptive-ai-code-editor",
     "category": "Programming"
+  },
+  {
+    "title": "Training BERT Text Classifier on Tensor Processing Unit (TPU)",
+    "url": "https://www.analyticsvidhya.com/blog/2021/08/training-bert-text-classifier-on-tensor-processing-unit-tpu",
+    "category": "Python"
   },
   {
     "title": "Ultimate Collection of 50 Free Courses for Mastering Data Science",

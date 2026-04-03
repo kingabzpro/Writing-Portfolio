@@ -18,5 +18,6 @@ A collection of resources, tutorials, and articles about Computer Vision.
 - [Fine-tuning Stable Diffusion XL with DreamBooth and LoRA](https://www.datacamp.com/tutorial/fine-tuning-stable-diffusion-xl-with-dreambooth-and-lora)
 - [What is DALL-E?](https://www.datacamp.com/blog/what-is-dall-e) 
 - [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
+- [Simple Image Classification Using FastAI.jl](https://www.analyticsvidhya.com/blog/2021/09/simple-image-classification-using-fastai-jl)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>

@@ -72,6 +72,9 @@ A collection of resources, tutorials, and articles about Data Science.
 - [4 Ways to Rename Pandas Columns](https://www.kdnuggets.com/2022/11/4-ways-rename-pandas-columns.html)
 - [5 Python Projects for Data Science Portfolio](https://www.kdnuggets.com/2022/12/5-python-projects-data-science-portfolio.html)
 - [8 Programming Languages For Data Science to Learn in 2023](https://www.kdnuggets.com/2023/07/8-programming-languages-data-science-learn-2023.html)
+- [The Guide To Data Analysis With Duck DB](https://pub.towardsai.net/the-guide-to-data-analysis-with-duck-db-93a79950a08f)
+- [Digital Learning During Covid19: A Complete Analysis](https://pub.towardsai.net/digital-learning-during-covid19-a-complete-analysis-45c525b1904)
+- [Julia: A New Age of Data Science](https://www.analyticsvidhya.com/blog/2021/07/julia-a-new-age-of-data-science)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 

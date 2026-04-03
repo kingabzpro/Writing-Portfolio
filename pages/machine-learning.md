@@ -72,6 +72,8 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 - [An Introduction to SMOTE](https://www.kdnuggets.com/2022/11/introduction-smote.html)
 - [3 Free Machine Learning Courses for Beginners](https://www.kdnuggets.com/2022/12/3-free-machine-learning-courses-beginners.html)
 - [7 Super Cheat Sheets You Need To Ace Machine Learning Interview](https://www.kdnuggets.com/2022/12/7-super-cheat-sheets-need-ace-machine-learning-interview.html)
+- [Deep learning model to predict mRNA Degradation](https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation)
+- [Gradient Descent: Design Your First Machine Learning Model](https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 
