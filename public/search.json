@@ -30,6 +30,11 @@
     "category": "Cheat Sheets"
   },
   {
+    "title": "10 Cheat Sheets You Need To Ace Data Science Interview",
+    "url": "https://www.kdnuggets.com/2022/10/10-cheat-sheets-need-ace-data-science-interview.html",
+    "category": "Data Science"
+  },
+  {
     "title": "10 Essential DevOps Tools Every Beginner Should Learn",
     "url": "https://www.kdnuggets.com/10-essential-devops-tools-every-beginner-should-learn",
     "category": "Programming"
@@ -38,6 +43,11 @@
     "title": "10 Essential Python Libraries Every Data Analyst Should Know",
     "url": "https://www.firecrawl.dev/blog/python-libraries-for-data-analysts",
     "category": "Python"
+  },
+  {
+    "title": "10 Essential SQL Commands for Data Science",
+    "url": "https://www.kdnuggets.com/2022/10/10-essential-sql-commands-data-science.html",
+    "category": "SQL"
   },
   {
     "title": "10 Free Resources on LLMs",
@@ -280,6 +290,11 @@
     "category": "Data Science"
   },
   {
+    "title": "10 Modern Data Engineering Tools",
+    "url": "https://www.kdnuggets.com/2022/07/10-modern-data-engineering-tools.html",
+    "category": "Data Engineering"
+  },
+  {
     "title": "10 Most Asked Data Science Interview Questions",
     "url": "https://www.statology.org/10-most-asked-data-science-interview-questions/",
     "category": "Data Science"
@@ -295,6 +310,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "10 Most Used Tableau Functions",
+    "url": "https://www.kdnuggets.com/2022/08/10-used-tableau-functions.html",
+    "category": "Data Science"
+  },
+  {
     "title": "10 Ways To Access GPT-OSS 120B for Free",
     "url": "https://www.datacamp.com/tutorial/how-to-access-gpt-oss-120b-for-free",
     "category": "Large Language Models (LLMs)"
@@ -305,9 +325,19 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "12 Essential Commands for Streamlit",
+    "url": "https://www.kdnuggets.com/2023/01/12-essential-commands-streamlit.html",
+    "category": "Python"
+  },
+  {
     "title": "12 Essential Lessons for Building AI Agents",
     "url": "https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "12 Essential VSCode Extensions for Data Science",
+    "url": "https://www.kdnuggets.com/2022/07/12-essential-vscode-extensions-data-science.html",
+    "category": "Programming"
   },
   {
     "title": "12 LLM Projects For All Levels",
@@ -315,9 +345,29 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "12 Most Challenging Data Science Interview Questions",
+    "url": "https://www.kdnuggets.com/2022/07/12-challenging-data-science-interview-questions.html",
+    "category": "Career Advice"
+  },
+  {
     "title": "12 VSCode Tips and Tricks for Python Development",
     "url": "https://www.kdnuggets.com/2023/05/12-vscode-tips-tricks-python-development.html",
     "category": "Python"
+  },
+  {
+    "title": "14 Essential Git Commands for Data Scientists",
+    "url": "https://www.kdnuggets.com/2022/06/14-essential-git-commands-data-scientists.html",
+    "category": "Programming"
+  },
+  {
+    "title": "16 Essential DVC Commands for Data Science",
+    "url": "https://www.kdnuggets.com/2022/07/16-essential-dvc-commands-data-science.html",
+    "category": "Programming"
+  },
+  {
+    "title": "20 Basic Linux Commands for Data Science Beginners",
+    "url": "https://www.kdnuggets.com/2022/06/20-basic-linux-commands-data-science-beginners.html",
+    "category": "Programming"
   },
   {
     "title": "25 Free Books to Master SQL, Python, Data Science, Machine Learning, and Natural Language Processing",
@@ -350,6 +400,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "3 Free Machine Learning Courses for Beginners",
+    "url": "https://www.kdnuggets.com/2022/12/3-free-machine-learning-courses-beginners.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "3 Free Platforms for Personalized ChatGPT Experience",
     "url": "https://www.kdnuggets.com/2023/05/3-free-platform-personalized-chatgpt-experience.html",
     "category": "Artificial Intelligence (AI)"
@@ -362,6 +417,11 @@
   {
     "title": "3 Things I Wish I Knew When I Started Data Science",
     "url": "https://www.kdnuggets.com/2023/01/3-things-wish-knew-started-data-science.html",
+    "category": "Career Advice"
+  },
+  {
+    "title": "3 Valuable Skills That Have Doubled My Income as a Data Scientist",
+    "url": "https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html",
     "category": "Career Advice"
   },
   {
@@ -390,6 +450,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "3 Ways to Append Rows to Pandas DataFrames",
+    "url": "https://www.kdnuggets.com/2022/08/3-ways-append-rows-pandas-dataframes.html",
+    "category": "Python"
+  },
+  {
     "title": "3 Ways to Generate Hyper-Realistic Faces Using Stable Diffusion",
     "url": "https://www.kdnuggets.com/3-ways-to-generate-hyper-realistic-faces-using-stable-diffusion",
     "category": "Computer Vision"
@@ -398,6 +463,11 @@
     "title": "32 MCP Servers You Need To Check Out Now",
     "url": "https://www.kdnuggets.com/32-mcp-servers-you-need-to-check-out-now",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "4 Ways to Rename Pandas Columns",
+    "url": "https://www.kdnuggets.com/2022/11/4-ways-rename-pandas-columns.html",
+    "category": "Data Science"
   },
   {
     "title": "5 AI Agent Projects for Beginners",
@@ -465,6 +535,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "5 Free AI Playgrounds For You to Try in 2024",
+    "url": "https://www.kdnuggets.com/5-free-ai-playgrounds-for-you-to-try-in-2024",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "5 Free Books on Machine Learning Algorithms You Must Read",
     "url": "https://machinelearningmastery.com/5-free-books-on-machine-learning-algorithms-you-must-read/",
     "category": "Career Advice"
@@ -487,6 +562,11 @@
   {
     "title": "5 Free Datasets to Start Your Machine Learning Projects",
     "url": "https://machinelearningmastery.com/5-free-datasets-start-your-machine-learning-projects/",
+    "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "5 Free Hosting Platform For Machine Learning Applications",
+    "url": "https://www.kdnuggets.com/2022/05/5-free-hosting-platform-machine-learning-applications.html",
     "category": "Machine Learning (ML)"
   },
   {
@@ -565,6 +645,16 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "5 Python Interview Questions & Answers",
+    "url": "https://www.kdnuggets.com/2022/09/5-python-interview-questions-answers.html",
+    "category": "Python"
+  },
+  {
+    "title": "5 Python Projects for Data Science Portfolio",
+    "url": "https://www.kdnuggets.com/2022/12/5-python-projects-data-science-portfolio.html",
+    "category": "Data Science"
+  },
+  {
     "title": "5 Regularization Techniques You Should Know",
     "url": "https://www.statology.org/5-regularization-techniques/",
     "category": "Machine Learning (ML)"
@@ -615,6 +705,11 @@
     "category": "Data Science"
   },
   {
+    "title": "5 Ways of Filtering Python Lists",
+    "url": "https://www.kdnuggets.com/2022/11/5-ways-filtering-python-lists.html",
+    "category": "Python"
+  },
+  {
     "title": "5 Ways to Access GPT-4o for Free",
     "url": "https://www.kdnuggets.com/5-ways-to-access-gpt-4o-for-free",
     "category": "Artificial Intelligence (AI)"
@@ -650,6 +745,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "7 Best Cloud Database Platforms",
+    "url": "https://www.kdnuggets.com/7-best-cloud-database-platforms",
+    "category": "Data Engineering"
+  },
+  {
     "title": "7 Best Tools for Machine Learning Experiment Tracking",
     "url": "https://www.kdnuggets.com/2023/02/7-best-tools-machine-learning-experiment-tracking.html",
     "category": "Machine Learning (ML)"
@@ -658,6 +758,11 @@
     "title": "7 Computer Vision Projects for All Levels",
     "url": "https://www.kdnuggets.com/7-computer-vision-projects-for-all-levels",
     "category": "Computer Vision"
+  },
+  {
+    "title": "7 Data Analytics Interview Questions & Answers",
+    "url": "https://www.kdnuggets.com/2022/09/7-data-analytics-interview-questions-answers.html",
+    "category": "Data Science"
   },
   {
     "title": "7 Data Engineering Tools for Beginners",
@@ -670,8 +775,18 @@
     "category": "Machine Learning Operations (MLOps)"
   },
   {
+    "title": "7 Essential Cheat Sheets for Data Engineering",
+    "url": "https://www.kdnuggets.com/2022/12/7-essential-cheat-sheets-data-engineering.html",
+    "category": "Data Engineering"
+  },
+  {
     "title": "7 Essential Generative AI Tools for Building Stand-Out AI Applications",
     "url": "https://www.datacamp.com/blog/7-essential-generative-ai-tools-for-building-stand-out-ai-applications",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "7 Essential OpenClaw Skills You Need Right Now",
+    "url": "https://www.kdnuggets.com/7-essential-openclaw-skills-you-need-right-now",
     "category": "Artificial Intelligence (AI)"
   },
   {
@@ -698,6 +813,11 @@
     "title": "7 Free Online Python REPLs",
     "url": "https://www.kdnuggets.com/7-free-online-python-repls",
     "category": "Python"
+  },
+  {
+    "title": "7 Free Platforms for Building a Strong Data Science Portfolio",
+    "url": "https://www.kdnuggets.com/2022/10/7-free-platforms-building-strong-data-science-portfolio.html",
+    "category": "Career Advice"
   },
   {
     "title": "7 Free Remote MCPs You Must Use As A Developer",
@@ -745,6 +865,11 @@
     "category": "Machine Learning Operations (MLOps)"
   },
   {
+    "title": "7 Machine Learning Portfolio Projects to Boost the Resume",
+    "url": "https://www.kdnuggets.com/2022/09/7-machine-learning-portfolio-projects-boost-resume.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "7 Machine Learning Projects That Can Add Value to Any Resume",
     "url": "https://machinelearningmastery.com/7-machine-learning-projects-that-can-add-value-to-any-resume/",
     "category": "Machine Learning (ML)"
@@ -760,9 +885,19 @@
     "category": "Programming"
   },
   {
+    "title": "7 Platforms for Getting High Paying Data Science Jobs",
+    "url": "https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs",
+    "category": "Career Advice"
+  },
+  {
     "title": "7 Projects to Master Data Engineering",
     "url": "https://www.kdnuggets.com/7-projects-master-data-engineering",
     "category": "Data Engineering"
+  },
+  {
+    "title": "7 Python Projects for Beginners",
+    "url": "https://www.kdnuggets.com/2022/11/7-python-projects-beginners.html",
+    "category": "Python"
   },
   {
     "title": "7 Python Statistics Tools That Data Scientists Actually Use in 2025",
@@ -785,6 +920,11 @@
     "category": "Machine Learning Operations (MLOps)"
   },
   {
+    "title": "7 Super Cheat Sheets You Need To Ace Machine Learning Interview",
+    "url": "https://www.kdnuggets.com/2022/12/7-super-cheat-sheets-need-ace-machine-learning-interview.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "7 Things Students Are Missing in a Data Science Resume",
     "url": "https://www.kdnuggets.com/7-things-students-are-missing-in-a-data-science-resume",
     "category": "Career Advice"
@@ -793,6 +933,11 @@
     "title": "7 Tiny AI Models for Raspberry Pi",
     "url": "https://www.kdnuggets.com/7-tiny-ai-models-for-raspberry-pi",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "7 Tips for Python Beginners",
+    "url": "https://www.kdnuggets.com/2022/09/7-tips-python-beginners.html",
+    "category": "Python"
   },
   {
     "title": "7 Tools I Cannot Live Without as a Data Scientist",
@@ -825,6 +970,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "8 Programming Languages For Data Science to Learn in 2023",
+    "url": "https://www.kdnuggets.com/2023/07/8-programming-languages-data-science-learn-2023.html",
+    "category": "Data Science"
+  },
+  {
     "title": "A Beginner's Guide to CI/CD for Machine Learning",
     "url": "https://www.datacamp.com/tutorial/ci-cd-for-machine-learning",
     "category": "Machine Learning Operations (MLOps)"
@@ -838,6 +988,11 @@
     "title": "A Beginner’s Guide to ClickHouse Database",
     "url": "https://www.kdnuggets.com/a-beginners-guide-to-clickhouse-database",
     "category": "Data Engineering"
+  },
+  {
+    "title": "A Brief Introduction to Papers With Code",
+    "url": "https://www.kdnuggets.com/2022/04/brief-introduction-papers-code.html",
+    "category": "Data Science"
   },
   {
     "title": "A Collection Of Free Data Science Courses From Harvard, Stanford, MIT, Cornell, and Berkeley",
@@ -868,6 +1023,11 @@
     "title": "A New Python Package Manager",
     "url": "https://www.kdnuggets.com/new-python-package-manager",
     "category": "Python"
+  },
+  {
+    "title": "A New Way of Managing Deep Learning Datasets",
+    "url": "https://www.kdnuggets.com/2022/03/new-way-managing-deep-learning-datasets.html",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "A Practical Vibe Coding Tech Stack For Fast Shipping",
@@ -910,6 +1070,16 @@
     "category": "Machine Learning (ML)"
   },
   {
+    "title": "An Introduction to SMOTE",
+    "url": "https://www.kdnuggets.com/2022/11/introduction-smote.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "An Overview of Mercury: Creating Data Science Portfolio and Notebook Based WebApps",
+    "url": "https://www.kdnuggets.com/2022/05/overview-mercury-creating-data-science-portfolio-notebook-based-webapps.html",
+    "category": "Data Science"
+  },
+  {
     "title": "Anthropic Computer Use: Automate Your Desktop With Claude 3.5",
     "url": "https://www.datacamp.com/blog/what-is-anthropic-computer-use",
     "category": "Large Language Models (LLMs)"
@@ -935,6 +1105,16 @@
     "category": "Natural Language Processing (NLP)"
   },
   {
+    "title": "Become a Data Science Professional in Five Steps",
+    "url": "https://www.kdnuggets.com/2022/03/become-data-science-professional-five-steps.html",
+    "category": "Career Advice"
+  },
+  {
+    "title": "Become an AI Artist Using Phraser and Stable Diffusion",
+    "url": "https://www.kdnuggets.com/2022/09/become-ai-artist-phraser-stable-diffusion.html",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "Beginner’s Guide to Machine Learning Testing With DeepChecks",
     "url": "https://www.kdnuggets.com/beginners-guide-to-machine-learning-testing-with-deepchecks",
     "category": "Machine Learning Operations (MLOps)"
@@ -948,6 +1128,11 @@
     "title": "BentoML: MLOps for Beginners",
     "url": "https://www.kdnuggets.com/bentoml-mlops-for-beginners",
     "category": "Machine Learning Operations (MLOps)"
+  },
+  {
+    "title": "Best Data Science Career Tracks of 2022",
+    "url": "https://www.kdnuggets.com/2022/04/best-data-science-career-tracks-2022.html",
+    "category": "Career Advice"
   },
   {
     "title": "Best No-Code LLM App Builders",
@@ -1140,8 +1325,23 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Convert Text Documents to a TF-IDF Matrix with tfidfvectorizer",
+    "url": "https://www.kdnuggets.com/2022/09/convert-text-documents-tfidf-matrix-tfidfvectorizer.html",
+    "category": "Natural Language Processing (NLP)"
+  },
+  {
     "title": "Create Stunning Data Viz in Seconds with ChatGPT",
     "url": "https://www.kdnuggets.com/create-stunning-data-viz-in-seconds-with-chatgpt",
+    "category": "Data Science"
+  },
+  {
+    "title": "Data Ingestion with Pandas: A Beginner Tutorial",
+    "url": "https://www.kdnuggets.com/2022/04/data-ingestion-pandas-beginner-tutorial.html",
+    "category": "Python"
+  },
+  {
+    "title": "Data Science at the Command Line: The Free eBook",
+    "url": "https://www.kdnuggets.com/2022/03/data-science-command-line-free-ebook.html",
     "category": "Data Science"
   },
   {
@@ -1165,9 +1365,19 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Deploying Your First Machine Learning API",
+    "url": "https://www.kdnuggets.com/2021/10/deploying-first-machine-learning-api.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "Deploying Your First Machine Learning Model",
     "url": "https://www.kdnuggets.com/deploying-your-first-machine-learning-model",
     "category": "Machine Learning Operations (MLOps)"
+  },
+  {
+    "title": "Deploying a Streamlit WebApp to Heroku using DAGsHub",
+    "url": "https://www.kdnuggets.com/2022/02/deploying-streamlit-webapp-heroku-dagshub.html",
+    "category": "Data Engineering"
   },
   {
     "title": "Deploying the Magistral vLLM Server on Modal",
@@ -1223,6 +1433,11 @@
     "title": "Enroll in a Data Science Undergraduate Program For Free",
     "url": "https://www.kdnuggets.com/enroll-in-a-data-science-undergraduate-program-for-free",
     "category": "Career Advice"
+  },
+  {
+    "title": "Ensemble Learning with Examples",
+    "url": "https://www.kdnuggets.com/2022/10/ensemble-learning-examples.html",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "Evaluate LLMs Effectively Using DeepEval: A Practical Guide",
@@ -1383,6 +1598,21 @@
     "title": "Forget ChatGPT, This New AI Assistant Is Leagues Ahead and Will Change the Way You Work Forever",
     "url": "https://www.kdnuggets.com/2023/08/forget-chatgpt-new-ai-assistant-leagues-ahead-change-way-work-forever.html",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Free Data Engineering Courses",
+    "url": "https://www.kdnuggets.com/2022/05/free-data-engineering-courses.html",
+    "category": "Data Engineering"
+  },
+  {
+    "title": "Free Mastery Course: Become a Large Language Model Expert",
+    "url": "https://www.kdnuggets.com/ree-mastery-course-become-a-large-language-model-expert",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Free Microsoft Excel for Beginners Course",
+    "url": "https://www.kdnuggets.com/2022/09/free-microsoft-excel-beginners-course.html",
+    "category": "Data Science"
   },
   {
     "title": "Free Python Resources That Can Help You Become a Pro",
@@ -1585,6 +1815,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "How To Find The Best Data Science Remote Jobs",
+    "url": "https://www.kdnuggets.com/2022/12/find-best-data-science-remote-jobs.html",
+    "category": "Career Advice"
+  },
+  {
     "title": "How Watermarking Can Help Mitigate The Potential Risks Of LLMs?",
     "url": "https://www.kdnuggets.com/2023/03/watermarking-help-mitigate-potential-risks-llms.html",
     "category": "Large Language Models (LLMs)"
@@ -1593,6 +1828,26 @@
     "title": "How to Access and Use Gemini API for Free",
     "url": "https://www.kdnuggets.com/how-to-access-and-use-gemini-api-for-free",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "How to Ace Data Science Assessment Test by Using Automatic EDA Tools",
+    "url": "https://www.kdnuggets.com/2022/04/ace-data-science-assessment-test-automatic-eda-tools.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "How to Ace Data Science Interview by Working on Portfolio Projects",
+    "url": "https://www.kdnuggets.com/2021/10/ace-data-science-interview-portfolio-projects.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "How to Ace Data Scientist Professional Certificate Exam",
+    "url": "https://www.kdnuggets.com/2023/08/ace-data-scientist-professional-certificate.html",
+    "category": "Career Advice"
+  },
+  {
+    "title": "How to Build Strong Data Science Portfolio as a Beginner",
+    "url": "https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html",
+    "category": "Data Science"
   },
   {
     "title": "How to Choose The Best Data Science Bootcamp in 2023",
@@ -1625,9 +1880,19 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "How to Generate Synthetic Tabular Dataset",
+    "url": "https://www.kdnuggets.com/2022/03/generate-tabular-synthetic-dataset.html",
+    "category": "Data Science"
+  },
+  {
     "title": "How to Get Addicted to Machine Learning",
     "url": "https://www.kdnuggets.com/how-to-get-addicted-machine-learning",
     "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "How to Get Certified as a Data Scientist",
+    "url": "https://www.kdnuggets.com/2021/12/get-certified-data-science.html",
+    "category": "Career Advice"
   },
   {
     "title": "How to Get Hired as Data Scientist in the GPT-4 Era",
@@ -1715,6 +1980,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "How to Setup Julia on Jupyter Notebook",
+    "url": "https://www.kdnuggets.com/2022/11/setup-julia-jupyter-notebook.html",
+    "category": "Programming"
+  },
+  {
     "title": "How to Use DeepSeek Janus-Pro Locally",
     "url": "https://www.datacamp.com/tutorial/how-to-use-deepseek-janus-pro-locally",
     "category": "Artificial Intelligence (AI)"
@@ -1730,6 +2000,11 @@
     "category": "Programming"
   },
   {
+    "title": "How to Write Engaging Technical Blogs",
+    "url": "https://www.kdnuggets.com/2022/04/write-engaging-technical-blogs.html",
+    "category": "Career Advice"
+  },
+  {
     "title": "HumanEval: A Benchmark for Evaluating LLM Code Generation Capabilities",
     "url": "https://www.datacamp.com/tutorial/humaneval-benchmark-for-evaluating-llm-code-generation-capabilities",
     "category": "Large Language Models (LLMs)"
@@ -1738,6 +2013,11 @@
     "title": "Image Classification Inference with FastAPI",
     "url": "https://nexusml.co/blog/image-classification-inference-fastapi/",
     "category": "Machine Learning Operations (MLOps)"
+  },
+  {
+    "title": "Implementing DBSCAN in Python",
+    "url": "https://www.kdnuggets.com/2022/08/implementing-dbscan-python.html",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "Introducing OpenChat: The Free & Simple Platform for Building Custom Chatbots in Minutes",
@@ -1768,6 +2048,11 @@
     "title": "Introduction to Safetensors",
     "url": "https://www.kdnuggets.com/2023/07/introduction-safetensors.html",
     "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "Introductory Pandas Tutorial",
+    "url": "https://www.kdnuggets.com/2022/03/introductory-pandas-tutorial.html",
+    "category": "Python"
   },
   {
     "title": "Jenkins for MLOps: A Complete CI/CD Tutorial",
@@ -1810,6 +2095,16 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Learn MLOps with This Free Course",
+    "url": "https://www.kdnuggets.com/2022/06/learn-mlops-free-course.html",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
+    "title": "Learn Machine Learning 4X Faster by Participating in Competitions",
+    "url": "https://www.kdnuggets.com/2022/01/learn-machine-learning-4x-faster-participating-competitions.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "Learn to Code with GitHub",
     "url": "https://www.kdnuggets.com/learn-to-code-github",
     "category": "Programming"
@@ -1848,6 +2143,11 @@
     "title": "Markdown Cheatsheet",
     "url": "https://www.kdnuggets.com/2022/12/markdown-cheatsheet.html",
     "category": "Cheat Sheets"
+  },
+  {
+    "title": "Master The Art Of Command Line With This GitHub Repository",
+    "url": "https://www.kdnuggets.com/master-the-art-of-command-line-with-this-github-repository",
+    "category": "Programming"
   },
   {
     "title": "Mastering Digital Art with Stable Diffusion",
@@ -1900,9 +2200,29 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "New Ways of Sharing Code Blocks for Data Scientists",
+    "url": "https://www.kdnuggets.com/2022/03/new-ways-sharing-code-blocks.html",
+    "category": "Programming"
+  },
+  {
+    "title": "No Brainer AutoML with AutoXGB",
+    "url": "https://www.kdnuggets.com/2022/02/no-brainer-automl-autoxgb.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "Open Assistant: Explore the Possibilities of Open and Collaborative Chatbot Development",
     "url": "https://www.kdnuggets.com/2023/04/open-assistant-explore-possibilities-open-collaborative-chatbot-development.html",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Open Data and Why it is Necessary",
+    "url": "https://www.kdnuggets.com/2022/03/open-data-necessary.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "OpenAI API for Beginners: Your Easy-to-Follow Starter Guide",
+    "url": "https://www.kdnuggets.com/openai-api-for-beginners-your-easy-to-follow-starter-guide",
+    "category": "Python"
   },
   {
     "title": "OpenAI Codex CLI Tutorial",
@@ -1955,6 +2275,11 @@
     "category": "Data Science"
   },
   {
+    "title": "Parallel Processing Large File in Python",
+    "url": "https://www.kdnuggets.com/2022/07/parallel-processing-large-file-python.html",
+    "category": "Python"
+  },
+  {
     "title": "Plotly Express for Data Visualization Cheat Sheet",
     "url": "https://www.kdnuggets.com/2023/03/plotly-express-data-visualization-cheat-sheet.html",
     "category": "Cheat Sheets"
@@ -1963,6 +2288,11 @@
     "title": "Post GPT-4: Answering Most Asked Questions About AI",
     "url": "https://www.kdnuggets.com/2023/04/post-gpt4-answering-asked-questions-ai.html",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "Progress Bars in Python with tqdm for Fun and Profit",
+    "url": "https://www.kdnuggets.com/2022/09/progress-bars-python-tqdm-fun-profit.html",
+    "category": "Python"
   },
   {
     "title": "PySpark for Data Science",
@@ -1975,13 +2305,28 @@
     "category": "Machine Learning (ML)"
   },
   {
+    "title": "Pydon’ts – Write elegant Python code: Free Book Review",
+    "url": "https://www.kdnuggets.com/2022/05/pydonts-write-elegant-python-code-free-book-review.html",
+    "category": "Python"
+  },
+  {
     "title": "Python Control Flow Cheat Sheet",
     "url": "https://www.kdnuggets.com/2022/11/python-control-flow-cheatsheet.html",
     "category": "Cheat Sheets"
   },
   {
+    "title": "Python For Machine Learning: eBook Review",
+    "url": "https://www.kdnuggets.com/2022/06/python-machine-learning-ebook-review.html",
+    "category": "Python"
+  },
+  {
     "title": "Python String Matching Without Complex RegEx Syntax",
     "url": "https://www.kdnuggets.com/2023/02/python-string-matching-without-complex-regex-syntax.html",
+    "category": "Python"
+  },
+  {
+    "title": "Python String Methods",
+    "url": "https://www.kdnuggets.com/2022/12/python-string-methods.html",
     "category": "Python"
   },
   {
@@ -1998,6 +2343,11 @@
     "title": "Read This Before You Take Any Free Data Science Course",
     "url": "https://www.kdnuggets.com/read-this-before-you-take-any-free-data-science-course",
     "category": "Career Advice"
+  },
+  {
+    "title": "Reinforcement Learning for Newbies",
+    "url": "https://www.kdnuggets.com/2022/05/reinforcement-learning-newbies.html",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "Roadmap for AI Engineers",
@@ -2065,8 +2415,18 @@
     "category": "SQL"
   },
   {
+    "title": "SQL LIKE Operator Examples",
+    "url": "https://www.kdnuggets.com/2022/09/sql-like-operator-examples.html",
+    "category": "SQL"
+  },
+  {
     "title": "SQL NOT IN Operator: A Comprehensive Guide for Beginners",
     "url": "https://www.datacamp.com/tutorial/sql-not-in-operator",
+    "category": "SQL"
+  },
+  {
+    "title": "SQL Notes for Professionals: The Free eBook Review",
+    "url": "https://www.kdnuggets.com/2022/05/sql-notes-professionals-free-ebook-review.html",
     "category": "SQL"
   },
   {
@@ -2098,6 +2458,21 @@
     "title": "Setting Up VSCode For Python: A Complete Guide",
     "url": "https://www.datacamp.com/tutorial/setting-up-vscode-python",
     "category": "Python"
+  },
+  {
+    "title": "Should I Learn Julia?",
+    "url": "https://www.kdnuggets.com/2022/11/learn-julia.html",
+    "category": "Programming"
+  },
+  {
+    "title": "Simple and Fast Data Streaming for Machine Learning Projects",
+    "url": "https://www.kdnuggets.com/2022/11/simple-fast-data-streaming-machine-learning-projects.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "Simplify Data Processing with Pandas Pipeline",
+    "url": "https://www.kdnuggets.com/2022/08/simplify-data-processing-pandas-pipeline.html",
+    "category": "Data Science"
   },
   {
     "title": "Speech to Text Made Easy with the OpenAI Whisper API",
@@ -2165,6 +2540,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "The 7 Best AI Tools for Data Science Workflow",
+    "url": "https://www.kdnuggets.com/the-7-best-ai-tools-for-data-science-workflow",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "The 8 AI Search Engines That You Should Replace Google With",
     "url": "https://www.kdnuggets.com/top-8-ai-search-engine-that-you-should-replace-with-google",
     "category": "Artificial Intelligence (AI)"
@@ -2175,14 +2555,74 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "The Best Learning Resources for Data Science in 2022",
+    "url": "https://www.kdnuggets.com/2022/01/best-learning-resources-data-science-2022.html",
+    "category": "Data Science"
+  },
+  {
     "title": "The Best Way of Running GPT-OSS Locally",
     "url": "https://www.kdnuggets.com/the-best-way-of-running-gpt-oss-locally",
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "The Common Misconceptions About Machine Learning",
+    "url": "https://www.kdnuggets.com/2021/11/common-misconception-about-machine-learning.html",
+    "category": "Career Advice"
+  },
+  {
+    "title": "The Complete Collection Of Data Repositories – Part 1",
+    "url": "https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-1.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Complete Collection Of Data Repositories – Part 2",
+    "url": "https://www.kdnuggets.com/2022/04/complete-collection-data-repositories-part-2.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Complete Collection of Data Science Books – Part 1",
+    "url": "https://www.kdnuggets.com/2022/05/complete-collection-data-science-books-part-1.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Complete Collection of Data Science Books – Part 2",
+    "url": "https://www.kdnuggets.com/2022/05/complete-collection-data-science-books-part-2.html",
+    "category": "Data Science"
+  },
+  {
     "title": "The Complete Collection of Data Science Cheat Sheets - Ebook",
     "url": "https://www.kdnuggets.com/news/subscribe.html",
     "category": "Books by Abid"
+  },
+  {
+    "title": "The Complete Collection of Data Science Cheat Sheets – Part 1",
+    "url": "https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-part-1.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Complete Collection of Data Science Cheat Sheets – Part 2",
+    "url": "https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-part-2.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Complete Collection of Data Science Interviews – Part 1",
+    "url": "https://www.kdnuggets.com/2022/06/complete-collection-data-science-interviews-part-1.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Complete Collection of Data Science Interviews – Part 2",
+    "url": "https://www.kdnuggets.com/2022/06/complete-collection-data-science-interviews-part-2.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Complete Collection of Data Science Projects – Part 1",
+    "url": "https://www.kdnuggets.com/2022/08/complete-collection-data-science-projects-part-1.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "The Complete Collection of Data Science Projects – Part 2",
+    "url": "https://www.kdnuggets.com/2022/08/complete-collection-data-science-projects-part-2.html",
+    "category": "Data Science"
   },
   {
     "title": "The Curse of Dimensionality in Machine Learning: Challenges, Impacts, and Solutions",
@@ -2205,9 +2645,19 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "The High Paying Side Hustles for Data Scientists",
+    "url": "https://www.kdnuggets.com/2022/01/high-paying-side-hustles-data-scientists.html",
+    "category": "Career Advice"
+  },
+  {
     "title": "The Latest On OpenAI, Google AI, and What it Means For Data Science",
     "url": "https://www.datacamp.com/blog/openai-google-ai-data-science",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "The Machine Learning Lifecycle",
+    "url": "https://www.kdnuggets.com/2022/06/making-sense-crispmlq-machine-learning-lifecycle-process.html",
+    "category": "Machine Learning Operations (MLOps)"
   },
   {
     "title": "The Only Free Course You Need To Become a MLOps Engineer",
@@ -2223,6 +2673,11 @@
     "title": "The Pros and Cons of Using Large Language Models (LLMs) in the Cloud vs. Running LLMs Locally: Which Is Right for You?",
     "url": "https://www.datacamp.com/blog/the-pros-and-cons-of-using-llm-in-the-cloud-versus-running-llm-locally",
     "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "The Story of the Women in Data Science (WiDS) Datathon",
+    "url": "https://www.kdnuggets.com/2022/01/story-women-data-science-wids-datathon.html",
+    "category": "Data Science"
   },
   {
     "title": "The Top 10 Video Generation Models of 2025",
@@ -2262,6 +2717,11 @@
   {
     "title": "Time Series Forecasting With TimeGPT",
     "url": "https://www.datacamp.com/tutorial/time-series-forecasting-with-time-gpt",
+    "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "Tips & Tricks of Deploying Deep Learning Webapp on Heroku Cloud",
+    "url": "https://www.kdnuggets.com/2021/12/tips-tricks-deploying-dl-webapps-heroku.html",
     "category": "Machine Learning (ML)"
   },
   {
@@ -2310,6 +2770,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Top 10 Machine Learning Demos: Hugging Face Spaces Edition",
+    "url": "https://www.kdnuggets.com/2022/05/top-10-machine-learning-demos-hugging-face-spaces-edition.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "Top 10 Tools for Detecting ChatGPT, GPT-4, Bard, and Claude",
     "url": "https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html",
     "category": "Artificial Intelligence (AI)"
@@ -2355,6 +2820,16 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Top 18 Data Science Facebook Groups",
+    "url": "https://www.kdnuggets.com/2022/06/top-18-data-science-facebook-groups.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "Top 18 Data Science Groups on LinkedIn",
+    "url": "https://www.kdnuggets.com/2022/06/top-18-data-science-group-linkedin.html",
+    "category": "Data Science"
+  },
+  {
     "title": "Top 3 Video Generation Models",
     "url": "https://www.kdnuggets.com/top-3-video-generation-models",
     "category": "Artificial Intelligence (AI)"
@@ -2363,6 +2838,11 @@
     "title": "Top 5 AI Coding Assistants You Must Try",
     "url": "https://www.kdnuggets.com/top-5-ai-coding-assistants-you-must-try",
     "category": "Programming"
+  },
+  {
+    "title": "Top 5 Agent Skill Marketplaces for Building Powerful AI Agents",
+    "url": "https://www.kdnuggets.com/top-5-agent-skill-marketplaces-for-building-powerful-ai-agents",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "Top 5 Agentic AI Website Builders (That Actually Ship)",
@@ -2395,6 +2875,16 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Top 5 Free Cloud Notebooks in 2022",
+    "url": "https://www.kdnuggets.com/2022/04/top-5-free-cloud-notebooks-2022.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "Top 5 Free Machine Learning Courses",
+    "url": "https://www.kdnuggets.com/2022/02/top-5-free-machine-learning-courses.html",
+    "category": "Machine Learning (ML)"
+  },
+  {
     "title": "Top 5 Freelancer Websites Better Than Fiverr and Upwork",
     "url": "https://www.kdnuggets.com/top-5-freelancer-websites-better-fiverr-upwork",
     "category": "Career Advice"
@@ -2418,6 +2908,11 @@
     "title": "Top 5 Machine Learning APIs Practitioners Should Know",
     "url": "https://www.kdnuggets.com/top-5-machine-learning-apis-practitioners-should-know",
     "category": "Machine Learning (ML)"
+  },
+  {
+    "title": "Top 5 NLP Cheat Sheets for Beginners to Professional",
+    "url": "https://www.kdnuggets.com/2022/12/top-5-nlp-cheat-sheets-beginners-professional.html",
+    "category": "Natural Language Processing (NLP)"
   },
   {
     "title": "Top 5 Open Source Video Generation Models",
@@ -2465,6 +2960,11 @@
     "category": "Data Science"
   },
   {
+    "title": "Top 7 Alternatives to VSCode for Data Science",
+    "url": "https://www.kdnuggets.com/top-7-alternatives-to-vscode-for-data-science",
+    "category": "Programming"
+  },
+  {
     "title": "Top 7 ChatGPT Alternatives You Can Try For Free",
     "url": "https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free",
     "category": "Artificial Intelligence (AI)"
@@ -2478,6 +2978,11 @@
     "title": "Top 7 Continuous Integration and Continuous Delivery Tools for 2025",
     "url": "https://www.kdnuggets.com/top-7-continuous-integration-and-continuous-delivery-tools-for-2025",
     "category": "Machine Learning Operations (MLOps)"
+  },
+  {
+    "title": "Top 7 Diffusion-Based Applications with Demos",
+    "url": "https://www.kdnuggets.com/2022/10/top-7-diffusionbased-applications-demos.html",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "Top 7 Essential Cheat Sheets To Ace Your Data Science Interview",
@@ -2540,9 +3045,29 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "Top 7 YouTube Courses on Data Analytics",
+    "url": "https://www.kdnuggets.com/2022/02/top-7-youtube-courses-data-analytics.html",
+    "category": "Data Science"
+  },
+  {
     "title": "Top 7 n8n Workflow Templates for Data Science",
     "url": "https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science",
     "category": "Data Science"
+  },
+  {
+    "title": "Top Data Science Tools for 2022",
+    "url": "https://www.kdnuggets.com/2022/03/top-data-science-tools-2022.html",
+    "category": "Data Science"
+  },
+  {
+    "title": "Top Free Git GUI Clients for Beginners",
+    "url": "https://www.kdnuggets.com/2022/10/top-free-git-gui-clients-beginners.html",
+    "category": "Programming"
+  },
+  {
+    "title": "Top Free Resources To Learn ChatGPT",
+    "url": "https://www.kdnuggets.com/2023/02/top-free-resources-learn-chatgpt.html",
+    "category": "Natural Language Processing (NLP)"
   },
   {
     "title": "Trae: Adaptive AI Code Editor",
@@ -2668,6 +3193,11 @@
     "title": "Using SQL with Python: SQLAlchemy and Pandas",
     "url": "https://www.kdnuggets.com/using-sql-with-python-sqlalchemy-and-pandas",
     "category": "SQL"
+  },
+  {
+    "title": "Using Scikit-learn’s Imputer",
+    "url": "https://www.kdnuggets.com/2022/07/scikitlearn-imputer.html",
+    "category": "Machine Learning (ML)"
   },
   {
     "title": "Vibe Coding with GLM 4.6 Coding Plan",
@@ -2808,6 +3338,11 @@
     "title": "Why is DuckDB Getting Popular?",
     "url": "https://www.kdnuggets.com/2023/07/duckdb-getting-popular.html",
     "category": "SQL"
+  },
+  {
+    "title": "Will DeepMind’s AlphaCode Replace Programmers?",
+    "url": "https://www.kdnuggets.com/2022/04/deepmind-alphacode-replace-programmers.html",
+    "category": "Programming"
   },
   {
     "title": "Windsurf AI Agentic Code Editor: Features, Setup, and Use Cases",

@@ -121,5 +121,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 - [8 Open-Source Alternative to ChatGPT and Bard](https://www.kdnuggets.com/2023/04/8-opensource-alternative-chatgpt-bard.html)
 - [How Watermarking Can Help Mitigate The Potential Risks Of LLMs?](https://www.kdnuggets.com/2023/03/watermarking-help-mitigate-potential-risks-llms.html)
 
+- [Free Mastery Course: Become a Large Language Model Expert](https://www.kdnuggets.com/ree-mastery-course-become-a-large-language-model-expert)
+
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
+
 

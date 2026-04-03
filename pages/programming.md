@@ -41,5 +41,18 @@ A collection of resources, tutorials, and articles about Programming.
 - [Getting Started with GitHub CLI](https://www.kdnuggets.com/2023/03/getting-started-github-cli.html) 
 - [3 Julia Packages for Data Visualization](https://www.kdnuggets.com/2023/02/3-julia-packages-data-visualization.html)
 
+- [New Ways of Sharing Code Blocks for Data Scientists](https://www.kdnuggets.com/2022/03/new-ways-sharing-code-blocks.html)
+- [Will DeepMind’s AlphaCode Replace Programmers?](https://www.kdnuggets.com/2022/04/deepmind-alphacode-replace-programmers.html)
+- [20 Basic Linux Commands for Data Science Beginners](https://www.kdnuggets.com/2022/06/20-basic-linux-commands-data-science-beginners.html)
+- [12 Essential VSCode Extensions for Data Science](https://www.kdnuggets.com/2022/07/12-essential-vscode-extensions-data-science.html)
+- [16 Essential DVC Commands for Data Science](https://www.kdnuggets.com/2022/07/16-essential-dvc-commands-data-science.html)
+- [Top Free Git GUI Clients for Beginners](https://www.kdnuggets.com/2022/10/top-free-git-gui-clients-beginners.html)
+- [Should I Learn Julia?](https://www.kdnuggets.com/2022/11/learn-julia.html)
+- [How to Setup Julia on Jupyter Notebook](https://www.kdnuggets.com/2022/11/setup-julia-jupyter-notebook.html)
+- [14 Essential Git Commands for Data Scientists](https://www.kdnuggets.com/2022/06/14-essential-git-commands-data-scientists.html)
+- [Master The Art Of Command Line With This GitHub Repository](https://www.kdnuggets.com/master-the-art-of-command-line-with-this-github-repository)
+- [Top 7 Alternatives to VSCode for Data Science](https://www.kdnuggets.com/top-7-alternatives-to-vscode-for-data-science)
+
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
+
 

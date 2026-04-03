@@ -11,4 +11,9 @@ A collection of resources, tutorials, and articles about SQL.
 - [Why is DuckDB Getting Popular?](https://www.kdnuggets.com/2023/07/duckdb-getting-popular.html)
 - [SQL With CSVs](https://www.kdnuggets.com/2023/01/sql-csvs.html)
 
+- [SQL Notes for Professionals: The Free eBook Review](https://www.kdnuggets.com/2022/05/sql-notes-professionals-free-ebook-review.html)
+- [SQL LIKE Operator Examples](https://www.kdnuggets.com/2022/09/sql-like-operator-examples.html)
+- [10 Essential SQL Commands for Data Science](https://www.kdnuggets.com/2022/10/10-essential-sql-commands-data-science.html)
+
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
+

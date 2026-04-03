@@ -92,5 +92,19 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [A Complete Collection of Data Science Free Courses – Part 2](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-2.html)
 - [A Complete Collection of Data Science Free Courses – Part 1](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-1.html)
 
+- [The Common Misconceptions About Machine Learning](https://www.kdnuggets.com/2021/11/common-misconception-about-machine-learning.html)
+- [How to Get Certified as a Data Scientist](https://www.kdnuggets.com/2021/12/get-certified-data-science.html)
+- [The High Paying Side Hustles for Data Scientists](https://www.kdnuggets.com/2022/01/high-paying-side-hustles-data-scientists.html)
+- [Become a Data Science Professional in Five Steps](https://www.kdnuggets.com/2022/03/become-data-science-professional-five-steps.html)
+- [How to Write Engaging Technical Blogs](https://www.kdnuggets.com/2022/04/write-engaging-technical-blogs.html)
+- [Best Data Science Career Tracks of 2022](https://www.kdnuggets.com/2022/04/best-data-science-career-tracks-2022.html)
+- [12 Most Challenging Data Science Interview Questions](https://www.kdnuggets.com/2022/07/12-challenging-data-science-interview-questions.html)
+- [3 Valuable Skills That Have Doubled My Income as a Data Scientist](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
+- [7 Free Platforms for Building a Strong Data Science Portfolio](https://www.kdnuggets.com/2022/10/7-free-platforms-building-strong-data-science-portfolio.html)
+- [How To Find The Best Data Science Remote Jobs](https://www.kdnuggets.com/2022/12/find-best-data-science-remote-jobs.html)
+- [How to Ace Data Scientist Professional Certificate Exam](https://www.kdnuggets.com/2023/08/ace-data-scientist-professional-certificate.html)
+- [7 Platforms for Getting High Paying Data Science Jobs](https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs)
+
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
+
 

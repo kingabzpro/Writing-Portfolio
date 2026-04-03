@@ -45,5 +45,9 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 - [Deploying Your First Machine Learning Model](https://www.kdnuggets.com/deploying-your-first-machine-learning-model)
 - [Build AI Chatbot in 5 Minutes with Hugging Face and Gradio](https://www.kdnuggets.com/2023/06/build-ai-chatbot-5-minutes-hugging-face-gradio.html)
 
+- [Learn MLOps with This Free Course](https://www.kdnuggets.com/2022/06/learn-mlops-free-course.html)
+- [The Machine Learning Lifecycle](https://www.kdnuggets.com/2022/06/making-sense-crispmlq-machine-learning-lifecycle-process.html)
+
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
+
 

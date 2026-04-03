@@ -25,5 +25,21 @@ A collection of resources, tutorials, and articles about Python.
 - [Setting Up VSCode For Python: A Complete Guide](https://www.datacamp.com/tutorial/setting-up-vscode-python)
 - [Python String Matching Without Complex RegEx Syntax](https://www.kdnuggets.com/2023/02/python-string-matching-without-complex-regex-syntax.html)
 
+- [Introductory Pandas Tutorial](https://www.kdnuggets.com/2022/03/introductory-pandas-tutorial.html)
+- [Data Ingestion with Pandas: A Beginner Tutorial](https://www.kdnuggets.com/2022/04/data-ingestion-pandas-beginner-tutorial.html)
+- [Pydon’ts – Write elegant Python code: Free Book Review](https://www.kdnuggets.com/2022/05/pydonts-write-elegant-python-code-free-book-review.html)
+- [Python For Machine Learning: eBook Review](https://www.kdnuggets.com/2022/06/python-machine-learning-ebook-review.html)
+- [3 Ways to Append Rows to Pandas DataFrames](https://www.kdnuggets.com/2022/08/3-ways-append-rows-pandas-dataframes.html)
+- [Progress Bars in Python with tqdm for Fun and Profit](https://www.kdnuggets.com/2022/09/progress-bars-python-tqdm-fun-profit.html)
+- [7 Tips for Python Beginners](https://www.kdnuggets.com/2022/09/7-tips-python-beginners.html)
+- [5 Python Interview Questions & Answers](https://www.kdnuggets.com/2022/09/5-python-interview-questions-answers.html)
+- [7 Python Projects for Beginners](https://www.kdnuggets.com/2022/11/7-python-projects-beginners.html)
+- [5 Ways of Filtering Python Lists](https://www.kdnuggets.com/2022/11/5-ways-filtering-python-lists.html)
+- [Python String Methods](https://www.kdnuggets.com/2022/12/python-string-methods.html)
+- [12 Essential Commands for Streamlit](https://www.kdnuggets.com/2023/01/12-essential-commands-streamlit.html)
+- [Parallel Processing Large File in Python](https://www.kdnuggets.com/2022/07/parallel-processing-large-file-python.html)
+- [OpenAI API for Beginners: Your Easy-to-Follow Starter Guide](https://www.kdnuggets.com/openai-api-for-beginners-your-easy-to-follow-starter-guide)
+
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
+
 

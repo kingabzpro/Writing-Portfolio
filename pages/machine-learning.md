@@ -55,4 +55,23 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 - [Building Neural Network (NN) Models in R](https://www.datacamp.com/tutorial/neural-network-models-r)
 - [Encoding Categorical Features with MultiLabelBinarizer](https://www.kdnuggets.com/2023/01/encoding-categorical-features-multilabelbinarizer.html)
 
+- [Deploying Your First Machine Learning API](https://www.kdnuggets.com/2021/10/deploying-first-machine-learning-api.html)
+- [Tips & Tricks of Deploying Deep Learning Webapp on Heroku Cloud](https://www.kdnuggets.com/2021/12/tips-tricks-deploying-dl-webapps-heroku.html)
+- [Learn Machine Learning 4X Faster by Participating in Competitions](https://www.kdnuggets.com/2022/01/learn-machine-learning-4x-faster-participating-competitions.html)
+- [Top 5 Free Machine Learning Courses](https://www.kdnuggets.com/2022/02/top-5-free-machine-learning-courses.html)
+- [No Brainer AutoML with AutoXGB](https://www.kdnuggets.com/2022/02/no-brainer-automl-autoxgb.html)
+- [A New Way of Managing Deep Learning Datasets](https://www.kdnuggets.com/2022/03/new-way-managing-deep-learning-datasets.html)
+- [Top 10 Machine Learning Demos: Hugging Face Spaces Edition](https://www.kdnuggets.com/2022/05/top-10-machine-learning-demos-hugging-face-spaces-edition.html)
+- [5 Free Hosting Platform For Machine Learning Applications](https://www.kdnuggets.com/2022/05/5-free-hosting-platform-machine-learning-applications.html)
+- [Reinforcement Learning for Newbies](https://www.kdnuggets.com/2022/05/reinforcement-learning-newbies.html)
+- [Using Scikit-learn’s Imputer](https://www.kdnuggets.com/2022/07/scikitlearn-imputer.html)
+- [Implementing DBSCAN in Python](https://www.kdnuggets.com/2022/08/implementing-dbscan-python.html)
+- [7 Machine Learning Portfolio Projects to Boost the Resume](https://www.kdnuggets.com/2022/09/7-machine-learning-portfolio-projects-boost-resume.html)
+- [Ensemble Learning with Examples](https://www.kdnuggets.com/2022/10/ensemble-learning-examples.html)
+- [Simple and Fast Data Streaming for Machine Learning Projects](https://www.kdnuggets.com/2022/11/simple-fast-data-streaming-machine-learning-projects.html)
+- [An Introduction to SMOTE](https://www.kdnuggets.com/2022/11/introduction-smote.html)
+- [3 Free Machine Learning Courses for Beginners](https://www.kdnuggets.com/2022/12/3-free-machine-learning-courses-beginners.html)
+- [7 Super Cheat Sheets You Need To Ace Machine Learning Interview](https://www.kdnuggets.com/2022/12/7-super-cheat-sheets-need-ace-machine-learning-interview.html)
+
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
+

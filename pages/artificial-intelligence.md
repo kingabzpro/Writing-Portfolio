@@ -134,4 +134,12 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 - [The Latest On OpenAI, Google AI, and What it Means For Data Science](https://www.datacamp.com/blog/openai-google-ai-data-science) 
 - [5 Free Tools For Detecting ChatGPT, GPT3, and GPT2](https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html)
 
+- [Become an AI Artist Using Phraser and Stable Diffusion](https://www.kdnuggets.com/2022/09/become-ai-artist-phraser-stable-diffusion.html)
+- [Top 7 Diffusion-Based Applications with Demos](https://www.kdnuggets.com/2022/10/top-7-diffusionbased-applications-demos.html)
+- [The 7 Best AI Tools for Data Science Workflow](https://www.kdnuggets.com/the-7-best-ai-tools-for-data-science-workflow)
+- [5 Free AI Playgrounds For You to Try in 2024](https://www.kdnuggets.com/5-free-ai-playgrounds-for-you-to-try-in-2024)
+- [7 Essential OpenClaw Skills You Need Right Now](https://www.kdnuggets.com/7-essential-openclaw-skills-you-need-right-now)
+- [Top 5 Agent Skill Marketplaces for Building Powerful AI Agents](https://www.kdnuggets.com/top-5-agent-skill-marketplaces-for-building-powerful-ai-agents)
+
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
+
