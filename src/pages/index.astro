@@ -10,6 +10,32 @@ import type { ContentData } from "../types/content";
 
 const contentDataPath = path.resolve(process.cwd(), "public/assets/data/content.json");
 const contentData = JSON.parse(await fs.readFile(contentDataPath, "utf-8")) as ContentData;
+const pagesDir = path.resolve(process.cwd(), "pages");
+const articleLinkPattern = /-\s*\[(.*?)\]\((https?:\/\/[^)\s]+)\)/g;
+
+async function countArticlesForTopic(link: string): Promise<number> {
+  const slug = link.replace(/^pages\//, "");
+  const filePath = path.join(pagesDir, `${slug}.md`);
+
+  try {
+    const content = await fs.readFile(filePath, "utf-8");
+    return Array.from(content.matchAll(articleLinkPattern)).length;
+  } catch {
+    return 0;
+  }
+}
+
+const popularTopics = (
+  await Promise.all(
+    contentData.topics.map(async (topic) => ({
+      ...topic,
+      articleCount: await countArticlesForTopic(topic.link)
+    }))
+  )
+)
+  .sort((a, b) => b.articleCount - a.articleCount || a.title.localeCompare(b.title))
+  .slice(0, 6);
+
 const miscItems = [
   {
     title: "Books Published by Abid",
@@ -25,11 +51,6 @@ const miscItems = [
     title: "Cheat Sheets",
     description: "Fast, high-signal reference pages for core tools, workflows, and ML concepts.",
     href: "/pages/cheat-sheets"
-  },
-  {
-    title: "Contact Me",
-    description: "Reach out for collaboration, writing opportunities, or consulting conversations.",
-    href: "/pages/contact"
   }
 ];
 ---
@@ -76,7 +97,7 @@ const miscItems = [
     <h2>Popular Topics</h2>
     <div class="topics-grid">
       {
-        contentData.topics.map((topic) => (
+        popularTopics.map((topic) => (
           <a href={`/${topic.link}`} class="topic-btn">{topic.title}</a>
         ))
       }
