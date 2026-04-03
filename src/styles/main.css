@@ -218,6 +218,19 @@ a:hover {
   font-size: 1rem;
 }
 
+.sidebar-count {
+  margin-left: auto;
+  margin-right: 0.45rem;
+  min-width: 2rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  background: rgba(47, 143, 255, 0.1);
+  color: #40648f;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-align: center;
+}
+
 .author-section {
   background: linear-gradient(135deg, rgba(47, 143, 255, 0.12), rgba(45, 200, 165, 0.12));
   border: 1px solid rgba(47, 143, 255, 0.22);
@@ -537,6 +550,50 @@ a:hover {
 
 .markdown-content li {
   margin-bottom: 0.35rem;
+}
+
+.markdown-content .list-item-hidden {
+  display: none;
+}
+
+.markdown-content .list-toggle-btn {
+  margin: 0.35rem 0 1rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  border: 1px solid rgba(47, 143, 255, 0.18);
+  border-radius: 999px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.92), rgba(246, 250, 255, 0.96));
+  color: #1c4f8f;
+  padding: 0.55rem 0.95rem;
+  font: inherit;
+  font-size: 0.94rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  cursor: pointer;
+  box-shadow: 0 8px 20px rgba(31, 43, 68, 0.08);
+  transition:
+    transform 130ms ease,
+    box-shadow 130ms ease,
+    border-color 130ms ease,
+    background-color 130ms ease;
+}
+
+.markdown-content .list-toggle-btn::after {
+  content: "→";
+  font-size: 0.95rem;
+  opacity: 0.75;
+}
+
+.markdown-content .list-toggle-btn[aria-expanded="true"]::after {
+  content: "↑";
+}
+
+.markdown-content .list-toggle-btn:hover {
+  transform: translateY(-1px);
+  border-color: rgba(47, 143, 255, 0.32);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(239, 246, 255, 1));
+  box-shadow: 0 10px 24px rgba(31, 43, 68, 0.1);
 }
 
 .markdown-content form {

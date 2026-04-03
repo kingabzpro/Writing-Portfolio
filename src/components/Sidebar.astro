@@ -1,31 +1,60 @@
 ---
-const categories = [
-  { href: "/pages/python", label: "Python" },
-  { href: "/pages/sql", label: "SQL" },
-  { href: "/pages/programming", label: "Programming" },
-  { href: "/pages/data-science", label: "Data Science" },
-  { href: "/pages/machine-learning", label: "Machine Learning" },
-  { href: "/pages/machine-learning-operations", label: "MLOps" },
-  { href: "/pages/natural-language-processing", label: "NLP" },
-  { href: "/pages/large-language-models", label: "LLMs" },
-  { href: "/pages/computer-vision", label: "Computer Vision" },
-  { href: "/pages/artificial-intelligence", label: "AI" },
-  { href: "/pages/data-engineering", label: "Data Engineering" },
-  { href: "/pages/career-advice", label: "Career" },
-  { href: "/pages/books-by-abid", label: "Books" },
-  { href: "/pages/cheat-sheets", label: "Cheat Sheets" }
+import fs from "node:fs/promises";
+import path from "node:path";
+
+const PAGES_DIR = path.resolve(process.cwd(), "pages");
+const articleLinkPattern = /-\s*\[(.*?)\]\((https?:\/\/[^)\s]+)\)/g;
+
+const categoryConfig = [
+  { href: "/pages/python", label: "Python", slug: "python" },
+  { href: "/pages/sql", label: "SQL", slug: "sql" },
+  { href: "/pages/programming", label: "Programming", slug: "programming" },
+  { href: "/pages/data-science", label: "Data Science", slug: "data-science" },
+  { href: "/pages/machine-learning", label: "Machine Learning", slug: "machine-learning" },
+  { href: "/pages/machine-learning-operations", label: "MLOps", slug: "machine-learning-operations" },
+  { href: "/pages/natural-language-processing", label: "NLP", slug: "natural-language-processing" },
+  { href: "/pages/large-language-models", label: "LLMs", slug: "large-language-models" },
+  { href: "/pages/computer-vision", label: "Computer Vision", slug: "computer-vision" },
+  { href: "/pages/artificial-intelligence", label: "AI", slug: "artificial-intelligence" },
+  { href: "/pages/data-engineering", label: "Data Engineering", slug: "data-engineering" },
+  { href: "/pages/career-advice", label: "Career", slug: "career-advice" },
+  { href: "/pages/books-by-abid", label: "Books", slug: "books-by-abid" },
+  { href: "/pages/cheat-sheets", label: "Cheat Sheets", slug: "cheat-sheets" }
 ];
+
+async function countArticles(slug: string): Promise<number> {
+  const filePath = path.join(PAGES_DIR, `${slug}.md`);
+
+  try {
+    const content = await fs.readFile(filePath, "utf-8");
+    return Array.from(content.matchAll(articleLinkPattern)).length;
+  } catch {
+    return 0;
+  }
+}
+
+const categories = (
+  await Promise.all(
+    categoryConfig.map(async (item) => ({
+      ...item,
+      articleCount: await countArticles(item.slug)
+    }))
+  )
+).sort((a, b) => b.articleCount - a.articleCount || a.label.localeCompare(b.label));
 ---
 
 <aside id="sidebar" aria-label="Topic navigation">
   <h2>Categories</h2>
-  <p class="sidebar-subtitle">Browse topics</p>
+  <p class="sidebar-subtitle">Browse topics by article count</p>
   <ul>
     {
       categories.map((item) => (
         <li>
           <a href={item.href}>
             <span>{item.label}</span>
+            <span class="sidebar-count" aria-label={`${item.articleCount} articles`}>
+              {item.articleCount}
+            </span>
           </a>
         </li>
       ))

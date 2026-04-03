@@ -21,8 +21,63 @@ if (!page) {
 }
 
 const pageTitle = `${page.title} | ${SITE.title}`;
+const topItemLimit = 10;
 ---
 
 <BaseLayout title={pageTitle} description={page.description} pathname={page.url}>
-  <article class="markdown-content" set:html={page.html}></article>
+  <article class="markdown-content" set:html={page.html} data-top-item-limit={topItemLimit}></article>
+  <script is:inline define:vars={{ topItemLimit }}>
+    const initCollapsibleLists = () => {
+      const article = document.querySelector(".markdown-content");
+      if (!article) return;
+
+      const setCollapsedLabel = (button, hiddenCount) => {
+        button.textContent = `View ${hiddenCount} more`;
+      };
+
+      const setExpandedLabel = (button, visibleCount) => {
+        button.textContent = `Show top ${visibleCount}`;
+      };
+
+      const lists = article.querySelectorAll("ul, ol");
+      for (const list of lists) {
+        if (list.dataset.collapsibleReady === "true") continue;
+
+        const items = Array.from(list.children).filter((child) => child.tagName === "LI");
+        if (items.length <= topItemLimit) continue;
+
+        list.dataset.collapsibleReady = "true";
+        const hiddenCount = items.length - topItemLimit;
+
+        for (const item of items.slice(topItemLimit)) {
+          item.classList.add("list-item-hidden");
+        }
+
+        const button = document.createElement("button");
+        button.type = "button";
+        button.className = "list-toggle-btn";
+        button.setAttribute("aria-expanded", "false");
+        setCollapsedLabel(button, hiddenCount);
+
+        button.addEventListener("click", () => {
+          const expanded = button.getAttribute("aria-expanded") === "true";
+          for (const item of items.slice(topItemLimit)) {
+            item.classList.toggle("list-item-hidden", expanded);
+          }
+
+          button.setAttribute("aria-expanded", expanded ? "false" : "true");
+          if (expanded) {
+            setCollapsedLabel(button, hiddenCount);
+          } else {
+            setExpandedLabel(button, topItemLimit);
+          }
+        });
+
+        list.insertAdjacentElement("afterend", button);
+      }
+    };
+
+    initCollapsibleLists();
+    document.addEventListener("astro:page-load", initCollapsibleLists);
+  </script>
 </BaseLayout>
