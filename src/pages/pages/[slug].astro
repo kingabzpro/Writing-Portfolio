@@ -32,11 +32,11 @@ const topItemLimit = 10;
       if (!article) return;
 
       const setCollapsedLabel = (button, hiddenCount) => {
-        button.textContent = `View ${hiddenCount} more`;
+        button.textContent = `Show ${hiddenCount} more`;
       };
 
-      const setExpandedLabel = (button, visibleCount) => {
-        button.textContent = `Show top ${visibleCount}`;
+      const setExpandedLabel = (button) => {
+        button.textContent = "Show less";
       };
 
       const lists = article.querySelectorAll("ul, ol");
@@ -69,7 +69,7 @@ const topItemLimit = 10;
           if (expanded) {
             setCollapsedLabel(button, hiddenCount);
           } else {
-            setExpandedLabel(button, topItemLimit);
+            setExpandedLabel(button);
           }
         });
 

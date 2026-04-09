@@ -5,6 +5,8 @@ import { marked } from "marked";
 import type { PortfolioPage } from "../types/content";
 
 const PAGES_DIR = path.resolve(process.cwd(), "pages");
+const BACK_HOME_BUTTON_PATTERN =
+  /<a\s+href="\/"\s+class="button\s+back-home-btn">[\s\S]*?<\/a>/gi;
 
 function formatSlug(slug: string): string {
   return slug
@@ -40,7 +42,7 @@ export async function getPageBySlug(slug: string): Promise<PortfolioPage | null>
   try {
     const source = await fs.readFile(filePath, "utf-8");
     const parsed = matter(source);
-    const rawContent = parsed.content.trim();
+    const rawContent = parsed.content.replace(BACK_HOME_BUTTON_PATTERN, "").trim();
     const fallbackTitle = extractH1(rawContent) ?? formatSlug(slug);
     const title = typeof parsed.data.title === "string" ? parsed.data.title : fallbackTitle;
     const description =
