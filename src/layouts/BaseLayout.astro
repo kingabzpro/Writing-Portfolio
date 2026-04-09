@@ -25,6 +25,20 @@ const seo = buildSeo({
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#1d2432" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0b101a" media="(prefers-color-scheme: dark)" />
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem("theme");
+          var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+          var theme = stored || (prefersDark ? "dark" : "light");
+          document.documentElement.setAttribute("data-theme", theme);
+        } catch (e) {
+          document.documentElement.setAttribute("data-theme", "light");
+        }
+      })();
+    </script>
     <title>{seo.title}</title>
     <meta name="description" content={seo.description} />
     <link rel="canonical" href={seo.canonical} />
@@ -50,11 +64,20 @@ const seo = buildSeo({
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Space+Grotesk:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    </noscript>
 
     <script type="application/ld+json" is:inline set:html={JSON.stringify({
       "@context": "https://schema.org",
@@ -76,15 +99,28 @@ const seo = buildSeo({
     </script>
   </head>
   <body>
+    <a href="#main-content" class="skip-link">Skip to content</a>
     <header class="site-header">
       <div class="inner">
         <a href="/" class="logo-link">
           <h1>{SITE.title}</h1>
         </a>
-        <a href="https://github.com/kingabzpro" class="button github-btn">
-          <small>Follow me on</small>
-          <span>GitHub</span>
-        </a>
+        <div class="header-actions">
+          <button
+            type="button"
+            class="theme-toggle"
+            id="themeToggle"
+            aria-label="Toggle color theme"
+            title="Toggle light / dark theme"
+          >
+            <i class="fas fa-moon theme-icon-light" aria-hidden="true"></i>
+            <i class="fas fa-sun theme-icon-dark" aria-hidden="true"></i>
+          </button>
+          <a href="https://github.com/kingabzpro" class="button github-btn">
+            <small>Follow me on</small>
+            <span>GitHub</span>
+          </a>
+        </div>
       </div>
     </header>
 
@@ -96,5 +132,20 @@ const seo = buildSeo({
         <Sidebar />
       </div>
     </div>
+
+    <script is:inline>
+      (function () {
+        var btn = document.getElementById("themeToggle");
+        if (!btn) return;
+        btn.addEventListener("click", function () {
+          var current = document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
+          var next = current === "dark" ? "light" : "dark";
+          document.documentElement.setAttribute("data-theme", next);
+          try {
+            localStorage.setItem("theme", next);
+          } catch (e) {}
+        });
+      })();
+    </script>
   </body>
 </html>

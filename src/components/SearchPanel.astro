@@ -1,45 +1,65 @@
 <section class="home-section">
-  <div class="search-container">
-    <i class="fas fa-search search-icon"></i>
+  <h2>Search Articles</h2>
+  <div class="search-container" id="searchContainer">
+    <i class="fas fa-search search-icon" aria-hidden="true"></i>
     <input
       type="text"
       id="searchInput"
       class="search-input"
-      placeholder="Search articles..."
+      placeholder="Search by title, category, or content..."
       autocomplete="off"
+      aria-label="Search articles"
     />
+    <kbd class="search-kbd" aria-hidden="true">/</kbd>
+    <button type="button" id="searchClear" class="search-clear" aria-label="Clear search">
+      <i class="fas fa-times" aria-hidden="true"></i>
+    </button>
   </div>
+  <p class="search-meta" id="searchMeta" aria-live="polite"></p>
   <div id="searchResults" class="search-results"></div>
 </section>
 
 <script is:inline>
   const input = document.getElementById("searchInput");
+  const container = document.getElementById("searchContainer");
+  const clearBtn = document.getElementById("searchClear");
   const resultsNode = document.getElementById("searchResults");
+  const metaNode = document.getElementById("searchMeta");
   let articles = [];
+  let debounceTimer = null;
 
-  function showMessage(message) {
-    if (!resultsNode) return;
-    const p = document.createElement("p");
-    p.textContent = message;
-    resultsNode.replaceChildren(p);
+  function setMeta(text) {
+    if (metaNode) metaNode.textContent = text || "";
   }
 
-  function renderResults(results) {
+  function clearResults() {
+    if (resultsNode) resultsNode.replaceChildren();
+    setMeta("");
+  }
+
+  function renderResults(results, query) {
     if (!resultsNode) return;
     resultsNode.replaceChildren();
 
     if (!results.length) {
-      showMessage("No results found.");
+      setMeta(`No results for "${query}"`);
       return;
     }
 
-    results.forEach((article) => {
+    setMeta(`${results.length} result${results.length === 1 ? "" : "s"} for "${query}"`);
+
+    const shown = results.slice(0, 25);
+    shown.forEach((article) => {
       const card = document.createElement("div");
       card.className = "search-result";
 
       const link = document.createElement("a");
       link.href = article.url;
       link.textContent = article.title;
+      if (/^https?:/.test(article.url)) {
+        link.target = "_blank";
+        link.rel = "noreferrer";
+      }
 
       const category = document.createElement("div");
       category.className = "search-result-category";
@@ -58,27 +78,69 @@
       articles = Array.isArray(payload) ? payload : [];
     } catch (error) {
       console.error("Error loading search data:", error);
-      showMessage("Error loading search data. Please try again later.");
+      setMeta("Error loading search data. Please try again later.");
     }
   }
 
-  input?.addEventListener("input", (event) => {
-    const query = event.target.value.trim().toLowerCase();
+  function runSearch(query) {
     if (!resultsNode) return;
-
     if (query.length < 2) {
-      resultsNode.replaceChildren();
+      clearResults();
       return;
     }
-
     const matched = articles.filter((article) => {
       const title = (article.title || "").toLowerCase();
       const content = (article.content || "").toLowerCase();
       const category = (article.category || "").toLowerCase();
       return title.includes(query) || content.includes(query) || category.includes(query);
     });
+    renderResults(matched, query);
+  }
 
-    renderResults(matched);
+  input?.addEventListener("input", (event) => {
+    const value = event.target.value;
+    const query = value.trim().toLowerCase();
+    if (container) container.classList.toggle("has-value", value.length > 0);
+    window.clearTimeout(debounceTimer);
+    debounceTimer = window.setTimeout(() => runSearch(query), 120);
+  });
+
+  clearBtn?.addEventListener("click", () => {
+    if (!input) return;
+    input.value = "";
+    container?.classList.remove("has-value");
+    clearResults();
+    input.focus();
+  });
+
+  document.addEventListener("keydown", (event) => {
+    const target = event.target;
+    const isTyping =
+      target instanceof HTMLElement &&
+      (target.tagName === "INPUT" || target.tagName === "TEXTAREA" || target.isContentEditable);
+
+    if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "k") {
+      event.preventDefault();
+      input?.focus();
+      input?.select();
+      return;
+    }
+
+    if (event.key === "/" && !isTyping) {
+      event.preventDefault();
+      input?.focus();
+      return;
+    }
+
+    if (event.key === "Escape" && document.activeElement === input) {
+      if (input && input.value) {
+        input.value = "";
+        container?.classList.remove("has-value");
+        clearResults();
+      } else {
+        input?.blur();
+      }
+    }
   });
 
   loadSearchData();

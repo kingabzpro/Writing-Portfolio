@@ -45,13 +45,19 @@ const categories = (
 
 <aside id="sidebar" aria-label="Topic navigation">
   <h2>Categories</h2>
-  <p class="sidebar-subtitle">Browse topics by article count</p>
+  <p class="sidebar-subtitle">Sorted by article count</p>
   <ul>
     {
       categories.map((item) => (
         <li>
           <a href={item.href}>
-            <span>{item.label}</span>
+            <span class="sidebar-label">{item.label}</span>
+            {item.articleCount > 0 ? (
+              <span class="sidebar-count" aria-label={`${item.articleCount} articles`}>
+                {item.articleCount}
+              </span>
+            ) : null}
+            <span class="sidebar-chevron" aria-hidden="true">›</span>
           </a>
         </li>
       ))

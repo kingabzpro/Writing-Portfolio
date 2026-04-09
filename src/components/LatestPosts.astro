@@ -1,69 +1,57 @@
+---
+import fs from "node:fs/promises";
+import path from "node:path";
+import type { LatestEntry } from "../types/content";
+
+const latestPath = path.resolve(process.cwd(), "public/assets/data/latest.json");
+
+let latest: LatestEntry[] = [];
+try {
+  const raw = await fs.readFile(latestPath, "utf-8");
+  const parsed = JSON.parse(raw);
+  if (Array.isArray(parsed)) {
+    latest = parsed.slice(0, 3);
+  }
+} catch {
+  latest = [];
+}
+
+function formatDate(value: string): string {
+  if (!value) return "";
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return value;
+  return date.toLocaleDateString("en-US", {
+    year: "numeric",
+    month: "short",
+    day: "2-digit"
+  });
+}
+---
+
 <section class="home-section">
   <h2>Latest Posts</h2>
-  <div id="latestList" class="latest-list-wrapper"></div>
-</section>
-
-<script is:inline>
-  async function renderLatest() {
-    const container = document.getElementById("latestList");
-    if (!container) return;
-
-    try {
-      const response = await fetch("/assets/data/latest.json");
-      if (!response.ok) throw new Error("Failed to load latest.json");
-
-      const data = await response.json();
-      const latest = Array.isArray(data) ? data.slice(0, 3) : [];
-
-      if (!latest.length) {
-        container.innerHTML = "<p>No recent posts.</p>";
-        return;
-      }
-
-      const formatDate = (value) => {
-        if (!value) return "";
-        const date = new Date(value);
-        if (Number.isNaN(date.getTime())) return value;
-        return date.toLocaleDateString(undefined, {
-          year: "numeric",
-          month: "short",
-          day: "2-digit"
-        });
-      };
-
-      const list = document.createElement("ul");
-      list.className = "latest-list";
-
-      latest.forEach((item) => {
-        const row = document.createElement("li");
-        row.className = "latest-item";
-
-        const dot = document.createElement("span");
-        dot.className = "latest-dot";
-
-        const link = document.createElement("a");
-        link.className = "latest-link";
-        link.href = item.url;
-        link.textContent = item.title;
-
-        row.append(dot, link);
-
-        if (item.date) {
-          const date = document.createElement("span");
-          date.className = "latest-date";
-          date.textContent = formatDate(item.date);
-          row.append(date);
-        }
-
-        list.append(row);
-      });
-
-      container.replaceChildren(list);
-    } catch (error) {
-      console.error("Failed to load latest posts:", error);
-      container.innerHTML = "<p>Could not load latest posts.</p>";
-    }
+  {
+    latest.length === 0 ? (
+      <p>No recent posts.</p>
+    ) : (
+      <ul class="latest-list">
+        {latest.map((item) => (
+          <li class="latest-item">
+            <span class="latest-dot" aria-hidden="true"></span>
+            <a
+              class="latest-link"
+              href={item.url}
+              target="_blank"
+              rel="noreferrer"
+            >
+              {item.title}
+            </a>
+            {item.date ? (
+              <span class="latest-date">{formatDate(item.date)}</span>
+            ) : null}
+          </li>
+        ))}
+      </ul>
+    )
   }
-
-  renderLatest();
-</script>
+</section>
