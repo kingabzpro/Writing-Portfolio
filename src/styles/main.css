@@ -165,17 +165,17 @@ a:hover {
   border: 1px solid transparent;
 }
 
-.github-btn {
+.social-btn {
   background: #fff;
   color: #1b1f2a;
 }
 
-.github-btn small {
+.social-btn small {
   font-size: 0.72rem;
   color: #5e6b85;
 }
 
-.github-btn:hover {
+.social-btn:hover {
   transform: translateY(-1px);
   box-shadow: var(--shadow-soft);
 }
@@ -310,6 +310,8 @@ a:hover {
 
 .home-section {
   margin-top: 2rem;
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 420px;
 }
 
 .home-section h2 {
@@ -909,41 +911,6 @@ a:hover {
   gap: 0.6rem;
 }
 
-/* Theme toggle button */
-.theme-toggle {
-  width: 42px;
-  height: 42px;
-  border-radius: 999px;
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  background: rgba(255, 255, 255, 0.08);
-  color: #fff;
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1rem;
-  padding: 0;
-  transition: background-color 150ms ease, transform 150ms ease, border-color 150ms ease;
-}
-
-.theme-toggle:hover {
-  background: rgba(255, 255, 255, 0.18);
-  border-color: rgba(255, 255, 255, 0.5);
-  transform: translateY(-1px);
-}
-
-.theme-toggle .theme-icon-dark {
-  display: none;
-}
-
-html[data-theme="dark"] .theme-toggle .theme-icon-light {
-  display: none;
-}
-
-html[data-theme="dark"] .theme-toggle .theme-icon-dark {
-  display: inline;
-}
-
 /* Skip to content link */
 .skip-link {
   position: absolute;
@@ -1000,13 +967,13 @@ html[data-theme="dark"] .markdown-content img {
   filter: brightness(0.92) contrast(1.02);
 }
 
-html[data-theme="dark"] .github-btn {
+html[data-theme="dark"] .social-btn {
   background: var(--card);
   color: var(--ink-950);
   border: 1px solid var(--border);
 }
 
-html[data-theme="dark"] .github-btn small {
+html[data-theme="dark"] .social-btn small {
   color: var(--ink-500);
 }
 
@@ -1026,7 +993,6 @@ html[data-theme="dark"] .github-btn small {
   .latest-item:hover,
   .search-result:hover,
   #sidebar a:hover,
-  .theme-toggle:hover,
   .markdown-content .list-toggle-btn:hover {
     transform: none;
   }

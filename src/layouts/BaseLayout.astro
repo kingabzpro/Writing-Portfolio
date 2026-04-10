@@ -30,9 +30,9 @@ const seo = buildSeo({
     <script is:inline>
       (function () {
         try {
+          var themeToggleEnabled = false;
           var stored = localStorage.getItem("theme");
-          var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-          var theme = stored || (prefersDark ? "dark" : "light");
+          var theme = themeToggleEnabled && (stored === "dark" || stored === "light") ? stored : "light";
           document.documentElement.setAttribute("data-theme", theme);
         } catch (e) {
           document.documentElement.setAttribute("data-theme", "light");
@@ -67,8 +67,16 @@ const seo = buildSeo({
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Space+Grotesk:wght@400;500;700&display=swap"
-      rel="stylesheet"
+      rel="preload"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
     />
+    <noscript>
+      <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      />
+    </noscript>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
@@ -106,19 +114,14 @@ const seo = buildSeo({
           <h1>{SITE.title}</h1>
         </a>
         <div class="header-actions">
-          <button
-            type="button"
-            class="theme-toggle"
-            id="themeToggle"
-            aria-label="Toggle color theme"
-            title="Toggle light / dark theme"
+          <a
+            href="https://linkedin.com/in/1abidaliawan"
+            class="button social-btn"
+            target="_blank"
+            rel="noreferrer"
           >
-            <i class="fas fa-moon theme-icon-light" aria-hidden="true"></i>
-            <i class="fas fa-sun theme-icon-dark" aria-hidden="true"></i>
-          </button>
-          <a href="https://github.com/kingabzpro" class="button github-btn">
             <small>Follow me on</small>
-            <span>GitHub</span>
+            <span>LinkedIn</span>
           </a>
         </div>
       </div>
@@ -132,20 +135,5 @@ const seo = buildSeo({
         <Sidebar />
       </div>
     </div>
-
-    <script is:inline>
-      (function () {
-        var btn = document.getElementById("themeToggle");
-        if (!btn) return;
-        btn.addEventListener("click", function () {
-          var current = document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
-          var next = current === "dark" ? "light" : "dark";
-          document.documentElement.setAttribute("data-theme", next);
-          try {
-            localStorage.setItem("theme", next);
-          } catch (e) {}
-        });
-      })();
-    </script>
   </body>
 </html>

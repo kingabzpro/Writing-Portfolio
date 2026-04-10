@@ -27,6 +27,7 @@
   const metaNode = document.getElementById("searchMeta");
   let articles = [];
   let debounceTimer = null;
+  let searchLoadedPromise = null;
 
   function setMeta(text) {
     if (metaNode) metaNode.textContent = text || "";
@@ -72,27 +73,46 @@
 
   async function loadSearchData() {
     try {
-      const response = await fetch("/search.json");
+      const response = await fetch("/search.json", { priority: "low" });
       if (!response.ok) throw new Error("Failed to load search data");
       const payload = await response.json();
-      articles = Array.isArray(payload) ? payload : [];
+      articles = Array.isArray(payload)
+        ? payload.map((article) => ({
+            ...article,
+            searchTitle: (article.title || "").toLowerCase(),
+            searchContent: (article.content || "").toLowerCase(),
+            searchCategory: (article.category || "").toLowerCase()
+          }))
+        : [];
     } catch (error) {
       console.error("Error loading search data:", error);
       setMeta("Error loading search data. Please try again later.");
     }
   }
 
-  function runSearch(query) {
+  function ensureSearchData() {
+    if (!searchLoadedPromise) {
+      searchLoadedPromise = loadSearchData();
+    }
+
+    return searchLoadedPromise;
+  }
+
+  async function runSearch(query) {
     if (!resultsNode) return;
     if (query.length < 2) {
       clearResults();
       return;
     }
+
+    await ensureSearchData();
+
     const matched = articles.filter((article) => {
-      const title = (article.title || "").toLowerCase();
-      const content = (article.content || "").toLowerCase();
-      const category = (article.category || "").toLowerCase();
-      return title.includes(query) || content.includes(query) || category.includes(query);
+      return (
+        article.searchTitle.includes(query) ||
+        article.searchContent.includes(query) ||
+        article.searchCategory.includes(query)
+      );
     });
     renderResults(matched, query);
   }
@@ -104,6 +124,10 @@
     window.clearTimeout(debounceTimer);
     debounceTimer = window.setTimeout(() => runSearch(query), 120);
   });
+
+  input?.addEventListener("focus", () => {
+    void ensureSearchData();
+  }, { once: true });
 
   clearBtn?.addEventListener("click", () => {
     if (!input) return;
@@ -121,6 +145,7 @@
 
     if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === "k") {
       event.preventDefault();
+      void ensureSearchData();
       input?.focus();
       input?.select();
       return;
@@ -128,6 +153,7 @@
 
     if (event.key === "/" && !isTyping) {
       event.preventDefault();
+      void ensureSearchData();
       input?.focus();
       return;
     }
@@ -142,6 +168,4 @@
       }
     }
   });
-
-  loadSearchData();
 </script>

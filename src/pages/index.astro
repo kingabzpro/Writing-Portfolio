@@ -57,7 +57,16 @@ const miscItems = [
 
 <BaseLayout title={SITE.title} description={SITE.description} pathname="/">
   <section class="author-section">
-    <img src="/assets/images/author.jpg" alt="Abid profile picture" class="author-image" />
+    <img
+      src="/assets/images/author.jpg"
+      alt="Abid profile picture"
+      class="author-image"
+      width="120"
+      height="120"
+      loading="eager"
+      decoding="async"
+      fetchpriority="high"
+    />
     <div class="author-bio">
       <h2 class="author-title">Hello, I'm Abid Ali Awan</h2>
       <p class="author-description">
