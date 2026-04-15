@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [NanoClaw Tutorial: Build a Lightweight Local-First Agent](https://www.datacamp.com/tutorial/nanoclaw-tutorial)
 - [7 Free Web APIs Every Developer and Vibe Coder Should Know](https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know)
 - [Getting Started with Nanobot: Build Your First AI Agent](https://www.kdnuggets.com/getting-started-with-nanobot-build-your-first-ai-agent)
 - [Claude Code Channels With Discord: Step-by-Step Setup Guide](https://www.datacamp.com/tutorial/claude-code-channels)

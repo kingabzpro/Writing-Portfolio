@@ -1165,6 +1165,11 @@
     "category": "Cheat Sheets"
   },
   {
+    "title": "Bonsai AI Tutorial: Run a 1-Bit LLM Locally On an Old Laptop",
+    "url": "https://www.datacamp.com/tutorial/run-bonsai-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Build AI Chatbot in 5 Minutes with Hugging Face and Gradio",
     "url": "https://www.kdnuggets.com/2023/06/build-ai-chatbot-5-minutes-hugging-face-gradio.html",
     "category": "Machine Learning Operations (MLOps)"
@@ -1930,6 +1935,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "How to Fine-Tune Gemma 4: A Full Walkthrough with a Human Emotions Dataset",
+    "url": "https://www.datacamp.com/tutorial/fine-tune-gemma-4",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "How to Generate Synthetic Tabular Dataset",
     "url": "https://www.kdnuggets.com/2022/03/generate-tabular-synthetic-dataset.html",
     "category": "Data Science"
@@ -1980,6 +1990,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "How to Run GLM 5.1 Locally For Agentic Coding",
+    "url": "https://www.datacamp.com/tutorial/run-glm-5-1-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "How to Run GLM-4.7 Locally with llama.cpp: A High-Performance Guide",
     "url": "https://www.datacamp.com/tutorial/run-glm-4-7-locally",
     "category": "Large Language Models (LLMs)"
@@ -2017,6 +2032,11 @@
   {
     "title": "How to Run Qwen3-Next Locally",
     "url": "https://www.datacamp.com/tutorial/how-to-run-qwen3-next-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "How to Run Qwen3.5-27B Locally for Agentic Coding",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-qwen3-5-27b-locally",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -2265,6 +2285,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "NanoClaw Tutorial: Build a Lightweight Local-First Agent",
+    "url": "https://www.datacamp.com/tutorial/nanoclaw-tutorial",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "New Ways of Sharing Code Blocks for Data Scientists",
     "url": "https://www.kdnuggets.com/2022/03/new-ways-sharing-code-blocks.html",
     "category": "Programming"
@@ -2447,6 +2472,11 @@
   {
     "title": "Run Qwen3-Coder-Next Locally: Vibe Code an Analytics Dashboard",
     "url": "https://www.datacamp.com/tutorial/run-qwen3-coder-next-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Run Qwen3.5 on an Old Laptop: A Lightweight Local Agentic AI Setup Guide",
+    "url": "https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -3065,6 +3095,11 @@
     "category": "Artificial Intelligence (AI)"
   },
   {
+    "title": "Top 7 Docker Compose Templates Every Developer Should Use",
+    "url": "https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
     "title": "Top 7 Essential Cheat Sheets To Ace Your Data Science Interview",
     "url": "https://www.kdnuggets.com/top-7-essential-cheat-sheets-to-ace-your-data-science-interview",
     "category": "Career Advice"
@@ -3188,6 +3223,11 @@
     "title": "Unlocking the Potential of Google Bard for Data Science Projects",
     "url": "https://www.datacamp.com/blog/google-bard-for-data-science-projects",
     "category": "Data Science"
+  },
+  {
+    "title": "Unsloth Studio Fine-Tuning LLMs Guide",
+    "url": "https://www.datacamp.com/tutorial/unsloth-studio-fine-tuning-llms-guide",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "Using ChatGPT for Translation Effectively",

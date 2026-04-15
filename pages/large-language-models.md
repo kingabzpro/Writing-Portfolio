@@ -4,6 +4,12 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Bonsai AI Tutorial: Run a 1-Bit LLM Locally On an Old Laptop](https://www.datacamp.com/tutorial/run-bonsai-locally)
+- [How to Run GLM 5.1 Locally For Agentic Coding](https://www.datacamp.com/tutorial/run-glm-5-1-locally)
+- [How to Fine-Tune Gemma 4: A Full Walkthrough with a Human Emotions Dataset](https://www.datacamp.com/tutorial/fine-tune-gemma-4)
+- [Run Qwen3.5 on an Old Laptop: A Lightweight Local Agentic AI Setup Guide](https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide)
+- [How to Run Qwen3.5-27B Locally for Agentic Coding](https://www.datacamp.com/tutorial/how-to-run-qwen3-5-27b-locally)
+- [Unsloth Studio Fine-Tuning LLMs Guide](https://www.datacamp.com/tutorial/unsloth-studio-fine-tuning-llms-guide)
 - [How to Run Unsloth Studio Locally: Step-by-Step Guide](https://www.datacamp.com/tutorial/how-to-run-unsloth-studio-locally)
 - [How to Run Qwen 3.5 Locally on a Single GPU: Step-by-Step Guide](https://www.datacamp.com/tutorial/run-qwen-3-5-locally)
 - [Run a Real Time Speech to Speech AI Model Locally](https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally)
