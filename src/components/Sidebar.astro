@@ -41,10 +41,18 @@ const categories = (
     }))
   )
 ).sort((a, b) => b.articleCount - a.articleCount || a.label.localeCompare(b.label));
+
+const totalArticleCount = categories.reduce((total, item) => total + item.articleCount, 0);
 ---
 
 <aside id="sidebar" aria-label="Topic navigation">
-  <h2>Categories</h2>
+  <div class="sidebar-heading">
+    <h2>Categories</h2>
+    <p class="sidebar-total" aria-label={`${totalArticleCount} articles across all categories`}>
+      <span>{totalArticleCount}</span>
+      <small>articles</small>
+    </p>
+  </div>
   <p class="sidebar-subtitle">Sorted by article count</p>
   <ul>
     {
