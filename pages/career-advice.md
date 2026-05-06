@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## GitHub Repositories
 
+- [10 GitHub Repositories To Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code)
 - [10 GitHub Repositories to Master OpenClaw](https://www.kdnuggets.com/10-github-repositories-to-master-openclaw)
 - [10 GitHub Repositories to Master System Design](https://www.kdnuggets.com/10-github-repositories-to-master-system-design)
 - [10 GitHub Repositories to Ace Any Tech Interview](https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview)

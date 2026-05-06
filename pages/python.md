@@ -3,6 +3,10 @@
 A collection of resources, tutorials, and articles about Python.
 
 ## Articles
+
+- [10 Python Libraries for Building LLM Applications](https://www.kdnuggets.com/10-python-libraries-for-building-llm-applications)
+- [5 Free Ways to Host a Python Application](https://www.kdnuggets.com/5-free-ways-to-host-a-python-application)
+- [How to Crawl an Entire Documentation Site with Olostep](https://www.kdnuggets.com/how-to-crawl-an-entire-documentation-site-with-olostep)
 - [Getting Started with Python Async Programming](https://www.kdnuggets.com/getting-started-with-python-async-programming)
 - [Top 7 Python Libraries for Progress Bars](https://www.kdnuggets.com/top-7-python-libraries-for-progress-bars)
 - [Top 15 Python Projects to Build in 2025: From Beginner to Production](https://www.firecrawl.dev/blog/15-python-projects-2025)

@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [How to Deploy Your First App on FastAPI Cloud](https://www.kdnuggets.com/how-to-deploy-your-first-app-on-fastapi-cloud)
+- [Train, Serve, and Deploy a Scikit-learn Model with FastAPI](https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/)
 - [Top 7 Docker Compose Templates Every Developer Should Use](https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use)
 - [Top 5 Self Hosting Platform Alternative to Vercel, Heroku & Netlify](https://www.kdnuggets.com/top-5-self-hosting-platform-alternative-to-vercel-heroku-netlify)
 - [10 GitHub Repositories to Master Machine Learning Deployment](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment)

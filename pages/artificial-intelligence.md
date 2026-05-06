@@ -4,7 +4,13 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [How to Set Up Claude Code Channels Locally](https://www.kdnuggets.com/how-to-set-up-claude-code-channels-locally)
+- [How to Use Olostep with Claude Code Channels](https://www.olostep.com/blog/use-olostep-with-claude-code-channels)
+- [How to Automate Investment Research Using Olostep and n8n](https://www.olostep.com/blog/automate-investment-research-olostep-n8n)
+- [7 OpenCode Plugins That Make AI Coding More Powerful](https://www.kdnuggets.com/7-opencode-plugins-that-make-ai-coding-more-powerful)
+- [OpenAI Agents SDK: How to Run Agents in Modal Sandboxes](https://www.datacamp.com/tutorial/openai-agents-sdk-modal-sandbox)
 - [NanoClaw Tutorial: Build a Lightweight Local-First Agent](https://www.datacamp.com/tutorial/nanoclaw-tutorial)
+- [7 Practical OpenClaw Use Cases You Should Know](https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know)
 - [7 Free Web APIs Every Developer and Vibe Coder Should Know](https://www.kdnuggets.com/7-free-web-apis-every-developer-and-vibe-coder-should-know)
 - [Getting Started with Nanobot: Build Your First AI Agent](https://www.kdnuggets.com/getting-started-with-nanobot-build-your-first-ai-agent)
 - [Claude Code Channels With Discord: Step-by-Step Setup Guide](https://www.datacamp.com/tutorial/claude-code-channels)

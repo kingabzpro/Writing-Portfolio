@@ -1,17 +1,17 @@
 [
   {
-    "title": "Top 7 Docker Compose Templates Every Developer Should Use",
-    "url": "https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use",
-    "date": "2026-04-14"
+    "title": "How to Set Up Claude Code Channels Locally",
+    "url": "https://www.kdnuggets.com/how-to-set-up-claude-code-channels-locally",
+    "date": "2026-04-15"
   },
   {
-    "title": "Bonsai AI Tutorial: Run a 1-Bit LLM Locally On an Old Laptop",
-    "url": "https://www.datacamp.com/tutorial/run-bonsai-locally",
-    "date": "2026-04-13"
+    "title": "How to Run DeepSeek V4 Flash Locally",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-deepseek-v4-flash-locally",
+    "date": "2026-05-05"
   },
   {
-    "title": "How to Run GLM 5.1 Locally For Agentic Coding",
-    "url": "https://www.datacamp.com/tutorial/run-glm-5-1-locally",
-    "date": "2026-04-09"
+    "title": "OpenAI Agents SDK: How to Run Agents in Modal Sandboxes",
+    "url": "https://www.datacamp.com/tutorial/openai-agents-sdk-modal-sandbox",
+    "date": "2026-04-27"
   }
 ]

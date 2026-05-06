@@ -65,6 +65,11 @@
     "category": "Programming"
   },
   {
+    "title": "10 GitHub Repositories To Master Claude Code",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-claude-code",
+    "category": "Career Advice"
+  },
+  {
     "title": "10 GitHub Repositories for Deep Learning Enthusiasts",
     "url": "https://www.kdnuggets.com/10-github-repositories-for-deep-learning-enthusiasts",
     "category": "Career Advice"
@@ -313,6 +318,11 @@
     "title": "10 Most Used Tableau Functions",
     "url": "https://www.kdnuggets.com/2022/08/10-used-tableau-functions.html",
     "category": "Data Science"
+  },
+  {
+    "title": "10 Python Libraries for Building LLM Applications",
+    "url": "https://www.kdnuggets.com/10-python-libraries-for-building-llm-applications",
+    "category": "Python"
   },
   {
     "title": "10 Ways To Access GPT-OSS 120B for Free",
@@ -593,6 +603,11 @@
     "title": "5 Free Tools For Detecting ChatGPT, GPT3, and GPT2",
     "url": "https://www.kdnuggets.com/2023/02/5-free-tools-detecting-chatgpt-gpt3-gpt2.html",
     "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "5 Free Ways to Host a Python Application",
+    "url": "https://www.kdnuggets.com/5-free-ways-to-host-a-python-application",
+    "category": "Python"
   },
   {
     "title": "5 Highest-paid Languages to Learn This Year",
@@ -890,9 +905,19 @@
     "category": "Programming"
   },
   {
+    "title": "7 OpenCode Plugins That Make AI Coding More Powerful",
+    "url": "https://www.kdnuggets.com/7-opencode-plugins-that-make-ai-coding-more-powerful",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "7 Platforms for Getting High Paying Data Science Jobs",
     "url": "https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs",
     "category": "Career Advice"
+  },
+  {
+    "title": "7 Practical OpenClaw Use Cases You Should Know",
+    "url": "https://www.kdnuggets.com/7-practical-openclaw-use-cases-you-should-know",
+    "category": "Artificial Intelligence (AI)"
   },
   {
     "title": "7 Projects to Master Data Engineering",
@@ -1595,6 +1620,11 @@
     "category": "Computer Vision"
   },
   {
+    "title": "Fine-Tuning NVIDIA Nemotron-3-Nano On Psychology Q&A Data",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-nvidia-nemotron-3-nano",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
     "title": "Fine-Tuning Phi-3.5 on E-Commerce Classification Dataset",
     "url": "https://www.datacamp.com/tutorial/fine-tuning-phi-3-5",
     "category": "Large Language Models (LLMs)"
@@ -1612,6 +1642,11 @@
   {
     "title": "Fine-Tuning Qwen3.5 Small With QLoRA For News Classification",
     "url": "https://www.datacamp.com/tutorial/fine-tuning-qwen3-5-small",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Fine-Tuning Qwen3.6 On a Medical Q&A Dataset",
+    "url": "https://www.datacamp.com/tutorial/fine-tuning-qwen3-6",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -1795,6 +1830,11 @@
     "category": "Cheat Sheets"
   },
   {
+    "title": "Getting Started with Zero-Shot Text Classification",
+    "url": "https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/",
+    "category": "Natural Language Processing (NLP)"
+  },
+  {
     "title": "Getting Started with the Claude 2 and Anthropic API",
     "url": "https://www.datacamp.com/tutorial/getting-started-with-the-claude-2-and-the-claude-2-api",
     "category": "Artificial Intelligence (AI)"
@@ -1900,6 +1940,11 @@
     "category": "Career Advice"
   },
   {
+    "title": "How to Automate Investment Research Using Olostep and n8n",
+    "url": "https://www.olostep.com/blog/automate-investment-research-olostep-n8n",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "How to Build Strong Data Science Portfolio as a Beginner",
     "url": "https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html",
     "category": "Data Science"
@@ -1908,6 +1953,11 @@
     "title": "How to Choose The Best Data Science Bootcamp in 2023",
     "url": "https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp",
     "category": "Career Advice"
+  },
+  {
+    "title": "How to Crawl an Entire Documentation Site with Olostep",
+    "url": "https://www.kdnuggets.com/how-to-crawl-an-entire-documentation-site-with-olostep",
+    "category": "Python"
   },
   {
     "title": "How to Create a Dermatology Q&A Dataset with OpenAI Harmony & Firecrawl Search",
@@ -1927,6 +1977,11 @@
   {
     "title": "How to Deploy Llama 3.3 70B on the Cloud: A Hands-On Guide",
     "url": "https://www.datacamp.com/tutorial/deploy-llama-33-70b-on-the-cloud",
+    "category": "Machine Learning Operations (MLOps)"
+  },
+  {
+    "title": "How to Deploy Your First App on FastAPI Cloud",
+    "url": "https://www.kdnuggets.com/how-to-deploy-your-first-app-on-fastapi-cloud",
     "category": "Machine Learning Operations (MLOps)"
   },
   {
@@ -1978,6 +2033,11 @@
     "title": "How to Reach $500K on Upwork",
     "url": "https://www.kdnuggets.com/how-to-reach-500k-on-upwork",
     "category": "Career Advice"
+  },
+  {
+    "title": "How to Run DeepSeek V4 Flash Locally",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-deepseek-v4-flash-locally",
+    "category": "Large Language Models (LLMs)"
   },
   {
     "title": "How to Run FLUX.2 Locally on an RTX 3090",
@@ -2050,6 +2110,11 @@
     "category": "Large Language Models (LLMs)"
   },
   {
+    "title": "How to Set Up Claude Code Channels Locally",
+    "url": "https://www.kdnuggets.com/how-to-set-up-claude-code-channels-locally",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "How to Setup Julia on Jupyter Notebook",
     "url": "https://www.kdnuggets.com/2022/11/setup-julia-jupyter-notebook.html",
     "category": "Programming"
@@ -2057,6 +2122,11 @@
   {
     "title": "How to Use DeepSeek Janus-Pro Locally",
     "url": "https://www.datacamp.com/tutorial/how-to-use-deepseek-janus-pro-locally",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
+    "title": "How to Use Olostep with Claude Code Channels",
+    "url": "https://www.olostep.com/blog/use-olostep-with-claude-code-channels",
     "category": "Artificial Intelligence (AI)"
   },
   {
@@ -2315,6 +2385,11 @@
     "category": "Python"
   },
   {
+    "title": "OpenAI Agents SDK: How to Run Agents in Modal Sandboxes",
+    "url": "https://www.datacamp.com/tutorial/openai-agents-sdk-modal-sandbox",
+    "category": "Artificial Intelligence (AI)"
+  },
+  {
     "title": "OpenAI Codex CLI Tutorial",
     "url": "https://www.datacamp.com/tutorial/open-ai-codex-cli-tutorial",
     "category": "Artificial Intelligence (AI)"
@@ -2492,6 +2567,11 @@
   {
     "title": "Run the Full DeepSeek-R1-0528 Model Locally",
     "url": "https://www.kdnuggets.com/run-the-full-deepseek-r1-0528-model-locally",
+    "category": "Large Language Models (LLMs)"
+  },
+  {
+    "title": "Running MiniMax M2.7 Locally for Agentic Coding",
+    "url": "https://www.datacamp.com/tutorial/running-minimax-m-2-7-locally",
     "category": "Large Language Models (LLMs)"
   },
   {
@@ -3188,6 +3268,11 @@
     "title": "Trae: Adaptive AI Code Editor",
     "url": "https://www.kdnuggets.com/trae-adaptive-ai-code-editor",
     "category": "Programming"
+  },
+  {
+    "title": "Train, Serve, and Deploy a Scikit-learn Model with FastAPI",
+    "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/",
+    "category": "Machine Learning Operations (MLOps)"
   },
   {
     "title": "Training BERT Text Classifier on Tensor Processing Unit (TPU)",

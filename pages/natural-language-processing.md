@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Natural Language Proces
 
 ## Articles
 
+- [Getting Started with Zero-Shot Text Classification](https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/)
 - [Top 5 Text-to-Speech Open Source Models](https://www.kdnuggets.com/top-5-text-to-speech-open-source-models)
 - [10 GitHub Repositories to Master Natural Language Processing (NLP)](https://www.kdnuggets.com/10-github-repositories-to-master-natural-language-processing-nlp) 
 - [What is Named Entity Recognition (NER)? Methods, Use Cases, and Challenges](https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
