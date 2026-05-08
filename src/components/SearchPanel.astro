@@ -29,6 +29,16 @@
   let debounceTimer = null;
   let searchLoadedPromise = null;
 
+  function setSearchParam(query) {
+    const url = new URL(window.location.href);
+    if (query) {
+      url.searchParams.set("q", query);
+    } else {
+      url.searchParams.delete("q");
+    }
+    window.history.replaceState({}, "", url);
+  }
+
   function setMeta(text) {
     if (metaNode) metaNode.textContent = text || "";
   }
@@ -122,7 +132,10 @@
     const query = value.trim().toLowerCase();
     if (container) container.classList.toggle("has-value", value.length > 0);
     window.clearTimeout(debounceTimer);
-    debounceTimer = window.setTimeout(() => runSearch(query), 120);
+    debounceTimer = window.setTimeout(() => {
+      setSearchParam(query);
+      void runSearch(query);
+    }, 120);
   });
 
   input?.addEventListener("focus", () => {
@@ -133,6 +146,7 @@
     if (!input) return;
     input.value = "";
     container?.classList.remove("has-value");
+    setSearchParam("");
     clearResults();
     input.focus();
   });
@@ -162,10 +176,18 @@
       if (input && input.value) {
         input.value = "";
         container?.classList.remove("has-value");
+        setSearchParam("");
         clearResults();
       } else {
         input?.blur();
       }
     }
   });
+
+  const initialQuery = new URLSearchParams(window.location.search).get("q")?.trim() ?? "";
+  if (input && initialQuery.length > 0) {
+    input.value = initialQuery;
+    container?.classList.add("has-value");
+    void runSearch(initialQuery.toLowerCase());
+  }
 </script>

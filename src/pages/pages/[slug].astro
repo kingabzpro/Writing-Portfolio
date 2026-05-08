@@ -22,9 +22,57 @@ if (!page) {
 
 const pageTitle = `${page.title} | ${SITE.title}`;
 const topItemLimit = 10;
+const pageUrl = new URL(page.url, SITE.url).toString();
+const collectionStructuredData = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": `${pageUrl}#collection`,
+  name: page.title,
+  headline: page.title,
+  description: page.description,
+  url: pageUrl,
+  isPartOf: {
+    "@id": `${SITE.url}/#website`
+  },
+  author: {
+    "@id": `${SITE.url}/#person`
+  },
+  publisher: {
+    "@id": `${SITE.url}/#person`
+  },
+  mainEntity: {
+    "@type": "ItemList",
+    itemListElement: page.articleLinks.slice(0, 100).map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: item.title,
+      url: item.url
+    }))
+  }
+};
+const faqStructuredData =
+  page.faqs.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "@id": `${pageUrl}#faq`,
+        url: pageUrl,
+        mainEntity: page.faqs.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answer
+          }
+        }))
+      }
+    : null;
+const structuredData = faqStructuredData
+  ? [collectionStructuredData, faqStructuredData]
+  : collectionStructuredData;
 ---
 
-<BaseLayout title={pageTitle} description={page.description} pathname={page.url}>
+<BaseLayout title={pageTitle} description={page.description} pathname={page.url} structuredData={structuredData}>
   <article class="markdown-content" set:html={page.html} data-top-item-limit={topItemLimit}></article>
   <script is:inline define:vars={{ topItemLimit }}>
     const initCollapsibleLists = () => {

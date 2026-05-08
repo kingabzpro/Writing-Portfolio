@@ -53,9 +53,26 @@ const miscItems = [
     href: "/pages/cheat-sheets"
   }
 ];
+const homeStructuredData = {
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": `${SITE.url}/#profile`,
+  name: SITE.title,
+  description: SITE.description,
+  url: SITE.url,
+  mainEntity: {
+    "@id": `${SITE.url}/#person`
+  },
+  hasPart: popularTopics.map((topic) => ({
+    "@type": "CollectionPage",
+    name: topic.title,
+    url: new URL(`/${topic.link}`, SITE.url).toString(),
+    description: topic.description
+  }))
+};
 ---
 
-<BaseLayout title={SITE.title} description={SITE.description} pathname="/">
+<BaseLayout title={SITE.title} description={SITE.description} pathname="/" structuredData={homeStructuredData}>
   <section class="author-section">
     <img
       src="/assets/images/author.jpg"

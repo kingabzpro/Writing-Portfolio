@@ -7,6 +7,7 @@ import type { PortfolioPage } from "../types/content";
 const PAGES_DIR = path.resolve(process.cwd(), "pages");
 const BACK_HOME_BUTTON_PATTERN =
   /<a\s+href="\/"\s+class="button\s+back-home-btn">[\s\S]*?<\/a>/gi;
+const ARTICLE_LINK_PATTERN = /-\s*\[(.*?)\]\((https?:\/\/[^)\s]+)\)/g;
 
 function formatSlug(slug: string): string {
   return slug
@@ -24,8 +25,43 @@ function extractDescription(content: string): string {
   const lines = content
     .split("\n")
     .map((line) => line.trim())
-    .filter((line) => line.length > 0 && !line.startsWith("#") && !line.startsWith("- "));
+    .filter(
+      (line) =>
+        line.length > 0 && !line.startsWith("#") && !line.startsWith("- ") && !line.startsWith("<")
+    );
   return lines[0] ?? "Curated writing portfolio content.";
+}
+
+function extractArticleLinks(content: string): PortfolioPage["articleLinks"] {
+  return Array.from(content.matchAll(ARTICLE_LINK_PATTERN)).map((match) => ({
+    title: match[1].trim(),
+    url: match[2].trim()
+  }));
+}
+
+function stripMarkdown(value: string): string {
+  return value
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+    .replace(/[*_`>#]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function extractFaqs(content: string): PortfolioPage["faqs"] {
+  const faqStart = content.search(/^##\s+Frequently Asked Questions\s*$/im);
+  if (faqStart === -1) return [];
+
+  const faqContent = content.slice(faqStart);
+  const nextSection = faqContent.slice(1).search(/^##\s+/m);
+  const section = nextSection === -1 ? faqContent : faqContent.slice(0, nextSection + 1);
+  const matches = Array.from(section.matchAll(/^###\s+(.+?)\s*$([\s\S]*?)(?=^###\s+|(?![\s\S]))/gm));
+
+  return matches
+    .map((match) => ({
+      question: stripMarkdown(match[1]),
+      answer: stripMarkdown(match[2])
+    }))
+    .filter((item) => item.question.length > 0 && item.answer.length > 0);
 }
 
 export async function listPageSlugs(): Promise<string[]> {
@@ -58,6 +94,8 @@ export async function getPageBySlug(slug: string): Promise<PortfolioPage | null>
       description,
       html,
       rawContent,
+      articleLinks: extractArticleLinks(rawContent),
+      faqs: extractFaqs(rawContent),
       url: `/pages/${slug}`
     };
   } catch {

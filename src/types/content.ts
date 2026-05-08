@@ -36,5 +36,13 @@ export interface PortfolioPage {
   description: string;
   html: string;
   rawContent: string;
+  articleLinks: {
+    title: string;
+    url: string;
+  }[];
+  faqs: {
+    question: string;
+    answer: string;
+  }[];
   url: string;
 }

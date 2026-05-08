@@ -8,9 +8,10 @@ interface Props {
   description?: string;
   image?: string;
   pathname?: string;
+  structuredData?: Record<string, unknown> | Record<string, unknown>[];
 }
 
-const { title, description, image, pathname } = Astro.props;
+const { title, description, image, pathname, structuredData = [] } = Astro.props;
 const seo = buildSeo({
   title,
   description,
@@ -18,6 +19,35 @@ const seo = buildSeo({
   pathname: pathname ?? Astro.url.pathname,
   site: Astro.site ?? new URL(SITE.url)
 });
+const structuredDataItems = Array.isArray(structuredData) ? structuredData : [structuredData];
+const baseStructuredData = [
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": `${SITE.url}/#person`,
+    name: SITE.authorName,
+    url: SITE.url,
+    sameAs: SITE.socialLinks,
+    description: SITE.description
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": `${SITE.url}/#website`,
+    name: SITE.title,
+    url: SITE.url,
+    description: SITE.description,
+    publisher: {
+      "@id": `${SITE.url}/#person`
+    },
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${SITE.url}/?q={search_term_string}`,
+      "query-input": "required name=search_term_string"
+    }
+  }
+];
+const allStructuredData = [...baseStructuredData, ...structuredDataItems];
 ---
 
 <!doctype html>
@@ -87,14 +117,11 @@ const seo = buildSeo({
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
     </noscript>
 
-    <script type="application/ld+json" is:inline set:html={JSON.stringify({
-      "@context": "https://schema.org",
-      "@type": "Person",
-      name: SITE.authorName,
-      url: SITE.url,
-      sameAs: SITE.socialLinks,
-      description: SITE.description
-    })}></script>
+    {
+      allStructuredData.map((item) => (
+        <script type="application/ld+json" is:inline set:html={JSON.stringify(item)}></script>
+      ))
+    }
 
     <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${SITE.gaId}`}></script>
     <script is:inline>
