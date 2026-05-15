@@ -21,6 +21,7 @@ export interface SearchEntry {
   title: string;
   url: string;
   category: string;
+  publication?: string;
   content?: string;
 }
 
@@ -28,6 +29,7 @@ export interface LatestEntry {
   title: string;
   url: string;
   date: string;
+  publication?: string;
 }
 
 export interface PortfolioPage {
@@ -39,6 +41,7 @@ export interface PortfolioPage {
   articleLinks: {
     title: string;
     url: string;
+    publication: string;
   }[];
   faqs: {
     question: string;

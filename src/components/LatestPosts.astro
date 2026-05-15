@@ -46,6 +46,9 @@ function formatDate(value: string): string {
             >
               {item.title}
             </a>
+            {item.publication ? (
+              <span class="publication-tag">{item.publication}</span>
+            ) : null}
             {item.date ? (
               <span class="latest-date">{formatDate(item.date)}</span>
             ) : null}

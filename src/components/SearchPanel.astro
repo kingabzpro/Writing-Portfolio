@@ -6,7 +6,7 @@
       type="text"
       id="searchInput"
       class="search-input"
-      placeholder="Search by title, category, or content..."
+      placeholder="Search by title, publication, or category..."
       autocomplete="off"
       aria-label="Search articles"
     />
@@ -74,9 +74,20 @@
 
       const category = document.createElement("div");
       category.className = "search-result-category";
-      category.textContent = `Category: ${article.category}`;
+      category.textContent = article.category;
 
-      card.append(link, category);
+      const meta = document.createElement("div");
+      meta.className = "search-result-meta";
+
+      if (article.publication) {
+        const publication = document.createElement("span");
+        publication.className = "publication-tag";
+        publication.textContent = article.publication;
+        meta.append(publication);
+      }
+
+      meta.append(category);
+      card.append(link, meta);
       resultsNode.append(card);
     });
   }
@@ -91,7 +102,8 @@
             ...article,
             searchTitle: (article.title || "").toLowerCase(),
             searchContent: (article.content || "").toLowerCase(),
-            searchCategory: (article.category || "").toLowerCase()
+            searchCategory: (article.category || "").toLowerCase(),
+            searchPublication: (article.publication || "").toLowerCase()
           }))
         : [];
     } catch (error) {
@@ -121,7 +133,8 @@
       return (
         article.searchTitle.includes(query) ||
         article.searchContent.includes(query) ||
-        article.searchCategory.includes(query)
+        article.searchCategory.includes(query) ||
+        article.searchPublication.includes(query)
       );
     });
     renderResults(matched, query);

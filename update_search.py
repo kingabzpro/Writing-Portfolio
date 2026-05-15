@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Dict, List
 import subprocess
 import sys
+from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent
 PAGES_DIR = ROOT / "pages"
@@ -14,10 +15,47 @@ SEARCH_JSON = PUBLIC_DIR / "search.json"
 DATA_DIR = PUBLIC_DIR / "assets" / "data"
 LATEST_JSON = DATA_DIR / "latest.json"
 
+PUBLICATION_NAMES = {
+    "analyticsvidhya": "Analytics Vidhya",
+    "datacamp": "DataCamp",
+    "firecrawl": "Firecrawl",
+    "freecodecamp": "freeCodeCamp",
+    "github": "GitHub",
+    "google": "Google",
+    "ibm": "IBM",
+    "kdnuggets": "KDnuggets",
+    "linkedin": "LinkedIn",
+    "medium": "Medium",
+    "microsoft": "Microsoft",
+    "nvidia": "NVIDIA",
+    "olostep": "Olostep",
+    "openai": "OpenAI",
+    "statology": "Statology",
+    "towardsdatascience": "Towards Data Science",
+}
+
+
+def extract_publication(url: str) -> str:
+    """Create a readable publication name from an article URL."""
+    hostname = urlparse(url).hostname or ""
+    hostname = hostname.lower().removeprefix("www.")
+    if not hostname:
+        return "External"
+
+    parts = hostname.split(".")
+    if len(parts) >= 3 and parts[-2] in {"co", "com", "org", "net"}:
+        domain = parts[-3]
+    elif len(parts) >= 2:
+        domain = parts[-2]
+    else:
+        domain = parts[0]
+
+    return PUBLICATION_NAMES.get(domain, domain.replace("-", " ").title())
+
 
 def extract_articles_from_md(file_path: Path) -> List[Dict]:
     """Extract article titles and links from a markdown file.
-    Returns a list of {title, url, category} dicts for each outbound link.
+    Returns a list of {title, url, category, publication} dicts for each outbound link.
     """
     try:
         content = file_path.read_text(encoding="utf-8")
@@ -31,10 +69,12 @@ def extract_articles_from_md(file_path: Path) -> List[Dict]:
 
         articles: List[Dict] = []
         for title, url in article_matches:
+            clean_url = url.strip()
             articles.append({
                 "title": title.strip(),
-                "url": url.strip(),
-                "category": category.strip()
+                "url": clean_url,
+                "category": category.strip(),
+                "publication": extract_publication(clean_url),
             })
         return articles
     except Exception as e:
@@ -121,7 +161,8 @@ def build_latest_from_git(since_days: int = 180, top_n: int = 3) -> List[Dict]:
                 latest_by_url[url] = {
                     "title": title,
                     "url": url,
-                    "date": date_simple
+                    "date": date_simple,
+                    "publication": extract_publication(url),
                 }
 
     latest = sorted(latest_by_url.values(), key=lambda x: x.get("date", ""), reverse=True)[:top_n]

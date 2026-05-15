@@ -8,6 +8,24 @@ const PAGES_DIR = path.resolve(process.cwd(), "pages");
 const BACK_HOME_BUTTON_PATTERN =
   /<a\s+href="\/"\s+class="button\s+back-home-btn">[\s\S]*?<\/a>/gi;
 const ARTICLE_LINK_PATTERN = /-\s*\[(.*?)\]\((https?:\/\/[^)\s]+)\)/g;
+const PUBLICATION_NAMES: Record<string, string> = {
+  analyticsvidhya: "Analytics Vidhya",
+  datacamp: "DataCamp",
+  firecrawl: "Firecrawl",
+  freecodecamp: "freeCodeCamp",
+  github: "GitHub",
+  google: "Google",
+  ibm: "IBM",
+  kdnuggets: "KDnuggets",
+  linkedin: "LinkedIn",
+  medium: "Medium",
+  microsoft: "Microsoft",
+  nvidia: "NVIDIA",
+  olostep: "Olostep",
+  openai: "OpenAI",
+  statology: "Statology",
+  towardsdatascience: "Towards Data Science"
+};
 
 function formatSlug(slug: string): string {
   return slug
@@ -32,10 +50,34 @@ function extractDescription(content: string): string {
   return lines[0] ?? "Curated writing portfolio content.";
 }
 
+function extractPublication(url: string): string {
+  try {
+    const hostname = new URL(url).hostname.toLowerCase().replace(/^www\./, "");
+    const parts = hostname.split(".");
+    const domain =
+      parts.length >= 3 && ["co", "com", "org", "net"].includes(parts.at(-2) ?? "")
+        ? parts.at(-3)
+        : parts.at(-2) ?? parts[0];
+
+    if (!domain) return "External";
+    return PUBLICATION_NAMES[domain] ?? domain.replace(/-/g, " ").replace(/\b\w/g, (char) => char.toUpperCase());
+  } catch {
+    return "External";
+  }
+}
+
+function annotateArticleLinks(content: string): string {
+  return content.replace(ARTICLE_LINK_PATTERN, (fullMatch, _title: string, url: string) => {
+    const publication = extractPublication(url.trim());
+    return `${fullMatch} <span class="publication-tag">${publication}</span>`;
+  });
+}
+
 function extractArticleLinks(content: string): PortfolioPage["articleLinks"] {
   return Array.from(content.matchAll(ARTICLE_LINK_PATTERN)).map((match) => ({
     title: match[1].trim(),
-    url: match[2].trim()
+    url: match[2].trim(),
+    publication: extractPublication(match[2].trim())
   }));
 }
 
@@ -86,7 +128,7 @@ export async function getPageBySlug(slug: string): Promise<PortfolioPage | null>
         ? parsed.data.description
         : extractDescription(rawContent);
 
-    const html = (await marked.parse(rawContent)) as string;
+    const html = (await marked.parse(annotateArticleLinks(rawContent))) as string;
 
     return {
       slug,

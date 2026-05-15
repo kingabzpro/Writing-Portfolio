@@ -66,7 +66,7 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 - [26 Data Science Interview Questions You Should Know](https://www.kdnuggets.com/26-data-science-interview-questions-you-should-know)
 - [Top 7 Essential Cheat Sheets To Ace Your Data Science Interview](https://www.kdnuggets.com/top-7-essential-cheat-sheets-to-ace-your-data-science-interview)
-- [28 Top Data Scientist Interview Questions For All Levels](https://www.datacamp.com/blog/data-scientist-interview-questions) **(Start Here)**
+- [28 Top Data Scientist Interview Questions For All Levels](https://www.datacamp.com/blog/data-scientist-interview-questions)
 
 ## Free Books
 

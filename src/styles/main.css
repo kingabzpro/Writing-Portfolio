@@ -538,7 +538,29 @@ a:hover {
 .search-result-category {
   font-size: 0.86rem;
   color: var(--ink-500);
-  margin-top: 0.2rem;
+}
+
+.search-result-meta {
+  margin-top: 0.35rem;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.publication-tag {
+  display: inline-flex;
+  align-items: center;
+  max-width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--link-color);
+  padding: 0.13rem 0.5rem;
+  font-size: 0.76rem;
+  font-weight: 700;
+  line-height: 1.35;
+  white-space: nowrap;
 }
 
 .content-grid {
@@ -739,6 +761,15 @@ a:hover {
 
 .markdown-content li {
   margin-bottom: 0.35rem;
+}
+
+.markdown-content li p {
+  margin-bottom: 0.35rem;
+}
+
+.markdown-content li .publication-tag {
+  margin-left: 0.35rem;
+  vertical-align: 0.08em;
 }
 
 .markdown-content .list-item-hidden {
@@ -949,6 +980,10 @@ a:hover {
 
   .search-kbd {
     display: none;
+  }
+
+  .markdown-content li .publication-tag {
+    margin: 0.28rem 0 0;
   }
 }
 
