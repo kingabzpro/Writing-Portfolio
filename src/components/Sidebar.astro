@@ -4,6 +4,26 @@ import path from "node:path";
 
 const PAGES_DIR = path.resolve(process.cwd(), "pages");
 const articleLinkPattern = /-\s*\[(.*?)\]\((https?:\/\/[^)\s]+)\)/g;
+const publicationNames: Record<string, string> = {
+  analyticsvidhya: "Analytics Vidhya",
+  datacamp: "DataCamp",
+  firecrawl: "Firecrawl",
+  freecodecamp: "freeCodeCamp",
+  github: "GitHub",
+  google: "Google",
+  ibm: "IBM",
+  kdnuggets: "KDnuggets",
+  linkedin: "LinkedIn",
+  machinelearningmastery: "Machine Learning Mastery",
+  medium: "Medium",
+  microsoft: "Microsoft",
+  nexusml: "NexusML",
+  nvidia: "NVIDIA",
+  olostep: "Olostep",
+  openai: "OpenAI",
+  statology: "Statology",
+  towardsdatascience: "Towards Data Science"
+};
 
 const categoryConfig = [
   { href: "/pages/python", label: "Python", slug: "python" },
@@ -33,6 +53,43 @@ async function countArticles(slug: string): Promise<number> {
   }
 }
 
+function getPublication(url: string): string {
+  try {
+    const hostname = new URL(url).hostname.toLowerCase().replace(/^www\./, "");
+    const parts = hostname.split(".");
+    const domain =
+      parts.length >= 3 && ["co", "com", "org", "net"].includes(parts.at(-2) ?? "")
+        ? parts.at(-3)
+        : parts.at(-2) ?? parts[0];
+
+    if (!domain) return "External";
+    return publicationNames[domain] ?? domain.replace(/-/g, " ").replace(/\b\w/g, (char) => char.toUpperCase());
+  } catch {
+    return "External";
+  }
+}
+
+async function countPublications(): Promise<{ name: string; count: number }[]> {
+  const counts = new Map<string, number>();
+  const entries = await fs.readdir(PAGES_DIR, { withFileTypes: true });
+
+  await Promise.all(
+    entries
+      .filter((entry) => entry.isFile() && entry.name.endsWith(".md"))
+      .map(async (entry) => {
+        const content = await fs.readFile(path.join(PAGES_DIR, entry.name), "utf-8");
+        for (const match of content.matchAll(articleLinkPattern)) {
+          const publication = getPublication(match[2]);
+          counts.set(publication, (counts.get(publication) ?? 0) + 1);
+        }
+      })
+  );
+
+  return Array.from(counts, ([name, count]) => ({ name, count })).sort(
+    (a, b) => b.count - a.count || a.name.localeCompare(b.name)
+  );
+}
+
 const categories = (
   await Promise.all(
     categoryConfig.map(async (item) => ({
@@ -43,15 +100,26 @@ const categories = (
 ).sort((a, b) => b.articleCount - a.articleCount || a.label.localeCompare(b.label));
 
 const totalArticleCount = categories.reduce((total, item) => total + item.articleCount, 0);
+const publications = await countPublications();
 ---
 
 <aside id="sidebar" aria-label="Topic navigation">
   <div class="sidebar-heading">
     <h2>Categories</h2>
-    <p class="sidebar-total" aria-label={`${totalArticleCount} articles across all categories`}>
-      <span>{totalArticleCount}</span>
-      <small>articles</small>
-    </p>
+    <details class="sidebar-publication-menu">
+      <summary class="sidebar-total" aria-label={`${totalArticleCount} articles across all categories. Expand articles by publication.`}>
+        <span>{totalArticleCount}</span>
+        <small>articles</small>
+      </summary>
+      <div class="sidebar-publications" aria-label="Articles by publication">
+        {publications.map((item) => (
+          <span class="sidebar-publication">
+            <span>{item.name}</span>
+            <strong>{item.count}</strong>
+          </span>
+        ))}
+      </div>
+    </details>
   </div>
   <p class="sidebar-subtitle">Sorted by article count</p>
   <ul>
@@ -65,7 +133,6 @@ const totalArticleCount = categories.reduce((total, item) => total + item.articl
                 {item.articleCount}
               </span>
             ) : null}
-            <span class="sidebar-chevron" aria-hidden="true">›</span>
           </a>
         </li>
       ))
