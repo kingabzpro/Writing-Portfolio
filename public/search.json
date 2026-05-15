@@ -829,9 +829,9 @@
   },
   {
     "title": "5 Tips for Acing Your First Data Science Interview",
-    "url": "https://medium.com/data-science/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7",
+    "url": "https://towardsdatascience.com/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7/",
     "category": "Career Advice",
-    "publication": "Medium"
+    "publication": "Towards Data Science"
   },
   {
     "title": "5 Tips to Turn OpenAI Codex Into a Powerful AI Coding Agent",
@@ -1266,6 +1266,12 @@
     "publication": "Analytics Vidhya"
   },
   {
+    "title": "A Guide to DVC and DAGsHub for Machine Learning Experiments",
+    "url": "https://towardsdatascience.com/a-guide-to-dvc-and-dagshub-for-machine-learning-experiments-fc4d157f07e5/",
+    "category": "Machine Learning Operations (MLOps)",
+    "publication": "Towards Data Science"
+  },
+  {
     "title": "A Guide to Machine Learning Pipelines and Orchest",
     "url": "https://www.analyticsvidhya.com/blog/2021/10/a-guide-to-machine-learning-pipelines-and-orchest",
     "category": "Machine Learning Operations (MLOps)",
@@ -1354,6 +1360,12 @@
     "url": "https://www.kdnuggets.com/2022/05/overview-mercury-creating-data-science-portfolio-notebook-based-webapps.html",
     "category": "Data Science",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "Analyzing and Predicting Consumer Engagement",
+    "url": "https://towardsdatascience.com/analyzing-and-predicting-consumer-engagement-8b3229f0cbad/",
+    "category": "Data Science",
+    "publication": "Towards Data Science"
   },
   {
     "title": "Anthropic Computer Use: Automate Your Desktop With Claude 3.5",
@@ -1674,6 +1686,12 @@
     "publication": "Analytics Vidhya"
   },
   {
+    "title": "Creating a Data Science Python Package Using Jupyter Notebook",
+    "url": "https://towardsdatascience.com/creating-data-science-python-package-using-jupyter-notebook-6fa6e6b74a87/",
+    "category": "Python",
+    "publication": "Towards Data Science"
+  },
+  {
     "title": "Data Ingestion with Pandas: A Beginner Tutorial",
     "url": "https://www.kdnuggets.com/2022/04/data-ingestion-pandas-beginner-tutorial.html",
     "category": "Python",
@@ -1716,10 +1734,16 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "Deploying Gradio App on Spaces Using DagsHub: A Beginner’s Tutorial",
-    "url": "https://medium.com/data-science/deploying-gradio-app-on-spaces-using-dagshub-a-beginners-tutorial-a42664abcc14",
+    "title": "Deploying Gradio App on Spaces Using DagsHub: A Beginner's Tutorial",
+    "url": "https://abidaliawan.medium.com/deploying-gradio-app-on-spaces-using-dagshub-a-beginners-tutorial-a42664abcc14",
     "category": "Machine Learning Operations (MLOps)",
     "publication": "Medium"
+  },
+  {
+    "title": "Deploying Your First Machine Learning API",
+    "url": "https://towardsdatascience.com/deploying-your-first-machine-learning-api-1649236c695e/",
+    "category": "Machine Learning Operations (MLOps)",
+    "publication": "Towards Data Science"
   },
   {
     "title": "Deploying Your First Machine Learning API",
@@ -2304,6 +2328,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "How To Find The Best Data Science Remote Jobs",
+    "url": "https://abidaliawan.medium.com/how-to-find-the-best-data-science-remote-jobs-a122f22f2f97",
+    "category": "Career Advice",
+    "publication": "Medium"
+  },
+  {
     "title": "How Watermarking Can Help Mitigate The Potential Risks Of LLMs?",
     "url": "https://www.kdnuggets.com/2023/03/watermarking-help-mitigate-potential-risks-llms.html",
     "category": "Large Language Models (LLMs)",
@@ -2328,6 +2358,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "How to Ace Data Science Interview by Working on Portfolio Projects",
+    "url": "https://abidaliawan.medium.com/how-to-ace-data-science-interview-by-working-on-portfolio-projects-6e5027430565",
+    "category": "Data Science",
+    "publication": "Medium"
+  },
+  {
     "title": "How to Ace Data Scientist Professional Certificate Exam",
     "url": "https://www.kdnuggets.com/2023/08/ace-data-scientist-professional-certificate.html",
     "category": "Career Advice",
@@ -2344,6 +2380,12 @@
     "url": "https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html",
     "category": "Data Science",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "How to Build Strong Data Science Portfolio as a Beginner",
+    "url": "https://abidaliawan.medium.com/how-to-build-strong-data-science-portfolio-as-a-beginner-5540dd84aff1",
+    "category": "Data Science",
+    "publication": "Medium"
   },
   {
     "title": "How to Choose The Best Data Science Bootcamp in 2023",
@@ -2644,6 +2686,12 @@
     "url": "https://www.datacamp.com/tutorial/jenkins-tutorial",
     "category": "Machine Learning Operations (MLOps)",
     "publication": "DataCamp"
+  },
+  {
+    "title": "Julia: A New Age Data Science",
+    "url": "https://towardsdatascience.com/julia-for-data-science-a-new-age-data-science-bf0747a94851/",
+    "category": "Data Science",
+    "publication": "Towards Data Science"
   },
   {
     "title": "Julia: A New Age of Data Science",
@@ -3180,6 +3228,12 @@
     "publication": "Analytics Vidhya"
   },
   {
+    "title": "Simple Image Classification Using FastAI.jl",
+    "url": "https://towardsdatascience.com/simple-image-classification-using-fastai-jl-83960d1d2ce1/",
+    "category": "Computer Vision",
+    "publication": "Towards Data Science"
+  },
+  {
     "title": "Simple and Fast Data Streaming for Machine Learning Projects",
     "url": "https://www.kdnuggets.com/2022/11/simple-fast-data-streaming-machine-learning-projects.html",
     "category": "Machine Learning (ML)",
@@ -3502,6 +3556,12 @@
     "url": "https://www.datacamp.com/tutorial/time-series-forecasting-with-time-gpt",
     "category": "Machine Learning (ML)",
     "publication": "DataCamp"
+  },
+  {
+    "title": "Tips & Tricks of Deploying Deep Learning Webapp on Heroku Cloud",
+    "url": "https://abidaliawan.medium.com/tips-tricks-of-deploying-deep-learning-webapp-on-heroku-cloud-80ea9063211a",
+    "category": "Machine Learning Operations (MLOps)",
+    "publication": "Medium"
   },
   {
     "title": "Tips & Tricks of Deploying Deep Learning Webapp on Heroku Cloud",
@@ -3940,6 +4000,12 @@
     "url": "https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/",
     "category": "Machine Learning Operations (MLOps)",
     "publication": "Machinelearningmastery"
+  },
+  {
+    "title": "Training BERT Text Classifier on Tensor Processing Unit",
+    "url": "https://towardsdatascience.com/training-bert-text-classifier-on-tensor-processing-unit-ce0adc8ae449/",
+    "category": "Natural Language Processing (NLP)",
+    "publication": "Towards Data Science"
   },
   {
     "title": "Training BERT Text Classifier on Tensor Processing Unit (TPU)",

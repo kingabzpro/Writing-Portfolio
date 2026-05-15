@@ -76,6 +76,10 @@ A collection of resources, tutorials, and articles about Data Science.
 - [The Guide To Data Analysis With Duck DB](https://pub.towardsai.net/the-guide-to-data-analysis-with-duck-db-93a79950a08f)
 - [Digital Learning During Covid19: A Complete Analysis](https://pub.towardsai.net/digital-learning-during-covid19-a-complete-analysis-45c525b1904)
 - [Julia: A New Age of Data Science](https://www.analyticsvidhya.com/blog/2021/07/julia-a-new-age-of-data-science)
+- [Julia: A New Age Data Science](https://towardsdatascience.com/julia-for-data-science-a-new-age-data-science-bf0747a94851/)
+- [Analyzing and Predicting Consumer Engagement](https://towardsdatascience.com/analyzing-and-predicting-consumer-engagement-8b3229f0cbad/)
+- [How to Build Strong Data Science Portfolio as a Beginner](https://abidaliawan.medium.com/how-to-build-strong-data-science-portfolio-as-a-beginner-5540dd84aff1)
+- [How to Ace Data Science Interview by Working on Portfolio Projects](https://abidaliawan.medium.com/how-to-ace-data-science-interview-by-working-on-portfolio-projects-6e5027430565)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 

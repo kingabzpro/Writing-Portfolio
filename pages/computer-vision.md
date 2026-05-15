@@ -19,5 +19,6 @@ A collection of resources, tutorials, and articles about Computer Vision.
 - [What is DALL-E?](https://www.datacamp.com/blog/what-is-dall-e) 
 - [What is Image Recognition?](https://www.datacamp.com/blog/what-is-image-recognition)
 - [Simple Image Classification Using FastAI.jl](https://www.analyticsvidhya.com/blog/2021/09/simple-image-classification-using-fastai-jl)
+- [Simple Image Classification Using FastAI.jl](https://towardsdatascience.com/simple-image-classification-using-fastai-jl-83960d1d2ce1/)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>

@@ -47,6 +47,7 @@ A collection of resources, tutorials, and articles about Python.
 - [Learn how to build your Discord bot using DailoGPT and HuggingFace API](https://www.analyticsvidhya.com/blog/2021/11/learn-how-to-build-your-discord-bot)
 - [Training BERT Text Classifier on Tensor Processing Unit (TPU)](https://www.analyticsvidhya.com/blog/2021/08/training-bert-text-classifier-on-tensor-processing-unit-tpu)
 - [Creating Data Science Python Package using Jupyter Notebook](https://www.analyticsvidhya.com/blog/2021/07/creating-data-science-python-package-using-jupyter-notebook)
+- [Creating a Data Science Python Package Using Jupyter Notebook](https://towardsdatascience.com/creating-data-science-python-package-using-jupyter-notebook-6fa6e6b74a87/)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 

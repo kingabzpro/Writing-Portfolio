@@ -50,10 +50,13 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 - [Learn MLOps with This Free Course](https://www.kdnuggets.com/2022/06/learn-mlops-free-course.html)
 - [The Machine Learning Lifecycle](https://www.kdnuggets.com/2022/06/making-sense-crispmlq-machine-learning-lifecycle-process.html)
-- [Deploying Gradio App on Spaces Using DagsHub: A Beginner’s Tutorial](https://medium.com/data-science/deploying-gradio-app-on-spaces-using-dagshub-a-beginners-tutorial-a42664abcc14)
 - [A Beginner's Guide to Get Productive With FastDS!](https://www.analyticsvidhya.com/blog/2022/04/a-beginners-guide-to-get-productive-with-fastds)
 - [A Guide to Machine Learning Pipelines and Orchest](https://www.analyticsvidhya.com/blog/2021/10/a-guide-to-machine-learning-pipelines-and-orchest)
 - [A Guide to DVC and DAGsHub for Machine Learning Experiments](https://www.analyticsvidhya.com/blog/2021/10/a-guide-to-dvc-and-dagshub-for-machine-learning-experiments)
+- [A Guide to DVC and DAGsHub for Machine Learning Experiments](https://towardsdatascience.com/a-guide-to-dvc-and-dagshub-for-machine-learning-experiments-fc4d157f07e5/)
+- [Deploying Your First Machine Learning API](https://towardsdatascience.com/deploying-your-first-machine-learning-api-1649236c695e/)
+- [Deploying Gradio App on Spaces Using DagsHub: A Beginner's Tutorial](https://abidaliawan.medium.com/deploying-gradio-app-on-spaces-using-dagshub-a-beginners-tutorial-a42664abcc14)
+- [Tips & Tricks of Deploying Deep Learning Webapp on Heroku Cloud](https://abidaliawan.medium.com/tips-tricks-of-deploying-deep-learning-webapp-on-heroku-cloud-80ea9063211a)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 

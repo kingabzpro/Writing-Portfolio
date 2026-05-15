@@ -105,7 +105,8 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [How To Find The Best Data Science Remote Jobs](https://www.kdnuggets.com/2022/12/find-best-data-science-remote-jobs.html)
 - [How to Ace Data Scientist Professional Certificate Exam](https://www.kdnuggets.com/2023/08/ace-data-scientist-professional-certificate.html)
 - [7 Platforms for Getting High Paying Data Science Jobs](https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs)
-- [5 Tips for Acing Your First Data Science Interview](https://medium.com/data-science/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7)
+- [5 Tips for Acing Your First Data Science Interview](https://towardsdatascience.com/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7/)
+- [How To Find The Best Data Science Remote Jobs](https://abidaliawan.medium.com/how-to-find-the-best-data-science-remote-jobs-a122f22f2f97)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 
