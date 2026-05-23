@@ -1120,6 +1120,68 @@ html[data-theme="dark"] .markdown-content blockquote {
 
 html[data-theme="dark"] .markdown-content img {
   filter: brightness(0.92) contrast(1.02);
+
+/* Header actions group */
+.header-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+/* Skip to content link */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: 1rem;
+  background: var(--card);
+  color: var(--link-color);
+  padding: 0.7rem 1rem;
+  border-radius: var(--radius-md);
+  border: 2px solid var(--focus-ring);
+  font-weight: 700;
+  text-decoration: none;
+  z-index: 1000;
+  box-shadow: var(--shadow-soft);
+  transition: top 150ms ease;
+}
+
+.skip-link:focus {
+  top: 0.9rem;
+}
+
+/* Focus-visible keyboard rings */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid var(--focus-ring);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+.search-input:focus-visible {
+  outline: none;
+}
+
+/* Dark mode markdown content adjustments */
+html[data-theme="dark"] .markdown-content code {
+  background: rgba(255, 255, 255, 0.08);
+  border-radius: 4px;
+  padding: 0.12em 0.35em;
+}
+
+html[data-theme="dark"] .markdown-content pre {
+  background: #0b101a;
+  border: 1px solid var(--border);
+}
+
+html[data-theme="dark"] .markdown-content blockquote {
+  border-left: 3px solid var(--border-strong);
+  color: var(--ink-800);
+}
+
+html[data-theme="dark"] .markdown-content img {
+  filter: brightness(0.92) contrast(1.02);
 }
 
 html[data-theme="dark"] .social-btn {
@@ -1152,3 +1214,4 @@ html[data-theme="dark"] .social-btn small {
     transform: none;
   }
 }
+
