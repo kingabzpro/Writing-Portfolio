@@ -2,6 +2,9 @@
 import Sidebar from "../components/Sidebar.astro";
 import { SITE, buildSeo } from "../lib/seo";
 import inlineStyles from "../styles/main.css?inline";
+import fontFaces from "../assets/fonts/fonts.css?raw";
+import spaceGroteskUrl from "../assets/fonts/space-grotesk-400.woff2?url";
+import merriweatherUrl from "../assets/fonts/merriweather-400.woff2?url";
 
 interface Props {
   title?: string;
@@ -92,10 +95,9 @@ const allStructuredData = [...baseStructuredData, ...structuredDataItems];
     <link rel="manifest" href="/assets/favicon/site.webmanifest" />
     <link rel="shortcut icon" href="/assets/favicon/favicon.ico" />
 
-    <link rel="preload" href="/assets/fonts/space-grotesk-400.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="preload" href="/assets/fonts/merriweather-400.woff2" as="font" type="font/woff2" crossorigin />
-    <link rel="stylesheet" href="/assets/fonts/fonts.css" />
-    <style is:inline set:html={inlineStyles} />
+    <link rel="preload" href={spaceGroteskUrl} as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href={merriweatherUrl} as="font" type="font/woff2" crossorigin />
+    <style is:inline set:html={fontFaces.replace("./merriweather-400.woff2", merriweatherUrl).replace("./space-grotesk-400.woff2", spaceGroteskUrl) + inlineStyles} />
     {
       allStructuredData.map((item) => (
         <script type="application/ld+json" is:inline set:html={JSON.stringify(item)}></script>
