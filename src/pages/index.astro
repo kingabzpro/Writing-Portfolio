@@ -5,6 +5,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import LatestPosts from "../components/LatestPosts.astro";
 import SearchPanel from "../components/SearchPanel.astro";
 import SocialLinks from "../components/SocialLinks.astro";
+import { Icon } from "astro-icon/components";
 import { SITE } from "../lib/seo";
 import type { ContentData } from "../types/content";
 
@@ -108,11 +109,11 @@ const homeStructuredData = {
         contentData.expertise.map((item) => (
           <article class="content-card expertise-card">
             <h3>
-              <i class={item.icon}></i>
+              <Icon name={item.icon} />
               <span>{item.title}</span>
             </h3>
             <p>{item.description}</p>
-            <a href={`/${item.link}`} class="inline-link">Learn More</a>
+            <a href={`/${item.link}`} class="inline-link">Learn more about {item.title}</a>
           </article>
         ))
       }
@@ -138,7 +139,7 @@ const homeStructuredData = {
           <article class="content-card misc-card">
             <h3>{item.title}</h3>
             <p>{item.description}</p>
-            <a href={item.href} class="inline-link">Learn More</a>
+            <a href={item.href} class="inline-link">Learn more about {item.title}</a>
           </article>
         ))
       }

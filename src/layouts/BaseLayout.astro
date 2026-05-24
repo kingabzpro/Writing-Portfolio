@@ -107,16 +107,6 @@ const allStructuredData = [...baseStructuredData, ...structuredDataItems];
         href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Space+Grotesk:wght@400;500;700&display=swap"
       />
     </noscript>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
-      media="print"
-      onload="this.media='all'"
-    />
-    <noscript>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-    </noscript>
-
     {
       allStructuredData.map((item) => (
         <script type="application/ld+json" is:inline set:html={JSON.stringify(item)}></script>

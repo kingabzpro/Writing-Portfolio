@@ -1,4 +1,5 @@
 ---
+import { Icon } from "astro-icon/components";
 import type { SocialItem } from "../types/content";
 
 interface Props {
@@ -12,7 +13,7 @@ const { items } = Astro.props;
   {
     items.map((item) => (
       <a href={item.url} target="_blank" rel="noreferrer" aria-label={item.platform}>
-        <i class={item.icon}></i>
+        <Icon name={item.icon} />
       </a>
     ))
   }

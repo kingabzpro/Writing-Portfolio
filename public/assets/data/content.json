@@ -2,19 +2,19 @@
     "expertise": [
         {
             "title": "MLOps",
-            "icon": "fas fa-cogs",
+            "icon": "fa6-solid:gears",
             "description": "Comprehensive guides on Machine Learning Operations, deployment, and scaling ML systems.",
             "link": "pages/machine-learning-operations"
         },
         {
             "title": "Large Language Models",
-            "icon": "fas fa-brain",
+            "icon": "fa6-solid:brain",
             "description": "Deep dives into LLMs, transformers, and state-of-the-art NLP applications.",
             "link": "pages/large-language-models"
         },
         {
             "title": "Machine Learning",
-            "icon": "fas fa-robot",
+            "icon": "fa6-solid:robot",
             "description": "In-depth tutorials on ML algorithms, deep learning, and practical implementations.",
             "link": "pages/machine-learning"
         }
@@ -22,56 +22,55 @@
     "topics": [
         {
             "title": "Artificial Intelligence",
-            "icon": "fas fa-microchip",
+            "icon": "fa6-solid:microchip",
             "link": "pages/artificial-intelligence"
         },
         {
             "title": "Data Science",
-            "icon": "fas fa-chart-bar",
+            "icon": "fa6-solid:chart-bar",
             "link": "pages/data-science"
         },
         {
             "title": "Natural Language Processing",
-            "icon": "fas fa-language",
+            "icon": "fa6-solid:language",
             "link": "pages/natural-language-processing"
         },
         {
             "title": "Computer Vision",
-            "icon": "fas fa-eye",
+            "icon": "fa6-solid:eye",
             "link": "pages/computer-vision"
         },
         {
             "title": "Data Engineering",
-            "icon": "fas fa-server",
+            "icon": "fa6-solid:server",
             "link": "pages/data-engineering"
         },
         {
             "title": "Programming",
-            "icon": "fas fa-code",
+            "icon": "fa6-solid:code",
             "link": "pages/programming"
         },
         {
             "title": "SQL",
-            "icon": "fas fa-database",
+            "icon": "fa6-solid:database",
             "link": "pages/sql"
         }
     ],
     "social": [
         {
             "platform": "GitHub",
-            "icon": "fab fa-github",
+            "icon": "fa6-brands:github",
             "url": "https://github.com/kingabzpro"
         },
         {
             "platform": "LinkedIn",
-            "icon": "fab fa-linkedin",
+            "icon": "fa6-brands:linkedin",
             "url": "https://linkedin.com/in/1abidaliawan"
         },
         {
             "platform": "Twitter",
-            "icon": "fab fa-twitter",
+            "icon": "fa6-brands:twitter",
             "url": "https://twitter.com/1abidaliawan"
         }
     ]
 }
-

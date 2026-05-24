@@ -1,7 +1,11 @@
+---
+import { Icon } from "astro-icon/components";
+---
+
 <section class="home-section">
   <h2>Search Articles</h2>
   <div class="search-container" id="searchContainer">
-    <i class="fas fa-search search-icon" aria-hidden="true"></i>
+    <Icon name="fa6-solid:magnifying-glass" class="search-icon" aria-hidden="true" />
     <input
       type="text"
       id="searchInput"
@@ -12,7 +16,7 @@
     />
     <kbd class="search-kbd" aria-hidden="true">/</kbd>
     <button type="button" id="searchClear" class="search-clear" aria-label="Clear search">
-      <i class="fas fa-times" aria-hidden="true"></i>
+      <Icon name="fa6-solid:xmark" class="search-clear-icon" aria-hidden="true" />
     </button>
   </div>
   <p class="search-meta" id="searchMeta" aria-live="polite"></p>

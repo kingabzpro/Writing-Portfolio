@@ -11,7 +11,10 @@
     "check": "bunx astro check"
   },
   "dependencies": {
+    "@iconify-json/fa6-brands": "^1.2.6",
+    "@iconify-json/fa6-solid": "^1.2.4",
     "astro": "6.1.3",
+    "astro-icon": "^1.1.5",
     "gray-matter": "^4.0.3",
     "marked": "^15.0.0"
   },

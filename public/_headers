@@ -1,0 +1,14 @@
+/assets/images/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/favicon/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/data/*
+  Cache-Control: public, max-age=3600
+
+/search.json
+  Cache-Control: public, max-age=3600
