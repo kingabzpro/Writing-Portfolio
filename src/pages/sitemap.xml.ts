@@ -8,7 +8,7 @@ function toUrl(pathname: string): string {
 
 export const GET: APIRoute = async () => {
   const slugs = await listPageSlugs();
-  const urls = ["/", ...slugs.map((slug) => `/pages/${slug}`)];
+  const urls = ["/", ...slugs.map((slug) => `/pages/${slug}/`)];
   const lastModified = new Date().toISOString();
 
   const body = `<?xml version="1.0" encoding="UTF-8"?>

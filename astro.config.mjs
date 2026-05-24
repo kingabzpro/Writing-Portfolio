@@ -4,6 +4,6 @@ import icon from "astro-icon";
 export default defineConfig({
   site: "https://abid.work",
   output: "static",
-  trailingSlash: "never",
+  trailingSlash: "always",
   integrations: [icon()]
 });

@@ -34,7 +34,8 @@ export function buildSeo({
 }: BuildSeoInput): SeoPayload {
   const siteUrl = site ?? new URL(SITE.url);
   const cleanPath = pathname.startsWith("/") ? pathname : `/${pathname}`;
-  const canonical = new URL(cleanPath, siteUrl).toString();
+  const pathWithSlash = cleanPath === "/" ? cleanPath : cleanPath.replace(/\/$/, "") + "/";
+  const canonical = new URL(pathWithSlash, siteUrl).toString();
   const selectedImage = image ?? SITE.image;
   const imageUrl = selectedImage.startsWith("http")
     ? selectedImage

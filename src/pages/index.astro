@@ -42,17 +42,17 @@ const miscItems = [
   {
     title: "Books Published by Abid",
     description: "A curated collection of books and ebooks focused on practical AI and data skills.",
-    href: "/pages/books-by-abid"
+    href: "/pages/books-by-abid/"
   },
   {
     title: "Career Resources",
     description: "Interview prep, growth guidance, and actionable advice for building your data career.",
-    href: "/pages/career-advice"
+    href: "/pages/career-advice/"
   },
   {
     title: "Cheat Sheets",
     description: "Fast, high-signal reference pages for core tools, workflows, and ML concepts.",
-    href: "/pages/cheat-sheets"
+    href: "/pages/cheat-sheets/"
   }
 ];
 const homeStructuredData = {
@@ -94,7 +94,7 @@ const homeStructuredData = {
         concepts, helping developers learn, build, and apply modern AI technologies.
       </p>
       <p class="author-description">
-        Reach out via the <a href="/pages/contact" class="highlight-link">contact page</a> or connect
+        Reach out via the <a href="/pages/contact/" class="highlight-link">contact page</a> or connect
         on LinkedIn.
       </p>
     </div>
@@ -114,7 +114,7 @@ const homeStructuredData = {
               <span>{item.title}</span>
             </h3>
             <p>{item.description}</p>
-            <a href={`/${item.link}`} class="inline-link">Read {item.title} guides</a>
+            <a href={`/${item.link}/`} class="inline-link">Read {item.title} guides</a>
           </article>
         ))
       }
@@ -126,7 +126,7 @@ const homeStructuredData = {
     <div class="topics-grid">
       {
         popularTopics.map((topic) => (
-          <a href={`/${topic.link}`} class="topic-btn">{topic.title}</a>
+          <a href={`/${topic.link}/`} class="topic-btn">{topic.title}</a>
         ))
       }
     </div>
