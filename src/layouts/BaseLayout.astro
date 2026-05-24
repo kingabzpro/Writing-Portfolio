@@ -1,7 +1,7 @@
 ---
 import Sidebar from "../components/Sidebar.astro";
 import { SITE, buildSeo } from "../lib/seo";
-import "../styles/main.css";
+import inlineStyles from "../styles/main.css?inline";
 
 interface Props {
   title?: string;
@@ -95,6 +95,7 @@ const allStructuredData = [...baseStructuredData, ...structuredDataItems];
     <link rel="preload" href="/assets/fonts/space-grotesk-400.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="preload" href="/assets/fonts/merriweather-400.woff2" as="font" type="font/woff2" crossorigin />
     <link rel="stylesheet" href="/assets/fonts/fonts.css" />
+    <style is:inline set:html={inlineStyles} />
     {
       allStructuredData.map((item) => (
         <script type="application/ld+json" is:inline set:html={JSON.stringify(item)}></script>
