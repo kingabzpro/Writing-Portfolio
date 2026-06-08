@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 
 ## Articles
 
+- [10 GitHub Repositories to Master FastAPI](https://www.kdnuggets.com/10-github-repositories-to-master-fastapi)
 - [10 Best AutoML Frameworks for Python and No-Code Users](https://www.datacamp.com/blog/best-automl-frameworks)
 - [5 Time Series Foundation Models You Are Missing Out On](https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on)
 - [How to Run SAM Audio Locally](https://www.datacamp.com/tutorial/how-to-run-sam-audio-locally)

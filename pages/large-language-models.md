@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [SGLang Tutorial: Serving Mistral Medium 3.5 Locally](https://www.datacamp.com/tutorial/sglang-tutorial-serving-mistral-medium-3-5-locally)
+- [Multi-Token Prediction Tutorial: How To Speed Up LLMs](https://www.datacamp.com/tutorial/multi-token-prediction-llama-cpp)
 - [How to Run DeepSeek V4 Flash Locally](https://www.datacamp.com/tutorial/how-to-run-deepseek-v4-flash-locally)
 - [Fine-Tuning NVIDIA Nemotron-3-Nano On Psychology Q&A Data](https://www.datacamp.com/tutorial/fine-tuning-nvidia-nemotron-3-nano)
 - [Fine-Tuning Qwen3.6 On a Medical Q&A Dataset](https://www.datacamp.com/tutorial/fine-tuning-qwen3-6)

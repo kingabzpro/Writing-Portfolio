@@ -120,6 +120,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "10 GitHub Repositories for Modern Database Systems and Tools",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-modern-database-systems-and-tools",
+    "category": "Career Advice",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "10 GitHub Repositories for Python Projects",
     "url": "https://www.kdnuggets.com/10-github-repositories-for-python-projects",
     "category": "Career Advice",
@@ -204,6 +210,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "10 GitHub Repositories to Master FastAPI",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-fastapi",
+    "category": "Machine Learning (ML)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "10 GitHub Repositories to Master Frontend Development",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-frontend-development",
     "category": "Career Advice",
@@ -282,6 +294,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "10 GitHub Repositories to Master Quant Trading",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-quant-trading",
+    "category": "Career Advice",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "10 GitHub Repositories to Master Reinforcement Learning",
     "url": "https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning",
     "category": "Career Advice",
@@ -303,6 +321,12 @@
     "title": "10 GitHub Repositories to Master SQL",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-sql",
     "category": "SQL",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "10 GitHub Repositories to Master Self-Hosting",
+    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting",
+    "category": "Machine Learning Operations (MLOps)",
     "publication": "KDnuggets"
   },
   {
@@ -1134,6 +1158,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "7 Real World AI Projects to Build in 2026 (with Guides)",
+    "url": "https://www.kdnuggets.com/7-real-world-ai-projects-to-build-in-2026-with-guides",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "7 Steps to Mastering Data Engineering",
     "url": "https://www.kdnuggets.com/7-steps-to-mastering-data-engineering",
     "category": "Data Engineering",
@@ -1552,6 +1582,12 @@
     "url": "https://www.datacamp.com/tutorial/neural-network-models-r",
     "category": "Machine Learning (ML)",
     "publication": "DataCamp"
+  },
+  {
+    "title": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+    "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "Huggingface"
   },
   {
     "title": "Building a Convolutional Neural Network with PyTorch",
@@ -2388,6 +2424,12 @@
     "publication": "Medium"
   },
   {
+    "title": "How to Build a Multi-Agent Research Assistant in Python",
+    "url": "https://machinelearningmastery.com/how-to-build-a-multi-agent-research-assistant-in-python/",
+    "category": "Python",
+    "publication": "Machinelearningmastery"
+  },
+  {
     "title": "How to Choose The Best Data Science Bootcamp in 2023",
     "url": "https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp",
     "category": "Career Advice",
@@ -2622,6 +2664,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "How to Write to Files in Python: A Beginner’s Guide",
+    "url": "https://www.kdnuggets.com/how-to-write-to-files-in-python-a-beginners-guide",
+    "category": "Python",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "HumanEval: A Benchmark for Evaluating LLM Code Generation Capabilities",
     "url": "https://www.datacamp.com/tutorial/humaneval-benchmark-for-evaluating-llm-code-generation-capabilities",
     "category": "Large Language Models (LLMs)",
@@ -2710,6 +2758,12 @@
     "url": "https://www.kdnuggets.com/kaggle-cli-cheat-sheet",
     "category": "Data Science",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "Kimi K2.6 API Tutorial: Building an AI Job Search Assistant",
+    "url": "https://www.datacamp.com/tutorial/kimi-k2-6-api-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
   },
   {
     "title": "LLM Portfolio Projects Ideas to Wow Employers",
@@ -2850,6 +2904,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "MiniMax M3 Tutorial: Coding with MiniMax Code on Web and Desktop",
+    "url": "https://www.datacamp.com/tutorial/minimax-code-minimax-m3",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Mistral 7B Tutorial: A Step-by-Step Guide to Using and Fine-Tuning Mistral 7B",
     "url": "https://www.datacamp.com/tutorial/mistral-7b-tutorial",
     "category": "Large Language Models (LLMs)",
@@ -2871,6 +2931,12 @@
     "title": "Mojo: A Revolutionary New Programming Language for Building AI Applications",
     "url": "https://www.datacamp.com/tutorial/mojo-language-the-new-programming-language-for-ai",
     "category": "Programming",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "Multi-Token Prediction Tutorial: How To Speed Up LLMs",
+    "url": "https://www.datacamp.com/tutorial/multi-token-prediction-llama-cpp",
+    "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
   },
   {
@@ -2980,6 +3046,12 @@
     "url": "https://www.datacamp.com/blog/an-introduction-to-pandas-ai",
     "category": "Data Science",
     "publication": "DataCamp"
+  },
+  {
+    "title": "Pandas GroupBy Explained With Examples",
+    "url": "https://www.kdnuggets.com/pandas-groupby-explained-with-examples",
+    "category": "Data Science",
+    "publication": "KDnuggets"
   },
   {
     "title": "Parallel Processing Large File in Python",
@@ -3156,6 +3228,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "SGLang Tutorial: Serving Mistral Medium 3.5 Locally",
+    "url": "https://www.datacamp.com/tutorial/sglang-tutorial-serving-mistral-medium-3-5-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "SQL CONTAINS: A Comprehensive Tutorial",
     "url": "https://www.datacamp.com/tutorial/sql-contains",
     "category": "SQL",
@@ -3309,6 +3387,12 @@
     "title": "Super Bard: The AI That Can Do It All and Better",
     "url": "https://www.kdnuggets.com/2023/05/super-bard-ai-better.html",
     "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "System Design Interview Questions: A Handy Collection",
+    "url": "https://www.kdnuggets.com/system-design-interview-questions-a-handy-collection",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -4174,6 +4258,12 @@
     "url": "https://www.kdnuggets.com/vibe-coding-with-glm-46-coding-plan",
     "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "Vibe Coding with Xiaomi MiMo-V2.5-Pro: A Hands-On Tutorial",
+    "url": "https://www.datacamp.com/tutorial/vibe-coding-with-xiaomi-mimo-v2-5-pro",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
   },
   {
     "title": "Warp Terminal Tutorial: AI-Powered Features for Developers and Data Pros",

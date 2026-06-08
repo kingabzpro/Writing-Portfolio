@@ -1,17 +1,20 @@
 [
   {
-    "title": "How to Set Up Claude Code Channels Locally",
-    "url": "https://www.kdnuggets.com/how-to-set-up-claude-code-channels-locally",
-    "date": "2026-05-06"
+    "title": "Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem",
+    "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
+    "date": "2026-06-08",
+    "publication": "Hugging Face"
   },
   {
-    "title": "How to Run DeepSeek V4 Flash Locally",
-    "url": "https://www.datacamp.com/tutorial/how-to-run-deepseek-v4-flash-locally",
-    "date": "2026-05-05"
+    "title": "How to Write to Files in Python: A Beginner’s Guide",
+    "url": "https://www.kdnuggets.com/how-to-write-to-files-in-python-a-beginners-guide",
+    "date": "2026-06-03",
+    "publication": "KDnuggets"
   },
   {
-    "title": "OpenAI Agents SDK: How to Run Agents in Modal Sandboxes",
-    "url": "https://www.datacamp.com/tutorial/openai-agents-sdk-modal-sandbox",
-    "date": "2026-04-27"
+    "title": "SGLang Tutorial: Serving Mistral Medium 3.5 Locally",
+    "url": "https://www.datacamp.com/tutorial/sglang-tutorial-serving-mistral-medium-3-5-locally",
+    "date": "2026-06-01",
+    "publication": "DataCamp"
   }
 ]

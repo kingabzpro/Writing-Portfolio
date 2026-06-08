@@ -9,6 +9,11 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem](https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper)
+- [MiniMax M3 Tutorial: Coding with MiniMax Code on Web and Desktop](https://www.datacamp.com/tutorial/minimax-code-minimax-m3)
+- [Vibe Coding with Xiaomi MiMo-V2.5-Pro: A Hands-On Tutorial](https://www.datacamp.com/tutorial/vibe-coding-with-xiaomi-mimo-v2-5-pro)
+- [Kimi K2.6 API Tutorial: Building an AI Job Search Assistant](https://www.datacamp.com/tutorial/kimi-k2-6-api-tutorial)
+- [7 Real World AI Projects to Build in 2026 (with Guides)](https://www.kdnuggets.com/7-real-world-ai-projects-to-build-in-2026-with-guides)
 - [How to Set Up Claude Code Channels Locally](https://www.kdnuggets.com/how-to-set-up-claude-code-channels-locally)
 - [How to Use Olostep with Claude Code Channels](https://www.olostep.com/blog/use-olostep-with-claude-code-channels)
 - [How to Automate Investment Research Using Olostep and n8n](https://www.olostep.com/blog/automate-investment-research-olostep-n8n)

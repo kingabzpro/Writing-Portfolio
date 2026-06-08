@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Data Science.
 
 ## Articles
 
+- [Pandas GroupBy Explained With Examples](https://www.kdnuggets.com/pandas-groupby-explained-with-examples)
 - [Top 7 n8n Workflow Templates for Data Science](https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science)
 - [28 Data Analytics Projects for All Levels in 2025](https://www.datacamp.com/blog/data-analytics-projects-all-levels)
 - [Top 10 Free API Providers for Data Science Projects](https://www.kdnuggets.com/top-10-free-api-providers-for-data-science-projects)
