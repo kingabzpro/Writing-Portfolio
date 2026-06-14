@@ -66,6 +66,7 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [Best Data Science Career Tracks of 2022](https://www.kdnuggets.com/2022/04/best-data-science-career-tracks-2022.html)
 - [3 Valuable Skills That Have Doubled My Income as a Data Scientist](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
 - [How To Find The Best Data Science Remote Jobs](https://www.kdnuggets.com/2022/12/find-best-data-science-remote-jobs.html)
+- [How To Find The Best Data Science Remote Jobs](https://abidaliawan.medium.com/how-to-find-the-best-data-science-remote-jobs-a122f22f2f97)
 - [How to Ace Data Scientist Professional Certificate Exam](https://www.kdnuggets.com/2023/08/ace-data-scientist-professional-certificate.html)
 - [7 Platforms for Getting High Paying Data Science Jobs](https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs)
 
@@ -84,6 +85,7 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [7 Machine Learning Portfolio Projects to Boost the Resume](https://www.kdnuggets.com/2022/09/7-machine-learning-portfolio-projects-boost-resume.html)
 - [5 Advance Projects for Data Science Portfolio](https://www.kdnuggets.com/2023/03/5-advance-projects-data-science-portfolio.html)
 - [How to Build Strong Data Science Portfolio as a Beginner](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
+- [How to Build Strong Data Science Portfolio as a Beginner](https://abidaliawan.medium.com/how-to-build-strong-data-science-portfolio-as-a-beginner-5540dd84aff1)
 - [5 Python Projects for Data Science Portfolio](https://www.kdnuggets.com/2022/12/5-python-projects-data-science-portfolio.html)
 - [7 Free Platforms for Building a Strong Data Science Portfolio](https://www.kdnuggets.com/2022/10/7-free-platforms-building-strong-data-science-portfolio.html)
 
@@ -97,6 +99,7 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [ChatGPT for Data Science Interview Cheat Sheet](https://www.kdnuggets.com/2023/06/chatgpt-data-science-interviews-cheat-sheet.html)
 - [10 Most Asked Data Science Interview Questions](https://www.statology.org/10-most-asked-data-science-interview-questions/)
 - [How to Ace Data Science Interview by Working on Portfolio Projects](https://www.kdnuggets.com/2021/10/ace-data-science-interview-portfolio-projects.html)
+- [How to Ace Data Science Interview by Working on Portfolio Projects](https://abidaliawan.medium.com/how-to-ace-data-science-interview-by-working-on-portfolio-projects-6e5027430565)
 - [How to Ace Data Science Assessment Test by Using Automatic EDA Tools](https://www.kdnuggets.com/2022/04/ace-data-science-assessment-test-automatic-eda-tools.html)
 - [The Complete Collection of Data Science Interviews - Part 1](https://www.kdnuggets.com/2022/06/complete-collection-data-science-interviews-part-1.html)
 - [The Complete Collection of Data Science Interviews - Part 2](https://www.kdnuggets.com/2022/06/complete-collection-data-science-interviews-part-2.html)
