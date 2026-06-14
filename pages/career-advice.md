@@ -4,6 +4,10 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## GitHub Repositories
 
+- [10 GitHub Awesome Lists for Data Science](https://www.kdnuggets.com/10-github-awesome-lists-for-data-science)
+- [10 GitHub Features That You Are Missing Out On](https://www.kdnuggets.com/10-github-features-that-you-are-missing-out-on)
+- [10 GitHub Repositories to Master FastAPI](https://www.kdnuggets.com/10-github-repositories-to-master-fastapi)
+- [10 GitHub Repositories to Master Self-Hosting](https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting)
 - [10 GitHub Repositories for Modern Database Systems and Tools](https://www.kdnuggets.com/10-github-repositories-for-modern-database-systems-and-tools)
 - [10 GitHub Repositories to Master Quant Trading](https://www.kdnuggets.com/10-github-repositories-to-master-quant-trading)
 - [10 GitHub Repositories To Master Claude Code](https://www.kdnuggets.com/10-github-repositories-to-master-claude-code)
@@ -49,20 +53,39 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [How to Learn Python the Lazy Way](https://www.kdnuggets.com/how-to-learn-python-the-lazy-way)
 - [How to Learn SQL the Lazy Way](https://www.kdnuggets.com/how-to-learn-sql-the-lazy-way)
 - [Free Python Resources That Can Help You Become a Pro](https://www.kdnuggets.com/free-python-resources-that-can-help-you-become-a-pro)
-- [7 Things Students Are Missing in a Data Science Resume](https://www.kdnuggets.com/7-things-students-are-missing-in-a-data-science-resume)
 - [7 High Paying Side Hustles for Data Scientists](https://www.kdnuggets.com/7-high-paying-side-hustles-for-data-scientists)
-- [5 Free Platforms for Building a Strong Data Science Portfolio](https://www.kdnuggets.com/5-free-platforms-for-building-a-strong-data-science-portfolio)
-- [5 Portfolio Projects for Final Year Data Science Students](https://www.kdnuggets.com/5-portfolio-projects-for-final-year-data-science-students)
 - [How to Choose The Best Data Science Bootcamp in 2023](https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp)
 - [5 Mistakes I Made While Switching to Data Science Career](https://www.kdnuggets.com/2023/07/5-mistakes-made-switching-data-science-career.html)
 - [How to Get Hired as Data Scientist in the GPT-4 Era](https://www.kdnuggets.com/2023/04/get-hired-data-scientist-gpt4-era.html)
 - [3 Things I Wish I Knew When I Started Data Science](https://www.kdnuggets.com/2023/01/3-things-wish-knew-started-data-science.html)
+- [Stop Applying for Jobs!](https://www.kdnuggets.com/stop-applying-for-jobs)
+- [How to Get Certified as a Data Scientist](https://www.kdnuggets.com/2021/12/get-certified-data-science.html)
+- [The High Paying Side Hustles for Data Scientists](https://www.kdnuggets.com/2022/01/high-paying-side-hustles-data-scientists.html)
+- [Become a Data Science Professional in Five Steps](https://www.kdnuggets.com/2022/03/become-data-science-professional-five-steps.html)
+- [How to Write Engaging Technical Blogs](https://www.kdnuggets.com/2022/04/write-engaging-technical-blogs.html)
+- [Best Data Science Career Tracks of 2022](https://www.kdnuggets.com/2022/04/best-data-science-career-tracks-2022.html)
+- [3 Valuable Skills That Have Doubled My Income as a Data Scientist](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
+- [How To Find The Best Data Science Remote Jobs](https://www.kdnuggets.com/2022/12/find-best-data-science-remote-jobs.html)
+- [How to Ace Data Scientist Professional Certificate Exam](https://www.kdnuggets.com/2023/08/ace-data-scientist-professional-certificate.html)
+- [7 Platforms for Getting High Paying Data Science Jobs](https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs)
 
 ## Guides
 
-- [Stop Applying for Jobs!](https://www.kdnuggets.com/stop-applying-for-jobs)
 - [Collection of Guides on Mastering SQL, Python, Data Cleaning, Data Wrangling, and Exploratory Data Analysis](https://www.kdnuggets.com/collection-of-guides-on-mastering-sql-python-data-cleaning-data-wrangling-and-exploratory-data-analysis)
-- [5 Super Cheat Sheets to Master Data Science](https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science)
+
+## Portfolio and Resume
+
+- [7 Things Students Are Missing in a Data Science Resume](https://www.kdnuggets.com/7-things-students-are-missing-in-a-data-science-resume)
+- [5 Free Platforms for Building a Strong Data Science Portfolio](https://www.kdnuggets.com/5-free-platforms-for-building-a-strong-data-science-portfolio)
+- [5 Portfolio Projects for Final Year Data Science Students](https://www.kdnuggets.com/5-portfolio-projects-for-final-year-data-science-students)
+- [7 AI Portfolio Projects to Boost the Resume](https://www.kdnuggets.com/7-ai-portfolio-projects-to-boost-the-resume)
+- [LLM Portfolio Projects Ideas to Wow Employers](https://www.kdnuggets.com/llm-portfolio-projects-ideas-to-wow-employers)
+- [7 Machine Learning Projects That Can Add Value to Any Resume](https://machinelearningmastery.com/7-machine-learning-projects-that-can-add-value-to-any-resume/)
+- [7 Machine Learning Portfolio Projects to Boost the Resume](https://www.kdnuggets.com/2022/09/7-machine-learning-portfolio-projects-boost-resume.html)
+- [5 Advance Projects for Data Science Portfolio](https://www.kdnuggets.com/2023/03/5-advance-projects-data-science-portfolio.html)
+- [How to Build Strong Data Science Portfolio as a Beginner](https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html)
+- [5 Python Projects for Data Science Portfolio](https://www.kdnuggets.com/2022/12/5-python-projects-data-science-portfolio.html)
+- [7 Free Platforms for Building a Strong Data Science Portfolio](https://www.kdnuggets.com/2022/10/7-free-platforms-building-strong-data-science-portfolio.html)
 
 ## Interviews
 
@@ -70,6 +93,19 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [26 Data Science Interview Questions You Should Know](https://www.kdnuggets.com/26-data-science-interview-questions-you-should-know)
 - [Top 7 Essential Cheat Sheets To Ace Your Data Science Interview](https://www.kdnuggets.com/top-7-essential-cheat-sheets-to-ace-your-data-science-interview)
 - [28 Top Data Scientist Interview Questions For All Levels](https://www.datacamp.com/blog/data-scientist-interview-questions)
+- [Statistics Cheat Sheets to Get Before Your Job Interview](https://www.statology.org/statistics-cheat-sheets-job-interview/)
+- [ChatGPT for Data Science Interview Cheat Sheet](https://www.kdnuggets.com/2023/06/chatgpt-data-science-interviews-cheat-sheet.html)
+- [10 Most Asked Data Science Interview Questions](https://www.statology.org/10-most-asked-data-science-interview-questions/)
+- [How to Ace Data Science Interview by Working on Portfolio Projects](https://www.kdnuggets.com/2021/10/ace-data-science-interview-portfolio-projects.html)
+- [How to Ace Data Science Assessment Test by Using Automatic EDA Tools](https://www.kdnuggets.com/2022/04/ace-data-science-assessment-test-automatic-eda-tools.html)
+- [The Complete Collection of Data Science Interviews - Part 1](https://www.kdnuggets.com/2022/06/complete-collection-data-science-interviews-part-1.html)
+- [The Complete Collection of Data Science Interviews - Part 2](https://www.kdnuggets.com/2022/06/complete-collection-data-science-interviews-part-2.html)
+- [7 Data Analytics Interview Questions & Answers](https://www.kdnuggets.com/2022/09/7-data-analytics-interview-questions-answers.html)
+- [10 Cheat Sheets You Need To Ace Data Science Interview](https://www.kdnuggets.com/2022/10/10-cheat-sheets-need-ace-data-science-interview.html)
+- [7 Super Cheat Sheets You Need To Ace Machine Learning Interview](https://www.kdnuggets.com/2022/12/7-super-cheat-sheets-need-ace-machine-learning-interview.html)
+- [5 Python Interview Questions & Answers](https://www.kdnuggets.com/2022/09/5-python-interview-questions-answers.html)
+- [12 Most Challenging Data Science Interview Questions](https://www.kdnuggets.com/2022/07/12-challenging-data-science-interview-questions.html)
+- [5 Tips for Acing Your First Data Science Interview](https://towardsdatascience.com/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7/)
 
 ## Free Books
 
@@ -95,21 +131,6 @@ A collection of resources, tutorials, and articles about Career Advice.
 - [Generative AI with Large Language Models: Hands-On Training](https://www.kdnuggets.com/2023/07/generative-ai-large-language-models-handson-training.html)
 - [A Complete Collection of Data Science Free Courses – Part 2](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-2.html)
 - [A Complete Collection of Data Science Free Courses – Part 1](https://www.kdnuggets.com/2023/03/complete-collection-data-science-free-courses-part-1.html)
-
-- [The Common Misconceptions About Machine Learning](https://www.kdnuggets.com/2021/11/common-misconception-about-machine-learning.html)
-- [How to Get Certified as a Data Scientist](https://www.kdnuggets.com/2021/12/get-certified-data-science.html)
-- [The High Paying Side Hustles for Data Scientists](https://www.kdnuggets.com/2022/01/high-paying-side-hustles-data-scientists.html)
-- [Become a Data Science Professional in Five Steps](https://www.kdnuggets.com/2022/03/become-data-science-professional-five-steps.html)
-- [How to Write Engaging Technical Blogs](https://www.kdnuggets.com/2022/04/write-engaging-technical-blogs.html)
-- [Best Data Science Career Tracks of 2022](https://www.kdnuggets.com/2022/04/best-data-science-career-tracks-2022.html)
-- [12 Most Challenging Data Science Interview Questions](https://www.kdnuggets.com/2022/07/12-challenging-data-science-interview-questions.html)
-- [3 Valuable Skills That Have Doubled My Income as a Data Scientist](https://www.kdnuggets.com/2022/10/3-valuable-skills-doubled-income-data-scientist.html)
-- [7 Free Platforms for Building a Strong Data Science Portfolio](https://www.kdnuggets.com/2022/10/7-free-platforms-building-strong-data-science-portfolio.html)
-- [How To Find The Best Data Science Remote Jobs](https://www.kdnuggets.com/2022/12/find-best-data-science-remote-jobs.html)
-- [How to Ace Data Scientist Professional Certificate Exam](https://www.kdnuggets.com/2023/08/ace-data-scientist-professional-certificate.html)
-- [7 Platforms for Getting High Paying Data Science Jobs](https://www.kdnuggets.com/7-platforms-for-getting-high-paying-data-science-jobs)
-- [5 Tips for Acing Your First Data Science Interview](https://towardsdatascience.com/5-tips-for-acing-your-first-data-science-interview-dbad5b5959d7/)
-- [How To Find The Best Data Science Remote Jobs](https://abidaliawan.medium.com/how-to-find-the-best-data-science-remote-jobs-a122f22f2f97)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 

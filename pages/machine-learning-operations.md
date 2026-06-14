@@ -4,19 +4,16 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
-- [10 GitHub Repositories to Master Self-Hosting](https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting)
 - [How to Deploy Your First App on FastAPI Cloud](https://www.kdnuggets.com/how-to-deploy-your-first-app-on-fastapi-cloud)
 - [Train, Serve, and Deploy a Scikit-learn Model with FastAPI](https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/)
 - [Top 7 Docker Compose Templates Every Developer Should Use](https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use)
 - [Top 5 Self Hosting Platform Alternative to Vercel, Heroku & Netlify](https://www.kdnuggets.com/top-5-self-hosting-platform-alternative-to-vercel-heroku-netlify)
-- [10 GitHub Repositories to Master Machine Learning Deployment](https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment)
 - [Building Machine Learning Application with Django](https://www.kdnuggets.com/building-machine-learning-application-with-django)
 - [Stress Testing FastAPI Application](https://www.kdnuggets.com/stress-testing-fastapi-application)
 - [Top 7 Continuous Integration and Continuous Delivery Tools for 2025](https://www.kdnuggets.com/top-7-continuous-integration-and-continuous-delivery-tools-for-2025)
 - [A Guide to Mastering Serverless Machine Learning](https://www.kdnuggets.com/a-guide-to-mastering-serverless-machine-learning)
 - [Securing Machine Learning Applications with Authentication and User Management](https://www.kdnuggets.com/securing-machine-learning-application-with-authentication-and-user-management)
 - [Accelerate Machine Learning Model Serving with FastAPI and Redis Caching](https://www.kdnuggets.com/accelerate-machine-learning-model-serving-with-fastapi-and-redis-caching)
-- [10 GitHub Repositories to Master Cloud Computing](https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing)
 - [Securing Your FastAPI ML Application](https://nexusml.co/blog/securing_fastapi_ml_application/)
 - [Image Classification Inference with FastAPI](https://nexusml.co/blog/image-classification-inference-fastapi/)
 - [Top 5 MLOps Tools](https://nexusml.co/blog/top-5-mlops-tools/)
@@ -38,7 +35,6 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 - [5 Best End-to-End Open Source MLOps Tools](https://www.kdnuggets.com/5-best-end-to-end-open-source-mlops-tools) 
 - [GitHub Actions and MakeFile: A Hands-on Introduction](https://www.datacamp.com/tutorial/makefile-github-actions-tutorial)
 - [7 End-to-End MLOps Platforms You Must Try in 2024](https://www.kdnuggets.com/7-end-to-end-mlops-platforms-you-must-try-in-2024) 
-- [Everything You Need to Know About MLOps: A KDnuggets Tech Brief ](https://www.kdnuggets.com/tech-brief-everything-you-need-to-know-about-mlops)
 - [7 Steps to Mastering MLOPs](https://www.kdnuggets.com/7-steps-to-mastering-mlops) 
 - [Using Prefect for Machine Learning Workflows](https://www.datacamp.com/tutorial/ml-workflow-orchestration-with-prefect)
 - [Top 7 Model Deployment and Serving Tools](https://www.kdnuggets.com/top-7-model-deployment-and-serving-tools) 

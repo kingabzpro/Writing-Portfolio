@@ -5,7 +5,6 @@ A collection of resources, tutorials, and articles about Cheat Sheets.
 ## Articles
 
 - [Top 10 Collections of Cheat Sheets on GitHub](https://www.kdnuggets.com/top-10-collections-of-cheat-sheets-on-github)
-- [Statistics Cheat Sheets to Get Before Your Job Interview](https://www.statology.org/statistics-cheat-sheets-job-interview/) 
 - [10 ChatGPT Projects Cheat Sheet](https://www.kdnuggets.com/10-chatgpt-projects-cheat-sheet)
 - [Scikit-learn for Machine Learning Cheat Sheet](https://www.kdnuggets.com/2022/12/scikit-learn-machine-learning-cheatsheet.html) 
 - [Python Control Flow Cheat Sheet](https://www.kdnuggets.com/2022/11/python-control-flow-cheatsheet.html)
@@ -13,7 +12,6 @@ A collection of resources, tutorials, and articles about Cheat Sheets.
 - [Best Python Tools for Building Generative AI Applications Cheat Sheet](https://www.kdnuggets.com/2023/08/best-python-tools-generative-ai-cheat-sheet.html)
 - [AI Chrome Extensions for Data Scientists Cheat Sheet](https://www.kdnuggets.com/2023/06/ai-chrome-extensions-data-scientists-cheat-sheet.html) 
 - [10 ChatGPT Plugins for Data Science Cheat Sheet](https://www.kdnuggets.com/2023/06/10-chatgpt-plugins-data-science-cheat-sheet.html)
-- [ChatGPT for Data Science Interview Cheat Sheet](https://www.kdnuggets.com/2023/06/chatgpt-data-science-interviews-cheat-sheet.html) 
 - [RAPIDS cuDF Cheat Sheet](https://www.kdnuggets.com/2023/05/cudf-data-science-cheat-sheet.html)
 - [Machine Learning with ChatGPT Cheat Sheet](https://www.kdnuggets.com/2023/05/machine-learning-chatgpt-cheat-sheet.html) 
 - [Plotly Express for Data Visualization Cheat Sheet](https://www.kdnuggets.com/2023/03/plotly-express-data-visualization-cheat-sheet.html)
@@ -25,6 +23,7 @@ A collection of resources, tutorials, and articles about Cheat Sheets.
 - [Git for Data Science Cheatsheet](https://www.kdnuggets.com/2022/11/git-data-science-cheatsheet.html)
 - [Getting Started with Pandas Cheatsheet](https://www.kdnuggets.com/2022/09/getting-started-pandas-cheatsheet.html) 
 - [Getting Started with SQL Cheatsheet](https://www.kdnuggets.com/2022/08/getting-started-sql-cheatsheet.html)
+- [5 Super Cheat Sheets to Master Data Science](https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science)
 
 <a href="/" class="button back-home-btn"><i class="fas fa-home"></i><span>Back to Home</span></a>
 

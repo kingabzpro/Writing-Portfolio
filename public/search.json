@@ -38,7 +38,7 @@
   {
     "title": "10 Cheat Sheets You Need To Ace Data Science Interview",
     "url": "https://www.kdnuggets.com/2022/10/10-cheat-sheets-need-ace-data-science-interview.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -68,13 +68,13 @@
   {
     "title": "10 GitHub Awesome Lists for Data Science",
     "url": "https://www.kdnuggets.com/10-github-awesome-lists-for-data-science",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
     "title": "10 GitHub Features That You Are Missing Out On",
     "url": "https://www.kdnuggets.com/10-github-features-that-you-are-missing-out-on",
-    "category": "Programming",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -90,27 +90,9 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories for Deep Learning Enthusiasts",
-    "url": "https://www.kdnuggets.com/10-github-repositories-for-deep-learning-enthusiasts",
-    "category": "Machine Learning (ML)",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories for Machine Learning Projects",
     "url": "https://www.kdnuggets.com/10-github-repositories-for-machine-learning-projects",
     "category": "Career Advice",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories for Machine Learning Projects",
-    "url": "https://www.kdnuggets.com/10-github-repositories-for-machine-learning-projects",
-    "category": "Machine Learning (ML)",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories for Mastering Agents and MCPs",
-    "url": "https://www.kdnuggets.com/10-github-repositories-for-mastering-agents-and-mcps",
-    "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
   },
   {
@@ -132,12 +114,6 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories for Python Projects",
-    "url": "https://www.kdnuggets.com/10-github-repositories-for-python-projects",
-    "category": "Python",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories to Ace Any Tech Interview",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview",
     "category": "Career Advice",
@@ -150,21 +126,9 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories to Master Backend Development",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-backend-development",
-    "category": "Programming",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories to Master Cloud Computing",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing",
     "category": "Career Advice",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories to Master Cloud Computing",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing",
-    "category": "Machine Learning Operations (MLOps)",
     "publication": "KDnuggets"
   },
   {
@@ -180,39 +144,21 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories to Master Computer Vision",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-computer-vision",
-    "category": "Computer Vision",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories to Master Data Engineering",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-data-engineering",
     "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories to Master Data Engineering",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-data-engineering",
-    "category": "Data Engineering",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories to Master Data Science",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-data-science",
     "category": "Career Advice",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories to Master Data Science",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-data-science",
-    "category": "Data Science",
     "publication": "KDnuggets"
   },
   {
     "title": "10 GitHub Repositories to Master FastAPI",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-fastapi",
-    "category": "Machine Learning (ML)",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -222,21 +168,9 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories to Master Frontend Development",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-frontend-development",
-    "category": "Programming",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories to Master Large Language Models",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models",
     "category": "Career Advice",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories to Master Large Language Models",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-large-language-models",
-    "category": "Large Language Models (LLMs)",
     "publication": "KDnuggets"
   },
   {
@@ -258,12 +192,6 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories to Master Machine Learning Deployment",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-machine-learning-deployment",
-    "category": "Machine Learning Operations (MLOps)",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories to Master Math",
     "url": "https://www.kdnuggets.com/10-github-repositories-master-math",
     "category": "Career Advice",
@@ -273,12 +201,6 @@
     "title": "10 GitHub Repositories to Master Natural Language Processing (NLP)",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-natural-language-processing-nlp",
     "category": "Career Advice",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories to Master Natural Language Processing (NLP)",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-natural-language-processing-nlp",
-    "category": "Natural Language Processing (NLP)",
     "publication": "KDnuggets"
   },
   {
@@ -306,39 +228,21 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories to Master Reinforcement Learning",
-    "url": "https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning",
-    "category": "Machine Learning (ML)",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories to Master SQL",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-sql",
     "category": "Career Advice",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories to Master SQL",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-sql",
-    "category": "SQL",
     "publication": "KDnuggets"
   },
   {
     "title": "10 GitHub Repositories to Master Self-Hosting",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-self-hosting",
-    "category": "Machine Learning Operations (MLOps)",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories to Master Statistics",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-statistics",
     "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
     "title": "10 GitHub Repositories to Master Statistics",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-statistics",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -354,21 +258,9 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "10 GitHub Repositories to Master Vibe Coding",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-vibe-coding",
-    "category": "Programming",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "10 GitHub Repositories to Master Web Development in 2025",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-web-development-in-2025",
     "category": "Career Advice",
-    "publication": "KDnuggets"
-  },
-  {
-    "title": "10 GitHub Repositories to Master Web Development in 2025",
-    "url": "https://www.kdnuggets.com/10-github-repositories-to-master-web-development-in-2025",
-    "category": "Programming",
     "publication": "KDnuggets"
   },
   {
@@ -386,14 +278,8 @@
   {
     "title": "10 Most Asked Data Science Interview Questions",
     "url": "https://www.statology.org/10-most-asked-data-science-interview-questions/",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "Statology"
-  },
-  {
-    "title": "10 Most Popular GitHub Repositories for Learning AI",
-    "url": "https://www.kdnuggets.com/10-most-popular-github-repositories-for-learning-ai",
-    "category": "Artificial Intelligence (AI)",
-    "publication": "KDnuggets"
   },
   {
     "title": "10 Most Popular GitHub Repositories for Learning AI",
@@ -614,7 +500,7 @@
   {
     "title": "5 Advance Projects for Data Science Portfolio",
     "url": "https://www.kdnuggets.com/2023/03/5-advance-projects-data-science-portfolio.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -804,12 +690,6 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "5 Powerful Ways to Use Claude 4",
-    "url": "https://www.kdnuggets.com/5-powerful-ways-to-use-claude-4",
-    "category": "Large Language Models (LLMs)",
-    "publication": "KDnuggets"
-  },
-  {
     "title": "5 Projects Build with Generative Models and Open Source Tools",
     "url": "https://www.datacamp.com/blog/5-projects-you-can-build-with-generative-ai-models",
     "category": "Artificial Intelligence (AI)",
@@ -818,13 +698,13 @@
   {
     "title": "5 Python Interview Questions & Answers",
     "url": "https://www.kdnuggets.com/2022/09/5-python-interview-questions-answers.html",
-    "category": "Python",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
     "title": "5 Python Projects for Data Science Portfolio",
     "url": "https://www.kdnuggets.com/2022/12/5-python-projects-data-science-portfolio.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -836,7 +716,7 @@
   {
     "title": "5 Super Cheat Sheets to Master Data Science",
     "url": "https://www.kdnuggets.com/5-super-cheat-sheets-to-master-data-science",
-    "category": "Career Advice",
+    "category": "Cheat Sheets",
     "publication": "KDnuggets"
   },
   {
@@ -920,7 +800,7 @@
   {
     "title": "7 AI Portfolio Projects to Boost the Resume",
     "url": "https://www.kdnuggets.com/7-ai-portfolio-projects-to-boost-the-resume",
-    "category": "Artificial Intelligence (AI)",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -968,7 +848,7 @@
   {
     "title": "7 Data Analytics Interview Questions & Answers",
     "url": "https://www.kdnuggets.com/2022/09/7-data-analytics-interview-questions-answers.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -1094,13 +974,13 @@
   {
     "title": "7 Machine Learning Portfolio Projects to Boost the Resume",
     "url": "https://www.kdnuggets.com/2022/09/7-machine-learning-portfolio-projects-boost-resume.html",
-    "category": "Machine Learning (ML)",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
     "title": "7 Machine Learning Projects That Can Add Value to Any Resume",
     "url": "https://machinelearningmastery.com/7-machine-learning-projects-that-can-add-value-to-any-resume/",
-    "category": "Machine Learning (ML)",
+    "category": "Career Advice",
     "publication": "Machinelearningmastery"
   },
   {
@@ -1178,7 +1058,7 @@
   {
     "title": "7 Super Cheat Sheets You Need To Ace Machine Learning Interview",
     "url": "https://www.kdnuggets.com/2022/12/7-super-cheat-sheets-need-ace-machine-learning-interview.html",
-    "category": "Machine Learning (ML)",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -1640,7 +1520,7 @@
   {
     "title": "ChatGPT for Data Science Interview Cheat Sheet",
     "url": "https://www.kdnuggets.com/2023/06/chatgpt-data-science-interviews-cheat-sheet.html",
-    "category": "Cheat Sheets",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -1888,12 +1768,6 @@
     "url": "https://www.datacamp.com/tutorial/deepeval",
     "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
-  },
-  {
-    "title": "Everything You Need to Know About MLOps: A KDnuggets Tech Brief",
-    "url": "https://www.kdnuggets.com/tech-brief-everything-you-need-to-know-about-mlops",
-    "category": "Machine Learning Operations (MLOps)",
-    "publication": "KDnuggets"
   },
   {
     "title": "Everything You Need to Know About MLOps: A KDnuggets Tech Brief - Ebook",
@@ -2364,12 +2238,6 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "How To Find The Best Data Science Remote Jobs",
-    "url": "https://abidaliawan.medium.com/how-to-find-the-best-data-science-remote-jobs-a122f22f2f97",
-    "category": "Career Advice",
-    "publication": "Medium"
-  },
-  {
     "title": "How Watermarking Can Help Mitigate The Potential Risks Of LLMs?",
     "url": "https://www.kdnuggets.com/2023/03/watermarking-help-mitigate-potential-risks-llms.html",
     "category": "Large Language Models (LLMs)",
@@ -2384,20 +2252,14 @@
   {
     "title": "How to Ace Data Science Assessment Test by Using Automatic EDA Tools",
     "url": "https://www.kdnuggets.com/2022/04/ace-data-science-assessment-test-automatic-eda-tools.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
     "title": "How to Ace Data Science Interview by Working on Portfolio Projects",
     "url": "https://www.kdnuggets.com/2021/10/ace-data-science-interview-portfolio-projects.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
-  },
-  {
-    "title": "How to Ace Data Science Interview by Working on Portfolio Projects",
-    "url": "https://abidaliawan.medium.com/how-to-ace-data-science-interview-by-working-on-portfolio-projects-6e5027430565",
-    "category": "Data Science",
-    "publication": "Medium"
   },
   {
     "title": "How to Ace Data Scientist Professional Certificate Exam",
@@ -2414,14 +2276,8 @@
   {
     "title": "How to Build Strong Data Science Portfolio as a Beginner",
     "url": "https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
-  },
-  {
-    "title": "How to Build Strong Data Science Portfolio as a Beginner",
-    "url": "https://abidaliawan.medium.com/how-to-build-strong-data-science-portfolio-as-a-beginner-5540dd84aff1",
-    "category": "Data Science",
-    "publication": "Medium"
   },
   {
     "title": "How to Build a Multi-Agent Research Assistant in Python",
@@ -2576,12 +2432,6 @@
   {
     "title": "How to Run Llama 3 Locally: A Complete Guide",
     "url": "https://www.datacamp.com/tutorial/run-llama-3-locally",
-    "category": "Large Language Models (LLMs)",
-    "publication": "DataCamp"
-  },
-  {
-    "title": "How to Run Qwen 3.5 Locally on a Single GPU: Step-by-Step Guide",
-    "url": "https://www.datacamp.com/tutorial/run-qwen-3-5-locally",
     "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
   },
@@ -2768,7 +2618,7 @@
   {
     "title": "LLM Portfolio Projects Ideas to Wow Employers",
     "url": "https://www.kdnuggets.com/llm-portfolio-projects-ideas-to-wow-employers",
-    "category": "Large Language Models (LLMs)",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -3344,7 +3194,7 @@
   {
     "title": "Statistics Cheat Sheets to Get Before Your Job Interview",
     "url": "https://www.statology.org/statistics-cheat-sheets-job-interview/",
-    "category": "Cheat Sheets",
+    "category": "Career Advice",
     "publication": "Statology"
   },
   {
@@ -3446,7 +3296,7 @@
   {
     "title": "The Common Misconceptions About Machine Learning",
     "url": "https://www.kdnuggets.com/2021/11/common-misconception-about-machine-learning.html",
-    "category": "Career Advice",
+    "category": "Machine Learning (ML)",
     "publication": "KDnuggets"
   },
   {
@@ -3492,15 +3342,15 @@
     "publication": "KDnuggets"
   },
   {
-    "title": "The Complete Collection of Data Science Interviews – Part 1",
+    "title": "The Complete Collection of Data Science Interviews - Part 1",
     "url": "https://www.kdnuggets.com/2022/06/complete-collection-data-science-interviews-part-1.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
-    "title": "The Complete Collection of Data Science Interviews – Part 2",
+    "title": "The Complete Collection of Data Science Interviews - Part 2",
     "url": "https://www.kdnuggets.com/2022/06/complete-collection-data-science-interviews-part-2.html",
-    "category": "Data Science",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -3668,12 +3518,6 @@
   {
     "title": "Top 10 ChatGPT Plugins for Data Science",
     "url": "https://www.datacamp.com/blog/the-10-best-chat-gpt-plugins-for-data-science",
-    "category": "Artificial Intelligence (AI)",
-    "publication": "DataCamp"
-  },
-  {
-    "title": "Top 10 ChatGPT Plugins for Data Science",
-    "url": "https://www.datacamp.com/blog/the-10-best-chat-gpt-plugins-for-data-science",
     "category": "Data Science",
     "publication": "DataCamp"
   },
@@ -3718,12 +3562,6 @@
     "url": "https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html",
     "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
-  },
-  {
-    "title": "Top 10 Vision Language Models in 2025",
-    "url": "https://www.datacamp.com/blog/top-vision-language-models",
-    "category": "Artificial Intelligence (AI)",
-    "publication": "DataCamp"
   },
   {
     "title": "Top 10 Vision Language Models in 2025",
