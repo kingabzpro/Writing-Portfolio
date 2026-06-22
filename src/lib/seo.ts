@@ -5,7 +5,14 @@ export const SITE = {
   url: "https://abid.work",
   image: "/assets/images/author.jpg",
   authorName: "Abid Ali Awan",
-  socialLinks: ["https://github.com/kingabzpro", "https://linkedin.com/in/1abidaliawan"],
+  socialLinks: [
+    "https://www.linkedin.com/in/1abidaliawan",
+    "https://github.com/kingabzpro",
+    "https://huggingface.co/kingabzpro",
+    "https://www.kaggle.com/kingabzpro",
+    "https://x.com/1abidaliawan",
+    "https://abidaliawan.medium.com"
+  ],
   twitterHandle: "1abidaliawan",
   gaId: "G-PRQC1HFQ4G"
 } as const;
