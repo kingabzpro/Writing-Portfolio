@@ -9,6 +9,13 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Run a Mythos Enhanced Qwen Model Locally with Hermes Agen](https://www.datacamp.com/tutorial/run-a-mythos-enhanced-qwen-model-locally-with-hermes-agent)
+- [How I Built an AI Scholarship Finder with Olostep](https://huggingface.co/blog/kingabzpro/ai-scholarship-finder-with-olostep)
+- [5 AI Coding Platforms to Build Apps Without the Headache](https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache)
+- [5 AI Coding Subscription Plans That Give Developers the Best Value](https://www.kdnuggets.com/5-ai-coding-subscription-plans-that-give-developers-the-best-value)
+- [5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video](https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video)
+- [Agent Swarm Tutorial: Coordinate AI Agents With CrewAI](https://www.datacamp.com/tutorial/agent-swarm-crewai)
+- [The 10 Best LLM API Providers: Which Fits Your AI Workflow?](https://www.datacamp.com/blog/best-llm-api-providers)
 - [Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem](https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper)
 - [MiniMax M3 Tutorial: Coding with MiniMax Code on Web and Desktop](https://www.datacamp.com/tutorial/minimax-code-minimax-m3)
 - [Vibe Coding with Xiaomi MiMo-V2.5-Pro: A Hands-On Tutorial](https://www.datacamp.com/tutorial/vibe-coding-with-xiaomi-mimo-v2-5-pro)

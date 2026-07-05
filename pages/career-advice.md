@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## GitHub Repositories
 
+- [10 GitHub Repositories for Web Development in Python](https://www.kdnuggets.com/10-github-repositories-for-web-development-in-python)
 - [10 GitHub Awesome Lists for Data Science](https://www.kdnuggets.com/10-github-awesome-lists-for-data-science)
 - [10 GitHub Features That You Are Missing Out On](https://www.kdnuggets.com/10-github-features-that-you-are-missing-out-on)
 - [10 GitHub Repositories to Master FastAPI](https://www.kdnuggets.com/10-github-repositories-to-master-fastapi)

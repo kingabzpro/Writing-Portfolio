@@ -1,20 +1,20 @@
 [
   {
-    "title": "Building Pakistan Notice Helper",
-    "url": "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
-    "date": "2026-06-08",
+    "title": "How I Built an AI Scholarship Finder with Olostep",
+    "url": "https://huggingface.co/blog/kingabzpro/ai-scholarship-finder-with-olostep",
+    "date": "2026-07-02",
     "publication": "Hugging Face"
   },
   {
-    "title": "How to Write to Files in Python: A Beginner’s Guide",
-    "url": "https://www.kdnuggets.com/how-to-write-to-files-in-python-a-beginners-guide",
-    "date": "2026-06-03",
-    "publication": "KDnuggets"
+    "title": "Run a Mythos Enhanced Qwen Model Locally with Hermes Agent",
+    "url": "https://www.datacamp.com/tutorial/run-a-mythos-enhanced-qwen-model-locally-with-hermes-agent",
+    "date": "2026-07-02",
+    "publication": "DataCamp"
   },
   {
-    "title": "SGLang Tutorial: Serving Mistral Medium 3.5 Locally",
-    "url": "https://www.datacamp.com/tutorial/sglang-tutorial-serving-mistral-medium-3-5-locally",
-    "date": "2026-06-01",
-    "publication": "DataCamp"
+    "title": "5 AI Coding Subscription Plans That Give Developers the Best Value",
+    "url": "https://www.kdnuggets.com/5-ai-coding-subscription-plans-that-give-developers-the-best-value",
+    "date": "2026-06-29",
+    "publication": "KDnuggets"
   }
 ]

@@ -114,6 +114,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "10 GitHub Repositories for Web Development in Python",
+    "url": "https://www.kdnuggets.com/10-github-repositories-for-web-development-in-python",
+    "category": "Career Advice",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "10 GitHub Repositories to Ace Any Tech Interview",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-ace-any-tech-interview",
     "category": "Career Advice",
@@ -498,6 +504,18 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "5 AI Coding Platforms to Build Apps Without the Headache",
+    "url": "https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "5 AI Coding Subscription Plans That Give Developers the Best Value",
+    "url": "https://www.kdnuggets.com/5-ai-coding-subscription-plans-that-give-developers-the-best-value",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "5 Advance Projects for Data Science Portfolio",
     "url": "https://www.kdnuggets.com/2023/03/5-advance-projects-data-science-portfolio.html",
     "category": "Career Advice",
@@ -674,6 +692,12 @@
   {
     "title": "5 Open Source Image Editing AI Models",
     "url": "https://www.kdnuggets.com/5-open-source-image-editing-ai-models",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "5 Open Source Omni AI Models That Handle Text, Images, Audio, and Video",
+    "url": "https://www.kdnuggets.com/5-open-source-omni-ai-models-that-handle-text-images-audio-and-video",
     "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
   },
@@ -1044,6 +1068,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "7 Real-World Python Projects You Can Build in 2026 (With Guides)",
+    "url": "https://www.kdnuggets.com/7-real-world-python-projects-you-can-build-in-2026-with-guides",
+    "category": "Python",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "7 Steps to Mastering Data Engineering",
     "url": "https://www.kdnuggets.com/7-steps-to-mastering-data-engineering",
     "category": "Data Engineering",
@@ -1240,6 +1270,12 @@
     "url": "https://www.kdnuggets.com/accelerate-machine-learning-model-serving-with-fastapi-and-redis-caching",
     "category": "Machine Learning Operations (MLOps)",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "Agent Swarm Tutorial: Coordinate AI Agents With CrewAI",
+    "url": "https://www.datacamp.com/tutorial/agent-swarm-crewai",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
   },
   {
     "title": "AgentGPT: Autonomous AI Agents in your Browser",
@@ -2232,6 +2268,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "How I Built an AI Scholarship Finder with Olostep",
+    "url": "https://huggingface.co/blog/kingabzpro/ai-scholarship-finder-with-olostep",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "Huggingface"
+  },
+  {
     "title": "How To Find The Best Data Science Remote Jobs",
     "url": "https://www.kdnuggets.com/2022/12/find-best-data-science-remote-jobs.html",
     "category": "Career Advice",
@@ -2418,6 +2460,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Run Fable 5-Enhanced Gemma 4 Locally",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-fable-5-enhanced-gemma-4-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Run GLM 4.7 Flash Locally",
     "url": "https://www.datacamp.com/tutorial/glm-4-7-flash-locally",
     "category": "Large Language Models (LLMs)",
@@ -2436,6 +2484,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Run GLM-5.2 Locally Using RunPod and llama.cpp",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-glm-5-2-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Run Kimi K2 Locally: Complete Setup & Troubleshooting",
     "url": "https://www.datacamp.com/tutorial/run-kimi-k2-locally",
     "category": "Large Language Models (LLMs)",
@@ -2448,8 +2502,20 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Run Kimi K2.7 Code Locally Using llama.cpp",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-kimi-k2-7-code-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Run Llama 3 Locally: A Complete Guide",
     "url": "https://www.datacamp.com/tutorial/run-llama-3-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "How to Run MiniMax M3 Locally: Multi-GPU Setup with llama.cpp and Pi Agent",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-minimax-m3-locally",
     "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
   },
@@ -2500,6 +2566,12 @@
     "url": "https://www.kdnuggets.com/2022/11/setup-julia-jupyter-notebook.html",
     "category": "Programming",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "How to Speed Up Local LLMs with DFlash Speculative Decoding",
+    "url": "https://www.datacamp.com/tutorial/how-to-speed-up-local-llms-with-dflash-speculative-decoding",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
   },
   {
     "title": "How to Use DeepSeek Janus-Pro Locally",
@@ -3066,6 +3138,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Run a Mythos Enhanced Qwen Model Locally with Hermes Agen",
+    "url": "https://www.datacamp.com/tutorial/run-a-mythos-enhanced-qwen-model-locally-with-hermes-agent",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Run a Real Time Speech to Speech AI Model Locally",
     "url": "https://www.kdnuggets.com/run-a-real-time-speech-to-speech-ai-model-locally",
     "category": "Large Language Models (LLMs)",
@@ -3274,6 +3352,12 @@
     "url": "https://www.kdnuggets.com/tech-stack-for-vibe-coding-modern-applications",
     "category": "Programming",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "The 10 Best LLM API Providers: Which Fits Your AI Workflow?",
+    "url": "https://www.datacamp.com/blog/best-llm-api-providers",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
   },
   {
     "title": "The 5 Best Vector Databases You Must Try in 2024",
@@ -3801,6 +3885,12 @@
     "title": "Top 7 ChatGPT Alternatives You Can Try For Free",
     "url": "https://www.kdnuggets.com/top-7-chatgpt-alternatives-you-can-try-for-free",
     "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "Top 7 Coding Models You Can Run Locally in 2026",
+    "url": "https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026",
+    "category": "Large Language Models (LLMs)",
     "publication": "KDnuggets"
   },
   {

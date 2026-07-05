@@ -4,6 +4,12 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [How to Run GLM-5.2 Locally Using RunPod and llama.cpp](https://www.datacamp.com/tutorial/how-to-run-glm-5-2-locally)
+- [How to Run Fable 5-Enhanced Gemma 4 Locally](https://www.datacamp.com/tutorial/how-to-run-fable-5-enhanced-gemma-4-locally)
+- [Top 7 Coding Models You Can Run Locally in 2026](https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026)
+- [How to Run Kimi K2.7 Code Locally Using llama.cpp](https://www.datacamp.com/tutorial/how-to-run-kimi-k2-7-code-locally)
+- [How to Run MiniMax M3 Locally: Multi-GPU Setup with llama.cpp and Pi Agent](https://www.datacamp.com/tutorial/how-to-run-minimax-m3-locally)
+- [How to Speed Up Local LLMs with DFlash Speculative Decoding](https://www.datacamp.com/tutorial/how-to-speed-up-local-llms-with-dflash-speculative-decoding)
 - [SGLang Tutorial: Serving Mistral Medium 3.5 Locally](https://www.datacamp.com/tutorial/sglang-tutorial-serving-mistral-medium-3-5-locally)
 - [Multi-Token Prediction Tutorial: How To Speed Up LLMs](https://www.datacamp.com/tutorial/multi-token-prediction-llama-cpp)
 - [How to Run DeepSeek V4 Flash Locally](https://www.datacamp.com/tutorial/how-to-run-deepseek-v4-flash-locally)
