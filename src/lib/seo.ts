@@ -6,12 +6,16 @@ export const SITE = {
   image: "/assets/images/author.jpg",
   authorName: "Abid Ali Awan",
   socialLinks: [
+    // Canonical Knowledge Graph anchor — Wikidata QID (primary reconciliation signal)
+    "https://www.wikidata.org/wiki/Q140438501",
+    "https://abidaliawan.com",
     "https://www.linkedin.com/in/1abidaliawan",
     "https://github.com/kingabzpro",
     "https://huggingface.co/kingabzpro",
     "https://www.kaggle.com/kingabzpro",
     "https://x.com/1abidaliawan",
-    "https://abidaliawan.medium.com"
+    "https://abidaliawan.medium.com",
+    "https://dagshub.com/kingabzpro"
   ],
   twitterHandle: "1abidaliawan",
   gaId: "G-PRQC1HFQ4G"
