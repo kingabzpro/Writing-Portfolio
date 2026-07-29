@@ -3,3 +3,6 @@ dist/
 .astro/
 output/
 .playwright-cli/
+.env
+.env.*
+!.env.example

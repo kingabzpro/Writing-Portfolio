@@ -3,8 +3,4 @@ services:
     build: .
     ports:
       - "4321:4321"
-    volumes:
-      - .:/workspace
-      - /workspace/node_modules
-    command: sh -c "bun install && bun run dev"
     restart: unless-stopped
