@@ -9,6 +9,12 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Top 15 Python Frameworks for Building Complete Agentic AI Applications](https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai)
+- [How to Build Claude Managed Agents with Claude Sonnet 5](https://www.datacamp.com/tutorial/how-to-build-a-claude-managed-agent)
+- [ChatGPT Work With GPT-5.6 Guide: End-to-End Data Science in Your Browser](https://www.datacamp.com/tutorial/chatgpt-work-tutorial)
+- [Grok Build Tutorial: Build a Machine Learning Project](https://www.datacamp.com/tutorial/grok-build-tutorial)
+- [7 Best Claude Code Alternatives for CLI Agentic Coding](https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding)
+- [Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi](https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi)
 - [Run a Mythos Enhanced Qwen Model Locally with Hermes Agen](https://www.datacamp.com/tutorial/run-a-mythos-enhanced-qwen-model-locally-with-hermes-agent)
 - [How I Built an AI Scholarship Finder with Olostep](https://huggingface.co/blog/kingabzpro/ai-scholarship-finder-with-olostep)
 - [5 AI Coding Platforms to Build Apps Without the Headache](https://www.kdnuggets.com/5-ai-coding-platforms-to-build-apps-without-the-headache)

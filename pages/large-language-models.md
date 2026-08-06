@@ -4,6 +4,11 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [How to Run Thinking Machines’ Inkling Locally](https://www.datacamp.com/tutorial/how-to-run-thinking-machines-inkling-locally)
+- [How to Run Bonsai 27B Locally on 8GB Memory](https://www.datacamp.com/tutorial/how-to-run-bonsai-27b-locally)
+- [How to Fine-tune DiffusionGemma on PubMedQA Using Unsloth](https://www.datacamp.com/tutorial/how-to-fine-tune-diffusiongemma)
+- [Quantization Aware Training: A Guide to Improving Gemma 4's Local Inference](https://www.datacamp.com/tutorial/quantization-aware-training)
+- [Run DeepSeek-V4-Flash-0731 with Unsloth Studio and OpenCode](https://www.datacamp.com/tutorial/run-deep-seek-v4-flash-0731)
 - [How to Run GLM-5.2 Locally Using RunPod and llama.cpp](https://www.datacamp.com/tutorial/how-to-run-glm-5-2-locally)
 - [How to Run Fable 5-Enhanced Gemma 4 Locally](https://www.datacamp.com/tutorial/how-to-run-fable-5-enhanced-gemma-4-locally)
 - [Top 7 Coding Models You Can Run Locally in 2026](https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026)

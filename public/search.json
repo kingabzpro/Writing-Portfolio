@@ -540,6 +540,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "5 Best AI Tools for Data Analysis You Should Try in 2026",
+    "url": "https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026",
+    "category": "Data Science",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "5 Best End-to-End Open Source MLOps Tools",
     "url": "https://www.kdnuggets.com/5-best-end-to-end-open-source-mlops-tools",
     "category": "Machine Learning Operations (MLOps)",
@@ -732,6 +738,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "5 Real-World SQL Projects to Build Your Data Portfolio",
+    "url": "https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio",
+    "category": "SQL",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "5 Regularization Techniques You Should Know",
     "url": "https://www.statology.org/5-regularization-techniques/",
     "category": "Machine Learning (ML)",
@@ -852,6 +864,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "7 Best Claude Code Alternatives for CLI Agentic Coding",
+    "url": "https://www.kdnuggets.com/7-best-claude-code-alternatives-for-cli-agentic-coding",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "7 Best Cloud Database Platforms",
     "url": "https://www.kdnuggets.com/7-best-cloud-database-platforms",
     "category": "Data Engineering",
@@ -861,6 +879,12 @@
     "title": "7 Best Tools for Machine Learning Experiment Tracking",
     "url": "https://www.kdnuggets.com/2023/02/7-best-tools-machine-learning-experiment-tracking.html",
     "category": "Machine Learning (ML)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "7 Best Web Crawling Tools and APIs in 2026",
+    "url": "https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026",
+    "category": "Python",
     "publication": "KDnuggets"
   },
   {
@@ -993,6 +1017,12 @@
     "title": "7 MLOPs Projects for Beginners",
     "url": "https://www.kdnuggets.com/7-mlops-projects-beginners",
     "category": "Machine Learning Operations (MLOps)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "7 Machine Learning Algorithms That Still Matter",
+    "url": "https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter",
+    "category": "Machine Learning (ML)",
     "publication": "KDnuggets"
   },
   {
@@ -1532,6 +1562,12 @@
   {
     "title": "Building with Gemini 3.1 Pro: The Ultimate Coding Agent Tutorial",
     "url": "https://www.datacamp.com/tutorial/building-with-gemini-3-1-pro-coding-agent-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "ChatGPT Work With GPT-5.6 Guide: End-to-End Data Science in Your Browser",
+    "url": "https://www.datacamp.com/tutorial/chatgpt-work-tutorial",
     "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
   },
@@ -2244,6 +2280,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "Grok Build Tutorial: Build a Machine Learning Project",
+    "url": "https://www.datacamp.com/tutorial/grok-build-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Groq LPU Inference Engine Tutorial",
     "url": "https://www.datacamp.com/tutorial/groq-lpu-inference",
     "category": "Large Language Models (LLMs)",
@@ -2328,6 +2370,12 @@
     "publication": "Olostep"
   },
   {
+    "title": "How to Build Claude Managed Agents with Claude Sonnet 5",
+    "url": "https://www.datacamp.com/tutorial/how-to-build-a-claude-managed-agent",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Build Strong Data Science Portfolio as a Beginner",
     "url": "https://www.kdnuggets.com/2021/10/strong-data-science-portfolio-as-beginner.html",
     "category": "Career Advice",
@@ -2350,6 +2398,12 @@
     "url": "https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp",
     "category": "Career Advice",
     "publication": "DataCamp"
+  },
+  {
+    "title": "How to Clean Messy CSV Files with Python: A Beginner’s Guide",
+    "url": "https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide",
+    "category": "Data Science",
+    "publication": "KDnuggets"
   },
   {
     "title": "How to Crawl an Entire Documentation Site with Olostep",
@@ -2400,6 +2454,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Fine-tune DiffusionGemma on PubMedQA Using Unsloth",
+    "url": "https://www.datacamp.com/tutorial/how-to-fine-tune-diffusiongemma",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Generate Synthetic Tabular Dataset",
     "url": "https://www.kdnuggets.com/2022/03/generate-tabular-synthetic-dataset.html",
     "category": "Data Science",
@@ -2446,6 +2506,12 @@
     "url": "https://www.kdnuggets.com/how-to-reach-500k-on-upwork",
     "category": "Career Advice",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "How to Run Bonsai 27B Locally on 8GB Memory",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-bonsai-27b-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
   },
   {
     "title": "How to Run DeepSeek V4 Flash Locally",
@@ -2550,6 +2616,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Run Thinking Machines’ Inkling Locally",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-thinking-machines-inkling-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Run Unsloth Studio Locally: Step-by-Step Guide",
     "url": "https://www.datacamp.com/tutorial/how-to-run-unsloth-studio-locally",
     "category": "Large Language Models (LLMs)",
@@ -2614,6 +2686,12 @@
     "url": "https://www.datacamp.com/tutorial/humaneval-benchmark-for-evaluating-llm-code-generation-capabilities",
     "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
+  },
+  {
+    "title": "I Replaced Pip, Virtualenv, and Poetry With uv: Here’s Why",
+    "url": "https://www.kdnuggets.com/i-replaced-pip-virtualenv-and-poetry-with-uv-heres-why",
+    "category": "Python",
+    "publication": "KDnuggets"
   },
   {
     "title": "Image Classification Inference with FastAPI",
@@ -3060,6 +3138,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Quantization Aware Training: A Guide to Improving Gemma 4's Local Inference",
+    "url": "https://www.datacamp.com/tutorial/quantization-aware-training",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "RAG vs Fine-Tuning: A Comprehensive Tutorial with Practical Examples",
     "url": "https://www.datacamp.com/tutorial/rag-vs-fine-tuning",
     "category": "Large Language Models (LLMs)",
@@ -3094,6 +3178,12 @@
     "url": "https://www.kdnuggets.com/roadmap-for-becoming-a-data-scientist",
     "category": "Career Advice",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "Run DeepSeek-V4-Flash-0731 with Unsloth Studio and OpenCode",
+    "url": "https://www.datacamp.com/tutorial/run-deep-seek-v4-flash-0731",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
   },
   {
     "title": "Run GLM-5 Locally For Agentic Coding",
@@ -3153,6 +3243,12 @@
     "title": "Run the Full DeepSeek-R1-0528 Model Locally",
     "url": "https://www.kdnuggets.com/run-the-full-deepseek-r1-0528-model-locally",
     "category": "Large Language Models (LLMs)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi",
+    "url": "https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi",
+    "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
   },
   {
@@ -3690,6 +3786,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "Top 15 Python Frameworks for Building Complete Agentic AI Applications",
+    "url": "https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Top 15 Python Projects to Build in 2025: From Beginner to Production",
     "url": "https://www.firecrawl.dev/blog/15-python-projects-2025",
     "category": "Python",
@@ -4221,6 +4323,12 @@
     "title": "Warp: The Intelligent AI-Powered Terminal",
     "url": "https://www.kdnuggets.com/warp-the-intelligent-ai-powered-terminal",
     "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "What Professionals Should Know About Data Science and AI, According to Harvard Business School Online",
+    "url": "https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online",
+    "category": "Data Science",
     "publication": "KDnuggets"
   },
   {

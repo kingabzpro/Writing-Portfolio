@@ -1,20 +1,20 @@
 [
   {
-    "title": "How I Built an AI Scholarship Finder with Olostep",
-    "url": "https://huggingface.co/blog/kingabzpro/ai-scholarship-finder-with-olostep",
-    "date": "2026-07-02",
-    "publication": "Hugging Face"
-  },
-  {
-    "title": "Run a Mythos Enhanced Qwen Model Locally with Hermes Agent",
-    "url": "https://www.datacamp.com/tutorial/run-a-mythos-enhanced-qwen-model-locally-with-hermes-agent",
-    "date": "2026-07-02",
-    "publication": "DataCamp"
-  },
-  {
-    "title": "5 AI Coding Subscription Plans That Give Developers the Best Value",
-    "url": "https://www.kdnuggets.com/5-ai-coding-subscription-plans-that-give-developers-the-best-value",
-    "date": "2026-06-29",
+    "title": "7 Best Web Crawling Tools and APIs in 2026",
+    "url": "https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026",
+    "date": "2026-08-06",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "Top 15 Python Frameworks for Building Complete Agentic AI Applications",
+    "url": "https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai",
+    "date": "2026-08-05",
+    "publication": "Datacamp"
+  },
+  {
+    "title": "Quantization Aware Training: A Guide to Improving Gemma 4's Local Inference",
+    "url": "https://www.datacamp.com/tutorial/quantization-aware-training",
+    "date": "2026-08-03",
+    "publication": "Datacamp"
   }
 ]

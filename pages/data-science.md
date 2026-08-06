@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Data Science.
 
 ## Articles
 
+- [What Professionals Should Know About Data Science and AI, According to Harvard Business School Online](https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online)
+- [5 Best AI Tools for Data Analysis You Should Try in 2026](https://www.kdnuggets.com/5-best-ai-tools-for-data-analysis-you-should-try-in-2026)
+- [How to Clean Messy CSV Files with Python: A Beginner’s Guide](https://www.kdnuggets.com/how-to-clean-messy-csv-files-with-python-a-beginners-guide)
 - [Pandas GroupBy Explained With Examples](https://www.kdnuggets.com/pandas-groupby-explained-with-examples)
 - [Top 7 n8n Workflow Templates for Data Science](https://www.kdnuggets.com/top-7-n8n-workflow-templates-for-data-science)
 - [28 Data Analytics Projects for All Levels in 2025](https://www.datacamp.com/blog/data-analytics-projects-all-levels)

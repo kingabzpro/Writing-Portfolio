@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [7 Best Web Crawling Tools and APIs in 2026](https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026)
+- [I Replaced Pip, Virtualenv, and Poetry With uv: Here’s Why](https://www.kdnuggets.com/i-replaced-pip-virtualenv-and-poetry-with-uv-heres-why)
 - [7 Real-World Python Projects You Can Build in 2026 (With Guides)](https://www.kdnuggets.com/7-real-world-python-projects-you-can-build-in-2026-with-guides)
 - [How to Build a Multi-Agent Research Assistant in Python](https://machinelearningmastery.com/how-to-build-a-multi-agent-research-assistant-in-python/)
 - [How to Write to Files in Python: A Beginner’s Guide](https://www.kdnuggets.com/how-to-write-to-files-in-python-a-beginners-guide)

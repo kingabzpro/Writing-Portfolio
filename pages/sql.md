@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about SQL.
 
 ## Articles
 
+- [5 Real-World SQL Projects to Build Your Data Portfolio](https://www.kdnuggets.com/5-real-world-sql-projects-to-build-your-data-portfolio)
 - [Using SQL with Python: SQLAlchemy and Pandas](https://www.kdnuggets.com/using-sql-with-python-sqlalchemy-and-pandas)
 - [SQL CONTAINS: A Comprehensive Tutorial](https://www.datacamp.com/tutorial/sql-contains) 
 - [Mastering SQL NOT EQUAL Operator: A Beginner's Guide](https://www.datacamp.com/tutorial/sql-not-equal)
