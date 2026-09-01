@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [Top 15 Python Frameworks for Building Complete Agentic AI Applications](https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai)
+- [How to Build a Simple AI Web Scraper with Python](https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python)
+- [5 Easy Ways to Install Python on Windows](https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows)
 - [7 Best Web Crawling Tools and APIs in 2026](https://www.kdnuggets.com/7-best-web-crawling-tools-and-apis-in-2026)
 - [I Replaced Pip, Virtualenv, and Poetry With uv: Here’s Why](https://www.kdnuggets.com/i-replaced-pip-virtualenv-and-poetry-with-uv-heres-why)
 - [7 Real-World Python Projects You Can Build in 2026 (With Guides)](https://www.kdnuggets.com/7-real-world-python-projects-you-can-build-in-2026-with-guides)

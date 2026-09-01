@@ -576,6 +576,12 @@
     "publication": "Firecrawl"
   },
   {
+    "title": "5 Easy Ways to Install Python on Windows",
+    "url": "https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows",
+    "category": "Python",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "5 Essential AI Tools for Data Science",
     "url": "https://www.kdnuggets.com/2023/04/5-essential-ai-tools-data-science.html",
     "category": "Data Science",
@@ -610,6 +616,12 @@
     "url": "https://machinelearningmastery.com/5-free-courses-on-reinforcement-learning/",
     "category": "Career Advice",
     "publication": "Machinelearningmastery"
+  },
+  {
+    "title": "5 Free Courses to Learn Modern AI and LLMs",
+    "url": "https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms",
+    "category": "Career Advice",
+    "publication": "KDnuggets"
   },
   {
     "title": "5 Free Data Science Books You Must Read in 2023",
@@ -1446,6 +1458,18 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Build an End-to-End Data Science Project with Grok Build and Grok 4.6",
+    "url": "https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "Build and Deploy Your First Autonomous AI Agent with FastAPI Cloud",
+    "url": "https://www.datacamp.com/tutorial/build-deploy-first-autonomous-ai-agent-with-fast-api-cloud",
+    "category": "Machine Learning Operations (MLOps)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Building 3 Fun AI Applications with ControlFlow",
     "url": "https://machinelearningmastery.com/building-3-fun-ai-applications-with-controlflow/",
     "category": "Large Language Models (LLMs)",
@@ -1701,6 +1725,12 @@
     "title": "DeepChecks Tutorial: Automating Machine Learning Testing",
     "url": "https://www.datacamp.com/tutorial/automating-machine-learning-testing-using-deep-checks",
     "category": "Machine Learning Operations (MLOps)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "DeepSeek Harness Tutorial: Getting Started with the Most Popular Open-Source AI Agent",
+    "url": "https://www.datacamp.com/tutorial/deepseek-harness",
+    "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
   },
   {
@@ -2064,6 +2094,12 @@
     "publication": "Machinelearningmastery"
   },
   {
+    "title": "GLM-5.3-Flash Tutorial: Build a Multi-Agent Stock Analyst",
+    "url": "https://www.datacamp.com/tutorial/glm-5-3-flash-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "GPT-4.1 Guide With Demo Project: Keyword Code Search Application",
     "url": "https://www.datacamp.com/tutorial/gpt-4-1-guide-demo-project",
     "category": "Large Language Models (LLMs)",
@@ -2268,6 +2304,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Gradient Checkpointing: Efficient Fine-Tuning with Unsloth and NVIDIA",
+    "url": "https://www.datacamp.com/tutorial/gradient-checkpointing",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Gradient Descent: Design Your First Machine Learning Model",
     "url": "https://www.analyticsvidhya.com/blog/2021/08/gradient-descent-design-your-first-machine-learning-model",
     "category": "Machine Learning (ML)",
@@ -2392,6 +2434,12 @@
     "url": "https://machinelearningmastery.com/how-to-build-a-multi-agent-research-assistant-in-python/",
     "category": "Python",
     "publication": "Machinelearningmastery"
+  },
+  {
+    "title": "How to Build a Simple AI Web Scraper with Python",
+    "url": "https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python",
+    "category": "Python",
+    "publication": "KDnuggets"
   },
   {
     "title": "How to Choose The Best Data Science Bootcamp in 2023",
@@ -2580,8 +2628,20 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Run Local Speech-to-Text on CPU with VibeASR.cpp",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-local-speech-to-text-on-cpu-with-vibeasr-cpp",
+    "category": "Natural Language Processing (NLP)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Run MiniMax M3 Locally: Multi-GPU Setup with llama.cpp and Pi Agent",
     "url": "https://www.datacamp.com/tutorial/how-to-run-minimax-m3-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "How to Run Muse Glimmer 30B Locally for AI Coding",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-muse-glimmer-30b-locally",
     "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
   },
@@ -2606,6 +2666,18 @@
   {
     "title": "How to Run Qwen3.5-27B Locally for Agentic Coding",
     "url": "https://www.datacamp.com/tutorial/how-to-run-qwen3-5-27b-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "How to Run Qwen3.8-27B Locally on an NVIDIA RTX 5090",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-qwen3-8-27b-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "How to Run Qwen3.8-Flash-Next Locally as a Coding Agent with OpenCode",
+    "url": "https://www.datacamp.com/tutorial/run-qwen3-8-flash-next-locally",
     "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
   },
@@ -2660,6 +2732,12 @@
   {
     "title": "How to Use Qwen2.5-VL Locally",
     "url": "https://www.datacamp.com/tutorial/use-qwen2-5-vl-locally",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "How to Use Unsloth Desktop for Local AI Workflows",
+    "url": "https://www.datacamp.com/tutorial/how-to-use-unsloth-desktop-for-local-ai-workflows",
     "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
   },
@@ -3210,6 +3288,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi",
+    "url": "https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi",
+    "category": "Large Language Models (LLMs)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "Run Qwen3-Coder-Next Locally: Vibe Code an Analytics Dashboard",
     "url": "https://www.datacamp.com/tutorial/run-qwen3-coder-next-locally",
     "category": "Large Language Models (LLMs)",
@@ -3218,6 +3302,12 @@
   {
     "title": "Run Qwen3.5 on an Old Laptop: A Lightweight Local Agentic AI Setup Guide",
     "url": "https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide",
+    "category": "Large Language Models (LLMs)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands",
+    "url": "https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands",
     "category": "Large Language Models (LLMs)",
     "publication": "KDnuggets"
   },
@@ -3372,6 +3462,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "Speed Up LLM Inference with DSpark Speculative Decoding",
+    "url": "https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding",
+    "category": "Large Language Models (LLMs)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "StableDiffusion Web UI: A Comprehensive User Guide for Beginners",
     "url": "https://www.datacamp.com/tutorial/stable-diffusion-web-ui-a-comprehensive-user-guide-for-beginners",
     "category": "Computer Vision",
@@ -3478,6 +3574,12 @@
     "url": "https://www.kdnuggets.com/the-best-agentic-ai-browsers-to-look-for-in-2026",
     "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "The Best GPU Cloud Providers for LLM Training and Inference",
+    "url": "https://www.datacamp.com/blog/best-gpu-cloud-providers",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
   },
   {
     "title": "The Best Learning Resources for Data Science in 2022",
@@ -3789,6 +3891,12 @@
     "title": "Top 15 Python Frameworks for Building Complete Agentic AI Applications",
     "url": "https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai",
     "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "Top 15 Python Frameworks for Building Complete Agentic AI Applications",
+    "url": "https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai",
+    "category": "Python",
     "publication": "DataCamp"
   },
   {

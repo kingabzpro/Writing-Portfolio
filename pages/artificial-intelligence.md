@@ -9,6 +9,10 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [GLM-5.3-Flash Tutorial: Build a Multi-Agent Stock Analyst](https://www.datacamp.com/tutorial/glm-5-3-flash-tutorial)
+- [DeepSeek Harness Tutorial: Getting Started with the Most Popular Open-Source AI Agent](https://www.datacamp.com/tutorial/deepseek-harness)
+- [Build an End-to-End Data Science Project with Grok Build and Grok 4.6](https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6)
+- [How to Use Unsloth Desktop for Local AI Workflows](https://www.datacamp.com/tutorial/how-to-use-unsloth-desktop-for-local-ai-workflows)
 - [Top 15 Python Frameworks for Building Complete Agentic AI Applications](https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai)
 - [How to Build Claude Managed Agents with Claude Sonnet 5](https://www.datacamp.com/tutorial/how-to-build-a-claude-managed-agent)
 - [ChatGPT Work With GPT-5.6 Guide: End-to-End Data Science in Your Browser](https://www.datacamp.com/tutorial/chatgpt-work-tutorial)

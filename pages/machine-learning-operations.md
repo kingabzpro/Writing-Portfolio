@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning Operat
 
 ## Articles
 
+- [Build and Deploy Your First Autonomous AI Agent with FastAPI Cloud](https://www.datacamp.com/tutorial/build-deploy-first-autonomous-ai-agent-with-fast-api-cloud)
 - [How to Deploy Your First App on FastAPI Cloud](https://www.kdnuggets.com/how-to-deploy-your-first-app-on-fastapi-cloud)
 - [Train, Serve, and Deploy a Scikit-learn Model with FastAPI](https://machinelearningmastery.com/train-serve-and-deploy-a-scikit-learn-model-with-fastapi/)
 - [Top 7 Docker Compose Templates Every Developer Should Use](https://www.kdnuggets.com/top-7-docker-compose-templates-every-developer-should-use)

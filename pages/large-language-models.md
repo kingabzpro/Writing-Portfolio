@@ -4,6 +4,14 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [The Best GPU Cloud Providers for LLM Training and Inference](https://www.datacamp.com/blog/best-gpu-cloud-providers)
+- [How to Run Qwen3.8-Flash-Next Locally as a Coding Agent with OpenCode](https://www.datacamp.com/tutorial/run-qwen3-8-flash-next-locally)
+- [Speed Up LLM Inference with DSpark Speculative Decoding](https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding)
+- [Run Muse Glimmer for Local Vibe Coding with llama.cpp, DFlash, and Pi](https://www.kdnuggets.com/run-muse-glimmer-for-local-vibe-coding-with-llama-cpp-dflash-and-pi)
+- [How to Run Qwen3.8-27B Locally on an NVIDIA RTX 5090](https://www.datacamp.com/tutorial/how-to-run-qwen3-8-27b-locally)
+- [Run Qwen3.8-27B as a Local AI Coding Agent in Just 3 Commands](https://www.kdnuggets.com/run-qwen3-8-27b-as-a-local-ai-coding-agent-in-just-3-commands)
+- [Gradient Checkpointing: Efficient Fine-Tuning with Unsloth and NVIDIA](https://www.datacamp.com/tutorial/gradient-checkpointing)
+- [How to Run Muse Glimmer 30B Locally for AI Coding](https://www.datacamp.com/tutorial/how-to-run-muse-glimmer-30b-locally)
 - [How to Run Thinking Machines’ Inkling Locally](https://www.datacamp.com/tutorial/how-to-run-thinking-machines-inkling-locally)
 - [How to Run Bonsai 27B Locally on 8GB Memory](https://www.datacamp.com/tutorial/how-to-run-bonsai-27b-locally)
 - [How to Fine-tune DiffusionGemma on PubMedQA Using Unsloth](https://www.datacamp.com/tutorial/how-to-fine-tune-diffusiongemma)

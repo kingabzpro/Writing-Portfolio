@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Natural Language Proces
 
 ## Articles
 
+- [How to Run Local Speech-to-Text on CPU with VibeASR.cpp](https://www.datacamp.com/tutorial/how-to-run-local-speech-to-text-on-cpu-with-vibeasr-cpp)
 - [Getting Started with Zero-Shot Text Classification](https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/)
 - [Top 5 Text-to-Speech Open Source Models](https://www.kdnuggets.com/top-5-text-to-speech-open-source-models)
 - [What is Named Entity Recognition (NER)? Methods, Use Cases, and Challenges](https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
