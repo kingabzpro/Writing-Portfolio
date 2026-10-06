@@ -618,6 +618,12 @@
     "publication": "Machinelearningmastery"
   },
   {
+    "title": "5 Free Courses to Learn AI Engineering",
+    "url": "https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering",
+    "category": "Career Advice",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "5 Free Courses to Learn Modern AI and LLMs",
     "url": "https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms",
     "category": "Career Advice",
@@ -644,6 +650,12 @@
   {
     "title": "5 Free Julia Books For Data Science",
     "url": "https://www.kdnuggets.com/2023/06/5-free-julia-books-data-science.html",
+    "category": "Career Advice",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence",
+    "url": "https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence",
     "category": "Career Advice",
     "publication": "KDnuggets"
   },
@@ -675,6 +687,12 @@
     "title": "5 Free Ways to Host a Python Application",
     "url": "https://www.kdnuggets.com/5-free-ways-to-host-a-python-application",
     "category": "Python",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "5 Free Zoomcamps From Data Pipelines to AI Agents",
+    "url": "https://www.kdnuggets.com/5-free-zoomcamps-from-data-pipelines-to-ai-agents",
+    "category": "Career Advice",
     "publication": "KDnuggets"
   },
   {
@@ -1059,6 +1077,12 @@
     "title": "7 Must-Have Tools for Your Coding Workflow",
     "url": "https://www.kdnuggets.com/7-must-have-tools-for-your-coding-workflow",
     "category": "Programming",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "7 Open-Source Alternatives to ChatGPT You Can Run Locally",
+    "url": "https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally",
+    "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
   },
   {
@@ -1794,6 +1818,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
+    "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "Digital Learning During Covid19: A Complete Analysis",
     "url": "https://pub.towardsai.net/digital-learning-during-covid19-a-complete-analysis-45c525b1904",
     "category": "Data Science",
@@ -2130,6 +2160,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "GPT-6.1 Sol Tutorial: Build an AI Incident Triage Agent",
+    "url": "https://www.datacamp.com/tutorial/gpt-6-1-sol-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Gemini 2.5 Pro API: A Guide With Demo Project",
     "url": "https://www.datacamp.com/tutorial/gemini-2-5-pro-api",
     "category": "Artificial Intelligence (AI)",
@@ -2358,6 +2394,12 @@
     "publication": "Huggingface"
   },
   {
+    "title": "How LLM Inference Works: A Practical Guide to Serving and Optimizing Large Language Models",
+    "url": "https://www.datacamp.com/tutorial/how-llm-inference-works",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How To Find The Best Data Science Remote Jobs",
     "url": "https://www.kdnuggets.com/2022/12/find-best-data-science-remote-jobs.html",
     "category": "Career Advice",
@@ -2556,6 +2598,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "How to Reduce Token Usage in AI Coding Agents: 4 Tools That Can Help",
+    "url": "https://www.datacamp.com/tutorial/how-to-reduce-token-usage-in-ai-coding-agents",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Run Bonsai 27B Locally on 8GB Memory",
     "url": "https://www.datacamp.com/tutorial/how-to-run-bonsai-27b-locally",
     "category": "Large Language Models (LLMs)",
@@ -2640,6 +2688,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Run Motif 3 Locally With DS4 and Turn It Into a Coding Agent",
+    "url": "https://www.datacamp.com/tutorial/run-motif-3-locally-with-ds4",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "How to Run Muse Glimmer 30B Locally for AI Coding",
     "url": "https://www.datacamp.com/tutorial/how-to-run-muse-glimmer-30b-locally",
     "category": "Large Language Models (LLMs)",
@@ -2718,10 +2772,22 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Turn a Python Script Into an AI Agent",
+    "url": "https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "How to Use DeepSeek Janus-Pro Locally",
     "url": "https://www.datacamp.com/tutorial/how-to-use-deepseek-janus-pro-locally",
     "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
+  },
+  {
+    "title": "How to Use Marimo for Interactive Data Analysis",
+    "url": "https://www.kdnuggets.com/how-to-use-marimo-for-interactive-data-analysis",
+    "category": "Data Science",
+    "publication": "KDnuggets"
   },
   {
     "title": "How to Use Olostep with Claude Code Channels",
@@ -2739,6 +2805,12 @@
     "title": "How to Use Unsloth Desktop for Local AI Workflows",
     "url": "https://www.datacamp.com/tutorial/how-to-use-unsloth-desktop-for-local-ai-workflows",
     "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "How to Use Unsloth Desktop for Local AI Workflows",
+    "url": "https://www.datacamp.com/tutorial/how-to-use-unsloth-desktop",
+    "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
   },
   {
@@ -2868,6 +2940,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "LMCache Tutorial: Build a Scalable KV Cache Layer for LLM Inference",
+    "url": "https://www.datacamp.com/tutorial/lmcache-tutorial",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "LangChain Cheat Sheet",
     "url": "https://www.kdnuggets.com/2023/08/langchain-cheat-sheet.html",
     "category": "Cheat Sheets",
@@ -2944,6 +3022,12 @@
     "url": "https://www.datacamp.com/tutorial/local-ai",
     "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
+  },
+  {
+    "title": "MCP Explained in 5 Minutes",
+    "url": "https://www.kdnuggets.com/mcp-explained-in-5-minutes",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
   },
   {
     "title": "Machine Learning with ChatGPT Cheat Sheet",
@@ -3078,6 +3162,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "OpenAI Agents API Tutorial: Build an Agent That Writes and Runs Code in the Cloud",
+    "url": "https://www.datacamp.com/tutorial/openai-agents-api-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "OpenAI Agents SDK: How to Run Agents in Modal Sandboxes",
     "url": "https://www.datacamp.com/tutorial/openai-agents-sdk-modal-sandbox",
     "category": "Artificial Intelligence (AI)",
@@ -3111,6 +3201,12 @@
     "title": "OpenAI o3-mini Tutorial: Building a Machine Learning Project with o3-mini",
     "url": "https://www.datacamp.com/tutorial/openai-o3-mini-tutorial-building-a-machine-learning-project",
     "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "OpenAI-Hosted Sandboxes: Build a Secure AI Financial Analyst",
+    "url": "https://www.datacamp.com/tutorial/openai-hosted-sandboxes",
+    "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
   },
   {
@@ -4170,6 +4266,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Top 7 Open-Source TypeSafe Jev Alternatives",
+    "url": "https://www.datacamp.com/blog/top-open-source-jev-alternatives",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Top 7 OpenClaw Tools & Integrations You Are Missing Out On",
     "url": "https://www.kdnuggets.com/top-7-openclaw-tools-integrations-you-are-missing-out",
     "category": "Artificial Intelligence (AI)",
@@ -4434,6 +4536,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "What Everyone Is Getting Wrong About TypeSafe AI’s Jev",
+    "url": "https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "What Professionals Should Know About Data Science and AI, According to Harvard Business School Online",
     "url": "https://www.kdnuggets.com/what-professionals-should-know-about-data-science-and-ai-according-to-harvard-business-school-online",
     "category": "Data Science",
@@ -4582,6 +4690,12 @@
     "url": "https://www.datacamp.com/blog/what-is-a-generative-model",
     "category": "Machine Learning (ML)",
     "publication": "DataCamp"
+  },
+  {
+    "title": "Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release",
+    "url": "https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
   },
   {
     "title": "Why is DuckDB Getting Popular?",

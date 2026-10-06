@@ -9,6 +9,17 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Top 7 Open-Source TypeSafe Jev Alternatives](https://www.datacamp.com/blog/top-open-source-jev-alternatives)
+- [GPT-6.1 Sol Tutorial: Build an AI Incident Triage Agent](https://www.datacamp.com/tutorial/gpt-6-1-sol-tutorial)
+- [Did AI Just Solve One of Mathematics’ Biggest Problems?](https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems)
+- [MCP Explained in 5 Minutes](https://www.kdnuggets.com/mcp-explained-in-5-minutes)
+- [7 Open-Source Alternatives to ChatGPT You Can Run Locally](https://www.kdnuggets.com/7-open-source-alternatives-to-chatgpt-you-can-run-locally)
+- [OpenAI-Hosted Sandboxes: Build a Secure AI Financial Analyst](https://www.datacamp.com/tutorial/openai-hosted-sandboxes)
+- [OpenAI Agents API Tutorial: Build an Agent That Writes and Runs Code in the Cloud](https://www.datacamp.com/tutorial/openai-agents-api-tutorial)
+- [What Everyone Is Getting Wrong About TypeSafe AI’s Jev](https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev)
+- [How to Reduce Token Usage in AI Coding Agents: 4 Tools That Can Help](https://www.datacamp.com/tutorial/how-to-reduce-token-usage-in-ai-coding-agents)
+- [How to Turn a Python Script Into an AI Agent](https://www.kdnuggets.com/how-to-turn-a-python-script-into-an-ai-agent)
+- [Why DeepSeek-V4.1-Flash Is Such an Exciting Open Model Release](https://www.kdnuggets.com/why-deepseek-v4-1-flash-is-such-an-exciting-open-model-release)
 - [GLM-5.3-Flash Tutorial: Build a Multi-Agent Stock Analyst](https://www.datacamp.com/tutorial/glm-5-3-flash-tutorial)
 - [DeepSeek Harness Tutorial: Getting Started with the Most Popular Open-Source AI Agent](https://www.datacamp.com/tutorial/deepseek-harness)
 - [Build an End-to-End Data Science Project with Grok Build and Grok 4.6](https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6)

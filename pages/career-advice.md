@@ -121,6 +121,9 @@ A collection of resources, tutorials, and articles about Career Advice.
 
 ## Free Courses
 
+- [5 Free Courses to Learn AI Engineering](https://www.kdnuggets.com/5-free-courses-to-learn-ai-engineering)
+- [5 Free Zoomcamps From Data Pipelines to AI Agents](https://www.kdnuggets.com/5-free-zoomcamps-from-data-pipelines-to-ai-agents)
+- [5 Free Microsoft GitHub Courses to Learn Data Science and Artificial Intelligence](https://www.kdnuggets.com/5-free-microsoft-github-courses-to-learn-data-science-and-artificial-intelligence)
 - [5 Free Courses to Learn Modern AI and LLMs](https://www.kdnuggets.com/5-free-courses-to-learn-modern-ai-and-llms)
 - [7 Free Resource to Master LLMs](https://machinelearningmastery.com/7-free-resource-to-master-llms/)
 - [5 Free Online Courses to Learn Data Science Fundamentals](https://www.kdnuggets.com/5-free-online-courses-to-learn-data-science-fundamentals)

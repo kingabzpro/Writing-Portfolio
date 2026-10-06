@@ -4,6 +4,10 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [How to Run Motif 3 Locally With DS4 and Turn It Into a Coding Agent](https://www.datacamp.com/tutorial/run-motif-3-locally-with-ds4)
+- [LMCache Tutorial: Build a Scalable KV Cache Layer for LLM Inference](https://www.datacamp.com/tutorial/lmcache-tutorial)
+- [How to Use Unsloth Desktop for Local AI Workflows](https://www.datacamp.com/tutorial/how-to-use-unsloth-desktop)
+- [How LLM Inference Works: A Practical Guide to Serving and Optimizing Large Language Models](https://www.datacamp.com/tutorial/how-llm-inference-works)
 - [The Best GPU Cloud Providers for LLM Training and Inference](https://www.datacamp.com/blog/best-gpu-cloud-providers)
 - [How to Run Qwen3.8-Flash-Next Locally as a Coding Agent with OpenCode](https://www.datacamp.com/tutorial/run-qwen3-8-flash-next-locally)
 - [Speed Up LLM Inference with DSpark Speculative Decoding](https://www.kdnuggets.com/speed-up-llm-inference-with-dspark-speculative-decoding)
