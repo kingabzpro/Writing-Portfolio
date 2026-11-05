@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [How to Monitor Any Website for Changes with Olostep](https://www.olostep.com/blog/how-to-monitor-any-website-for-changes-with-olostep)
 - [Top 15 Python Frameworks for Building Complete Agentic AI Applications](https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai)
 - [How to Build a Simple AI Web Scraper with Python](https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python)
 - [5 Easy Ways to Install Python on Windows](https://www.kdnuggets.com/5-easy-ways-to-install-python-on-windows)

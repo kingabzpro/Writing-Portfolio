@@ -9,6 +9,17 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [Meta Muse Wonder Tutorial: Build a Medical Claim Checker With Python](https://www.datacamp.com/tutorial/meta-muse-wonder-tutorial)
+- [How to Build an AI Stock Signal Analyzer With Olostep and TypeSafe Jev](https://www.olostep.com/blog/ai-stock-signal-analyzer-olostep-typesafe-jev)
+- [Building Your First AI Agent in Python with the OpenAI Agents SDK](https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk)
+- [Paperclip Tutorial: How to Set Up and Use Paperclip](https://www.datacamp.com/tutorial/paperclip-tutorial)
+- [OpenAI Decisions API Tutorial: Build Fast AI Decision Systems](https://www.datacamp.com/tutorial/open-ai-decisions-api-tutorial)
+- [Reverse Engineer Anything Tutorial: Using REA and Pi Coding Agent](https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial)
+- [10 Agentic AI Projects You Can Build With Olostep](https://www.olostep.com/blog/agentic-ai-projects)
+- [5 Free AI Coding Agents You Should Try in 2026](https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026)
+- [5 Best GitHub Repositories for AI Agent Skills](https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills)
+- [7 Open-Source AI Tools That Can Replace Paid Subscriptions](https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions)
+- [The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral](https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral)
 - [Top 7 Open-Source TypeSafe Jev Alternatives](https://www.datacamp.com/blog/top-open-source-jev-alternatives)
 - [GPT-6.1 Sol Tutorial: Build an AI Incident Triage Agent](https://www.datacamp.com/tutorial/gpt-6-1-sol-tutorial)
 - [Did AI Just Solve One of Mathematics’ Biggest Problems?](https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems)
@@ -24,7 +35,6 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 - [DeepSeek Harness Tutorial: Getting Started with the Most Popular Open-Source AI Agent](https://www.datacamp.com/tutorial/deepseek-harness)
 - [Build an End-to-End Data Science Project with Grok Build and Grok 4.6](https://www.kdnuggets.com/build-an-end-to-end-data-science-project-with-grok-build-and-grok-4-6)
 - [How to Use Unsloth Desktop for Local AI Workflows](https://www.datacamp.com/tutorial/how-to-use-unsloth-desktop-for-local-ai-workflows)
-- [Top 15 Python Frameworks for Building Complete Agentic AI Applications](https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai)
 - [How to Build Claude Managed Agents with Claude Sonnet 5](https://www.datacamp.com/tutorial/how-to-build-a-claude-managed-agent)
 - [ChatGPT Work With GPT-5.6 Guide: End-to-End Data Science in Your Browser](https://www.datacamp.com/tutorial/chatgpt-work-tutorial)
 - [Grok Build Tutorial: Build a Machine Learning Project](https://www.datacamp.com/tutorial/grok-build-tutorial)

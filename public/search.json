@@ -12,6 +12,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "10 Agentic AI Projects You Can Build With Olostep",
+    "url": "https://www.olostep.com/blog/agentic-ai-projects",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "Olostep"
+  },
+  {
     "title": "10 Awesome MCP Servers",
     "url": "https://www.kdnuggets.com/10-awesome-mcp-servers",
     "category": "Artificial Intelligence (AI)",
@@ -552,6 +558,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "5 Best GitHub Repositories for AI Agent Skills",
+    "url": "https://www.kdnuggets.com/5-best-github-repositories-for-ai-agent-skills",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "5 Cheapest Cloud Platforms for Fine-tuning LLMs",
     "url": "https://www.kdnuggets.com/5-cheapest-cloud-platforms-for-fine-tuning-llms",
     "category": "Large Language Models (LLMs)",
@@ -585,6 +597,12 @@
     "title": "5 Essential AI Tools for Data Science",
     "url": "https://www.kdnuggets.com/2023/04/5-essential-ai-tools-data-science.html",
     "category": "Data Science",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "5 Free AI Coding Agents You Should Try in 2026",
+    "url": "https://www.kdnuggets.com/5-free-ai-coding-agents-you-should-try-in-2026",
+    "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
   },
   {
@@ -1077,6 +1095,12 @@
     "title": "7 Must-Have Tools for Your Coding Workflow",
     "url": "https://www.kdnuggets.com/7-must-have-tools-for-your-coding-workflow",
     "category": "Programming",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "7 Open-Source AI Tools That Can Replace Paid Subscriptions",
+    "url": "https://www.kdnuggets.com/7-open-source-ai-tools-that-can-replace-paid-subscriptions",
+    "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
   },
   {
@@ -1584,6 +1608,12 @@
     "publication": "Huggingface"
   },
   {
+    "title": "Building Your First AI Agent in Python with the OpenAI Agents SDK",
+    "url": "https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "Building a Convolutional Neural Network with PyTorch",
     "url": "https://www.kdnuggets.com/building-a-convolutional-neural-network-with-pytorch",
     "category": "Machine Learning (ML)",
@@ -1612,6 +1642,12 @@
     "url": "https://www.datacamp.com/tutorial/building-with-gemini-3-1-pro-coding-agent-tutorial",
     "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
+  },
+  {
+    "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
+    "url": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "KDnuggets"
   },
   {
     "title": "ChatGPT Work With GPT-5.6 Guide: End-to-End Data Science in Your Browser",
@@ -2484,6 +2520,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "How to Build an AI Stock Signal Analyzer With Olostep and TypeSafe Jev",
+    "url": "https://www.olostep.com/blog/ai-stock-signal-analyzer-olostep-typesafe-jev",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "Olostep"
+  },
+  {
     "title": "How to Choose The Best Data Science Bootcamp in 2023",
     "url": "https://www.datacamp.com/blog/how-to-choose-the-right-data-science-bootcamp",
     "category": "Career Advice",
@@ -2590,6 +2632,12 @@
     "url": "https://www.kdnuggets.com/how-to-learn-sql-the-lazy-way",
     "category": "Career Advice",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "How to Monitor Any Website for Changes with Olostep",
+    "url": "https://www.olostep.com/blog/how-to-monitor-any-website-for-changes-with-olostep",
+    "category": "Python",
+    "publication": "Olostep"
   },
   {
     "title": "How to Reach $500K on Upwork",
@@ -2922,6 +2970,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "KTransformers Tutorial: Run GLM-5.3-Flash Locally",
+    "url": "https://www.datacamp.com/tutorial/ktransformers-tutorial",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Kaggle CLI Cheat Sheet",
     "url": "https://www.kdnuggets.com/kaggle-cli-cheat-sheet",
     "category": "Data Science",
@@ -3078,6 +3132,12 @@
     "publication": "Machinelearningmastery"
   },
   {
+    "title": "Meta Muse Wonder Tutorial: Build a Medical Claim Checker With Python",
+    "url": "https://www.datacamp.com/tutorial/meta-muse-wonder-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "MiniGPT-4: A Lightweight Alternative to GPT-4 for Enhanced Vision-language Understanding",
     "url": "https://www.kdnuggets.com/2023/04/minigpt4-lightweight-alternative-gpt4-enhanced-visionlanguage-understanding.html",
     "category": "Artificial Intelligence (AI)",
@@ -3180,6 +3240,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "OpenAI Decisions API Tutorial: Build Fast AI Decision Systems",
+    "url": "https://www.datacamp.com/tutorial/open-ai-decisions-api-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "OpenAI Function Calling Tutorial: Generate Structured Output",
     "url": "https://www.datacamp.com/tutorial/open-ai-function-calling-tutorial",
     "category": "Python",
@@ -3244,6 +3310,12 @@
     "url": "https://www.kdnuggets.com/pandas-groupby-explained-with-examples",
     "category": "Data Science",
     "publication": "KDnuggets"
+  },
+  {
+    "title": "Paperclip Tutorial: How to Set Up and Use Paperclip",
+    "url": "https://www.datacamp.com/tutorial/paperclip-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
   },
   {
     "title": "Parallel Processing Large File in Python",
@@ -3342,6 +3414,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Reverse Engineer Anything Tutorial: Using REA and Pi Coding Agent",
+    "url": "https://www.datacamp.com/tutorial/reverse-engineer-anything-rea-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Roadmap for AI Engineers",
     "url": "https://www.kdnuggets.com/roadmap-for-ai-engineers",
     "category": "Career Advice",
@@ -3435,6 +3513,12 @@
     "title": "Run the Mythos Enhanced Coding Model Locally with llama.cpp and Pi",
     "url": "https://www.kdnuggets.com/run-the-mythos-enhanced-coding-model-locally-with-llama-cpp-and-pi",
     "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals",
+    "url": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
+    "category": "Large Language Models (LLMs)",
     "publication": "KDnuggets"
   },
   {
@@ -3834,6 +3918,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "The Rise of AI Software Clones: Why REA and ArtCraft Are Going Viral",
+    "url": "https://www.kdnuggets.com/the-rise-of-ai-software-clones-why-rea-and-artcraft-are-going-viral",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "The Story of the Women in Data Science (WiDS) Datathon",
     "url": "https://www.kdnuggets.com/2022/01/story-women-data-science-wids-datathon.html",
     "category": "Data Science",
@@ -3981,12 +4071,6 @@
     "title": "Top 15 LLMOps Tools for Building AI Applications in 2024",
     "url": "https://www.datacamp.com/blog/llmops-tools",
     "category": "Large Language Models (LLMs)",
-    "publication": "DataCamp"
-  },
-  {
-    "title": "Top 15 Python Frameworks for Building Complete Agentic AI Applications",
-    "url": "https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai",
-    "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
   },
   {

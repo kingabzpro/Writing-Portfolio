@@ -1,20 +1,20 @@
 [
   {
-    "title": "GPT-6.1 Sol Tutorial: Build an AI Incident Triage Agent",
-    "url": "https://www.datacamp.com/tutorial/gpt-6-1-sol-tutorial",
-    "date": "2026-10-04",
+    "title": "Meta Muse Wonder Tutorial: Build a Medical Claim Checker With Python",
+    "url": "https://www.datacamp.com/tutorial/meta-muse-wonder-tutorial",
+    "date": "2026-11-02",
     "publication": "DataCamp"
   },
   {
-    "title": "How to Use Marimo for Interactive Data Analysis",
-    "url": "https://www.kdnuggets.com/how-to-use-marimo-for-interactive-data-analysis",
-    "date": "2026-10-01",
+    "title": "Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals",
+    "url": "https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals",
+    "date": "2026-11-02",
     "publication": "KDnuggets"
   },
   {
-    "title": "Did AI Just Solve One of Mathematics’ Biggest Problems?",
-    "url": "https://www.kdnuggets.com/did-ai-just-solve-one-of-mathematics-biggest-problems",
-    "date": "2026-09-30",
+    "title": "Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally",
+    "url": "https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally",
+    "date": "2026-10-28",
     "publication": "KDnuggets"
   }
 ]

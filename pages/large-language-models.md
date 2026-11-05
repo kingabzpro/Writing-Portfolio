@@ -4,6 +4,9 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally](https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally)
+- [KTransformers Tutorial: Run GLM-5.3-Flash Locally](https://www.datacamp.com/tutorial/ktransformers-tutorial)
+- [Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals](https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals)
 - [How to Run Motif 3 Locally With DS4 and Turn It Into a Coding Agent](https://www.datacamp.com/tutorial/run-motif-3-locally-with-ds4)
 - [LMCache Tutorial: Build a Scalable KV Cache Layer for LLM Inference](https://www.datacamp.com/tutorial/lmcache-tutorial)
 - [How to Use Unsloth Desktop for Local AI Workflows](https://www.datacamp.com/tutorial/how-to-use-unsloth-desktop)
