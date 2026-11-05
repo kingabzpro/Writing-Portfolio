@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [13 Best Web Scraping Tools in 2026](https://www.firecrawl.dev/blog/best-web-scraping-tools)
 - [How to Monitor Any Website for Changes with Olostep](https://www.olostep.com/blog/how-to-monitor-any-website-for-changes-with-olostep)
 - [Top 15 Python Frameworks for Building Complete Agentic AI Applications](https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai)
 - [How to Build a Simple AI Web Scraper with Python](https://www.kdnuggets.com/how-to-build-a-simple-ai-web-scraper-with-python)
