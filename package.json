@@ -13,7 +13,7 @@
   "dependencies": {
     "@iconify-json/fa6-brands": "^1.2.6",
     "@iconify-json/fa6-solid": "^1.2.4",
-    "astro": "^7.3.2",
+    "astro": "^7.4.12",
     "astro-icon": "^1.1.5",
     "gray-matter": "^4.0.3",
     "marked": "^15.0.0"
@@ -24,6 +24,8 @@
     "typescript": "^5.8.3"
   },
   "overrides": {
-    "devalue": "^5.9.3"
+    "devalue": "^6.0.3",
+    "fast-uri": "^3.1.9",
+    "undici": "^8.12.4"
   }
 }
