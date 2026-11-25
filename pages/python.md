@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Python.
 
 ## Articles
 
+- [Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep](https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep)
+- [Extract Structured Web Data with Python and Olostep](https://huggingface.co/blog/kingabzpro/olostep-llm-extract)
 - [13 Best Web Scraping Tools in 2026](https://www.firecrawl.dev/blog/best-web-scraping-tools)
 - [How to Monitor Any Website for Changes with Olostep](https://www.olostep.com/blog/how-to-monitor-any-website-for-changes-with-olostep)
 - [Top 15 Python Frameworks for Building Complete Agentic AI Applications](https://www.datacamp.com/blog/top-python-frameworks-for-agentic-ai)

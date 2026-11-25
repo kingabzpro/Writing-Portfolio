@@ -9,6 +9,13 @@ A collection of resources, tutorials, and articles about Artificial Intelligence
 
 ## Articles
 
+- [7 Most Downloaded AI Models on Hugging Face](https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face)
+- [Decision AI Explained in 5 Minutes](https://www.kdnuggets.com/decision-ai-explained-in-5-minutes)
+- [Qwen4-Max Tutorial: Build a Legal Notice Analyzer](https://www.datacamp.com/tutorial/qwen4-max-tutorial)
+- [Top 10 Open-Source AI Agent Harnesses in 2026](https://www.datacamp.com/blog/top-open-source-ai-agent-harnesses)
+- [Google’s Harness² Tutorial: Build and Test Self-Improving AI Agents with OpenCode and DeepSeek](https://www.datacamp.com/tutorial/google-harness-2-tutorial)
+- [How to Give Your AI Agent Memory](https://www.kdnuggets.com/how-to-give-your-ai-agent-memory)
+- [vLLM D3 Tutorial: Run AI Decision Models Locally with Python](https://www.datacamp.com/tutorial/vllm-d3-tutorial)
 - [Meta Muse Wonder Tutorial: Build a Medical Claim Checker With Python](https://www.datacamp.com/tutorial/meta-muse-wonder-tutorial)
 - [How to Build an AI Stock Signal Analyzer With Olostep and TypeSafe Jev](https://www.olostep.com/blog/ai-stock-signal-analyzer-olostep-typesafe-jev)
 - [Building Your First AI Agent in Python with the OpenAI Agents SDK](https://www.kdnuggets.com/building-your-first-ai-agent-in-python-with-the-openai-agents-sdk)

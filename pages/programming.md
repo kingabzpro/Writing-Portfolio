@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Programming.
 
 ## Articles
 
+- [7 Best AI Coding Plans for $10 or Less in 2026](https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026)
+- [Oh My Pi Tutorial: Build a Full App With Grok as Your Coding Agent](https://www.datacamp.com/tutorial/oh-my-pi-tutorial)
 - [Tech Stack for Vibe Coding Modern Applications](https://www.kdnuggets.com/tech-stack-for-vibe-coding-modern-applications)
 - [5 Android Apps for Code Editing](https://www.kdnuggets.com/5-android-apps-for-code-editing)
 - [Top 7 Coding Plans for Vibe Coding](https://www.kdnuggets.com/top-7-coding-plans-for-vibe-coding)

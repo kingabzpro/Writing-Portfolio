@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Natural Language Proces
 
 ## Articles
 
+- [Top 10 Open Source AI Audio Models in 2026](https://www.datacamp.com/blog/top-open-source-ai-audio-models)
 - [How to Run Local Speech-to-Text on CPU with VibeASR.cpp](https://www.datacamp.com/tutorial/how-to-run-local-speech-to-text-on-cpu-with-vibeasr-cpp)
 - [Getting Started with Zero-Shot Text Classification](https://machinelearningmastery.com/getting-started-with-zero-shot-text-classification/)
 - [Top 5 Text-to-Speech Open Source Models](https://www.kdnuggets.com/top-5-text-to-speech-open-source-models)

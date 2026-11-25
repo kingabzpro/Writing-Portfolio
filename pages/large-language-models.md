@@ -4,6 +4,8 @@ A collection of resources, tutorials, and articles about Large Language Models (
 
 ## Articles
 
+- [How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio](https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio)
+- [How to Run Qwen3.8-Flash-Next Locally for Fast AI Coding on Your Gaming PC](https://www.datacamp.com/tutorial/how-to-run-qwen3-8-flash-next-locally)
 - [Can This Open-Source Model Beat AI Detectors? Let’s Test It Locally](https://www.kdnuggets.com/can-this-open-source-model-beat-ai-detectors-lets-test-it-locally)
 - [KTransformers Tutorial: Run GLM-5.3-Flash Locally](https://www.datacamp.com/tutorial/ktransformers-tutorial)
 - [Running LLMs Locally Does Not Mean Your Data Is Safe: What Cohere’s Study Reveals](https://www.kdnuggets.com/running-llms-locally-does-not-mean-your-data-is-safe-what-coheres-study-reveals)

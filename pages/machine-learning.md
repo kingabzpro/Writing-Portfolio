@@ -4,6 +4,7 @@ A collection of resources, tutorials, and articles about Machine Learning (ML).
 
 ## Articles
 
+- [How to Run Mistral Timestral Locally for Time Series Forecasting](https://www.datacamp.com/tutorial/how-to-run-mistral-timestral-locally)
 - [7 Machine Learning Algorithms That Still Matter](https://www.kdnuggets.com/7-machine-learning-algorithms-that-still-matter)
 - [10 Best AutoML Frameworks for Python and No-Code Users](https://www.datacamp.com/blog/best-automl-frameworks)
 - [5 Time Series Foundation Models You Are Missing Out On](https://www.kdnuggets.com/5-time-series-foundation-models-you-are-missing-out-on)

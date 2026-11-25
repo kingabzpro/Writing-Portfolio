@@ -912,6 +912,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "7 Best AI Coding Plans for $10 or Less in 2026",
+    "url": "https://www.kdnuggets.com/7-best-ai-coding-plans-for-10-or-less-in-2026",
+    "category": "Programming",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "7 Best Chrome Extensions for Agentic AI",
     "url": "https://www.kdnuggets.com/7-best-chrome-extensions-for-agentic-ai",
     "category": "Artificial Intelligence (AI)",
@@ -1095,6 +1101,12 @@
     "title": "7 Modern SQL Databases You Must Know in 2024",
     "url": "https://www.kdnuggets.com/7-modern-sql-database-you-must-know-in-2024",
     "category": "Data Engineering",
+    "publication": "KDnuggets"
+  },
+  {
+    "title": "7 Most Downloaded AI Models on Hugging Face",
+    "url": "https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face",
+    "category": "Artificial Intelligence (AI)",
     "publication": "KDnuggets"
   },
   {
@@ -1782,6 +1794,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Decision AI Explained in 5 Minutes",
+    "url": "https://www.kdnuggets.com/decision-ai-explained-in-5-minutes",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "Deep learning model to predict mRNA Degradation",
     "url": "https://www.analyticsvidhya.com/blog/2021/09/deep-learning-model-to-predict-mrna-degradation",
     "category": "Machine Learning (ML)",
@@ -1954,6 +1972,12 @@
     "url": "https://machinelearningmastery.com/export-your-ml-model-in-onnx-format/",
     "category": "Machine Learning (ML)",
     "publication": "Machinelearningmastery"
+  },
+  {
+    "title": "Extract Structured Web Data with Python and Olostep",
+    "url": "https://huggingface.co/blog/kingabzpro/olostep-llm-extract",
+    "category": "Python",
+    "publication": "Huggingface"
   },
   {
     "title": "Fine Tuning Google Gemma: Enhancing LLMs with Customized Instructions",
@@ -2382,6 +2406,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Google’s Harness² Tutorial: Build and Test Self-Improving AI Agents with OpenCode and DeepSeek",
+    "url": "https://www.datacamp.com/tutorial/google-harness-2-tutorial",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Gradient Checkpointing: Efficient Fine-Tuning with Unsloth and NVIDIA",
     "url": "https://www.datacamp.com/tutorial/gradient-checkpointing",
     "category": "Large Language Models (LLMs)",
@@ -2622,6 +2652,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "How to Give Your AI Agent Memory",
+    "url": "https://www.kdnuggets.com/how-to-give-your-ai-agent-memory",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "How to Learn AI the Lazy Way",
     "url": "https://www.kdnuggets.com/how-to-learn-ai-the-lazy-way",
     "category": "Career Advice",
@@ -2706,6 +2742,12 @@
     "publication": "DataCamp"
   },
   {
+    "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio",
+    "url": "https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio",
+    "category": "Large Language Models (LLMs)",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "How to Run Kimi K2 Locally: Complete Setup & Troubleshooting",
     "url": "https://www.datacamp.com/tutorial/run-kimi-k2-locally",
     "category": "Large Language Models (LLMs)",
@@ -2739,6 +2781,12 @@
     "title": "How to Run MiniMax M3 Locally: Multi-GPU Setup with llama.cpp and Pi Agent",
     "url": "https://www.datacamp.com/tutorial/how-to-run-minimax-m3-locally",
     "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "How to Run Mistral Timestral Locally for Time Series Forecasting",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-mistral-timestral-locally",
+    "category": "Machine Learning (ML)",
     "publication": "DataCamp"
   },
   {
@@ -2786,6 +2834,12 @@
   {
     "title": "How to Run Qwen3.8-Flash-Next Locally as a Coding Agent with OpenCode",
     "url": "https://www.datacamp.com/tutorial/run-qwen3-8-flash-next-locally",
+    "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "How to Run Qwen3.8-Flash-Next Locally for Fast AI Coding on Your Gaming PC",
+    "url": "https://www.datacamp.com/tutorial/how-to-run-qwen3-8-flash-next-locally",
     "category": "Large Language Models (LLMs)",
     "publication": "DataCamp"
   },
@@ -3210,6 +3264,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Oh My Pi Tutorial: Build a Full App With Grok as Your Coding Agent",
+    "url": "https://www.datacamp.com/tutorial/oh-my-pi-tutorial",
+    "category": "Programming",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Open Assistant: Explore the Possibilities of Open and Collaborative Chatbot Development",
     "url": "https://www.kdnuggets.com/2023/04/open-assistant-explore-possibilities-open-collaborative-chatbot-development.html",
     "category": "Large Language Models (LLMs)",
@@ -3393,6 +3453,12 @@
     "title": "Quantization Aware Training: A Guide to Improving Gemma 4's Local Inference",
     "url": "https://www.datacamp.com/tutorial/quantization-aware-training",
     "category": "Large Language Models (LLMs)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "Qwen4-Max Tutorial: Build a Legal Notice Analyzer",
+    "url": "https://www.datacamp.com/tutorial/qwen4-max-tutorial",
+    "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
   },
   {
@@ -4050,6 +4116,18 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Top 10 Open Source AI Audio Models in 2026",
+    "url": "https://www.datacamp.com/blog/top-open-source-ai-audio-models",
+    "category": "Natural Language Processing (NLP)",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "Top 10 Open-Source AI Agent Harnesses in 2026",
+    "url": "https://www.datacamp.com/blog/top-open-source-ai-agent-harnesses",
+    "category": "Artificial Intelligence (AI)",
+    "publication": "DataCamp"
+  },
+  {
     "title": "Top 10 Tools for Detecting ChatGPT, GPT-4, Bard, and Claude",
     "url": "https://www.kdnuggets.com/2023/05/top-10-tools-detecting-chatgpt-gpt4-bard-llms.html",
     "category": "Artificial Intelligence (AI)",
@@ -4626,6 +4704,12 @@
     "publication": "KDnuggets"
   },
   {
+    "title": "Web Scraping 7,000 Pages in 3 Minutes with Python and Olostep",
+    "url": "https://www.kdnuggets.com/web-scraping-7000-pages-in-3-minutes-with-python-and-olostep",
+    "category": "Python",
+    "publication": "KDnuggets"
+  },
+  {
     "title": "What Everyone Is Getting Wrong About TypeSafe AI’s Jev",
     "url": "https://www.kdnuggets.com/what-everyone-is-getting-wrong-about-typesafe-ais-jev",
     "category": "Artificial Intelligence (AI)",
@@ -4803,6 +4887,12 @@
     "title": "Windsurf AI Agentic Code Editor: Features, Setup, and Use Cases",
     "url": "https://www.datacamp.com/tutorial/windsurf-ai-agentic-code-editor",
     "category": "Programming",
+    "publication": "DataCamp"
+  },
+  {
+    "title": "vLLM D3 Tutorial: Run AI Decision Models Locally with Python",
+    "url": "https://www.datacamp.com/tutorial/vllm-d3-tutorial",
+    "category": "Artificial Intelligence (AI)",
     "publication": "DataCamp"
   }
 ]
