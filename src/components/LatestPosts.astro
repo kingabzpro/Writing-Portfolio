@@ -28,7 +28,7 @@ function formatDate(value: string): string {
 }
 ---
 
-<section class="home-section" aria-labelledby="latest-posts-title">
+<section class="home-section latest-section" aria-labelledby="latest-posts-title">
   <h2 id="latest-posts-title">Latest Posts</h2>
   {
     latest.length === 0 ? (
@@ -44,7 +44,7 @@ function formatDate(value: string): string {
           const loading = lead ? "eager" : "lazy";
           return (
             <li class:list={{ "latest-lead": lead }}>
-              <a class="latest-story" href={item.url} target="_blank" rel="noreferrer">
+              <a class:list={["latest-story", { "supporting-story": !lead }]} href={item.url} target="_blank" rel="noreferrer">
                 {cover && (
                   <div class="story-media">
                     {typeof cover === "string" ? (
@@ -56,7 +56,7 @@ function formatDate(value: string): string {
                         class={imageClass}
                         format="webp"
                         widths={lead ? [400, 640, 880] : [96, 160, 240]}
-                        sizes={lead ? "(max-width: 720px) 85vw, (max-width: 980px) 52vw, 460px" : "(max-width: 720px) 76px, 108px"}
+                        sizes={lead ? "(max-width: 1100px) 85vw, 460px" : "(max-width: 520px) 35vw, 185px"}
                         loading={loading}
                         decoding="async"
                       />
@@ -82,6 +82,10 @@ function formatDate(value: string): string {
 </section>
 
 <style>
+  .latest-section {
+    container-type: inline-size;
+  }
+
   .latest-stories {
     display: grid;
     gap: 0.65rem;
@@ -97,21 +101,26 @@ function formatDate(value: string): string {
     gap: 0.75rem;
     height: 100%;
     padding: 0.65rem;
-    border: 1px solid var(--border);
+    border: 1px solid var(--hero-border);
     border-radius: var(--radius-md);
-    background: var(--card);
+    background: var(--card-soft);
     text-decoration: none;
   }
 
-  .latest-stories > li:not(.latest-lead) .latest-story:has(.story-media) {
-    grid-template-columns: minmax(0, 108px) minmax(0, 1fr);
+  .supporting-story {
+    align-items: center;
+  }
+
+  .supporting-story:has(.story-media) {
+    grid-template-columns: minmax(0, clamp(6rem, 43%, 11.5rem)) minmax(0, 1fr);
+    gap: 0;
+    padding: 0;
   }
 
   .latest-lead .latest-story {
     padding: 0;
     gap: 0;
     align-content: start;
-    background: var(--card-soft);
   }
 
   .latest-lead .story-copy {
@@ -119,10 +128,20 @@ function formatDate(value: string): string {
   }
 
   .story-media {
-    padding: 0.28rem;
-    border: 1px solid var(--hero-border);
-    border-radius: 8px;
     background: var(--hero-gradient), var(--card-soft);
+  }
+
+  .supporting-story .story-media {
+    position: relative;
+    align-self: stretch;
+    min-block-size: 5.5rem;
+    overflow: hidden;
+    border-inline-end: 1px solid var(--hero-border);
+    border-radius: calc(var(--radius-md) - 1px) 0 0 calc(var(--radius-md) - 1px);
+  }
+
+  .supporting-story .story-media + .story-copy {
+    padding: 0.65rem clamp(0.55rem, 1.6cqi, 0.85rem);
   }
 
   .latest-lead .story-media {
@@ -139,17 +158,25 @@ function formatDate(value: string): string {
     object-fit: contain;
     display: block;
     background: var(--card);
-  }
-
-  .latest-lead-cover {
-    aspect-ratio: 16 / 9;
     border-radius: 7px;
     box-shadow: 0 2px 7px var(--bg-blob-1);
   }
 
+  .latest-lead-cover {
+    aspect-ratio: 16 / 9;
+  }
+
   .latest-thumbnail {
-    aspect-ratio: 16 / 10;
-    border-radius: 4px;
+    --frame-inset: clamp(0.35rem, 1.4cqi, 0.75rem);
+    position: absolute;
+    inset: var(--frame-inset);
+    width: calc(100% - 2 * var(--frame-inset));
+    height: calc(100% - 2 * var(--frame-inset));
+    object-fit: cover;
+  }
+
+  .latest-thumbnail[src$="/qwen-strata-monitor.webp"] {
+    object-position: left center;
   }
 
   .story-copy h3 {
@@ -185,11 +212,7 @@ function formatDate(value: string): string {
     white-space: nowrap;
   }
 
-  @media (min-width: 721px) {
-    .latest-stories > li:not(.latest-lead) .latest-story {
-      align-items: center;
-    }
-
+  @container (min-width: 41rem) {
     .has-supporting-stories {
       grid-template-columns: minmax(0, 1.28fr) minmax(0, 1fr);
     }
@@ -200,12 +223,6 @@ function formatDate(value: string): string {
 
     .latest-lead:has(+ li:last-child) {
       grid-row: auto;
-    }
-  }
-
-  @media (max-width: 720px) {
-    .latest-stories > li:not(.latest-lead) .latest-story:has(.story-media) {
-      grid-template-columns: minmax(0, 76px) minmax(0, 1fr);
     }
   }
 
