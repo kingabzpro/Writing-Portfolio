@@ -99,6 +99,26 @@ def write_json(path: Path, data: object) -> None:
     path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
 
 
+def read_latest_image_urls(path: Path) -> Dict[str, str]:
+    """Keep manually assigned image URLs when their articles are still recent."""
+    try:
+        entries = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    if not isinstance(entries, list):
+        return {}
+
+    image_urls = {}
+    for entry in entries:
+        if not isinstance(entry, dict):
+            continue
+        url = entry.get("url")
+        image_url = entry.get("imageUrl")
+        if isinstance(url, str) and isinstance(image_url, str) and image_url.strip():
+            image_urls[url] = image_url.strip()
+    return image_urls
+
+
 def _run_git(args: List[str]) -> str | None:
     try:
         completed = subprocess.run(["git"] + args, cwd=str(ROOT), capture_output=True, text=True, check=True)
@@ -191,6 +211,10 @@ def main() -> int:
     latest = build_latest_from_git(since_days=365, top_n=3)
     if latest is None:
         latest = []
+    image_urls = read_latest_image_urls(LATEST_JSON)
+    for entry in latest:
+        if entry["url"] in image_urls:
+            entry["imageUrl"] = image_urls[entry["url"]]
     write_json(LATEST_JSON, latest)
     print(f"Wrote {LATEST_JSON} with {len(latest)} items")
 

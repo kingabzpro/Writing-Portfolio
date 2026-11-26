@@ -1,60 +1,222 @@
 ---
 import fs from "node:fs/promises";
 import path from "node:path";
+import { Image } from "astro:assets";
+import { coversForArticles } from "../lib/portfolio-covers";
 import type { LatestEntry } from "../types/content";
 
 const latestPath = path.resolve(process.cwd(), "public/assets/data/latest.json");
-
 let latest: LatestEntry[] = [];
 try {
-  const raw = await fs.readFile(latestPath, "utf-8");
-  const parsed = JSON.parse(raw);
-  if (Array.isArray(parsed)) {
-    latest = parsed.slice(0, 3);
-  }
+  const parsed = JSON.parse(await fs.readFile(latestPath, "utf-8"));
+  if (Array.isArray(parsed)) latest = parsed.slice(0, 3);
 } catch {
   latest = [];
 }
 
+const covers = latest.length ? await coversForArticles() : new Map();
+const dateFormatter = new Intl.DateTimeFormat("en-US", {
+  year: "numeric",
+  month: "short",
+  day: "2-digit",
+  timeZone: "UTC"
+});
+
 function formatDate(value: string): string {
-  if (!value) return "";
   const date = new Date(value);
-  if (Number.isNaN(date.getTime())) return value;
-  return date.toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "short",
-    day: "2-digit"
-  });
+  return Number.isNaN(date.getTime()) ? value : dateFormatter.format(date);
 }
 ---
 
-<section class="home-section">
-  <h2>Latest Posts</h2>
+<section class="home-section" aria-labelledby="latest-posts-title">
+  <h2 id="latest-posts-title">Latest Posts</h2>
   {
     latest.length === 0 ? (
       <p>No recent posts.</p>
     ) : (
-      <ul class="latest-list">
-        {latest.map((item) => (
-          <li class="latest-item">
-            <span class="latest-dot" aria-hidden="true"></span>
-            <a
-              class="latest-link"
-              href={item.url}
-              target="_blank"
-              rel="noreferrer"
-            >
-              {item.title}
-            </a>
-            {item.publication ? (
-              <span class="publication-tag">{item.publication}</span>
-            ) : null}
-            {item.date ? (
-              <span class="latest-date">{formatDate(item.date)}</span>
-            ) : null}
-          </li>
-        ))}
+      <ul class:list={["latest-stories", { "has-supporting-stories": latest.length > 1 }]}>
+        {latest.map((item, index) => {
+          const imageUrl = typeof item.imageUrl === "string" ? item.imageUrl.trim() : "";
+          const hasImageUrl = /^(?:https:\/\/[^/\s]|\/(?![\/\\]))/i.test(imageUrl);
+          const cover = hasImageUrl ? imageUrl : covers.get(item.url);
+          const lead = index === 0;
+          const imageClass = lead ? "latest-lead-cover" : "latest-thumbnail";
+          const loading = lead ? "eager" : "lazy";
+          return (
+            <li class:list={{ "latest-lead": lead }}>
+              <a class="latest-story" href={item.url} target="_blank" rel="noreferrer">
+                {cover && (
+                  <div class="story-media">
+                    {typeof cover === "string" ? (
+                      <img src={cover} alt="" class={imageClass} loading={loading} decoding="async" />
+                    ) : (
+                      <Image
+                        src={cover}
+                        alt=""
+                        class={imageClass}
+                        format="webp"
+                        widths={lead ? [400, 640, 880] : [96, 160, 240]}
+                        sizes={lead ? "(max-width: 720px) 85vw, (max-width: 980px) 52vw, 460px" : "(max-width: 720px) 76px, 108px"}
+                        loading={loading}
+                        decoding="async"
+                      />
+                    )}
+                  </div>
+                )}
+                <div class="story-copy">
+                  <h3>{item.title}</h3>
+                  {(item.publication || item.date) && (
+                    <div class="story-meta">
+                      {item.publication && <span class="publication-tag">{item.publication}</span>}
+                      {item.date && <time datetime={item.date}>{formatDate(item.date)}</time>}
+                    </div>
+                  )}
+                </div>
+              </a>
+            </li>
+          );
+        })}
       </ul>
     )
   }
 </section>
+
+<style>
+  .latest-stories {
+    display: grid;
+    gap: 0.65rem;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+  }
+
+  .latest-story {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    align-items: start;
+    gap: 0.75rem;
+    height: 100%;
+    padding: 0.65rem;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--card);
+    text-decoration: none;
+  }
+
+  .latest-stories > li:not(.latest-lead) .latest-story:has(.story-media) {
+    grid-template-columns: minmax(0, 108px) minmax(0, 1fr);
+  }
+
+  .latest-lead .latest-story {
+    padding: 0;
+    gap: 0;
+    align-content: start;
+    background: var(--card-soft);
+  }
+
+  .latest-lead .story-copy {
+    padding: 0.85rem 1rem 0.95rem;
+  }
+
+  .story-media {
+    padding: 0.28rem;
+    border: 1px solid var(--hero-border);
+    border-radius: 8px;
+    background: var(--hero-gradient), var(--card-soft);
+  }
+
+  .latest-lead .story-media {
+    padding: clamp(0.55rem, 1.4vw, 1.15rem);
+    border: 0;
+    border-block-end: 1px solid var(--hero-border);
+    border-radius: calc(var(--radius-md) - 1px) calc(var(--radius-md) - 1px) 0 0;
+  }
+
+  .latest-lead-cover,
+  .latest-thumbnail {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    background: var(--card);
+  }
+
+  .latest-lead-cover {
+    aspect-ratio: 16 / 9;
+    border-radius: 7px;
+    box-shadow: 0 2px 7px var(--bg-blob-1);
+  }
+
+  .latest-thumbnail {
+    aspect-ratio: 16 / 10;
+    border-radius: 4px;
+  }
+
+  .story-copy h3 {
+    color: var(--ink-950);
+    font-size: 0.98rem;
+    line-height: 1.42;
+    margin: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .latest-lead h3 {
+    font-size: clamp(1.08rem, 1.5vw, 1.35rem);
+    line-height: 1.35;
+  }
+
+  .latest-story:hover h3,
+  .latest-story:focus-visible h3 {
+    text-decoration: underline;
+    text-underline-offset: 0.17em;
+  }
+
+  .story-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.25rem 0.5rem;
+    margin-top: 0.4rem;
+    color: var(--ink-500);
+    font-size: 0.8rem;
+  }
+
+  .story-meta time {
+    white-space: nowrap;
+  }
+
+  @media (min-width: 721px) {
+    .latest-stories > li:not(.latest-lead) .latest-story {
+      align-items: center;
+    }
+
+    .has-supporting-stories {
+      grid-template-columns: minmax(0, 1.28fr) minmax(0, 1fr);
+    }
+
+    .latest-lead {
+      grid-row: span 2;
+    }
+
+    .latest-lead:has(+ li:last-child) {
+      grid-row: auto;
+    }
+  }
+
+  @media (max-width: 720px) {
+    .latest-stories > li:not(.latest-lead) .latest-story:has(.story-media) {
+      grid-template-columns: minmax(0, 76px) minmax(0, 1fr);
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) and (hover: hover) {
+    .latest-story {
+      transition: transform 150ms ease, border-color 150ms ease;
+    }
+
+    .latest-story:hover {
+      transform: translateY(-2px);
+      border-color: var(--border-strong);
+    }
+  }
+</style>

@@ -5,13 +5,16 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import LatestPosts from "../components/LatestPosts.astro";
 import SearchPanel from "../components/SearchPanel.astro";
 import SocialLinks from "../components/SocialLinks.astro";
-import { Icon } from "astro-icon/components";
+import CategoryIcon from "../components/CategoryIcon.astro";
+import { Image } from "astro:assets";
+import { topicCovers } from "../lib/portfolio-covers";
 import { SITE } from "../lib/seo";
 import authorImage from "../assets/images/author.jpg";
 import type { ContentData } from "../types/content";
 
 const contentDataPath = path.resolve(process.cwd(), "public/assets/data/content.json");
 const contentData = JSON.parse(await fs.readFile(contentDataPath, "utf-8")) as ContentData;
+const topicCover = (link: string) => topicCovers.get(link.replace(/^pages\//, ""));
 const pagesDir = path.resolve(process.cwd(), "pages");
 const articleLinkPattern = /-\s*\[(.*?)\]\((https?:\/\/[^)\s]+)\)/g;
 
@@ -105,16 +108,28 @@ const homeStructuredData = {
 
   <section class="home-section">
     <h2>Author Expertise</h2>
-    <div class="content-grid">
+    <div class="content-grid illustrated-topics">
       {
         contentData.expertise.map((item) => (
-          <article class="content-card expertise-card">
-            <h3>
-              <Icon name={item.icon} />
-              <span>{item.title}</span>
-            </h3>
-            <p>{item.description}</p>
-            <a href={`/${item.link}/`} class="inline-link">Read {item.title} guides</a>
+          <article class="illustrated-topic">
+            <a href={"/" + item.link + "/"}>
+              {topicCover(item.link) && (
+                <Image
+                  src={topicCover(item.link)!}
+                  alt=""
+                  class="expertise-cover"
+                  format="webp"
+                  widths={[240, 420, 640]}
+                  sizes="(max-width: 560px) 86px, (max-width: 980px) 28vw, 260px"
+                  loading="lazy"
+                  decoding="async"
+                />
+              )}
+              <div class="expertise-copy">
+                <h3><CategoryIcon slug={item.link.replace(/^pages\//, "")} />{item.title}</h3>
+                <p>{item.description}</p>
+              </div>
+            </a>
           </article>
         ))
       }
@@ -126,7 +141,9 @@ const homeStructuredData = {
     <div class="topics-grid">
       {
         popularTopics.map((topic) => (
-          <a href={`/${topic.link}/`} class="topic-btn">{topic.title}</a>
+          <a href={`/${topic.link}/`} class="topic-btn">
+            <span class="topic-label"><CategoryIcon slug={topic.link.replace(/^pages\//, "")} />{topic.title}</span>
+          </a>
         ))
       }
     </div>
@@ -159,3 +176,97 @@ const homeStructuredData = {
     <SocialLinks items={contentData.social} />
   </section>
 </BaseLayout>
+
+<style>
+  .illustrated-topics {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75rem;
+  }
+
+  .illustrated-topic a {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    align-content: start;
+    height: 100%;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--card);
+    color: var(--ink-950);
+    text-decoration: none;
+  }
+
+  .expertise-cover {
+    display: block;
+    width: 100%;
+    height: auto;
+    aspect-ratio: 2;
+    object-fit: cover;
+    border-radius: calc(var(--radius-md) - 1px) calc(var(--radius-md) - 1px) 0 0;
+  }
+
+  .expertise-copy {
+    padding: 0.8rem 0.9rem 0.9rem;
+  }
+
+  .expertise-copy h3 {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin: 0 0 0.35rem;
+    font-size: 1.02rem;
+    overflow-wrap: anywhere;
+  }
+
+  .topic-label {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+  }
+
+  .expertise-copy p {
+    margin: 0;
+    color: var(--ink-800);
+    font-size: 0.87rem;
+    line-height: 1.5;
+  }
+
+  .illustrated-topic a:hover h3,
+  .illustrated-topic a:focus-visible h3 {
+    text-decoration: underline;
+    text-underline-offset: 0.17em;
+  }
+
+  @media (max-width: 560px) {
+    .illustrated-topics {
+      grid-template-columns: minmax(0, 1fr);
+    }
+
+    .illustrated-topic a:has(.expertise-cover) {
+      grid-template-columns: 86px minmax(0, 1fr);
+      align-content: center;
+      align-items: center;
+    }
+
+    .expertise-cover {
+      margin-inline-start: 0.5rem;
+      width: calc(100% - 0.5rem);
+      aspect-ratio: 1.2;
+      border-radius: 7px;
+    }
+
+    .expertise-copy {
+      padding: 0.68rem 0.7rem;
+    }
+  }
+
+  @media (prefers-reduced-motion: no-preference) and (hover: hover) {
+    .illustrated-topic a {
+      transition: transform 150ms ease, border-color 150ms ease;
+    }
+
+    .illustrated-topic a:hover {
+      transform: translateY(-2px);
+      border-color: var(--border-strong);
+    }
+  }
+</style>
