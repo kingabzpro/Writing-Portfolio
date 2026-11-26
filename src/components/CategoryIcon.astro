@@ -1,0 +1,46 @@
+---
+import { Icon } from "astro-icon/components";
+
+interface Props {
+  slug: string;
+}
+
+const iconNames = new Map([
+  ["artificial-intelligence", "brain-circuit"],
+  ["large-language-models", "messages-square"],
+  ["career-advice", "briefcase-business"],
+  ["machine-learning", "chart-scatter"],
+  ["data-science", "chart-no-axes-combined"],
+  ["python", "file-code"],
+  ["machine-learning-operations", "workflow"],
+  ["programming", "code-xml"],
+  ["cheat-sheets", "clipboard-list"],
+  ["data-engineering", "server"],
+  ["computer-vision", "scan-eye"],
+  ["natural-language-processing", "scan-text"],
+  ["sql", "database"],
+  ["books-by-abid", "book-open"]
+]);
+
+const icon = iconNames.get(Astro.props.slug);
+---
+
+{icon && (
+  <span class="category-icon" data-category-icon={Astro.props.slug} aria-hidden="true">
+    <Icon name={`category-${icon}`} size={17} focusable="false" />
+  </span>
+)}
+
+<style>
+  .category-icon {
+    display: inline-grid;
+    place-items: center;
+    flex: none;
+    inline-size: 1.65rem;
+    block-size: 1.65rem;
+    border: 1px solid var(--hero-border);
+    border-radius: 7px;
+    background: var(--hero-gradient);
+    color: var(--link-color);
+  }
+</style>

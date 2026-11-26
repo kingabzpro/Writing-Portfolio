@@ -1,6 +1,7 @@
 ---
 import fs from "node:fs/promises";
 import path from "node:path";
+import CategoryIcon from "./CategoryIcon.astro";
 
 const PAGES_DIR = path.resolve(process.cwd(), "pages");
 const articleLinkPattern = /-\s*\[(.*?)\]\((https?:\/\/[^)\s]+)\)/g;
@@ -127,6 +128,7 @@ const publications = await countPublications();
       categories.map((item) => (
         <li>
           <a href={item.href}>
+            <CategoryIcon slug={item.slug} />
             <span class="sidebar-label">{item.label}</span>
             {item.articleCount > 0 ? (
               <span class="sidebar-count" aria-label={`${item.articleCount} articles`}>

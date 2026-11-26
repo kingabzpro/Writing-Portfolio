@@ -30,6 +30,7 @@ export interface LatestEntry {
   url: string;
   date: string;
   publication?: string;
+  imageUrl?: string;
 }
 
 export interface PortfolioPage {

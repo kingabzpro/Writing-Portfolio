@@ -3,18 +3,21 @@
     "title": "How to Run Inkling 2 Mini Locally on an RTX 3090 Using Unsloth Studio",
     "url": "https://www.kdnuggets.com/how-to-run-inkling-2-mini-locally-on-an-rtx-3090-using-unsloth-studio",
     "date": "2026-11-24",
-    "publication": "KDnuggets"
+    "publication": "KDnuggets",
+    "imageUrl": "/assets/images/latest/inkling-kdnuggets.webp"
   },
   {
     "title": "7 Most Downloaded AI Models on Hugging Face",
     "url": "https://www.kdnuggets.com/7-most-downloaded-ai-models-on-hugging-face",
     "date": "2026-11-24",
-    "publication": "KDnuggets"
+    "publication": "KDnuggets",
+    "imageUrl": "/assets/images/latest/hugging-face-kdnuggets.webp"
   },
   {
     "title": "How to Run Qwen3.8-Flash-Next Locally for Fast AI Coding on Your Gaming PC",
     "url": "https://www.datacamp.com/tutorial/how-to-run-qwen3-8-flash-next-locally",
     "date": "2026-11-24",
-    "publication": "DataCamp"
+    "publication": "DataCamp",
+    "imageUrl": "/assets/images/latest/qwen-datacamp.webp"
   }
 ]
